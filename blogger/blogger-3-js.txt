@@ -1,0 +1,109 @@
+  <!-- 全球新聞脈動：不使用 API Key。資料來源二選一：
+       A) NEWS_URL 填入 news-data.json 的公開網址（例如 GitHub Pages），會自動讀取最新資料
+       B) NEWS_URL 留空，改用 blogger-4-data.txt 貼進版型的內嵌資料（需手動更新） -->
+  <script type='text/javascript'>
+//<![CDATA[
+(function () {
+  var NEWS_URL = '';
+  var REFRESH_MS = 30 * 60 * 1000;
+
+  var list = document.getElementById('npList');
+  if (!list) { return; }
+  var tabs = document.getElementById('npTabs'), stamp = document.getElementById('npUpdated');
+  var card = document.getElementById('npCard');
+  var CATS = [['all', '全部'], ['pol', '國際政治'], ['tech', '科技趨勢'], ['fin', '財經金融']];
+  var names = { pol: '國際政治', tech: '科技趨勢', fin: '財經金融' };
+  var cur = 'all', data = [], shown = [];
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) { e.className = cls; }
+    if (text != null) { e.textContent = text; }
+    return e;
+  }
+  function ago(iso) {
+    var m = Math.max(1, Math.round((Date.now() - Date.parse(iso)) / 60000));
+    if (m < 60) { return m + ' 分鐘前'; }
+    if (m < 1440) { return Math.floor(m / 60) + ' 小時前'; }
+    return Math.floor(m / 1440) + ' 天前';
+  }
+  function openExt(u) {
+    if (!/^https?:\/\//.test(u || '')) { return; }
+    var a = document.createElement('a');
+    a.href = u; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    document.body.appendChild(a); a.click(); a.remove();
+  }
+
+  function drawTabs() {
+    tabs.textContent = '';
+    CATS.forEach(function (c) {
+      var n = data.filter(function (a) { return c[0] === 'all' || a.c === c[0]; }).length;
+      var b = el('button', c[0] === cur ? 'on' : '', c[1] + ' ' + n);
+      b.type = 'button';
+      b.addEventListener('click', function () { cur = c[0]; draw(); });
+      tabs.appendChild(b);
+    });
+  }
+
+  /* 摘要卡：先顯示摘要，使用者按「閱讀全文」才開外部連結 */
+  function openCard(a) {
+    document.getElementById('npcTag').textContent = names[a.c] || '新聞';
+    document.getElementById('npcMeta').textContent = a.s + ' · ' + ago(a.p);
+    document.getElementById('npcT').textContent = a.t;
+    document.getElementById('npcO').textContent = (a.o && a.o !== a.t) ? '原標題：' + a.o : '';
+    var ul = document.getElementById('npcP');
+    ul.textContent = '';
+    (a.b || '').split(/(?<=[。！？])/).forEach(function (s) {
+      s = s.trim();
+      if (s) { var li = el('li'); li.appendChild(el('span', '', s)); ul.appendChild(li); }
+    });
+    document.getElementById('npcS').textContent = '摘要由 Claude 整理，僅供參考';
+    card.setAttribute('data-u', a.u || '');
+    if (card.showModal) { card.showModal(); } else { card.setAttribute('open', ''); }
+  }
+  document.getElementById('npcX').addEventListener('click', function () { card.close(); });
+  card.addEventListener('click', function (e) { if (e.target === card) { card.close(); } });
+  document.getElementById('npcGo').addEventListener('click', function () { openExt(card.getAttribute('data-u')); });
+
+  function draw() {
+    drawTabs();
+    shown = data.filter(function (a) { return cur === 'all' || a.c === cur; });
+    list.textContent = '';
+    if (!shown.length) { list.appendChild(el('div', 'np-empty', '目前沒有新聞。')); return; }
+    shown.forEach(function (a) {
+      var row = el('button', 'np-row');
+      row.type = 'button';
+      var meta = el('span', 'np-meta');
+      meta.appendChild(el('span', 'np-tag', names[a.c] || '新聞'));
+      meta.appendChild(el('span', '', a.s));
+      meta.appendChild(el('span', '', ago(a.p)));
+      row.appendChild(meta);
+      row.appendChild(el('span', 'np-title', a.t));
+      row.addEventListener('click', function () { openCard(a); });
+      list.appendChild(row);
+    });
+  }
+
+  function apply(j) {
+    data = (j.items || []).slice().sort(function (x, y) { return Date.parse(y.p) - Date.parse(x.p); });
+    stamp.textContent = '更新於 ' + new Date(j.updated).toLocaleString('zh-TW', { hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+    draw();
+  }
+  function load() {
+    if (!NEWS_URL) {
+      if (window.NEWS_DATA) { apply(window.NEWS_DATA); } else { list.textContent = ''; list.appendChild(el('div', 'np-empty', '尚未設定新聞資料。')); }
+      return;
+    }
+    fetch(NEWS_URL + (NEWS_URL.indexOf('?') < 0 ? '?' : '&') + 't=' + Math.floor(Date.now() / 600000), { credentials: 'omit' })
+      .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+      .then(apply)
+      .catch(function () {
+        if (window.NEWS_DATA) { apply(window.NEWS_DATA); }
+        else if (!data.length) { list.textContent = ''; list.appendChild(el('div', 'np-empty', '新聞暫時無法載入，請稍後重新整理。')); }
+      });
+  }
+  load();
+  if (NEWS_URL) { setInterval(load, REFRESH_MS); }
+})();
+//]]>
+  </script>

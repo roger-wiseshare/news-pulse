@@ -1,0 +1,20 @@
+<!-- 全球新聞脈動：只在首頁顯示 -->
+    <b:if cond='data:blog.url == data:blog.homepageUrl'>
+      <section class='news-pulse' id='newsPulse'>
+        <div class='np-head'>
+          <h2>全球新聞脈動</h2>
+          <span class='np-updated' id='npUpdated'></span>
+        </div>
+        <div class='np-tabs' id='npTabs'></div>
+        <div class='np-list' id='npList'><div class='np-empty'>新聞載入中…</div></div>
+        <p class='np-note'>新聞取自 WSJ、Yahoo Finance、科技新報、財經新報公開 RSS，外文新聞已譯為繁體中文並摘要，每日 08:00、20:00 更新，僅供參考。點新聞先看摘要卡，需要時再按「閱讀全文」前往原文。</p>
+      </section>
+      <dialog id='npCard' aria-labelledby='npcT'>
+        <div class='npc-bar'><span class='np-tag' id='npcTag'></span><span class='np-meta' id='npcMeta'></span><button class='npc-x' id='npcX' type='button' aria-label='關閉'>&#10005;</button></div>
+        <h3 id='npcT'></h3>
+        <div class='npc-orig' id='npcO'></div>
+        <h4>重點摘要</h4>
+        <ul class='npc-pts' id='npcP'></ul>
+        <div class='npc-foot'><small id='npcS'></small><button class='npc-go' id='npcGo' type='button'>閱讀全文 &#8599;</button></div>
+      </dialog>
+    </b:if>
