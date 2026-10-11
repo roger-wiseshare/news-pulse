@@ -1835,6 +1835,17 @@ head.appendChild(script);
   /* ---- 首頁 / 分類頁：把文章變成卡片 ---- */
   safe(function () {
     if (!body.classList.contains('index-page')) { return; }
+
+    /* 首頁不顯示指定標籤的文章（分類頁、搜尋頁、封存頁不受影響）。要隱藏別的標籤，改這一行。 */
+    var HIDE_ON_HOME = ['投資動態'];
+    var pth = location.pathname;
+    if ((pth === '/' || pth === '/search') && !/[?&]q=/.test(location.search)) {
+      $$('.blog-posts .post-outer').forEach(function (po) {
+        var hit = $$('.post-labels a', po).some(function (l) { return HIDE_ON_HOME.indexOf(l.textContent.trim()) > -1; });
+        if (hit && po.parentNode) { po.parentNode.removeChild(po); }
+      });
+    }
+
     $$('.blog-posts .post-outer').forEach(function (po, idx) {
       var a = $('.post-title a', po), pb = $('.post-body', po);
       if (!pb) { return; }
