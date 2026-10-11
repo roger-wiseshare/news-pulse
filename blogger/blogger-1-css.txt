@@ -30,7 +30,7 @@
 #npCard h4{margin:16px 0 8px;font-size:13px;letter-spacing:.08em;color:var(--muted)}
 .npc-pts{display:grid;gap:8px;margin:0;padding:14px 16px;list-style:none;background:var(--accent-soft);border-radius:14px;font-size:15.5px;line-height:1.8}
 .npc-pts li{display:flex;gap:.6em;align-items:baseline}
-.npc-pts li::before{content:'•';flex:none;width:.6em;text-align:center;color:var(--accent-ink)}
+.npc-pts li::before{content:'\2022';flex:none;width:.6em;text-align:center;color:var(--accent-ink)}
 .npc-pts li span{min-width:0;overflow-wrap:anywhere}
 .npc-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:18px}
 .npc-foot small{font-size:12px;color:var(--muted)}
