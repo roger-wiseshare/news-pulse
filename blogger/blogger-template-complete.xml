@@ -253,7 +253,7 @@ img{max-width:100%;height:auto}
 .stock-tag{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:14px;padding:0 12px;margin:0 2px;border-radius:999px}
 .key-point{background:var(--accent-soft);border:1px solid var(--accent-line);border-left:5px solid var(--accent);border-radius:4px 14px 14px 4px;padding:15px 20px;margin:1.6em 0}
 .risk-note{background:var(--card-2);border:1px dashed var(--line);border-radius:12px;color:var(--muted);font-size:14px;padding:12px 18px;margin:1.6em 0}
-.risk-note::before{content:'⚠ 免責聲明：';font-weight:700;color:var(--strong)}
+.risk-note::before{content:'\26A0\A0\514D\8CAC\8072\660E\FF1A';font-weight:700;color:var(--strong)}
 mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;padding:0 2px}
 
 /* 自動目錄 */
