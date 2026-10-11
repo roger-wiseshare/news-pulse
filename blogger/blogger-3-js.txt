@@ -53,7 +53,7 @@
     document.getElementById('npcO').textContent = (a.o && a.o !== a.t) ? '原標題：' + a.o : '';
     var ul = document.getElementById('npcP');
     ul.textContent = '';
-    (a.b || '').split(/(?<=[。！？])/).forEach(function (s) {
+    (a.pts && a.pts.length ? a.pts : (a.b || '').split(/(?<=[。！？])/)).forEach(function (s) {
       s = s.trim();
       if (s) { var li = el('li'); li.appendChild(el('span', '', s)); ul.appendChild(li); }
     });
