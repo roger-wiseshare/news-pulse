@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' lang='zh-Hant' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+<!--
+=====================================================================
+  羅傑觀點評論  Consulting &amp; Technology
+  Blogger 完整自訂版型&#65288;不依賴 Google 內建主題&#65289;&#8212; 薄荷夜色&#12539;淺色&#65295;深色自動雙主題版
+  已加入「全球新聞脈動」&#65288;新聞條列 + 摘要卡&#65292;不需要 API Key&#65289;
+
+  &#12304;安裝&#12305;佈景主題 &#8594; &#12300;備份/還原&#12301;先下載舊版型備份
+         &#8594; &#12300;編輯 HTML&#12301;&#8594; 全選刪除 &#8594; 貼上本檔全部內容 &#8594; 儲存
+
+  &#12304;分類導覽&#12305;本檔預設四個標籤名稱為&#65306;
+         投資動態 / 產業文章 / 個股分享 / 產經新聞
+         文章請用這四個&#12300;標籤&#12301;分類&#65307;若想改名&#65292;搜尋 mainnav 與 cat-tiles 兩處修改即可&#12290;
+=====================================================================
+-->
+
+<head>
+  <meta content='width=device-width, initial-scale=1' name='viewport'/>
+  <meta content='#F3F6F4' media='(prefers-color-scheme: light)' name='theme-color'/>
+  <meta content='#0A0D0C' media='(prefers-color-scheme: dark)' name='theme-color'/>
+  <b:include data='blog' name='all-head-content'/>
+  <title><data:blog.pageTitle/></title>
+
+  <link href='https://fonts.googleapis.com' rel='preconnect'/>
+  <link crossorigin='crossorigin' href='https://fonts.gstatic.com' rel='preconnect'/>
+  <link href='https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&amp;display=swap' rel='stylesheet'/>
+
+  <!-- 先套用使用者上次手動選擇的主題&#65288;沒選過就跟隨系統&#65289;&#65292;避免畫面閃一下 -->
+  <script type='text/javascript'>
+//<![CDATA[
+(function () {
+  try {
+    var v = localStorage.getItem('rv-theme');
+    if (v === 'dark' || v === 'light') { document.documentElement.setAttribute('data-theme', v); }
+  } catch (e) { }
+})();
+//]]>
+  </script>
+
+  <b:skin><![CDATA[
+/* =====================================================================
+   羅傑觀點評論 — 薄荷夜色風（淺色／深色雙主題，皆保持高對比）
+   設計重點：
+   1. 預設自動跟隨使用者裝置的「淺色／深色」設定；右上角按鈕可手動覆寫
+   2. 暖黑底 + 深色卡片 + 薄荷綠強調；淺色模式為薄荷灰白底 + 深綠文字強調
+   3. 粗黑體標題、圓角卡片、膠囊按鈕、細邊線（不靠重陰影）
+   4. 手機版：底部浮動膠囊導覽；文章卡片出現「新」徽章（72 小時內）
+   5. 深色模式下，圖片 LOGO 自動墊白色圓角底板，黑字 LOGO 也看得清楚
+   ===================================================================== */
+
+:root{
+  color-scheme:light;
+  /* 品牌色（僅用於 LOGO 與頁尾 R） */
+  --brand:#FFC20E;
+
+  --bg:#F3F6F4; --card:#FFFFFF; --card-2:#F6F9F7; --line:#DCE4DF;
+  --strong:#0F1412; --ink:#232B27; --muted:#5C6963;
+
+  --accent:#7EE2B8;            /* 薄荷綠：填色用 */
+  --accent-ink:#0B6B4B;        /* 淺色底上的綠色文字／圖示 */
+  --on-accent:#06261A;         /* 壓在薄荷綠填色上的文字 */
+  --accent-soft:#E0F6EC; --accent-line:#BEE8D3;
+
+  --chip:#EAEFEC; --chip-ink:#56635D;
+  --pill-bg:#E5EBE7; --pill-active:#FFFFFF;
+  --badge-bg:#1F7A58; --badge-ink:#FFFFFF;
+  --btn-bg:#E0F6EC; --btn-ink:#0B6B4B; --btn-line:#BEE8D3;
+  --ph-a:#D3F2E4; --ph-b:#9BE2C2; --ph-ink:#0B6B4B;
+  --mark:rgba(126,226,184,.55);
+
+  --up:#D9322B; --down:#0E8F5C;          /* 台股慣例：紅漲綠跌 */
+  --logo-bg:transparent; --logo-pad:0;
+  --footer:#101916;
+
+  --r:20px; --r-s:14px;
+  --sans:'Noto Sans TC','Microsoft JhengHei','PingFang TC',system-ui,sans-serif;
+  --shadow-s:0 1px 2px rgba(15,30,25,.05),0 6px 20px rgba(15,30,25,.06);
+  --shadow:0 14px 34px rgba(15,30,25,.13);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme='light']){
+    color-scheme:dark;
+    --bg:#0A0D0C; --card:#141817; --card-2:#1A1F1D; --line:#262D2A;
+    --strong:#F4F7F5; --ink:#DCE3DF; --muted:#8F9A95;
+    --accent:#7EE2B8; --accent-ink:#7EE2B8; --on-accent:#06261A;
+    --accent-soft:#17302A; --accent-line:#2B5646;
+    --chip:#1F2523; --chip-ink:#9AA6A1;
+    --pill-bg:#1C2120; --pill-active:#3A4042;
+    --badge-bg:#2B6B50; --badge-ink:#DDFBEC;
+    --btn-bg:#1F4D3C; --btn-ink:#8FE9C4; --btn-line:#2F6A53;
+    --ph-a:#1F4D3C; --ph-b:#12372A; --ph-ink:#7EE2B8;
+    --mark:rgba(126,226,184,.28);
+    --up:#FF6B63; --down:#34C78A;
+    --logo-bg:#FFFFFF; --logo-pad:8px 16px;
+    --footer:#070908;
+    --shadow-s:none; --shadow:0 14px 34px rgba(0,0,0,.55);
+  }
+}
+:root[data-theme='dark']{
+    color-scheme:dark;
+    --bg:#0A0D0C; --card:#141817; --card-2:#1A1F1D; --line:#262D2A;
+    --strong:#F4F7F5; --ink:#DCE3DF; --muted:#8F9A95;
+    --accent:#7EE2B8; --accent-ink:#7EE2B8; --on-accent:#06261A;
+    --accent-soft:#17302A; --accent-line:#2B5646;
+    --chip:#1F2523; --chip-ink:#9AA6A1;
+    --pill-bg:#1C2120; --pill-active:#3A4042;
+    --badge-bg:#2B6B50; --badge-ink:#DDFBEC;
+    --btn-bg:#1F4D3C; --btn-ink:#8FE9C4; --btn-line:#2F6A53;
+    --ph-a:#1F4D3C; --ph-b:#12372A; --ph-ink:#7EE2B8;
+    --mark:rgba(126,226,184,.28);
+    --up:#FF6B63; --down:#34C78A;
+    --logo-bg:#FFFFFF; --logo-pad:8px 16px;
+    --footer:#070908;
+    --shadow-s:none; --shadow:0 14px 34px rgba(0,0,0,.55);
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.8;letter-spacing:.01em;-webkit-font-smoothing:antialiased;transition:background .35s,color .35s}
+a{color:inherit;text-decoration:none;transition:color .2s,background .2s,border-color .2s}
+img{max-width:100%;height:auto}
+::selection{background:var(--accent);color:var(--on-accent)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+/* 隱藏 Blogger 預設導覽列 */
+.navbar,#navbar-iframe{display:none!important;height:0!important}
+
+/* ---------- 行情跑馬燈 ---------- */
+.ticker-bar{background:var(--card);min-height:46px;border-bottom:1px solid var(--line);overflow:hidden;transition:background .35s}
+
+/* ---------- 頁首 ---------- */
+.masthead{background:var(--bg);transition:background .35s}
+.masthead-inner{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;padding-top:22px;padding-bottom:12px}
+.masthead .header{flex:1 1 320px;min-width:0}
+.masthead .Header img,#Header1_headerimg{display:block;max-width:100%;max-height:104px;width:auto;height:auto;background:var(--logo-bg);padding:var(--logo-pad);border-radius:16px}
+.masthead .Header .descriptionwrapper{margin:0}
+
+/* 若 Header 未設定圖片 LOGO，使用 CSS 自繪的「R 潑墨 + 粗體標題」 */
+.Header h1.title{margin:0;display:flex;align-items:center;gap:16px;font-weight:900;font-size:clamp(28px,5vw,44px);letter-spacing:.05em;line-height:1.25;color:var(--strong)}
+.Header h1.title a{color:inherit}
+.Header h1.title::before{content:'R';flex:0 0 auto;display:grid;place-items:center;width:56px;height:56px;background:var(--brand);border-radius:46% 54% 42% 58% / 55% 40% 60% 45%;font:italic 900 34px/1 var(--sans);color:#1A1405;transform:rotate(-8deg)}
+.Header .description{margin:4px 0 0;font-size:12px;font-weight:500;letter-spacing:.36em;color:var(--muted);text-transform:none}
+
+.mast-tools{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.btn-sub{display:inline-block;background:var(--btn-bg);color:var(--btn-ink);border:1px solid var(--btn-line);font-weight:700;letter-spacing:.08em;padding:8px 20px;border-radius:999px;transition:background .2s,color .2s,transform .2s}
+.btn-sub:hover{background:var(--accent);color:var(--on-accent);border-color:var(--accent);transform:translateY(-1px)}
+.theme-btn{width:42px;height:42px;border-radius:50%;border:1px solid var(--btn-line);background:var(--btn-bg);color:var(--btn-ink);font-size:18px;cursor:pointer;line-height:1;transition:background .2s,color .2s}
+.theme-btn:hover{background:var(--accent);color:var(--on-accent)}
+
+/* ---------- 主導覽（桌面：分段膠囊） ---------- */
+.mainnav{position:sticky;top:10px;z-index:60;padding:8px 0 0}
+.mainnav .wrap{display:flex;gap:4px;overflow-x:auto;white-space:nowrap;scrollbar-width:none;width:min(1140px,calc(100% - 28px));padding:5px;background:var(--pill-bg);border:1px solid var(--line);border-radius:999px;transition:background .35s}
+.mainnav .wrap::-webkit-scrollbar{display:none}
+.mainnav a{flex:1 1 auto;text-align:center;color:var(--muted);font-weight:500;letter-spacing:.1em;padding:10px 24px;border-radius:999px}
+.mainnav a:hover{color:var(--strong)}
+.mainnav a.on{background:var(--pill-active);color:var(--accent-ink);font-weight:700;box-shadow:var(--shadow-s)}
+
+/* ---------- 手機底部浮動導覽 ---------- */
+.bottomnav{display:none}
+
+/* ---------- 首頁分類大磚 ---------- */
+.cat-tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:24px}
+.cat-tile{display:block;position:relative;overflow:hidden;background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow-s);padding:18px 20px 20px;transition:transform .3s,border-color .3s,box-shadow .3s,background .35s}
+.cat-tile::after{content:'';position:absolute;right:-26px;top:-26px;width:96px;height:96px;border-radius:50%;background:var(--accent-soft);transition:transform .45s}
+.cat-tile b,.cat-tile strong,.cat-tile span{position:relative;z-index:1}
+.cat-tile b{display:block;font-weight:900;font-size:26px;line-height:1;color:var(--accent-ink)}
+.cat-tile strong{display:block;margin-top:8px;font-weight:700;font-size:19px;letter-spacing:.05em;color:var(--strong)}
+.cat-tile span{display:block;margin-top:4px;font-size:13px;line-height:1.6;color:var(--muted)}
+.cat-tile:hover{transform:translateY(-4px);border-color:var(--accent);box-shadow:var(--shadow)}
+.cat-tile:hover::after{transform:scale(1.9)}
+
+/* ---------- 版面 ---------- */
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:32px;padding:26px 0 64px}
+.content{min-width:0}
+
+.status-msg-wrap{margin:0 0 20px;font-size:14px}
+.status-msg-body{background:var(--accent-soft);color:var(--accent-ink);font-weight:700;padding:11px 20px;border-radius:999px;text-align:left!important}
+.status-msg-border{display:none}
+
+/* ---------- 首頁/分類頁：卡片網格 ---------- */
+.index-page .blog-posts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.blog-posts .date-outer,.blog-posts .date-posts{display:contents}
+.blog-posts .clear{display:none}
+.index-page .date-header{display:none}
+
+.post-outer{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow-s);position:relative;overflow:hidden;transition:background .35s,border-color .3s}
+.index-page .post-outer{display:flex;flex-direction:column;transition:transform .3s,box-shadow .3s,border-color .3s}
+.index-page .post-outer:hover{transform:translateY(-5px);box-shadow:var(--shadow);border-color:var(--accent-line)}
+.index-page .post{padding:18px 24px 24px}
+.index-page .post-header,.index-page .post-footer,.index-page .post-share-buttons{display:none}
+
+.card-thumb{display:block;position:relative;aspect-ratio:16/9;overflow:hidden;background:var(--ph-a)}
+.card-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .7s ease}
+.post-outer:hover .card-thumb img{transform:scale(1.045)}
+.card-thumb.noimg{display:grid;place-items:center;background:linear-gradient(135deg,var(--ph-a),var(--ph-b))}
+.card-thumb.noimg span{font:italic 900 72px/1 var(--sans);color:var(--ph-ink);opacity:.9}
+.card-tag{position:absolute;left:14px;top:14px;background:rgba(8,18,14,.74);color:#8FE9C4;font-weight:700;font-size:12px;letter-spacing:.1em;padding:3px 13px;border-radius:999px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+
+.index-page h3.post-title{margin:0 0 6px;font-weight:700;font-size:20px;line-height:1.5;letter-spacing:.02em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.index-page h3.post-title a{color:var(--strong)}
+.index-page .post-outer:hover h3.post-title a{color:var(--accent-ink)}
+.card-meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;margin:0 0 8px;font-size:13px;color:var(--muted)}
+.new-badge{display:inline-block;background:var(--badge-bg);color:var(--badge-ink);font-weight:700;font-size:12px;line-height:20px;padding:0 9px;border-radius:999px}
+.index-page .post-body{font-size:15px;line-height:1.85;color:var(--muted);max-height:7.6em;overflow:hidden}
+.index-page .post-body p{margin:0}
+.card-more{display:inline-block;margin-top:14px;background:var(--chip);color:var(--chip-ink);font-weight:500;font-size:14px;letter-spacing:.06em;padding:6px 18px;border-radius:999px}
+.card-more:hover{background:var(--accent);color:var(--on-accent)}
+.index-page .jump-link{display:none}
+
+/* 首篇放大 */
+.index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child{grid-column:1/-1;flex-direction:row}
+.index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child .card-thumb{flex:0 0 55%;aspect-ratio:auto;min-height:330px}
+.index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child .post{display:flex;flex-direction:column;justify-content:center;padding:28px 34px}
+.index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child h3.post-title{font-size:29px;line-height:1.45;-webkit-line-clamp:3}
+.index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child .post-body{font-size:16px;max-height:8.4em}
+
+/* 滑入動畫（僅在 JS 載入成功後啟用） */
+.js .index-page .post-outer,.js .sidebar .widget{opacity:0;translate:0 18px;transition:opacity .7s ease,translate .7s ease,transform .3s,box-shadow .3s,border-color .3s}
+.js .index-page .post-outer.in,.js .sidebar .widget.in{opacity:1;translate:none}
+
+/* ---------- 文章頁 ---------- */
+.single .post-outer{padding:clamp(22px,4.5vw,52px);border-radius:24px}
+.date-header{margin:0 0 12px}
+.date-header span{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:13px;letter-spacing:.08em;padding:3px 14px;border-radius:999px}
+.single h3.post-title{margin:4px 0 14px;font-weight:700;font-size:clamp(26px,4vw,36px);line-height:1.45;letter-spacing:.02em;color:var(--strong)}
+.post-header{font-size:13px;color:var(--muted);margin-bottom:16px}
+.post-footer{margin-top:28px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:2}
+.post-labels a{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-size:12px;font-weight:700;letter-spacing:.06em;padding:1px 13px;margin:0 5px 4px 0;border-radius:999px}
+.post-labels a:hover{background:var(--accent);color:var(--on-accent)}
+
+.post-body{font-size:17px;line-height:2.05;color:var(--ink);word-wrap:break-word}
+.single .post-body{max-width:780px}
+.post-body img{border-radius:14px}
+.post-body a{color:var(--accent-ink);font-weight:500;text-decoration:underline;text-decoration-color:var(--accent-line);text-decoration-thickness:2px;text-underline-offset:4px}
+.post-body a:hover{text-decoration-color:var(--accent-ink)}
+.post-body h2,.post-body h3,.post-body h4{font-weight:700;line-height:1.55;color:var(--strong);margin:2em 0 .7em}
+.post-body h2{font-size:23px;padding:8px 18px;border-left:5px solid var(--accent);border-radius:4px 14px 14px 4px;background:var(--accent-soft)}
+.post-body h3{font-size:20px;display:inline-block;border-bottom:3px solid var(--accent)}
+.post-body blockquote{margin:1.6em 0;padding:14px 24px;background:var(--card-2);border-left:4px solid var(--accent);border-radius:4px 14px 14px 4px;color:var(--ink)}
+.post-body table{width:100%;border-collapse:separate;border-spacing:0;margin:1.6em 0;font-size:15px;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.post-body th{background:var(--accent-soft);color:var(--accent-ink);padding:11px 12px;font-weight:700;text-align:center;border-bottom:1px solid var(--line)}
+.post-body td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:center}
+.post-body tr:last-child td{border-bottom:0}
+.post-body tr:nth-child(even) td{background:var(--card-2)}
+.post-body tr:hover td{background:var(--accent-soft)}
+
+/* 投資文章專用小工具 */
+.up{color:var(--up);font-weight:700}
+.down{color:var(--down);font-weight:700}
+.stock-tag{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:14px;padding:0 12px;margin:0 2px;border-radius:999px}
+.key-point{background:var(--accent-soft);border:1px solid var(--accent-line);border-left:5px solid var(--accent);border-radius:4px 14px 14px 4px;padding:15px 20px;margin:1.6em 0}
+.risk-note{background:var(--card-2);border:1px dashed var(--line);border-radius:12px;color:var(--muted);font-size:14px;padding:12px 18px;margin:1.6em 0}
+.risk-note::before{content:'⚠ 免責聲明：';font-weight:700;color:var(--strong)}
+mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;padding:0 2px}
+
+/* 自動目錄 */
+.toc{background:var(--card-2);border:1px solid var(--line);border-radius:16px;padding:16px 22px;margin:0 0 30px;font-size:15px;line-height:1.95}
+.toc b{display:block;font-weight:700;font-size:16px;letter-spacing:.08em;color:var(--strong)}
+.toc ol{margin:6px 0 0;padding-left:1.4em}
+.toc a{color:var(--ink);text-decoration:none;font-weight:400}
+.toc a:hover{color:var(--accent-ink)}
+.toc li.sub{margin-left:1.2em;list-style:circle}
+
+/* 閱讀進度條 */
+#progress{position:fixed;top:0;left:0;height:4px;width:0;background:var(--accent);border-radius:0 4px 4px 0;z-index:999;transition:width .1s linear}
+
+/* 相關文章 */
+.related{margin-top:30px}
+.related h4,.cta h4{display:flex;align-items:center;gap:10px;margin:0 0 14px;font-weight:700;font-size:18px;letter-spacing:.06em;color:var(--strong)}
+.related h4::before{content:'';width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.rel-card{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;transition:transform .3s,border-color .3s}
+.rel-card:hover{transform:translateY(-4px);border-color:var(--accent-line)}
+.rel-card .card-thumb{aspect-ratio:16/9}
+.rel-card div.t{padding:11px 16px 16px;font-weight:700;font-size:15px;line-height:1.6;color:var(--strong);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+/* 訂閱 CTA */
+.cta{margin-top:28px;background:var(--accent-soft);border:1px solid var(--accent-line);border-radius:22px;padding:24px 30px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.cta h4{margin:0}
+.cta p{margin:4px 0 0;font-size:14px;color:var(--ink)}
+.cta a{background:var(--accent);color:var(--on-accent);font-weight:700;letter-spacing:.08em;padding:10px 24px;border-radius:999px;transition:transform .2s}
+.cta a:hover{transform:translateY(-2px)}
+
+/* 上下頁 */
+.blog-pager{margin:28px 0 0;overflow:hidden;text-align:center}
+.blog-pager a{display:inline-block;background:var(--card);color:var(--strong);border:1px solid var(--line);font-weight:500;letter-spacing:.06em;padding:9px 24px;border-radius:999px}
+.blog-pager a:hover{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+#blog-pager-newer-link{float:left}
+#blog-pager-older-link{float:right}
+.home-link{display:none}
+.index-page .blog-pager{grid-column:1/-1}
+
+/* 留言 */
+.comments{margin-top:32px}
+.comments h4{font-weight:700;color:var(--strong)}
+.comments .comment-author{font-weight:700}
+.comments .comment-block{border-left:3px solid var(--accent-line);padding-left:14px}
+.post-share-buttons{margin-top:12px}
+
+/* ---------- 側邊欄 ---------- */
+.sidebar .widget{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow-s);padding:20px 22px;margin:0 0 20px;transition:background .35s}
+.widget>h2{display:flex;align-items:center;gap:10px;margin:0 0 14px;font-weight:700;font-size:17px;line-height:1.3;letter-spacing:.08em;color:var(--strong)}
+.widget>h2::before{content:'';flex:0 0 auto;width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.widget ul{list-style:none;margin:0;padding:0;line-height:1.65}
+.widget li{padding:10px 0;border-bottom:1px solid var(--line)}
+.widget li:last-child{border-bottom:0}
+.widget a:hover{color:var(--accent-ink)}
+
+.cloud-label-widget-content{display:flex;flex-wrap:wrap;gap:8px}
+.cloud-label-widget-content .label-size{font-size:13px}
+.cloud-label-widget-content .label-size a{display:inline-block;padding:3px 14px;background:var(--chip);color:var(--chip-ink);border-radius:999px}
+.cloud-label-widget-content .label-size a:hover{background:var(--accent);color:var(--on-accent)}
+.label-size .label-count{margin-left:4px;color:var(--muted)}
+.list-label-widget-content li a{font-weight:500;color:var(--strong)}
+.label-count{float:right;color:var(--muted)}
+
+.PopularPosts ul{counter-reset:rank}
+.PopularPosts li{counter-increment:rank;overflow:hidden}
+.PopularPosts .item-thumbnail{float:left;margin:0 14px 0 0}
+.PopularPosts .item-thumbnail img{width:76px;height:76px;object-fit:cover;border-radius:14px}
+.PopularPosts .item-title{font-weight:500;line-height:1.6;color:var(--strong)}
+.PopularPosts .item-title::before{content:counter(rank);display:inline-block;width:22px;height:22px;line-height:22px;margin-right:8px;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:12px;text-align:center;border-radius:50%}
+.PopularPosts .item-snippet{display:none}
+
+.BlogArchive ul.hierarchy{padding-left:14px}
+.BlogArchive a.toggle{color:var(--muted)}
+.BlogArchive .post-count{color:var(--muted)}
+
+.BlogSearch table,.BlogSearch td{width:100%;border:0;padding:0}
+.BlogSearch input[type=text],.BlogSearch input.gsc-input{width:100%;padding:10px 18px;border:1px solid var(--line);border-radius:999px;background:var(--card-2);color:var(--ink);font-family:var(--sans);outline:none;transition:border-color .2s,box-shadow .2s}
+.BlogSearch input[type=text]:focus,.BlogSearch input.gsc-input:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.BlogSearch input[type=submit],.BlogSearch input.gsc-search-button{margin-top:10px;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;font-weight:700;letter-spacing:.1em;padding:8px 24px;cursor:pointer}
+
+.FollowByEmail table,.FollowByEmail td{width:100%;border:0;padding:0}
+.follow-by-email-address{width:100%;padding:10px 18px;border:1px solid var(--line);border-radius:999px;background:var(--card-2);color:var(--ink);margin-bottom:10px;outline:none}
+.follow-by-email-address:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.follow-by-email-submit{background:var(--btn-bg);color:var(--btn-ink);border:1px solid var(--btn-line);border-radius:999px;font-weight:700;letter-spacing:.1em;padding:8px 26px;cursor:pointer}
+.follow-by-email-submit:hover{background:var(--accent);color:var(--on-accent)}
+
+/* ---------- 頁尾 ---------- */
+.site-footer{background:var(--footer);color:#D5DDD8;border-radius:32px 32px 0 0;padding:38px 0 34px;font-size:14px}
+.site-footer .brand{font-weight:900;font-size:21px;letter-spacing:.06em;color:#F4F7F5}
+.site-footer .brand em{font-style:normal;color:var(--brand)}
+.site-footer .tagline{letter-spacing:.3em;font-size:12px;color:#8F9A95;margin:2px 0 14px}
+.site-footer .disclaimer{max-width:820px;line-height:1.95;color:#AAB5B0;background:rgba(255,255,255,.05);border-radius:14px;padding:14px 18px;margin:0}
+.site-footer a{color:#7EE2B8}
+.site-footer .Attribution{margin-top:18px;font-size:12px;color:#8F9A95}
+.site-footer .widget{background:none;border:0;box-shadow:none;padding:0;margin:0}
+
+/* 回到頂部 */
+#toTop{position:fixed;right:20px;bottom:24px;width:46px;height:46px;border-radius:50%;background:var(--accent);color:var(--on-accent);border:0;box-shadow:0 8px 20px rgba(0,0,0,.25);font-size:19px;font-weight:700;cursor:pointer;opacity:0;pointer-events:none;transform:translateY(8px);transition:opacity .3s,transform .3s;z-index:70}
+#toTop.show{opacity:1;pointer-events:auto;transform:none}
+
+/* ---------- 響應式 ---------- */
+@media (max-width:960px){
+  .layout{grid-template-columns:1fr}
+  .cat-tiles{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:720px){
+  body{font-size:15px;padding-bottom:96px}
+  .wrap{padding:0 14px}
+  .masthead-inner{padding-top:16px}
+  .Header h1.title::before{width:44px;height:44px;font-size:26px}
+  .masthead .Header img,#Header1_headerimg{max-height:72px}
+  .mast-tools #todayDate{display:none}
+
+  /* 手機：頂部分段導覽收起，改用底部浮動膠囊 */
+  .mainnav{display:none}
+  .bottomnav{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));max-width:520px;margin:0 auto;padding:6px;gap:2px;background:var(--card);border:1px solid var(--line);border-radius:30px;box-shadow:0 10px 30px rgba(0,0,0,.28);z-index:80}
+  .bottomnav a{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 2px 7px;border-radius:24px;font-size:11px;font-weight:500;letter-spacing:.02em;color:var(--muted);white-space:nowrap}
+  .bottomnav svg{width:22px;height:22px}
+  .bottomnav a.on{background:var(--pill-bg);color:var(--accent-ink);font-weight:700}
+  #toTop{bottom:96px;right:14px}
+
+  .index-page .blog-posts{grid-template-columns:1fr}
+  .index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child{flex-direction:column}
+  .index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child .card-thumb{flex:none;min-height:0;aspect-ratio:16/9}
+  .index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child .post{padding:18px 22px 24px}
+  .index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child h3.post-title{font-size:23px}
+  .post-body{font-size:16px;line-height:2}
+  .post-body h2{font-size:20px}
+  .post-body table{display:block;overflow-x:auto;font-size:13px}
+  .rel-grid{grid-template-columns:1fr}
+  .cta{padding:20px 22px}
+  .site-footer{border-radius:24px 24px 0 0}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+  .js .index-page .post-outer,.js .sidebar .widget{opacity:1;translate:none}
+}
+
+/* =====================================================================
+   全球新聞脈動 CSS（Blogger 版，無需 API Key）
+   貼法：佈景主題 → 編輯 HTML → 搜尋 b:skin，整份貼在 b:skin 結尾標籤的正上方
+   使用版型現有的顏色變數（--card、--line、--accent-soft 等），淺色／深色自動跟隨
+   ===================================================================== */
+/* ---------- 全球新聞脈動（新聞條列 + 摘要卡，無需 API Key） ---------- */
+.news-pulse{margin-top:26px}
+.np-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.np-head h2{margin:0;display:flex;align-items:center;gap:10px;font-weight:900;font-size:22px;letter-spacing:.06em;color:var(--strong)}
+.np-head h2::before{content:'';width:10px;height:10px;border-radius:50%;background:var(--up);animation:npPulse 1.8s infinite}
+.np-updated{font-size:13px;color:var(--muted)}
+.np-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.np-tabs button{font:inherit;font-size:14px;font-weight:500;letter-spacing:.06em;padding:5px 16px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--muted);cursor:pointer}
+.np-tabs button:hover{color:var(--strong)}
+.np-tabs button.on{background:var(--accent-soft);border-color:var(--accent-line);color:var(--accent-ink);font-weight:700}
+.np-list{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow-s);overflow:hidden}
+.np-row{display:block;width:100%;text-align:left;font:inherit;color:inherit;background:none;border:0;border-top:1px solid var(--line);padding:14px 20px;cursor:pointer}
+.np-row:first-child{border-top:0}
+.np-row:hover{background:var(--card-2)}
+.np-meta{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;font-size:12px;color:var(--muted)}
+.np-tag{font-weight:700;letter-spacing:.06em;padding:1px 11px;border-radius:999px;background:var(--accent-soft);color:var(--accent-ink)}
+.np-title{display:block;margin-top:4px;font-weight:700;font-size:16.5px;line-height:1.6;color:var(--strong)}
+.np-row:hover .np-title{color:var(--accent-ink)}
+.np-empty{padding:28px 20px;text-align:center;color:var(--muted)}
+.np-note{margin:10px 2px 0;font-size:12px;color:var(--muted);line-height:1.7}
+
+/* 摘要卡 */
+#npCard{border:1px solid var(--line);border-radius:22px;background:var(--card);color:var(--ink);width:min(640px,calc(100vw - 28px));max-height:86vh;padding:22px 24px;box-shadow:var(--shadow)}
+#npCard::backdrop{background:rgba(8,12,10,.6)}
+.npc-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.npc-x{margin-left:auto;width:36px;height:36px;border-radius:50%;border:1px solid var(--btn-line);background:var(--btn-bg);color:var(--btn-ink);font-size:15px;cursor:pointer}
+.npc-x:hover{background:var(--accent);color:var(--on-accent)}
+#npCard h3{margin:12px 0 2px;font-weight:700;font-size:21px;line-height:1.5;color:var(--strong)}
+.npc-orig{font-size:12.5px;color:var(--muted)}
+#npCard h4{margin:16px 0 8px;font-size:13px;letter-spacing:.08em;color:var(--muted)}
+.npc-pts{display:grid;gap:8px;margin:0;padding:14px 16px;list-style:none;background:var(--accent-soft);border-radius:14px;font-size:15.5px;line-height:1.8}
+.npc-pts li{display:flex;gap:.6em;align-items:baseline}
+.npc-pts li::before{content:'•';flex:none;width:.6em;text-align:center;color:var(--accent-ink)}
+.npc-pts li span{min-width:0;overflow-wrap:anywhere}
+.npc-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:18px}
+.npc-foot small{font-size:12px;color:var(--muted)}
+.npc-go{font:inherit;font-weight:700;letter-spacing:.08em;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;padding:9px 24px;cursor:pointer}
+.npc-go:hover{transform:translateY(-1px)}
+@keyframes npPulse{50%{opacity:.25}}
+@media (max-width:720px){.np-head h2{font-size:19px}.np-row{padding:12px 16px}#npCard{padding:18px 18px}}
+@media (prefers-reduced-motion:reduce){.np-head h2::before{animation:none!important}}
+
+]]></b:skin>
+</head>
+
+<body expr:class='data:blog.pageType + &quot;-page&quot;'>
+
+  <div id='progress'/>
+
+  <!-- 行情跑馬燈&#65288;TradingView 免費嵌入&#65292;會依淺色&#65295;深色模式載入對應配色&#65307;不想要可整段刪除 id='ticker' 這一行與下方 JS 的&#12300;行情跑馬燈&#12301;區塊&#65289; -->
+  <div class='ticker-bar' id='ticker'/>
+
+  <!-- 頁首&#65306;LOGO 放這裡&#65288;版面配置 &#8594; 頁首 &#8594; 編輯 &#8594; 選&#12300;取代標題和說明&#12301;上傳 LOGO&#65289; -->
+  <header class='masthead'>
+    <div class='wrap masthead-inner'>
+      <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
+        <b:widget id='Header1' locked='true' title='羅傑的股海江湖 (標頭)' type='Header'>
+          <b:widget-settings>
+            <b:widget-setting name='displayUrl'/>
+            <b:widget-setting name='displayHeight'>0</b:widget-setting>
+            <b:widget-setting name='sectionWidth'>-1</b:widget-setting>
+            <b:widget-setting name='useImage'>false</b:widget-setting>
+            <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+            <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
+            <b:widget-setting name='displayWidth'>0</b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main'>
+
+  <b:if cond='data:useImage'>
+    <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
+      <!--
+      Show image as background to text. You can't really calculate the width
+      reliably in JS because margins are not taken into account by any of
+      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
+      width if the user is using shrink to fit.
+      This results in a margin-width's worth of pixels being cropped. If the
+      user is not using shrink to fit then we expand the header.
+      -->
+      <b:if cond='data:mobile'>
+        <div id='header-inner'>
+          <div class='titlewrapper' style='background: transparent'>
+            <h1 class='title' style='background: transparent; border-width: 0px'>
+              <b:include name='title'/>
+            </h1>
+          </div>
+          <b:include name='description'/>
+        </div>
+      <b:else/>
+        <div expr:style='&quot;background-image: url(\&quot;&quot; + data:sourceUrl + &quot;\&quot;); &quot;                      + &quot;background-position: &quot;                      + data:backgroundPositionStyleStr + &quot;; &quot;                      + data:widthStyleStr                      + &quot;min-height: &quot; + data:height                      + &quot;_height: &quot; + data:height                      + &quot;background-repeat: no-repeat; &quot;' id='header-inner'>
+          <div class='titlewrapper' style='background: transparent'>
+            <h1 class='title' style='background: transparent; border-width: 0px'>
+              <b:include name='title'/>
+            </h1>
+          </div>
+          <b:include name='description'/>
+        </div>
+      </b:if>
+    <b:else/>
+      <!--Show the image only-->
+      <div id='header-inner'>
+        <a expr:href='data:blog.homepageUrl' style='display: block'>
+          <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_headerimg&quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/>
+        </a>
+        <!--Show the description-->
+        <b:if cond='data:imagePlacement == &quot;BEFORE_DESCRIPTION&quot;'>
+          <b:include name='description'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <!--No header image -->
+    <div id='header-inner'>
+      <div class='titlewrapper'>
+        <h1 class='title'>
+          <b:include name='title'/>
+        </h1>
+      </div>
+      <b:include name='description'/>
+    </div>
+  </b:if>
+</b:includable>
+          <b:includable id='description'>
+  <div class='descriptionwrapper'>
+    <p class='description'><span><data:description/></span></p>
+  </div>
+</b:includable>
+          <b:includable id='title'>
+  <b:tag cond='data:blog.url != data:blog.homepageUrl' expr:href='data:blog.homepageUrl' name='a'>
+    <data:title/>
+  </b:tag>
+</b:includable>
+        </b:widget>
+      </b:section>
+      <div class='mast-tools'>
+        <span id='todayDate'/>
+        <a class='btn-sub' expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' target='_blank'>RSS 訂閱</a>
+        <button class='theme-btn' id='themeToggle' title='切換深色／淺色' type='button'>&#9790;</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主導覽 mainnav -->
+  <nav class='mainnav'>
+    <div class='wrap'>
+      <a data-home='1' expr:href='data:blog.homepageUrl'>首頁</a>
+      <a data-key='投資動態' expr:href='data:blog.homepageUrl + &quot;search/label/%E6%8A%95%E8%B3%87%E5%8B%95%E6%85%8B&quot;'>投資動態</a>
+      <a data-key='產業文章' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E6%A5%AD%E6%96%87%E7%AB%A0&quot;'>產業文章</a>
+      <a data-key='個股分享' expr:href='data:blog.homepageUrl + &quot;search/label/%E5%80%8B%E8%82%A1%E5%88%86%E4%BA%AB&quot;'>個股分享</a>
+      <a data-key='產經新聞' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E7%B6%93%E6%96%B0%E8%81%9E&quot;'>產經新聞</a>
+    </div>
+  </nav>
+
+  <div class='wrap'>
+
+    <!-- 首頁分類大磚 cat-tiles&#65288;只在首頁顯示&#65307;描述文字可自行修改&#65289; -->
+    <b:if cond='data:blog.url == data:blog.homepageUrl'>
+      <div class='cat-tiles'>
+        <a class='cat-tile' expr:href='data:blog.homepageUrl + &quot;search/label/%E6%8A%95%E8%B3%87%E5%8B%95%E6%85%8B&quot;'>
+          <b>01</b><strong>投資動態</strong><span>盤勢觀察&#12289;資金流向與市場節奏</span>
+        </a>
+        <a class='cat-tile' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E6%A5%AD%E6%96%87%E7%AB%A0&quot;'>
+          <b>02</b><strong>產業文章</strong><span>產業鏈趨勢與關鍵技術拆解</span>
+        </a>
+        <a class='cat-tile' expr:href='data:blog.homepageUrl + &quot;search/label/%E5%80%8B%E8%82%A1%E5%88%86%E4%BA%AB&quot;'>
+          <b>03</b><strong>個股分享</strong><span>基本面&#12289;籌碼面與評價邏輯</span>
+        </a>
+        <a class='cat-tile' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E7%B6%93%E6%96%B0%E8%81%9E&quot;'>
+          <b>04</b><strong>產經新聞</strong><span>重要財經事件與影響解讀</span>
+        </a>
+      </div>
+    </b:if>
+
+<!-- 全球新聞脈動：只在首頁顯示 -->
+    <b:if cond='data:blog.url == data:blog.homepageUrl'>
+      <section class='news-pulse' id='newsPulse'>
+        <div class='np-head'>
+          <h2>全球新聞脈動</h2>
+          <span class='np-updated' id='npUpdated'></span>
+        </div>
+        <div class='np-tabs' id='npTabs'></div>
+        <div class='np-list' id='npList'><div class='np-empty'>新聞載入中…</div></div>
+        <p class='np-note'>新聞取自 WSJ、Yahoo Finance、科技新報、財經新報公開 RSS，外文新聞已譯為繁體中文並摘要，每日 08:00、20:00 更新，僅供參考。點新聞先看摘要卡，需要時再按「閱讀全文」前往原文。</p>
+      </section>
+      <dialog id='npCard' aria-labelledby='npcT'>
+        <div class='npc-bar'><span class='np-tag' id='npcTag'></span><span class='np-meta' id='npcMeta'></span><button class='npc-x' id='npcX' type='button' aria-label='關閉'>&#10005;</button></div>
+        <h3 id='npcT'></h3>
+        <div class='npc-orig' id='npcO'></div>
+        <h4>重點摘要</h4>
+        <ul class='npc-pts' id='npcP'></ul>
+        <div class='npc-foot'><small id='npcS'></small><button class='npc-go' id='npcGo' type='button'>閱讀全文 &#8599;</button></div>
+      </dialog>
+    </b:if>
+
+    <div class='layout'>
+      <main class='content'>
+        <b:section class='main' id='main' showaddelement='no'>
+          <b:widget id='Blog1' locked='true' title='網誌文章' type='Blog'>
+            <b:widget-settings>
+              <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+              <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+              <b:widget-setting name='authorLabel'>By</b:widget-setting>
+              <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+              <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='showAuthor'>false</b:widget-setting>
+              <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+              <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='reactionsLabel'/>
+              <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+              <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+              <b:widget-setting name='showLabels'>true</b:widget-setting>
+              <b:widget-setting name='showLocation'>true</b:widget-setting>
+              <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+              <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+              <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+              <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+              <b:widget-setting name='showReactions'>false</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main' var='top'>
+  <b:if cond='!data:mobile'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart and not data:post.isFirstPost'>
+          &lt;/div&gt;&lt;/div&gt;
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+          <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+          <b:include data='post' name='post'/>
+          <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+        </div>
+
+        <!-- Ad -->
+        <b:if cond='data:post.includeAd'>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+    </div>
+
+    <!-- navigation -->
+    <b:include name='nextprev'/>
+
+    <!-- feed links -->
+    <b:include name='feedLinks'/>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+</b:includable>
+            <b:includable id='backlinkDeleteIcon' var='backlink'/>
+            <b:includable id='backlinks' var='post'/>
+            <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+            <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+            <b:includable id='comment_count_picker' var='post'>
+  <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+    <data:post.commentLabelFull/>:
+  </a>
+</b:includable>
+            <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threaded_comments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+            <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4><data:post.commentLabelFull/>:</h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+              &#160;
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+              &#160;
+          </b:if>
+
+          <data:post.commentRangeText/>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+          </b:if>
+        </span>
+      </b:if>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+            <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+            <dd class='comment-footer'>
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+                <b:include data='comment' name='commentDeleteIcon'/>
+              </span>
+            </dd>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+      <p class='comment-footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:elseif cond='data:post.allowComments'/>
+          <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+        </b:if>
+      </p>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+  </div>
+</b:includable>
+            <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+            <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:feedLinksMsg/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+            <b:includable id='iframe_comments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+            <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title' itemprop='name'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:include cond='data:blog.pageType != &quot;static_page&quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+            <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+            <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
+          </b:if>
+          <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+          <meta expr:content='data:post.id' itemprop='postId'/>
+
+          <a expr:name='data:post.id'/>
+          <b:if cond='data:post.title'>
+            <h3 class='post-title entry-title' itemprop='name'>
+              <b:if cond='data:post.link'>
+                <a expr:href='data:post.link'><data:post.title/></a>
+              <b:elseif cond='data:post.url and data:blog.url != data:post.url'/>
+                <a expr:href='data:post.url'><data:post.title/></a>
+              <b:else/>
+                <data:post.title/>
+              </b:if>
+            </h3>
+          </b:if>
+
+          <div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+            <data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div>
+
+          <div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <span itemprop='name'><data:post.author/></span>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span itemprop='name'><data:post.author/></span>
+                    </span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <meta expr:content='data:post.url.canonical' itemprop='url'/>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+            </div>
+
+          </div>
+        </div>
+
+        <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+            <b:includable id='post' var='post'>
+  <div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+    <b:if cond='data:post.firstImageUrl'>
+      <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
+    </b:if>
+    <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+    <meta expr:content='data:post.id' itemprop='postId'/>
+
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title' itemprop='name'>
+      <b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'>
+        <a expr:href='data:post.link ? data:post.link : data:post.url'><data:post.title/></a>
+      <b:else/>
+        <data:post.title/>
+      </b:if>
+      </h3>
+    </b:if>
+
+    <div class='post-header'>
+    <div class='post-header-line-1'/>
+    </div>
+
+    <!-- Then use the post body as the schema.org description, for good G+/FB snippeting. -->
+    <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &quot;&quot; : &quot;description &quot;) + &quot;articleBody&quot;'>
+      <data:post.body/>
+      <div style='clear: both;'/> <!-- clear for photos floats -->
+    </div>
+
+    <b:if cond='data:post.hasJumpLink'>
+      <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div>
+    </b:if>
+
+    <div class='post-footer'>
+    <div class='post-footer-line post-footer-line-1'>
+      <span class='post-author vcard'>
+        <b:if cond='data:top.showAuthor'>
+          <data:top.authorLabel/>
+            <b:if cond='data:post.authorProfileUrl'>
+              <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                <a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                  <span itemprop='name'><data:post.author/></span>
+                </a>
+              </span>
+            <b:else/>
+              <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                <span itemprop='name'><data:post.author/></span>
+              </span>
+            </b:if>
+        </b:if>
+      </span>
+
+      <span class='post-timestamp'>
+        <b:if cond='data:top.showTimestamp'>
+          <data:top.timestampLabel/>
+          <b:if cond='data:post.url'>
+            <meta expr:content='data:post.url.canonical' itemprop='url'/>
+            <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+          </b:if>
+        </b:if>
+      </span>
+
+      <span class='post-comment-link'>
+        <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                          and data:post.allowComments' data='post' name='comment_count_picker'/>
+      </span>
+
+      <span class='post-icons'>
+        <!-- email post links -->
+        <b:if cond='data:post.emailPostUrl'>
+          <span class='item-action'>
+          <a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'>
+            <img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+          </a>
+          </span>
+        </b:if>
+
+        <!-- quickedit pencil -->
+        <b:include data='post' name='postQuickEdit'/>
+      </span>
+
+      <!-- share buttons -->
+      <div class='post-share-buttons goog-inline-block'>
+        <b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/>
+      </div>
+
+      </div>
+
+      <div class='post-footer-line post-footer-line-2'>
+      <span class='post-labels'>
+        <b:if cond='data:top.showPostLabels and data:post.labels'>
+          <data:postLabelsLabel/>
+          <b:loop values='data:post.labels' var='label'>
+            <a expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='not data:label.isLast'>,</b:if>
+          </b:loop>
+        </b:if>
+      </span>
+      </div>
+
+      <div class='post-footer-line post-footer-line-3'>
+      <span class='post-location'>
+        <b:if cond='data:top.showLocation and data:post.location'>
+          <data:postLocationLabel/>
+          <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+        </b:if>
+      </span>
+      </div>
+      <b:if cond='data:post.authorAboutMe'>
+        <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+          <b:if cond='data:post.authorPhoto.url'>
+            <img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/>
+          </b:if>
+          <div>
+            <a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'>
+              <span itemprop='name'><data:post.author/></span>
+            </a>
+          </div>
+          <span itemprop='description'><data:post.authorAboutMe/></span>
+        </div>
+      </b:if>
+    </div>
+  </div>
+</b:includable>
+            <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+            <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showPinterestButton'><a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &quot;&amp;target=pinterest&quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToPinterestMsg/></span></a></b:if>
+</b:includable>
+            <b:includable id='status-message'>
+  <b:if cond='data:navMessage'>
+  <div class='status-msg-wrap'>
+    <div class='status-msg-body'>
+      <data:navMessage/>
+    </div>
+    <div class='status-msg-border'>
+      <div class='status-msg-bg'>
+        <div class='status-msg-hidden'><data:navMessage/></div>
+      </div>
+    </div>
+  </div>
+  <div style='clear: both;'/>
+  </b:if>
+</b:includable>
+            <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+            <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &&
+                    ((entry.content && entry.content.$t) ||
+                     (entry.summary && entry.summary.$t))) ||
+            '';
+        if (entry && entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + text + '</span>';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/comment/delete/'
+               + config.blogId + '/' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+</b:includable>
+            <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+    </div>
+    </div>
+  </div>
+</b:includable>
+          </b:widget>
+        </b:section>
+      </main>
+
+      <aside class='sidebar'>
+        <b:section class='sidebar-sec' id='sidebar' preferred='yes'>
+          <b:widget id='BlogSearch1' locked='false' title='搜尋文章' type='BlogSearch'>
+            <b:includable id='main'>
+    <!-- only display title if it's non-empty -->
+    <b:if cond='data:title != &quot;&quot;'>
+      <h2 class='title'><data:title/></h2>
+    </b:if>
+
+    <div class='widget-content'>
+      <div expr:id='data:widget.instanceId + &quot;_form&quot;'>
+        <form class='gsc-search-box' expr:action='data:blog.searchUrl'>
+          <b:attr cond='not data:view.isPreview' name='target' value='_top'/>
+          <table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+            <tbody>
+              <tr>
+                <td class='gsc-input'>
+                  <input autocomplete='off' class='gsc-input' expr:value='data:view.isSearch ? data:view.search.query.escaped : &quot;&quot;' name='q' size='10' title='search' type='text'/>
+                </td>
+                <td class='gsc-search-button'>
+                  <input class='gsc-search-button' expr:value='data:messages.search' title='search' type='submit'/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </form>
+      </div>
+    </div>
+
+    <b:include name='quickedit'/>
+  </b:includable>
+          </b:widget>
+          <b:widget id='PopularPosts1' locked='false' title='熱門文章' type='PopularPosts'>
+            <b:widget-settings>
+              <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
+              <b:widget-setting name='showThumbnails'>true</b:widget-setting>
+              <b:widget-setting name='showSnippets'>true</b:widget-setting>
+              <b:widget-setting name='timeRange'>LAST_YEAR</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
+  <div class='widget-content popular-posts'>
+    <ul>
+      <b:loop values='data:posts' var='post'>
+      <li>
+        <b:if cond='!data:showThumbnails'>
+          <b:if cond='!data:showSnippets'>
+            <!-- (1) No snippet/thumbnail -->
+            <a expr:href='data:post.href'><data:post.title/></a>
+          <b:else/>
+            <!-- (2) Show only snippets -->
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <div class='item-snippet'><data:post.snippet/></div>
+          </b:if>
+        <b:else/>
+          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
+          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
+            <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
+              <div class='item-thumbnail'>
+                <a expr:href='data:post.href' target='_blank'>
+                  <b:with value='data:post.featuredImage.isResizable                                  ? resizeImage(data:post.featuredImage, 72, &quot;1:1&quot;)                                  : data:post.thumbnail' var='image'>
+                    <img alt='' border='0' expr:src='data:image'/>
+                  </b:with>
+                </a>
+              </div>
+            </b:if>
+            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
+            <b:if cond='data:showSnippets'>
+              <div class='item-snippet'><data:post.snippet/></div>
+            </b:if>
+          </div>
+          <div style='clear: both;'/>
+        </b:if>
+      </li>
+      </b:loop>
+    </ul>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+          </b:widget>
+          <b:widget id='Label1' locked='false' title='主題分類' type='Label'>
+            <b:widget-settings>
+              <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
+              <b:widget-setting name='display'>LIST</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'/>
+              <b:widget-setting name='showType'>ALL</b:widget-setting>
+              <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2><data:title/></h2>
+  </b:if>
+  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
+    <b:if cond='data:display == &quot;list&quot;'>
+      <ul>
+        <b:loop values='data:labels' var='label'>
+          <li>
+            <b:if cond='data:blog.url == data:label.url'>
+              <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+            <b:else/>
+              <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+            </b:if>
+            <b:if cond='data:showFreqNumbers'>
+              <span dir='ltr'>(<data:label.count/>)</span>
+            </b:if>
+          </li>
+        </b:loop>
+      </ul>
+    <b:else/>
+      <b:loop values='data:labels' var='label'>
+        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
+          <b:if cond='data:blog.url == data:label.url'>
+            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
+          <b:else/>
+            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
+          </b:if>
+          <b:if cond='data:showFreqNumbers'>
+            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
+          </b:if>
+        </span>
+      </b:loop>
+    </b:if>
+    <b:include name='quickedit'/>
+  </div>
+</b:includable>
+          </b:widget>
+          <b:widget id='BlogArchive1' locked='false' title='文章存檔' type='BlogArchive'>
+            <b:widget-settings>
+              <b:widget-setting name='showStyle'>FLAT</b:widget-setting>
+              <b:widget-setting name='yearPattern'>yyyy</b:widget-setting>
+              <b:widget-setting name='showWeekEnd'>true</b:widget-setting>
+              <b:widget-setting name='monthPattern'>MMMM yyyy</b:widget-setting>
+              <b:widget-setting name='dayPattern'>MMM dd</b:widget-setting>
+              <b:widget-setting name='weekPattern'>MM/dd</b:widget-setting>
+              <b:widget-setting name='chronological'>false</b:widget-setting>
+              <b:widget-setting name='showPosts'>true</b:widget-setting>
+              <b:widget-setting name='frequency'>MONTHLY</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+  <div id='ArchiveList'>
+  <div expr:id='data:widget.instanceId + &quot;_ArchiveList&quot;'>
+    <b:include cond='data:style == &quot;HIERARCHY&quot;' data='data' name='interval'/>
+    <b:include cond='data:style == &quot;FLAT&quot;' data='data' name='flat'/>
+    <b:include cond='data:style == &quot;MENU&quot;' data='data' name='menu'/>
+  </div>
+  </div>
+  <b:include name='quickedit'/>
+  </div>
+</b:includable>
+            <b:includable id='flat' var='data'>
+  <ul class='flat'>
+    <b:loop values='data:data' var='i'>
+      <li class='archivedate'>
+        <a expr:href='data:i.url'><data:i.name/></a> (<data:i.post-count/>)
+      </li>
+    </b:loop>
+  </ul>
+</b:includable>
+            <b:includable id='interval' var='intervalData'>
+  <b:loop values='data:intervalData' var='interval'>
+    <ul class='hierarchy'>
+      <li expr:class='&quot;archivedate &quot; + data:interval.expclass'>
+        <b:include cond='data:interval.toggleId' data='interval' name='toggle'/>
+        <a class='post-count-link' expr:href='data:interval.url'>
+          <data:interval.name/>
+        </a>
+        <span class='post-count' dir='ltr'>(<data:interval.post-count/>)</span>
+        <b:include cond='data:interval.data' data='interval.data' name='interval'/>
+        <b:include cond='data:interval.posts' data='interval.posts' name='posts'/>
+      </li>
+    </ul>
+  </b:loop>
+</b:includable>
+            <b:includable id='menu' var='data'>
+  <select expr:id='data:widget.instanceId + &quot;_ArchiveMenu&quot;'>
+    <option value=''><data:title/></option>
+    <b:loop values='data:data' var='i'>
+      <option expr:value='data:i.url'><data:i.name/> (<data:i.post-count/>)</option>
+    </b:loop>
+  </select>
+</b:includable>
+            <b:includable id='posts' var='posts'>
+  <ul class='posts'>
+    <b:loop values='data:posts' var='post'>
+      <li><a expr:href='data:post.url'><data:post.title/></a></li>
+    </b:loop>
+  </ul>
+</b:includable>
+            <b:includable id='toggle' var='interval'>
+  <a class='toggle' href='javascript:void(0)'>
+    <span expr:class='&quot;zippy&quot; + (data:interval.expclass == &quot;expanded&quot; ? &quot; toggle-open&quot; : &quot;&quot;)'>
+      <b:if cond='data:interval.expclass == &quot;expanded&quot;'>
+        &#9660;&#160;
+      <b:elseif cond='data:blog.languageDirection == &quot;rtl&quot;'/>
+        &#9668;&#160;
+      <b:else/>
+        &#9658;&#160;
+      </b:if>
+    </span>
+  </a>
+</b:includable>
+          </b:widget>
+        </b:section>
+      </aside>
+    </div>
+  </div>
+
+  <!-- 頁尾 -->
+  <footer class='site-footer'>
+    <div class='wrap'>
+      <div class='brand'><em>R</em> 羅傑觀點評論</div>
+      <div class='tagline'>CONSULTING &amp; TECHNOLOGY</div>
+      <p class='disclaimer'>本站內容為個人投資心得與研究分享&#65292;僅供參考&#65292;不構成任何買賣建議或獲利保證&#12290;投資一定有風險&#65292;請務必獨立思考&#12289;審慎評估自身風險承受度後再做決定&#65292;並自負盈虧&#12290;</p>
+      <b:section class='footer' id='footer' maxwidgets='1' showaddelement='no'>
+        <b:widget id='Attribution1' locked='true' title='' type='Attribution'>
+          <b:widget-settings>
+            <b:widget-setting name='copyright'/>
+          </b:widget-settings>
+          <b:includable id='main'>
+    <div class='widget-content' style='text-align: center;'>
+      <b:if cond='data:attribution != &quot;&quot;'>
+       <data:attribution/>
+      </b:if>
+    </div>
+
+    <b:include name='quickedit'/>
+  </b:includable>
+        </b:widget>
+      </b:section>
+    </div>
+  </footer>
+
+  <!-- 手機底部浮動導覽 bottomnav&#65288;電腦版自動隱藏&#65289; -->
+  <nav aria-label='主要分類' class='bottomnav'>
+    <a data-home='1' expr:href='data:blog.homepageUrl'><svg aria-hidden='true' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'><path d='M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z'/></svg><span>首頁</span></a>
+    <a data-key='投資動態' expr:href='data:blog.homepageUrl + &quot;search/label/%E6%8A%95%E8%B3%87%E5%8B%95%E6%85%8B&quot;'><svg aria-hidden='true' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'><path d='M3 17l5-5 4 4 8-9'/><path d='M15 7h5v5'/></svg><span>投資動態</span></a>
+    <a data-key='產業文章' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E6%A5%AD%E6%96%87%E7%AB%A0&quot;'><svg aria-hidden='true' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'><path d='M3 21V11l6 3v-3l6 3V5h6v16z'/></svg><span>產業文章</span></a>
+    <a data-key='個股分享' expr:href='data:blog.homepageUrl + &quot;search/label/%E5%80%8B%E8%82%A1%E5%88%86%E4%BA%AB&quot;'><svg aria-hidden='true' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'><path d='M6 20V10M12 20V4M18 20v-7'/></svg><span>個股分享</span></a>
+    <a data-key='產經新聞' expr:href='data:blog.homepageUrl + &quot;search/label/%E7%94%A2%E7%B6%93%E6%96%B0%E8%81%9E&quot;'><svg aria-hidden='true' fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'><path d='M5 4h11a1 1 0 0 1 1 1v14H6a2 2 0 0 1-2-2V5a1 1 0 0 1 1-1z'/><path d='M17 8h3v9a2 2 0 0 1-2 2'/><path d='M8 8h5M8 12h5M8 16h3'/></svg><span>產經新聞</span></a>
+  </nav>
+
+  <button id='toTop' title='回到頂部' type='button'>&#8593;</button>
+
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'>
+    <b:widget id='Navbar1' locked='false' title='導覽列' type='Navbar'>
+      <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener(&#39;load&#39;,
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent(&#39;onload&#39;, function(){ object[attribute] = val; });
+      }
+    }
+  &lt;/script&gt;
+&lt;div id=&quot;navbar-iframe-container&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://apis.google.com/js/platform.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+      gapi.load(&quot;gapi.iframes:gapi.iframes.style.bubble&quot;, function() {
+        if (gapi.iframes &amp;&amp; gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: &#39;https://draft.blogger.com/navbar/7742508730694298522?origin\x3dhttp://localhost:80&#39;,
+              where: document.getElementById(&quot;navbar-iframe-container&quot;),
+              id: &quot;navbar-iframe&quot;
+          });
+        }
+      });
+    &lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+(function() {
+var script = document.createElement(&#39;script&#39;);
+script.type = &#39;text/javascript&#39;;
+script.src = &#39;//pagead2.googlesyndication.com/pagead/js/google_top_exp.js&#39;;
+var head = document.getElementsByTagName(&#39;head&#39;)[0];
+if (head) {
+head.appendChild(script);
+}})();
+&lt;/script&gt;
+</b:includable>
+    </b:widget>
+  </b:section>
+
+  <script type='text/javascript'>
+//<![CDATA[
+(function () {
+  var d = document, body = d.body;
+  function $(s, r) { return (r || d).querySelector(s); }
+  function $$(s, r) { return Array.prototype.slice.call((r || d).querySelectorAll(s)); }
+  function safe(fn) { try { fn(); } catch (e) { } }
+
+  /* ---- Blogger 圖片網址放大／縮成指定尺寸 ---- */
+  function resize(src, size) {
+    if (!src) { return src; }
+    if (!/googleusercontent\.com|bp\.blogspot\.com/.test(src)) { return src; }
+    return src
+      .replace(/\/(?:s\d+|w\d+-h\d+)(?:-[a-z0-9-]+)?\/([^\/?#]+)$/i, '/' + size + '/$1')
+      .replace(/=(?:s|w)\d+[^\/?#]*$/i, '=' + size);
+  }
+
+  /* ---- 單篇文章 / 靜態頁標記 ---- */
+  if (body.classList.contains('item-page') || body.classList.contains('static_page-page')) {
+    body.classList.add('single');
+  }
+
+  /* ---- 淺色／深色：預設跟隨系統，按鈕可手動覆寫 ---- */
+  var root = d.documentElement;
+  var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+  function isDark() {
+    var t = root.getAttribute('data-theme');
+    if (t) { return t === 'dark'; }
+    return !!(mq && mq.matches);
+  }
+  function paintToggle() {
+    var b = $('#themeToggle');
+    if (!b) { return; }
+    b.textContent = isDark() ? '☀' : '☾';
+    b.setAttribute('aria-label', isDark() ? '切換為淺色模式' : '切換為深色模式');
+  }
+  safe(function () {
+    var b = $('#themeToggle');
+    if (!b) { return; }
+    paintToggle();
+    b.addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      safe(function () { localStorage.setItem('rv-theme', next); });
+      paintToggle();
+      safe(mountTicker);
+    });
+    if (mq && mq.addEventListener) {
+      mq.addEventListener('change', function () {
+        paintToggle();
+        if (!root.getAttribute('data-theme')) { safe(mountTicker); }
+      });
+    }
+  });
+
+  /* ---- 今日日期 ---- */
+  safe(function () {
+    var el = $('#todayDate');
+    if (!el) { return; }
+    var n = new Date(), w = ['日', '一', '二', '三', '四', '五', '六'];
+    el.textContent = n.getFullYear() + '年' + (n.getMonth() + 1) + '月' + n.getDate() + '日 週' + w[n.getDay()];
+  });
+
+  /* ---- 導覽列目前位置 ---- */
+  safe(function () {
+    var p = decodeURIComponent(location.pathname);
+    $$('.mainnav a, .bottomnav a').forEach(function (a) {
+      var k = a.getAttribute('data-key');
+      if (k && p.indexOf('/search/label/' + k) === 0) { a.classList.add('on'); }
+      if (a.getAttribute('data-home') && (p === '/' || p === '')) { a.classList.add('on'); }
+    });
+  });
+
+  /* ---- 行情跑馬燈（TradingView 免費嵌入） ----
+     一律使用「不透明」背景，由 TradingView 自己畫底色與文字色。
+     原因：手機深色模式下，瀏覽器會把「透明的 iframe」強制塗成白底，
+     而深色主題的文字是淺色，白底配淺色字就看不清楚。
+     淺色主題底色為純白（與卡片同色）、深色主題為深色（與深色卡片近色），兩者都能融入頁面。 */
+  function mountTicker() {
+    var host = $('#ticker');
+    if (!host) { return; }
+    host.textContent = '';
+    var box = d.createElement('div');
+    box.className = 'tradingview-widget-container';
+    var inner = d.createElement('div');
+    inner.className = 'tradingview-widget-container__widget';
+    box.appendChild(inner);
+    var s = d.createElement('script');
+    s.async = true;
+    s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
+    s.innerHTML = JSON.stringify({
+      symbols: [
+        { proName: 'TWSE:TAIEX', title: '加權指數' },
+        { proName: 'TWSE:2330', title: '台積電' },
+        { proName: 'FOREXCOM:SPXUSD', title: '標普500' },
+        { proName: 'FOREXCOM:NSXUSD', title: '那斯達克100' },
+        { proName: 'FX_IDC:USDTWD', title: '美元/台幣' },
+        { proName: 'BITSTAMP:BTCUSD', title: '比特幣' }
+      ],
+      showSymbolLogo: false,
+      colorTheme: isDark() ? 'dark' : 'light',
+      isTransparent: false,
+      displayMode: 'adaptive',
+      locale: 'zh_TW'
+    });
+    box.appendChild(s);
+    host.appendChild(box);
+  }
+  safe(mountTicker);
+
+  /* ---- 首頁 / 分類頁：把文章變成卡片 ---- */
+  safe(function () {
+    if (!body.classList.contains('index-page')) { return; }
+    $$('.blog-posts .post-outer').forEach(function (po, idx) {
+      var a = $('.post-title a', po), pb = $('.post-body', po);
+      if (!pb) { return; }
+      var href = a ? a.href : '#';
+      var text = pb.textContent.replace(/\s+/g, ' ').trim();
+      var im = $('img', pb);
+      var label = $('.post-labels a', po);
+      var pub = $('abbr.published', po) || $('.published', po);
+
+      var thumb = d.createElement('a');
+      thumb.className = 'card-thumb';
+      thumb.href = href;
+      if (im && im.getAttribute('src')) {
+        var img = d.createElement('img');
+        img.src = resize(im.getAttribute('src'), 'w800-h450-c');
+        img.alt = '';
+        img.loading = 'lazy';
+        thumb.appendChild(img);
+      } else {
+        thumb.className += ' noimg';
+        var r = d.createElement('span');
+        r.textContent = 'R';
+        thumb.appendChild(r);
+      }
+      if (label) {
+        var tag = d.createElement('span');
+        tag.className = 'card-tag';
+        tag.textContent = label.textContent;
+        thumb.appendChild(tag);
+      }
+      po.insertBefore(thumb, po.firstChild);
+
+      var meta = d.createElement('div');
+      meta.className = 'card-meta';
+      if (pub) {
+        var iso = pub.getAttribute('title') || '';
+        var dt = iso ? iso.slice(0, 10).replace(/-/g, '.') : pub.textContent;
+        var ts = Date.parse(iso);
+        if (ts && (Date.now() - ts) < 72 * 3600 * 1000) {
+          var nb = d.createElement('span');
+          nb.className = 'new-badge';
+          nb.textContent = '新';
+          meta.appendChild(nb);
+        }
+        var s1 = d.createElement('span');
+        s1.textContent = dt;
+        meta.appendChild(s1);
+      }
+      var mins = Math.max(1, Math.round(text.length / 450));
+      var s2 = d.createElement('span');
+      s2.textContent = '約 ' + mins + ' 分鐘閱讀';
+      meta.appendChild(s2);
+      var t = $('.post-title', po);
+      if (t && t.parentNode) { t.parentNode.insertBefore(meta, t.nextSibling); }
+
+      var limit = idx === 0 ? 170 : 90;
+      var snippet = text.length > limit ? text.slice(0, limit) + '…' : text;
+      pb.textContent = '';
+      var p = d.createElement('p');
+      p.textContent = snippet;
+      pb.appendChild(p);
+
+      var more = d.createElement('a');
+      more.className = 'card-more';
+      more.href = href;
+      more.textContent = '閱讀全文 ›';
+      pb.parentNode.insertBefore(more, pb.nextSibling);
+    });
+  });
+
+  /* ---- 文章頁：進度條 / 目錄 / 相關文章 / 訂閱區 ---- */
+  safe(function () {
+    if (!body.classList.contains('item-page')) { return; }
+    var pb = $('.post-body');
+    if (!pb) { return; }
+
+    var bar = $('#progress');
+    window.addEventListener('scroll', function () {
+      var h = d.documentElement, m = h.scrollHeight - h.clientHeight;
+      if (bar) { bar.style.width = (m > 0 ? (h.scrollTop / m) * 100 : 0) + '%'; }
+    }, { passive: true });
+
+    var hs = $$('h2, h3', pb);
+    if (hs.length >= 3) {
+      var toc = d.createElement('nav');
+      toc.className = 'toc';
+      var tt = d.createElement('b');
+      tt.textContent = '本文重點導覽';
+      toc.appendChild(tt);
+      var ol = d.createElement('ol');
+      hs.forEach(function (h, i) {
+        h.id = h.id || 'sec-' + (i + 1);
+        var li = d.createElement('li');
+        if (h.tagName === 'H3') { li.className = 'sub'; }
+        var a = d.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        li.appendChild(a);
+        ol.appendChild(li);
+      });
+      toc.appendChild(ol);
+      pb.insertBefore(toc, pb.firstChild);
+    }
+
+    var host = $('.blog-posts');
+    if (!host) { return; }
+
+    var cta = d.createElement('div');
+    cta.className = 'cta';
+    var left = d.createElement('div');
+    var h4 = d.createElement('h4');
+    h4.textContent = '不錯過每一篇觀點';
+    var cp = d.createElement('p');
+    cp.textContent = '訂閱 RSS，投資動態、產業文章、個股分享與產經新聞第一時間掌握。';
+    left.appendChild(h4);
+    left.appendChild(cp);
+    var ca = d.createElement('a');
+    ca.href = '/feeds/posts/default?alt=rss';
+    ca.target = '_blank';
+    ca.textContent = 'RSS 訂閱';
+    cta.appendChild(left);
+    cta.appendChild(ca);
+    host.appendChild(cta);
+
+    var lab = $('.post-labels a[rel="tag"]') || $('.post-labels a');
+    if (!lab || !window.fetch) { return; }
+    var url = '/feeds/posts/default/-/' + encodeURIComponent(lab.textContent.trim()) + '?alt=json&max-results=6';
+    fetch(url).then(function (r) { return r.json(); }).then(function (j) {
+      var es = (j.feed && j.feed.entry) || [];
+      var cards = [];
+      es.forEach(function (e) {
+        var lk = (e.link || []).filter(function (l) { return l.rel === 'alternate'; })[0];
+        if (!lk) { return; }
+        var tmp = d.createElement('a');
+        tmp.href = lk.href;
+        if (tmp.pathname === location.pathname) { return; }
+        if (cards.length >= 3) { return; }
+        cards.push({ href: lk.href, title: e.title.$t, img: e['media$thumbnail'] ? e['media$thumbnail'].url : '' });
+      });
+      if (!cards.length) { return; }
+      var sec = d.createElement('section');
+      sec.className = 'related';
+      var rh = d.createElement('h4');
+      rh.textContent = '延伸閱讀';
+      sec.appendChild(rh);
+      var grid = d.createElement('div');
+      grid.className = 'rel-grid';
+      cards.forEach(function (c) {
+        var a = d.createElement('a');
+        a.className = 'rel-card';
+        a.href = c.href;
+        var th = d.createElement('span');
+        th.className = 'card-thumb' + (c.img ? '' : ' noimg');
+        if (c.img) {
+          var im = d.createElement('img');
+          im.src = resize(c.img, 'w480-h270-c');
+          im.alt = '';
+          im.loading = 'lazy';
+          th.appendChild(im);
+        } else {
+          var rr = d.createElement('span');
+          rr.textContent = 'R';
+          th.appendChild(rr);
+        }
+        var tx = d.createElement('div');
+        tx.className = 't';
+        tx.textContent = c.title;
+        a.appendChild(th);
+        a.appendChild(tx);
+        grid.appendChild(a);
+      });
+      sec.appendChild(grid);
+      host.appendChild(sec);
+    }).catch(function () { });
+  });
+
+  /* ---- 回到頂部 ---- */
+  safe(function () {
+    var b = $('#toTop');
+    if (!b) { return; }
+    window.addEventListener('scroll', function () {
+      b.classList.toggle('show', (d.documentElement.scrollTop || body.scrollTop) > 600);
+    }, { passive: true });
+    b.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  });
+
+  /* ---- 滑入動畫（放最後，等卡片建好） ---- */
+  safe(function () {
+    if (!('IntersectionObserver' in window)) { return; }
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.06 });
+    var els = $$('.index-page .post-outer, .sidebar .widget');
+    d.documentElement.classList.add('js');
+    els.forEach(function (el) { io.observe(el); });
+  });
+})();
+//]]>
+  </script>
+
+  <!-- 全球新聞脈動內嵌資料（備用方案 B）：貼在 blogger-3 之前。更新時只要換掉這一段。 -->
+  <script type='text/javascript'>
+//<![CDATA[
+window.NEWS_DATA={"updated": "2026-10-11T09:49:05+00:00", "items": [{"c": "tech", "s": "科技新報", "t": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題", "b": "研究利用水熊蟲體內的抗凍蛋白搭配海藻糖，成功維持紅血球在冷凍後的狀態。團隊希望藉此突破人類紅血球冷凍保存的難題。", "u": "https://technews.tw/2026/10/11/red-blood-cell-tardigrade-cahs-protein-trehalose-centrifugation/", "p": "2026-10-11T09:49:05+00:00", "o": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題"}, {"c": "tech", "s": "科技新報", "t": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響", "b": "美國國際貿易委員會對特定垂直供電系統及相關運算設備啟動 337 調查，鴻海、廣達、台達電等台廠被列入。鴻海與廣達聲明相關產品、生產營運及出貨均未受影響，將積極配合調查。", "u": "https://finance.technews.tw/2026/10/11/337-usa-victor/", "p": "2026-10-11T08:34:13+00:00", "o": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響"}, {"c": "tech", "s": "科技新報", "t": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路", "b": "Figure AI 創辦人阿德科克領軍的新創 Hark，推出主打「主動式」服務的 AI 應用 Hark Pro，首款硬體預計 2027 年問世。設計主管曾任蘋果工業設計師，參與過 iPhone Air。", "u": "https://technews.tw/2026/10/11/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch/", "p": "2026-10-11T08:30:41+00:00", "o": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路"}, {"c": "tech", "s": "科技新報", "t": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化", "b": "天文學家用韋伯望遠鏡連續觀測 7.5 光年外的棕矮星 WISE 0855–0714 長達 11 小時。首度證實其高空水雲厚度會隨時間變化，如同地球的天氣。", "u": "https://technews.tw/2026/10/11/wise-0855-brown-dwarf-star-atmosphere-water-cloud/", "p": "2026-10-11T08:18:46+00:00", "o": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化"}, {"c": "fin", "s": "Yahoo Finance", "t": "四年來增加 40 兆美元：為何這波 AI 驅動的牛市仍有空間", "b": "自 2022 年秋季以來，AI 投資熱潮已改變整個市場。", "u": "https://finance.yahoo.com/m/4a6ddf57-8100-34f1-89a7-923bd93d7e6d/four-years-in%2C-%2440-trillion.html?.tsrc=rss", "p": "2026-10-11T08:00:00+00:00", "o": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run"}, {"c": "tech", "s": "科技新報", "t": "AI 代理的下道關卡，網站願不願意放行", "b": "個人 AI 代理人能替使用者訂機票、訂位、買菜，但常被網站擋下而無法完成任務，例如亞馬遜開始封鎖 Meta 的 Muse。網站是否放行，成為 AI 代理的下一道關卡。", "u": "https://infosecu.technews.tw/2026/10/11/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/", "p": "2026-10-11T07:30:36+00:00", "o": "AI 代理的下道關卡，網站願不願意放行"}, {"c": "tech", "s": "科技新報", "t": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍", "b": "丹納赫宣布推出首座 AI 驅動的自動研究實驗室，協助科學家更快開發客製化抗體與分子工具。預計 2027 年初全面規模化運作，抗體試劑開發最高可快 8 倍。", "u": "https://technews.tw/2026/10/11/danaher-launching-ai-powered-autonomous-lab-for-drug-discovery/", "p": "2026-10-11T07:00:45+00:00", "o": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍"}, {"c": "tech", "s": "科技新報", "t": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄", "b": "澳洲新南威爾斯大學與 UtmoLight 以省去氧化鎳層的製程，讓 30×30 公分鈣鈦礦太陽能次模組達到 23.5% 的認證穩定轉換效率，較先前紀錄提升 0.6 個百分點。", "u": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/", "p": "2026-10-11T06:30:08+00:00", "o": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的 Invesco 醫療保健 ETF：聚焦製藥的 PJP 對比視野更廣的 RSPH", "b": "PJP 的一年期報酬勝過 RSPH，但 RSPH 持有 61 檔醫療保健股，分散度更高、費用率更低。", "u": "https://www.fool.com/coverage/etfs/2026/10/11/better-invesco-healthcare-etf-pjp-targeting-pharmaceuticals-vs-rsph-s-broader-sector-lens/?.tsrc=rss", "p": "2026-10-11T06:13:48+00:00", "o": "Better Invesco Healthcare ETF: PJP Targeting Pharmaceuticals vs. RSPH's Broader Sector Lens"}, {"c": "tech", "s": "科技新報", "t": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐", "b": "台股在全球資金與 AI 權值股帶動下屢創新高，距離 5 萬點僅一步之遙，但在關卡前高檔震盪。渣打認為企業獲利跑贏股價，漲勢仍有基本面支撐。", "u": "https://finance.technews.tw/2026/10/11/what-driving-taiwan-stocks-toward-50000/", "p": "2026-10-11T06:00:00+00:00", "o": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐"}, {"c": "fin", "s": "WSJ", "t": "讓私募信貸崛起的沉悶保險產品", "b": "指數型年金保證不虧損，但保險公司可定期調整報酬公式。", "u": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main", "p": "2026-10-11T02:46:00+00:00", "o": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent"}, {"c": "pol", "s": "WSJ", "t": "飢餓的烏克蘭人冒死逃離前線小鎮", "b": "整年來糧食供應日益短缺，地雷與無人機讓道路愈來愈難以通行。", "u": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews", "p": "2026-10-11T02:00:00+00:00", "o": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town"}, {"c": "tech", "s": "WSJ", "t": "如何保護你的網路攝影機不被窺探", "b": "弱密碼、過時軟體與不佳的 Wi-Fi 安全，可能讓陌生人入侵你家中的攝影機。", "u": "https://www.wsj.com/tech/personal-tech/how-to-keep-your-webcam-safe-from-prying-eyes-20c05b74?mod=rss_Technology", "p": "2026-10-11T00:57:00+00:00", "o": "How to Keep Your Webcam Safe From Prying Eyes"}, {"c": "pol", "s": "WSJ", "t": "監視攝影機無所不在，如今成為戰爭中的駭客目標", "b": "這些高度脆弱的設備已被交戰方用來追蹤、監視與攻擊敵人。", "u": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews", "p": "2026-10-11T00:30:00+00:00", "o": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War"}, {"c": "fin", "s": "財經新報", "t": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈", "b": "汽車百貨龍頭車麗屋 10 月登興櫃，面臨展店瓶頸。公司靠取得 Point S 台灣獨家總代理，並跨足兩家商場經營，尋求再成長。", "u": "https://finance.technews.tw/2026/10/11/car-quality-automotive-expands-its-footprint/", "p": "2026-10-11T00:00:18+00:00", "o": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈"}, {"c": "pol", "s": "WSJ", "t": "胡塞武裝襲擊沙烏地機場，至少 12 死、數百人受傷", "b": "飛彈攻擊迫使沙國國際機場關閉，是該國十多年來最致命的攻擊。", "u": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews", "p": "2026-10-10T23:28:00+00:00", "o": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes"}, {"c": "fin", "s": "Yahoo Finance", "t": "標普 500 中一檔 COVID 疫苗股今年飆漲 600%", "b": "Moderna 股價今年上漲 663%，超越 AI 概念股成為標普 500 漲幅冠軍，完整的癌症疫苗數據將於 10 月 24 日公布。", "u": "https://beincrypto.com/moderna-stock-best-sp-500-2026/?.tsrc=rss", "p": "2026-10-10T22:23:54+00:00", "o": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year"}, {"c": "tech", "s": "WSJ", "t": "美軍沙漠科技測試顯示 AI 戰爭仍有漫漫長路", "b": "一場沙漠試驗暴露出裝備限制與體制障礙，使美軍在跟上擅長 AI 的對手時步履維艱。", "u": "https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?mod=rss_Technology", "p": "2026-10-10T22:11:00+00:00", "o": "The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare"}, {"c": "fin", "s": "Yahoo Finance", "t": "VOO 不持有 SpaceX、台積電、三星電子、SK 海力士或 ASML，這檔 Vanguard ETF 則有", "b": "部分全球最重要的 AI 股票明顯不在標普 500 之中。", "u": "https://www.fool.com/investing/2026/10/10/voo-doesnt-own-spacex-taiwan-semiconductor-samsung/?.tsrc=rss", "p": "2026-10-10T20:51:33+00:00", "o": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does."}, {"c": "pol", "s": "WSJ", "t": "川普要求烏克蘭停止攻擊俄羅斯煉油廠，並更換澤倫斯基", "b": "隨著俄羅斯加強轟炸烏克蘭城市，白宮與基輔的關係跌至新低。", "u": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews", "p": "2026-10-10T20:00:00+00:00", "o": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky"}, {"c": "tech", "s": "WSJ", "t": "為什麼鞋子的額外緩衝可能反而增加腳的負擔", "b": "超厚緩震鞋大行其道，但部分醫師擔心對腳、腳踝、膝蓋或髖部有長期風險。", "u": "https://www.wsj.com/lifestyle/fitness/shoes-cushion-feet-health-8f5d83a8?mod=rss_Technology", "p": "2026-10-10T20:00:00+00:00", "o": "Why Extra Cushioning in Your Shoes Might Actually Increase Stress on Your Feet"}, {"c": "fin", "s": "Yahoo Finance", "t": "「大空頭」投資人對最關鍵的 AI 風險看法分歧", "b": "史蒂夫·艾斯曼認為，麥可·貝瑞可能看錯了 AI 熱潮的弱點。", "u": "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss", "p": "2026-10-10T19:13:00+00:00", "o": "‘Big Short’ investors split over the AI risk that matters most"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的生技 ETF：First Trust FBT 對比 VanEck BBH", "b": "VanEck 較低的 0.35% 費用率吸引重視成本的投資人，First Trust 則以 29 億美元規模與等權重配置見長。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/better-biotechnology-etf-first-trust-fbt-vs-vaneck-bbh/?.tsrc=rss", "p": "2026-10-10T19:07:11+00:00", "o": "Better Biotechnology ETF: First Trust FBT vs. VanEck BBH"}, {"c": "fin", "s": "Yahoo Finance", "t": "華爾街對一檔創新標普 500 成分股的目標價看法分歧", "b": "分析師對這檔去年才加入標普 500 的股票前景意見不一。", "u": "https://www.thestreet.com/crypto/markets/wall-street-split-on-pioneering-s-p-500-stocks-price-target?.tsrc=rss", "p": "2026-10-10T18:15:00+00:00", "o": "Wall Street split on pioneering S&P 500 stock's price target"}, {"c": "fin", "s": "Yahoo Finance", "t": "戴爾（DELL）大幅跑贏標普 500，AI 帶動的漲勢能否延續？", "b": "戴爾科技近期成長多來自硬體銷售，這是毛利較低、銷量較大的路線。", "u": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-outpaced-p-500-174029607.html?.tsrc=rss", "p": "2026-10-10T17:40:29+00:00", "o": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?"}, {"c": "fin", "s": "Yahoo Finance", "t": "巴菲特警告股市投資人將面臨現實檢驗", "b": "巴菲特為當前市場現象下了定義，投資人或許該聽一聽。", "u": "https://www.thestreet.com/investing/stocks/warren-buffett-reality-check-stock-investors-high-share-prices?.tsrc=rss", "p": "2026-10-10T17:34:53+00:00", "o": "Warren Buffett warns of a reality check coming for stock investors"}, {"c": "fin", "s": "Yahoo Finance", "t": "優步（UBER）：強勁營運成長被疲弱財測抵銷", "b": "Suncoast Equity Management 發布其 2026 年第三季投資人信，內容涉及美國大型股精選成長策略。", "u": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-strong-operational-141051947.html?.tsrc=rss", "p": "2026-10-10T17:30:51+00:00", "o": "Uber Technologies (UBER): Strong Operational Growth Offset by Soft Guidance"}, {"c": "fin", "s": "Yahoo Finance", "t": "為什麼 Meta（META）是便宜的買進標的", "b": "Suncoast Equity Management 發布其 2026 年第三季投資人信，內容涉及美國大型股精選成長策略。", "u": "https://finance.yahoo.com/technology/ai/articles/meta-meta-ai-strategy-gains-144459494.html?.tsrc=rss", "p": "2026-10-10T17:26:59+00:00", "o": "Here’s Why Meta (META) Is A Cheap Stock To Buy"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的醫療保健 ETF：VanEck 聚焦生技的 BBH 對比 State Street 聚焦製藥的 XPH", "b": "BBH 集中持有 25 檔大型生技龍頭，XPH 則分散於 62 檔製藥股，兩者年費皆為 0.35%。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/better-healthcare-etf-vaneck-s-biotech-focused-bbh-vs-state-street-s-xph-targeting-pharma/?.tsrc=rss", "p": "2026-10-10T16:39:50+00:00", "o": "Better Healthcare ETF: VanEck's Biotech-Focused BBH vs. State Street's XPH Targeting Pharma"}, {"c": "fin", "s": "Yahoo Finance", "t": "道瓊期貨：標普 500、那斯達克接近高點，ASML 與台積電將揭開 AI 財報季序幕", "b": "儘管走勢震盪，標普 500 與那斯達克仍接近高點，ASML 與輝達晶片製造商台積電的財報可能決定 AI 股回檔是否為買點。", "u": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss", "p": "2026-10-10T15:28:10+00:00", "o": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings"}, {"c": "fin", "s": "Yahoo Finance", "t": "GE Vernova、Snowflake 領銜 5 檔營收加速成長的 AI 股", "b": "營收加速成長激起投資人胃口。", "u": "https://finance.yahoo.com/m/14772ad4-6d0f-356a-88f1-942838969885/ge-vernova%2C-snowflake-lead-5.html?.tsrc=rss", "p": "2026-10-10T15:24:44+00:00", "o": "GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth"}, {"c": "fin", "s": "Yahoo Finance", "t": "花旗發出嚴厲股市預警，1970 年代的訊號再度出現", "b": "一個熟悉的通膨時代訊號正引起華爾街關注。", "u": "https://www.thestreet.com/investing/stocks/citi-stark-stock-market-call-as-1970s-signal-growth-inflation-returns?.tsrc=rss", "p": "2026-10-10T15:17:00+00:00", "o": "Citi issues stark stock market call as a 1970s signal returns"}, {"c": "fin", "s": "Yahoo Finance", "t": "歷史告訴我們：下次熊市來臨前，每位投資人都該做的一件事", "b": "分散投資仍是長期投資的最佳策略之一。", "u": "https://www.fool.com/investing/2026/10/10/history-portfolio-move-investor-make-bear-market/?.tsrc=rss", "p": "2026-10-10T15:14:00+00:00", "o": "History Says This Is the 1 Portfolio Move Every Investor Should Make Before the Next Bear Market"}, {"c": "fin", "s": "Yahoo Finance", "t": "規模能否終於轉化為獲利？QXO 公司（QXO）", "b": "QXO 今年以來下跌近 43%，10 月 8 日清晨股價約 11 美元。", "u": "https://finance.yahoo.com/markets/stocks/articles/scale-finally-translate-earnings-qxo-151158963.html?.tsrc=rss", "p": "2026-10-10T15:11:58+00:00", "o": "Can Scale Finally Translate Into Earnings for QXO Inc. (QXO)?"}, {"c": "fin", "s": "Yahoo Finance", "t": "投資人預測 Anthropic 可能成為首家市值 10 兆美元的公司", "b": "SemiAnalysis 創辦人迪倫·帕特爾在 Big Technology Podcast 上表示，Anthropic 可能成為首家估值達 10 兆美元的公司。", "u": "https://www.tikr.com/blog/investor-predicts-anthropic-could-be-the-first-10-trillion-company-cue-the-amazon-google-payday?ref=yahoofinance&.tsrc=rss", "p": "2026-10-10T15:05:37+00:00", "o": "Investor Predicts Anthropic Could Be “the First” $10 Trillion Company. Cue the Amazon + Google Payday"}, {"c": "fin", "s": "Yahoo Finance", "t": "預測：投資 5,000 美元於 Vanguard 標普 500 ETF（VOO），到 2040 年價值多少？", "b": "1.9 萬美元，聽起來如何？", "u": "https://www.fool.com/investing/2026/10/10/prediction-what-an-investment-in-voo-etf-sp500/?.tsrc=rss", "p": "2026-10-10T14:55:00+00:00", "o": "Prediction: This Is What a $5,000 Investment in the Vanguard S&P 500 ETF (VOO) Will Be Worth by 2040"}, {"c": "pol", "s": "WSJ", "t": "印度封鎖首都核心區，阻止選民權利抗議", "b": "對選民名冊的不滿，與年輕人求職困難的怨氣交織在一起。", "u": "https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4?mod=rss_worldnews", "p": "2026-10-10T14:34:00+00:00", "o": "India Locks Down Heart of Capital to Thwart Voter Rights Protest"}, {"c": "fin", "s": "Yahoo Finance", "t": "REIT ETF 對決：哪檔更適合重視收益的投資人？", "b": "State Street 基金年費僅 0.08%，iShares 為 0.32%，但績效與殖利率的差異更為細膩。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/?.tsrc=rss", "p": "2026-10-10T14:30:02+00:00", "o": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?"}, {"c": "pol", "s": "WSJ", "t": "在危險而分裂的世界中致富的北歐公式", "b": "瑞典與丹麥大舉投入國防、強化彼此及與歐洲的關係，並逐步擺脫對美國的依賴，成效顯著。", "u": "https://www.wsj.com/world/europe/the-nordic-formula-for-prospering-in-a-dangerous-fragmented-world-cb0de1d7?mod=rss_worldnews", "p": "2026-10-10T14:00:00+00:00", "o": "The Nordic Formula for Prospering in a Dangerous, Fragmented World"}, {"c": "tech", "s": "WSJ", "t": "OpenAI 在防止 ChatGPT 引發妄想方面取得進展", "b": "心理健康專家就這款聊天機器人如何提出更好的問題、區分危機與其他狀況提供建議。", "u": "https://www.wsj.com/tech/ai/chatgpt-gpt5-sycophancy-delusions-9b3506bf?mod=rss_Technology", "p": "2026-10-10T12:00:00+00:00", "o": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions"}]};
+//]]>
+  </script>
+
+  <!-- 全球新聞脈動：不使用 API Key。資料來源二選一：
+       A) NEWS_URL 填入 news-data.json 的公開網址（例如 GitHub Pages），會自動讀取最新資料
+       B) NEWS_URL 留空，改用 blogger-4-data.txt 貼進版型的內嵌資料（需手動更新） -->
+  <script type='text/javascript'>
+//<![CDATA[
+(function () {
+  var NEWS_URL = 'https://roger-wiseshare.github.io/news-pulse/news-data.json';
+  var REFRESH_MS = 30 * 60 * 1000;
+
+  var list = document.getElementById('npList');
+  if (!list) { return; }
+  var tabs = document.getElementById('npTabs'), stamp = document.getElementById('npUpdated');
+  var card = document.getElementById('npCard');
+  var CATS = [['all', '全部'], ['pol', '國際政治'], ['tech', '科技趨勢'], ['fin', '財經金融']];
+  var names = { pol: '國際政治', tech: '科技趨勢', fin: '財經金融' };
+  var cur = 'all', data = [], shown = [];
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) { e.className = cls; }
+    if (text != null) { e.textContent = text; }
+    return e;
+  }
+  function ago(iso) {
+    var m = Math.max(1, Math.round((Date.now() - Date.parse(iso)) / 60000));
+    if (m < 60) { return m + ' 分鐘前'; }
+    if (m < 1440) { return Math.floor(m / 60) + ' 小時前'; }
+    return Math.floor(m / 1440) + ' 天前';
+  }
+  function openExt(u) {
+    if (!/^https?:\/\//.test(u || '')) { return; }
+    var a = document.createElement('a');
+    a.href = u; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    document.body.appendChild(a); a.click(); a.remove();
+  }
+
+  function drawTabs() {
+    tabs.textContent = '';
+    CATS.forEach(function (c) {
+      var n = data.filter(function (a) { return c[0] === 'all' || a.c === c[0]; }).length;
+      var b = el('button', c[0] === cur ? 'on' : '', c[1] + ' ' + n);
+      b.type = 'button';
+      b.addEventListener('click', function () { cur = c[0]; draw(); });
+      tabs.appendChild(b);
+    });
+  }
+
+  /* 摘要卡：先顯示摘要，使用者按「閱讀全文」才開外部連結 */
+  function openCard(a) {
+    document.getElementById('npcTag').textContent = names[a.c] || '新聞';
+    document.getElementById('npcMeta').textContent = a.s + ' · ' + ago(a.p);
+    document.getElementById('npcT').textContent = a.t;
+    document.getElementById('npcO').textContent = (a.o && a.o !== a.t) ? '原標題：' + a.o : '';
+    var ul = document.getElementById('npcP');
+    ul.textContent = '';
+    (a.b || '').split(/(?<=[。！？])/).forEach(function (s) {
+      s = s.trim();
+      if (s) { var li = el('li'); li.appendChild(el('span', '', s)); ul.appendChild(li); }
+    });
+    document.getElementById('npcS').textContent = '摘要由 Claude 整理，僅供參考';
+    card.setAttribute('data-u', a.u || '');
+    if (card.showModal) { card.showModal(); } else { card.setAttribute('open', ''); }
+  }
+  document.getElementById('npcX').addEventListener('click', function () { card.close(); });
+  card.addEventListener('click', function (e) { if (e.target === card) { card.close(); } });
+  document.getElementById('npcGo').addEventListener('click', function () { openExt(card.getAttribute('data-u')); });
+
+  function draw() {
+    drawTabs();
+    shown = data.filter(function (a) { return cur === 'all' || a.c === cur; });
+    list.textContent = '';
+    if (!shown.length) { list.appendChild(el('div', 'np-empty', '目前沒有新聞。')); return; }
+    shown.forEach(function (a) {
+      var row = el('button', 'np-row');
+      row.type = 'button';
+      var meta = el('span', 'np-meta');
+      meta.appendChild(el('span', 'np-tag', names[a.c] || '新聞'));
+      meta.appendChild(el('span', '', a.s));
+      meta.appendChild(el('span', '', ago(a.p)));
+      row.appendChild(meta);
+      row.appendChild(el('span', 'np-title', a.t));
+      row.addEventListener('click', function () { openCard(a); });
+      list.appendChild(row);
+    });
+  }
+
+  function apply(j) {
+    data = (j.items || []).slice().sort(function (x, y) { return Date.parse(y.p) - Date.parse(x.p); });
+    stamp.textContent = '更新於 ' + new Date(j.updated).toLocaleString('zh-TW', { hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+    draw();
+  }
+  function load() {
+    if (!NEWS_URL) {
+      if (window.NEWS_DATA) { apply(window.NEWS_DATA); } else { list.textContent = ''; list.appendChild(el('div', 'np-empty', '尚未設定新聞資料。')); }
+      return;
+    }
+    fetch(NEWS_URL + (NEWS_URL.indexOf('?') < 0 ? '?' : '&') + 't=' + Math.floor(Date.now() / 600000), { credentials: 'omit' })
+      .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+      .then(apply)
+      .catch(function () {
+        if (window.NEWS_DATA) { apply(window.NEWS_DATA); }
+        else if (!data.length) { list.textContent = ''; list.appendChild(el('div', 'np-empty', '新聞暫時無法載入，請稍後重新整理。')); }
+      });
+  }
+  load();
+  if (NEWS_URL) { setInterval(load, REFRESH_MS); }
+})();
+//]]>
+  </script>
+
+</body>
+</html>

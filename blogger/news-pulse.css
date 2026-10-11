@@ -1,0 +1,46 @@
+/* =====================================================================
+   全球新聞脈動 CSS（Blogger 版，無需 API Key）
+   貼法：佈景主題 → 編輯 HTML → 搜尋 b:skin，整份貼在 b:skin 結尾標籤的正上方
+   使用版型現有的顏色變數（--card、--line、--accent-soft 等），淺色／深色自動跟隨
+   ===================================================================== */
+/* ---------- 全球新聞脈動（新聞條列 + 摘要卡，無需 API Key） ---------- */
+.news-pulse{margin-top:26px}
+.np-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.np-head h2{margin:0;display:flex;align-items:center;gap:10px;font-weight:900;font-size:22px;letter-spacing:.06em;color:var(--strong)}
+.np-head h2::before{content:'';width:10px;height:10px;border-radius:50%;background:var(--up);animation:npPulse 1.8s infinite}
+.np-updated{font-size:13px;color:var(--muted)}
+.np-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.np-tabs button{font:inherit;font-size:14px;font-weight:500;letter-spacing:.06em;padding:5px 16px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--muted);cursor:pointer}
+.np-tabs button:hover{color:var(--strong)}
+.np-tabs button.on{background:var(--accent-soft);border-color:var(--accent-line);color:var(--accent-ink);font-weight:700}
+.np-list{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow-s);overflow:hidden}
+.np-row{display:block;width:100%;text-align:left;font:inherit;color:inherit;background:none;border:0;border-top:1px solid var(--line);padding:14px 20px;cursor:pointer}
+.np-row:first-child{border-top:0}
+.np-row:hover{background:var(--card-2)}
+.np-meta{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;font-size:12px;color:var(--muted)}
+.np-tag{font-weight:700;letter-spacing:.06em;padding:1px 11px;border-radius:999px;background:var(--accent-soft);color:var(--accent-ink)}
+.np-title{display:block;margin-top:4px;font-weight:700;font-size:16.5px;line-height:1.6;color:var(--strong)}
+.np-row:hover .np-title{color:var(--accent-ink)}
+.np-empty{padding:28px 20px;text-align:center;color:var(--muted)}
+.np-note{margin:10px 2px 0;font-size:12px;color:var(--muted);line-height:1.7}
+
+/* 摘要卡 */
+#npCard{border:1px solid var(--line);border-radius:22px;background:var(--card);color:var(--ink);width:min(640px,calc(100vw - 28px));max-height:86vh;padding:22px 24px;box-shadow:var(--shadow)}
+#npCard::backdrop{background:rgba(8,12,10,.6)}
+.npc-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.npc-x{margin-left:auto;width:36px;height:36px;border-radius:50%;border:1px solid var(--btn-line);background:var(--btn-bg);color:var(--btn-ink);font-size:15px;cursor:pointer}
+.npc-x:hover{background:var(--accent);color:var(--on-accent)}
+#npCard h3{margin:12px 0 2px;font-weight:700;font-size:21px;line-height:1.5;color:var(--strong)}
+.npc-orig{font-size:12.5px;color:var(--muted)}
+#npCard h4{margin:16px 0 8px;font-size:13px;letter-spacing:.08em;color:var(--muted)}
+.npc-pts{display:grid;gap:8px;margin:0;padding:14px 16px;list-style:none;background:var(--accent-soft);border-radius:14px;font-size:15.5px;line-height:1.8}
+.npc-pts li{display:flex;gap:.6em;align-items:baseline}
+.npc-pts li::before{content:'•';flex:none;width:.6em;text-align:center;color:var(--accent-ink)}
+.npc-pts li span{min-width:0;overflow-wrap:anywhere}
+.npc-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:18px}
+.npc-foot small{font-size:12px;color:var(--muted)}
+.npc-go{font:inherit;font-weight:700;letter-spacing:.08em;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;padding:9px 24px;cursor:pointer}
+.npc-go:hover{transform:translateY(-1px)}
+@keyframes npPulse{50%{opacity:.25}}
+@media (max-width:720px){.np-head h2{font-size:19px}.np-row{padding:12px 16px}#npCard{padding:18px 18px}}
+@media (prefers-reduced-motion:reduce){.np-head h2::before{animation:none!important}}

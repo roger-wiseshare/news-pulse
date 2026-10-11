@@ -4,7 +4,7 @@
   <script type='text/javascript'>
 //<![CDATA[
 (function () {
-  var NEWS_URL = '';
+  var NEWS_URL = 'https://roger-wiseshare.github.io/news-pulse/news-data.json';
   var REFRESH_MS = 30 * 60 * 1000;
 
   var list = document.getElementById('npList');
