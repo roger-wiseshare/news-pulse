@@ -436,6 +436,13 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .npc-go{font:inherit;font-weight:700;letter-spacing:.08em;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;padding:9px 24px;cursor:pointer}
 .npc-go:hover{transform:translateY(-1px)}
 @keyframes npPulse{50%{opacity:.25}}
+/* ---------- 首頁版面：沒有文章列表，側邊欄小工具改成橫向排列 ---------- */
+.home-layout{grid-template-columns:1fr}
+.home-layout .content{display:none}
+.home-layout .sidebar .section{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}
+.home-layout .sidebar .widget{margin:0}
+@media (max-width:720px){.home-layout .sidebar .section{grid-template-columns:1fr}}
+
 @media (max-width:720px){.np-head h2{font-size:19px}.np-row{padding:12px 16px}#npCard{padding:18px 18px}}
 @media (prefers-reduced-motion:reduce){.np-head h2::before{animation:none!important}}
 
@@ -590,7 +597,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
       </dialog>
     </b:if>
 
-    <div class='layout'>
+    <div class='layout' expr:class='data:blog.url == data:blog.homepageUrl ? &quot;layout home-layout&quot; : &quot;layout&quot;'>
       <main class='content'>
         <b:section class='main' id='main' showaddelement='no'>
           <b:widget id='Blog1' locked='true' title='網誌文章' type='Blog'>
@@ -618,6 +625,8 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
               <b:widget-setting name='showReactions'>false</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='top'>
+  <!-- 首頁不顯示文章列表、分頁按鈕與訂閱連結（其他頁面照常） -->
+  <b:if cond='data:blog.pageType != &quot;index&quot; or data:blog.url != data:blog.homepageUrl'>
   <b:if cond='!data:mobile'>
     <!-- posts -->
     <div class='blog-posts hfeed'>
@@ -662,6 +671,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 
   <b:else/>
     <b:include name='mobile-main'/>
+  </b:if>
   </b:if>
 </b:includable>
             <b:includable id='backlinkDeleteIcon' var='backlink'/>
