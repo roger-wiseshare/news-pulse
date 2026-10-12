@@ -37,6 +37,12 @@
     if (v === 'dark' || v === 'light') { document.documentElement.setAttribute('data-theme', v); }
   } catch (e) { }
 })();
+(function () {
+  try {
+    var p = location.pathname, q = location.search;
+    if ((p === '/' || p === '') && !/[?&](q|updated-max|max-results)=/.test(q)) { document.documentElement.classList.add('is-home'); }
+  } catch (e) { }
+})();
 //]]>
   </script>
 
@@ -450,7 +456,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 @media (prefers-reduced-motion:reduce){.tk-track{animation:none}.ticker-bar{overflow-x:auto}}
 
 /* ---------- 首頁版面：沒有文章列表與側邊欄，只留新聞區塊 ---------- */
-.home-layout{display:none}
+html.is-home .layout{display:none}
 .news-pulse{margin-bottom:56px}
 
 @media (max-width:720px){.np-head h2{font-size:19px}.np-row{padding:12px 16px}#npCard{padding:18px 18px}}
@@ -460,12 +466,12 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 /* ---------- 版面調整：沒有側邊欄、隱藏 Blogger 署名、非首頁不顯示頁首標題區塊 ---------- */
 .layout{grid-template-columns:minmax(0,1fr)}
 .Attribution,.site-footer .Attribution{display:none!important}
-body:not(.is-home) .masthead .header{display:none}
-body:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;padding-bottom:4px}
+html:not(.is-home) .masthead .header{display:none}
+html:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;padding-bottom:4px}
 ]]></b:skin>
 </head>
 
-<body expr:class='data:blog.pageType + &quot;-page&quot; + (data:blog.url == data:blog.homepageUrl ? &quot; is-home&quot; : &quot;&quot;)'>
+<body expr:class='data:blog.pageType + &quot;-page&quot;'>
 
   <div id='progress'/>
 
@@ -612,7 +618,7 @@ body:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
       </dialog>
     </b:if>
 
-    <div class='layout' expr:class='data:blog.url == data:blog.homepageUrl ? &quot;layout home-layout&quot; : &quot;layout&quot;'>
+    <div class='layout'>
       <main class='content'>
         <b:section class='main' id='main' showaddelement='no'>
           <b:widget id='Blog1' locked='true' title='網誌文章' type='Blog'>
