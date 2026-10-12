@@ -470,7 +470,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
   <header class='masthead'>
     <div class='wrap masthead-inner'>
       <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-        <b:widget id='Header1' locked='true' title='羅傑的股海江湖 (標頭)' type='Header'>
+        <b:widget id='Header1' locked='true' title='羅傑股海江湖 (標頭)' type='Header'>
           <b:widget-settings>
             <b:widget-setting name='displayUrl'/>
             <b:widget-setting name='displayHeight'>0</b:widget-setting>
