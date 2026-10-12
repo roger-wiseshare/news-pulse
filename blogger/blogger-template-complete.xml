@@ -436,6 +436,19 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .npc-go{font:inherit;font-weight:700;letter-spacing:.08em;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;padding:9px 24px;cursor:pointer}
 .npc-go:hover{transform:translateY(-1px)}
 @keyframes npPulse{50%{opacity:.25}}
+/* ---------- 行情跑馬燈（自製，台股不再顯示「！」） ---------- */
+.tk-track{display:flex;width:max-content;animation:tkmove var(--tk-dur,60s) linear infinite}
+.ticker-bar:hover .tk-track{animation-play-state:paused}
+.tk-list{display:flex;flex:none}
+.tk-i{display:inline-flex;align-items:baseline;gap:8px;padding:0 22px;line-height:46px;white-space:nowrap;font-size:14px;border-right:1px solid var(--line)}
+.tk-i b{font-weight:700;color:var(--strong);letter-spacing:.04em}
+.tk-p{color:var(--ink);font-variant-numeric:tabular-nums}
+.tk-c{font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.tk-c.up{color:var(--up)}
+.tk-c.down{color:var(--down)}
+@keyframes tkmove{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.tk-track{animation:none}.ticker-bar{overflow-x:auto}}
+
 /* ---------- 首頁版面：沒有文章列表與側邊欄，只留新聞區塊 ---------- */
 .home-layout{display:none}
 .news-pulse{margin-bottom:56px}
@@ -1807,7 +1820,14 @@ head.appendChild(script);
      原因：手機深色模式下，瀏覽器會把「透明的 iframe」強制塗成白底，
      而深色主題的文字是淺色，白底配淺色字就看不清楚。
      淺色主題底色為純白（與卡片同色）、深色主題為深色（與深色卡片近色），兩者都能融入頁面。 */
-  function mountTicker() {
+  /* ---- 行情跑馬燈 ----
+     主要來源：QUOTES_URL 的 quotes.json（由 GitHub Actions 每 20 分鐘更新，Yahoo Finance 報價，約延遲 15 到 20 分鐘）。
+     原因：TradingView 免費嵌入不提供台股（TWSE）與部分指數，會顯示「！」，所以台股改用自己的資料。
+     quotes.json 讀不到時，退回 TradingView 嵌入（只含它有提供的商品）。 */
+  var QUOTES_URL = 'https://roger-wiseshare.github.io/news-pulse/quotes.json';
+  var tickerMode = '';
+
+  function mountTradingView() {
     var host = $('#ticker');
     if (!host) { return; }
     host.textContent = '';
@@ -1821,10 +1841,9 @@ head.appendChild(script);
     s.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
     s.innerHTML = JSON.stringify({
       symbols: [
-        { proName: 'TWSE:TAIEX', title: '加權指數' },
-        { proName: 'TWSE:2330', title: '台積電' },
         { proName: 'FOREXCOM:SPXUSD', title: '標普500' },
         { proName: 'FOREXCOM:NSXUSD', title: '那斯達克100' },
+        { proName: 'NYSE:TSM', title: '台積電ADR' },
         { proName: 'FX_IDC:USDTWD', title: '美元/台幣' },
         { proName: 'BITSTAMP:BTCUSD', title: '比特幣' }
       ],
@@ -1837,7 +1856,60 @@ head.appendChild(script);
     box.appendChild(s);
     host.appendChild(box);
   }
-  safe(mountTicker);
+
+  function fmtNum(n, d) {
+    return Number(n).toLocaleString('en-US', { minimumFractionDigits: d, maximumFractionDigits: d });
+  }
+  function mountQuotes(j) {
+    var host = $('#ticker');
+    var items = (j && j.items) || [];
+    if (!host || !items.length) { throw new Error('no quotes'); }
+    var age = Date.now() - Date.parse(j.updated);
+    if (!(age < 3 * 24 * 3600 * 1000)) { throw new Error('quotes too old'); }
+    function list() {
+      var ul = d.createElement('div');
+      ul.className = 'tk-list';
+      items.forEach(function (it) {
+        var dir = it.c > 0 ? 'up' : (it.c < 0 ? 'down' : 'flat');
+        var span = d.createElement('span');
+        span.className = 'tk-i';
+        var n = d.createElement('b');
+        n.textContent = it.n;
+        var pr = d.createElement('span');
+        pr.className = 'tk-p';
+        pr.textContent = fmtNum(it.p, it.d == null ? 2 : it.d);
+        var ch = d.createElement('span');
+        ch.className = 'tk-c ' + dir;
+        ch.textContent = (dir === 'up' ? '▲ ' : dir === 'down' ? '▼ ' : '') + fmtNum(Math.abs(it.c), it.d == null ? 2 : it.d) + ' (' + (it.pct > 0 ? '+' : '') + fmtNum(it.pct, 2) + '%)';
+        span.appendChild(n); span.appendChild(pr); span.appendChild(ch);
+        ul.appendChild(span);
+      });
+      return ul;
+    }
+    host.textContent = '';
+    var track = d.createElement('div');
+    track.className = 'tk-track';
+    var first = list();
+    track.appendChild(first);
+    track.appendChild(list());
+    host.appendChild(track);
+    var t = new Date(j.updated);
+    host.title = '報價約延遲 15 到 20 分鐘，資料更新於 ' + t.toLocaleString('zh-TW', { hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+    var w = first.offsetWidth;
+    if (w > 0) { track.style.setProperty('--tk-dur', Math.max(30, Math.round(w / 55)) + 's'); }
+    tickerMode = 'quotes';
+  }
+  function mountTicker() {
+    if (tickerMode === 'quotes') { return; }
+    mountTradingView();
+  }
+  safe(function () {
+    if (!window.fetch) { mountTradingView(); return; }
+    fetch(QUOTES_URL + '?t=' + Math.floor(Date.now() / 300000), { credentials: 'omit' })
+      .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+      .then(mountQuotes)
+      .catch(function () { safe(mountTradingView); });
+  });
 
   /* ---- 首頁 / 分類頁：把文章變成卡片 ---- */
   safe(function () {
