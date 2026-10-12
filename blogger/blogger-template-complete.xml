@@ -481,7 +481,7 @@ html:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
   <!-- 頁首&#65306;LOGO 放這裡&#65288;版面配置 &#8594; 頁首 &#8594; 編輯 &#8594; 選&#12300;取代標題和說明&#12301;上傳 LOGO&#65289; -->
   <header class='masthead'>
     <div class='wrap masthead-inner'>
-      <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
+      <b:section class='header' id='header' maxwidgets='1' showaddelement='yes'>
         <b:widget id='Header1' locked='true' title='羅傑股海江湖 (標頭)' type='Header'>
           <b:widget-settings>
             <b:widget-setting name='displayUrl'/>
@@ -620,7 +620,7 @@ html:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
 
     <div class='layout'>
       <main class='content'>
-        <b:section class='main' id='main' showaddelement='no'>
+        <b:section class='main' id='main' showaddelement='yes'>
           <b:widget id='Blog1' locked='true' title='網誌文章' type='Blog'>
             <b:widget-settings>
               <b:widget-setting name='showDateHeader'>true</b:widget-setting>
@@ -1472,7 +1472,7 @@ html:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
       <div class='brand'><em>R</em> 羅傑股海江湖</div>
       <div class='tagline'>CONSULTING &amp; TECHNOLOGY</div>
       <p class='disclaimer'>本站內容為個人投資心得與研究分享&#65292;僅供參考&#65292;不構成任何買賣建議或獲利保證&#12290;投資一定有風險&#65292;請務必獨立思考&#12289;審慎評估自身風險承受度後再做決定&#65292;並自負盈虧&#12290;</p>
-      <b:section class='footer' id='footer' maxwidgets='1' showaddelement='no'>
+      <b:section class='footer' id='footer' maxwidgets='1' showaddelement='yes'>
         <b:widget id='Attribution1' locked='true' title='' type='Attribution'>
           <b:widget-settings>
             <b:widget-setting name='copyright'/>
@@ -1502,7 +1502,7 @@ html:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
 
   <button id='toTop' title='回到頂部' type='button'>&#8593;</button>
 
-  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'>
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='yes'>
     <b:widget id='Navbar1' locked='false' title='導覽列' type='Navbar'>
       <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
     function setAttributeOnload(object, attribute, val) {
