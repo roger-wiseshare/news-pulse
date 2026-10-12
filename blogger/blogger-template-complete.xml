@@ -640,8 +640,6 @@ body:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
               <b:widget-setting name='showReactions'>false</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='top'>
-  <!-- 首頁不顯示文章列表、分頁按鈕與訂閱連結（其他頁面照常） -->
-  <b:if cond='data:blog.pageType != &quot;index&quot; or data:blog.url != data:blog.homepageUrl'>
   <b:if cond='!data:mobile'>
     <!-- posts -->
     <div class='blog-posts hfeed'>
@@ -684,7 +682,6 @@ body:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;pad
 
   <b:else/>
     <b:include name='mobile-main'/>
-  </b:if>
   </b:if>
 </b:includable>
             <b:includable id='backlinkDeleteIcon' var='backlink'/>
