@@ -1,524 +1,526 @@
 {
- "updated": "2026-10-12T06:46:02+00:00",
+ "updated": "2026-10-12T16:13:44+00:00",
  "items": [
   {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "巴基斯坦宣布緊急狀態，傳邦首席部長等人遭拘留",
-   "b": "巴基斯坦西北部開伯爾－普什圖省發布緊急狀態宣言後，當地媒體報導該省首席部長阿夫里迪等人遭到拘留。這項消息來自阿夫里迪所屬的在野黨巴基斯坦正義運動黨（PTI）。支持者表示反彈，政黨之間的紛爭恐進一步升高。",
-   "pts": [
-    "巴基斯坦西北部開伯爾－普什圖省發布緊急狀態宣言後，當地媒體報導該省首席部長阿夫里迪等人遭到拘留。",
-    "這項消息來自阿夫里迪所屬的在野黨巴基斯坦正義運動黨（PTI）。",
-    "支持者表示反彈，政黨之間的紛爭恐進一步升高。"
-   ],
-   "u": "https://www.sankei.com/article/20261012-PORYCLBLMNIS3G3WH3533QXYRM/",
-   "p": "2026-10-12T07:30:44+00:00",
-   "o": "非常事態宣言のパキスタン、州首相ら拘束か 地元記者「ネット遮断、道路封鎖、外出制限」"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "俄羅斯衛星通訊網「黎明」疑採中國製零件量產，烏克蘭軍方取得情報",
-   "b": "烏克蘭軍方 12 日取得的情報顯示，俄羅斯正建構的衛星通訊服務「拉斯維特（黎明）」，衛星很可能搭載中國製電子零件並進入量產。軍方人士向共同社透露此事。烏克蘭擔憂俄羅斯一旦完成通訊網並用於軍事，將大幅影響戰局，因此提高警戒。",
-   "pts": [
-    "烏克蘭軍方 12 日取得的情報顯示，俄羅斯正建構的衛星通訊服務「拉斯維特（黎明）」，衛星很可能搭載中國製電子零件並進入量產。",
-    "軍方人士向共同社透露此事。",
-    "烏克蘭擔憂俄羅斯一旦完成通訊網並用於軍事，將大幅影響戰局，因此提高警戒。"
-   ],
-   "u": "https://www.sankei.com/article/20261012-UAIDWSHSCNJ4LCHZMN2DX245LA/",
-   "p": "2026-10-12T07:30:00+00:00",
-   "o": "ロシア衛星通信網「夜明け」、中国製部品で量産か ウクライナ軍が情報入手、軍事利用警戒"
-  },
-  {
    "c": "fin",
-   "s": "産経新聞",
-   "t": "IMF 試算：AI 讓亞洲成長加快 0.5 到 1 個百分點，可抵銷高齡化負面影響",
-   "b": "IMF 總裁喬治艾娃 12 日表示，AI 的助益可讓亞洲已開發經濟體成長加快 0.5 至 1 個百分點。新興經濟體預計也有 0.2 至 0.8 個百分點的提升效果。她是在泰國曼谷舉行的 IMF 與世界銀行年會活動上發表此試算。",
+   "s": "Yahoo Finance",
+   "t": "SCHD 較高點下跌 6%，歷史顯示仍值得買進",
    "pts": [
-    "IMF 總裁喬治艾娃 12 日表示，AI 的助益可讓亞洲已開發經濟體成長加快 0.5 至 1 個百分點。",
-    "新興經濟體預計也有 0.2 至 0.8 個百分點的提升效果。",
-    "她是在泰國曼谷舉行的 IMF 與世界銀行年會活動上發表此試算。"
+    "即使標普 500 出現拋售，股息股仍可能有更大的上行空間。"
    ],
-   "u": "https://www.sankei.com/article/20261012-QBG6KHDHI5JOHL3RQKBATDK6AY/",
-   "p": "2026-10-12T07:28:28+00:00",
-   "o": "AIでアジア成長0.5～1ポイント加速 IMF専務理事試算「高齢化のマイナスを相殺」"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "星耀投控完成收購達耀科技，擴大企業自供電與能源整合業務",
-   "b": "星耀投控於 10 月 1 日完成收購友達能源事業分割成立的達耀科技，形成「達耀科技」與「星耀能源」雙事業架構。公司與漢力能源科技啟動 ORC 餘熱發電專案，並與台達電就 SOFC 技術交流，雙方仍在評估階段，尚未公布案場與時程。旗下累計再生能源裝置容量約 678 MW，獲核發逾 43 萬張再生能源憑證，綠電轉供合約量約 30 億度。",
-   "pts": [
-    "星耀投控於 10 月 1 日完成收購友達能源事業分割成立的達耀科技，形成「達耀科技」與「星耀能源」雙事業架構。",
-    "公司與漢力能源科技啟動 ORC 餘熱發電專案，並與台達電就 SOFC 技術交流，雙方仍在評估階段，尚未公布案場與時程。",
-    "旗下累計再生能源裝置容量約 678 MW，獲核發逾 43 萬張再生能源憑證，綠電轉供合約量約 30 億度。"
-   ],
-   "u": "https://technews.tw/2026/10/12/starlight-investment-holdings-acquires-dayao-technology-partners-delta-electronics-sofc-applications/",
-   "p": "2026-10-12T06:40:10+00:00",
-   "o": "星耀投控完成收購達耀科技，擴大企業自供電與能源整合業務"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "川普政府鬆綁 AI 安全測試限制，允開發商提前與英分享模型",
-   "b": "路透社報導，川普政府撤回先前決定，允許 OpenAI 與 Anthropic 等開發商在新模型發布前，提供給英國 AI 安全研究院測試。這顯示川普政府對國際 AI 安全合作的立場軟化。川普新成立的 AI 工作小組 9 日表示，開發商必須通報 AI 模型涉及的安全事件。",
-   "pts": [
-    "路透社報導，川普政府撤回先前決定，允許 OpenAI 與 Anthropic 等開發商在新模型發布前，提供給英國 AI 安全研究院測試。",
-    "這顯示川普政府對國際 AI 安全合作的立場軟化。",
-    "川普新成立的 AI 工作小組 9 日表示，開發商必須通報 AI 模型涉及的安全事件。"
-   ],
-   "u": "https://technews.tw/2026/10/12/britain-to-get-first-look-at-new-ai-systems-after-white-house-u-turn/",
-   "p": "2026-10-12T06:40:03+00:00",
-   "o": "川普政府鬆綁 AI 安全測試限制，允開發商提前與英分享模型"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "IREN 神祕 AI 客戶是 Anthropic？消息曝光股價飆",
-   "b": "《The Information》報導，IREN 先前提及的神祕 AI 雲端客戶是 Anthropic，雙方簽有未公布的多年期雲端合約，但皆未證實。Anthropic 已與逾 10 家雲端業者簽訂資料中心租賃合約，規模超過 15GW、價值約 5,300 億美元。運算容量預計從 2025 年的 1.4 GW 增至 2028 年超過 15 GW，且愈來愈依賴原比特幣挖礦業者。IREN 12 日亞洲盤一度大漲 8.5% 至 38.17 美元；SemiAnalysis 先前曾質疑其資料中心服務品質。",
-   "pts": [
-    "《The Information》報導，IREN 先前提及的神祕 AI 雲端客戶是 Anthropic，雙方簽有未公布的多年期雲端合約，但皆未證實。",
-    "Anthropic 已與逾 10 家雲端業者簽訂資料中心租賃合約，規模超過 15GW、價值約 5,300 億美元。",
-    "運算容量預計從 2025 年的 1.4 GW 增至 2028 年超過 15 GW，且愈來愈依賴原比特幣挖礦業者。",
-    "IREN 12 日亞洲盤一度大漲 8.5% 至 38.17 美元；SemiAnalysis 先前曾質疑其資料中心服務品質。"
-   ],
-   "u": "https://technews.tw/2026/10/12/irens-mystery-customer-is-anthropic/",
-   "p": "2026-10-12T06:30:26+00:00",
-   "o": "IREN 神祕 AI 客戶是 Anthropic？消息曝光股價飆"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "世芯-KY9月營收99.79 億元",
-   "b": "世芯-KY（3661）12 日公布 9 月營收 99.79 億元，較 8 月成長 13.7%。",
-   "pts": [
-    "世芯-KY（3661）12 日公布 9 月營收 99.79 億元，較 8 月成長 13.7%。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/alchip-3661-202609-financial-report/",
-   "p": "2026-10-12T06:30:09+00:00",
-   "o": "世芯-KY9月營收99.79 億元"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "中環9月營收8.60 億元",
-   "b": "中環（2323）12 日公布 9 月營收 8.60 億元，較 8 月成長 21.2%。",
-   "pts": [
-    "中環（2323）12 日公布 9 月營收 8.60 億元，較 8 月成長 21.2%。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/cmc-2323-202609-financial-report/",
-   "p": "2026-10-12T06:30:06+00:00",
-   "o": "中環9月營收8.60 億元"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "分析：去美元化疊加避險需求，推動中國狂掃黃金",
-   "b": "中國央行 9 月增持約 23 噸黃金，為近 3 年最大單月買量，並刷新至少自 2015 年以來最長的連續增持紀錄。截至 8 月，中國黃金儲備達 2,387 噸；前 8 個月黃金進口突破 1,000 噸，耗資 1,588 億美元，已超越 2025 年全年。瑞士寶盛分析師認為，央行增持的核心動機是政治層面，要降低對美元與美債的依賴；中國 7 月持有美債降至 6,180 億美元，為 18 年低點。民間因房市低迷、股市疲弱、存款報酬率下降而買進金飾與金條。國際金價自 1 月高點回落，9 月約 4,176 美元；道富預估 2027 年第一季末可回升至 4,750 至 5,500 美元。",
-   "pts": [
-    "中國央行 9 月增持約 23 噸黃金，為近 3 年最大單月買量，並刷新至少自 2015 年以來最長的連續增持紀錄。",
-    "截至 8 月，中國黃金儲備達 2,387 噸；前 8 個月黃金進口突破 1,000 噸，耗資 1,588 億美元，已超越 2025 年全年。",
-    "瑞士寶盛分析師認為，央行增持的核心動機是政治層面，要降低對美元與美債的依賴；中國 7 月持有美債降至 6,180 億美元，為 18 年低點。",
-    "民間因房市低迷、股市疲弱、存款報酬率下降而買進金飾與金條。",
-    "國際金價自 1 月高點回落，9 月約 4,176 美元；道富預估 2027 年第一季末可回升至 4,750 至 5,500 美元。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/analysis-de-dollarization-safe-haven-demand-drives-china-gold-buying/",
-   "p": "2026-10-12T06:20:20+00:00",
-   "o": "分析：去美元化疊加避險需求，推動中國狂掃黃金"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "海韻電9月營收1.40 億元",
-   "b": "海韻電（6203）12 日公布 9 月營收 1.40 億元，較 8 月減少 11.6%。",
-   "pts": [
-    "海韻電（6203）12 日公布 9 月營收 1.40 億元，較 8 月減少 11.6%。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/sea-sonic-6203-202609-financial-report/",
-   "p": "2026-10-12T06:20:05+00:00",
-   "o": "海韻電9月營收1.40 億元"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "群創9月營收月增6.9%",
-   "b": "群創（3481）公布 9 月合併營收 199.95 億元，較 8 月成長 6.9%。",
-   "pts": [
-    "群創（3481）公布 9 月合併營收 199.95 億元，較 8 月成長 6.9%。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/inx-3481-202609-financial-report/",
-   "p": "2026-10-12T06:20:02+00:00",
-   "o": "群創9月營收月增6.9%"
+   "b": "即使標普 500 出現拋售，股息股仍可能有更大的上行空間。",
+   "u": "https://www.fool.com/investing/2026/10/12/schd-is-down-6-from-its-peak-heres-why-history-say/?.tsrc=rss",
+   "p": "2026-10-12T16:05:00+00:00",
+   "o": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy."
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "股市預測：標普 500 今天開高還是開低？",
-   "b": "美股期貨顯示本週一有強勁開局，華爾街迎接能源價格降溫，並準備迎接第三季銀行財報正式展開。報導引用 Polymarket 的 10 月 12 日合約作為預測依據。",
+   "t": "今日股市：道瓊在漲跌互見中表現較佳，油輪公司 Navios 進入買進區",
    "pts": [
-    "美股期貨顯示本週一有強勁開局，華爾街迎接能源價格降溫，並準備迎接第三季銀行財報正式展開。",
-    "報導引用 Polymarket 的 10 月 12 日合約作為預測依據。"
+    "週一道瓊指數上漲，因川普宣布「能源停火」。",
+    "Salesforce 股價因分析師升評而大漲。"
    ],
-   "u": "https://www.benzinga.com/markets/prediction-markets/26/10/62291026/stock-market-will-sp-500-open-up-or-down-today-55?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-   "p": "2026-10-12T06:19:33+00:00",
-   "o": "Stock Market: Will S&P 500 Open Up or Down Today?"
+   "b": "週一道瓊指數上漲，因川普宣布「能源停火」。Salesforce 股價因分析師升評而大漲。",
+   "u": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-dow.html?.tsrc=rss",
+   "p": "2026-10-12T15:56:02+00:00",
+   "o": "Stock Market Today: Dow Outperforms In Mixed Trade; Tanker Firm Navios Glides Into Buy Zone (Live Coverage)"
   },
   {
    "c": "fin",
-   "s": "WSJ",
-   "t": "泰國股市 2027 年可能連續第二年走多頭",
-   "b": "ttb 財富證券表示，泰國股市 2027 年可能連續第二年出現多頭行情。",
+   "s": "Yahoo Finance",
+   "t": "午盤要聞：星巴克稱不會收購 Chipotle，IonQ 以最高 13 億美元收購 Elisity",
    "pts": [
-    "ttb 財富證券表示，泰國股市 2027 年可能連續第二年出現多頭行情。"
+    "週一上午盤中道瓊指數上漲。",
+    "標題顯示星巴克表示不會收購 Chipotle，IonQ 將以最高 13 億美元收購 Elisity。"
    ],
-   "u": "https://www.wsj.com/finance/stocks/china-plays-critical-role-in-global-ai-supply-chain-domestic-ai-ecosystem-9de8dab7?mod=rss_markets_main",
-   "p": "2026-10-12T06:12:00+00:00",
-   "o": "Thai Stock Market Likely to Post Second Straight Bull-Run Year in 2027"
+   "b": "週一上午盤中道瓊指數上漲。標題顯示星巴克表示不會收購 Chipotle，IonQ 將以最高 13 億美元收購 Elisity。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-starbucks-says-154837169.html?.tsrc=rss",
+   "p": "2026-10-12T15:48:37+00:00",
+   "o": "Top Midday Stories: Starbucks Says It's Not Buying Chipotle; IonQ Buying Elisity for Up to $1.3 Billion"
   },
   {
    "c": "fin",
-   "s": "WSJ",
-   "t": "傑富瑞：五年期美債 5% 殖利率對長期買家具吸引力",
-   "b": "傑富瑞（Jefferies）表示，對長期投資人而言，五年期美債 5% 的殖利率是非常有吸引力的買進水準。",
+   "s": "Yahoo Finance",
+   "t": "我們存疑的 3 檔消費類股",
    "pts": [
-    "傑富瑞（Jefferies）表示，對長期投資人而言，五年期美債 5% 的殖利率是非常有吸引力的買進水準。"
+    "可選消費類股隨經濟循環起伏，近六個月已回落 4.6%。",
+    "近期表現顯示需求可能正在減弱。"
    ],
-   "u": "https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main",
-   "p": "2026-10-12T06:05:00+00:00",
-   "o": "A 5% Yield on Five-Year U.S. Treasurys Seen Attractive for Long-Term Buyers"
+   "b": "可選消費類股隨經濟循環起伏，近六個月已回落 4.6%。近期表現顯示需求可能正在減弱。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-skeptical-154303892.html?.tsrc=rss",
+   "p": "2026-10-12T15:43:03+00:00",
+   "o": "3 Consumer Stocks We’re Skeptical Of"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "三張圖說明為何許多美國家庭正陷入困境",
+   "pts": [
+    "高盛團隊的數張圖表揭示了許多美國家庭面臨的現實。",
+    "也說明了為何許多消費類公司正在掙扎。"
+   ],
+   "b": "高盛團隊的數張圖表揭示了許多美國家庭面臨的現實。也說明了為何許多消費類公司正在掙扎。",
+   "u": "https://finance.yahoo.com/economy/article/3-charts-sum-up-why-many-us-households-are-struggling-right-now-153911897.html?.tsrc=rss",
+   "p": "2026-10-12T15:39:11+00:00",
+   "o": "3 charts sum up why many US households are struggling right now"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Precigen (PGEN)：商業上市成功驗證早期募資論點",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/healthcare/articles/precigen-pgen-commercial-launch-success-153807719.html?.tsrc=rss",
+   "p": "2026-10-12T15:38:07+00:00",
+   "o": "Precigen (PGEN): Commercial Launch Success Validates Early Capital Raise Thesis"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Chime Financial (CHYM) 為何是長期複利股？",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-chime-financial-chym-long-153346312.html?.tsrc=rss",
+   "p": "2026-10-12T15:33:46+00:00",
+   "o": "What Makes Chime Financial (CHYM) A Long-Term Compounder?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "庫藏股買回對 Sanmina 每股盈餘貢獻多少？",
+   "pts": [
+    "Sanmina (SANM) 股價過去十二個月上漲 68%，大幅優於標普 500 的 17.0%。",
+    "這家電子製造商的股數約減少 7%，股票回購可能是持有的理由之一。"
+   ],
+   "b": "Sanmina (SANM) 股價過去十二個月上漲 68%，大幅優於標普 500 的 17.0%。這家電子製造商的股數約減少 7%，股票回購可能是持有的理由之一。",
+   "u": "https://www.trefis.com/articles/618330/how-much-have-buybacks-lifted-sanminas-earnings-per-share/2026-10-12?.tsrc=rss",
+   "p": "2026-10-12T15:26:13+00:00",
+   "o": "How Much Have Buybacks Lifted Sanmina’s Earnings Per Share?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "聯合健康 (UNH)：早期獲利復甦為中段兩位數複利成長奠基",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/united-healthcare-unh-early-stage-152237095.html?.tsrc=rss",
+   "p": "2026-10-12T15:22:37+00:00",
+   "o": "United Healthcare (UNH): Early-Stage Earnings Recovery Sets the Stage for Mid-Teens Compound Growth"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "五金行吸引顧客的祕密武器",
+   "pts": [
+    "這些原本只為除蟲而雇用的「員工」，如今帶動了店內人流。",
+    "他們也在社群媒體上累積了數千次爆紅觀看。"
+   ],
+   "b": "這些原本只為除蟲而雇用的「員工」，如今帶動了店內人流。他們也在社群媒體上累積了數千次爆紅觀看。",
+   "u": "https://www.wsj.com/lifestyle/hardware-stores-secret-weapon-cats-05fecb1e?mod=rss_Technology",
+   "p": "2026-10-12T15:21:00+00:00",
+   "o": "Hardware Stores Have a Secret Weapon for Wooing Customers"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "值得長期持有的 2 檔標普 500 成分股，以及我們認為有風險的 1 檔",
+   "pts": [
+    "標普 500 常被視為強勢企業的基準，但並非每檔成分股都值得持有。",
+    "有些公司面臨成長停滯、高負債或新競爭者顛覆等挑戰。"
+   ],
+   "b": "標普 500 常被視為強勢企業的基準，但並非每檔成分股都值得持有。有些公司面臨成長停滯、高負債或新競爭者顛覆等挑戰。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-own-151903610.html?.tsrc=rss",
+   "p": "2026-10-12T15:19:03+00:00",
+   "o": "2 S&P 500 Stocks to Own for Decades and 1 We Find Risky"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Royalty Pharma (RPRX) 在合理本益比下提供具吸引力的風險報酬",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/royalty-pharma-rprx-offers-attractive-151805927.html?.tsrc=rss",
+   "p": "2026-10-12T15:18:05+00:00",
+   "o": "Royalty Pharma (RPRX) Offers Attractive Risk-Reward Profiles at Reasonable Multiples"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Jim Cramer 點出美國人退休投資方式的問題",
+   "pts": [
+    "這種常見的投資習慣可能隱藏風險。"
+   ],
+   "b": "這種常見的投資習慣可能隱藏風險。",
+   "u": "https://www.thestreet.com/investing/stocks/jim-cramer-portfolio-diversification?.tsrc=rss",
+   "p": "2026-10-12T15:17:00+00:00",
+   "o": "Jim Cramer exposes a problem with how Americans invest for retirement"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "晶片股跌勢延續",
+   "pts": [
+    "晶片股近來遭到重挫，即使財報季表現亮眼也可能不足以提振。"
+   ],
+   "b": "晶片股近來遭到重挫，即使財報季表現亮眼也可能不足以提振。",
+   "u": "https://finance.yahoo.com/m/211a3a39-0ee9-3853-bf69-c10fd13941f3/chip-stock-skid-stretches-on.html?.tsrc=rss",
+   "p": "2026-10-12T15:14:31+00:00",
+   "o": "Chip Stock Skid Stretches On"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "油價下降對好市多的銷售與利潤率意味著什麼",
+   "pts": [
+    "好市多 (COST) 本益比約 45.6 倍，標普 500 為 21.9 倍。",
+    "投資人願意付出這樣的價格，可能是在押注成長；9 月淨銷售額年增 13.0%。"
+   ],
+   "b": "好市多 (COST) 本益比約 45.6 倍，標普 500 為 21.9 倍。投資人願意付出這樣的價格，可能是在押注成長；9 月淨銷售額年增 13.0%。",
+   "u": "https://www.trefis.com/articles/618347/what-cheaper-gas-would-mean-for-costcos-sales-and-margins/2026-10-12?.tsrc=rss",
+   "p": "2026-10-12T15:07:25+00:00",
+   "o": "What Cheaper Gas Would Mean For Costco’s Sales And Margins"
   },
   {
    "c": "pol",
-   "s": "産経新聞",
-   "t": "川普怒火也燒向保守派福斯：施壓媒體，從排除 CNN 到不滿抵制採訪",
-   "b": "持續加強對主要媒體施壓的美國總統川普，對原本關係良好的保守派福斯電視台也逐漸不滿。政府 9 月把 CNN 等自由派電視台列為「禁止出入」時，福斯也與其他主要媒體一起加入白宮代表拍攝的抵制，可能因此讓川普態度強硬。福斯是主要媒體中少數與川普政府立場親近的一家，但美國媒體過去面對政府的過度施壓時，曾跨越論調界線團結一致。",
+   "s": "WSJ",
+   "t": "社論｜法國持續挖坑自陷",
    "pts": [
-    "持續加強對主要媒體施壓的美國總統川普，對原本關係良好的保守派福斯電視台也逐漸不滿。",
-    "政府 9 月把 CNN 等自由派電視台列為「禁止出入」時，福斯也與其他主要媒體一起加入白宮代表拍攝的抵制，可能因此讓川普態度強硬。",
-    "福斯是主要媒體中少數與川普政府立場親近的一家，但美國媒體過去面對政府的過度施壓時，曾跨越論調界線團結一致。"
+    "法國政治人物過度支出，把自身政治存續置於國家財政健全之上。"
    ],
-   "u": "https://www.sankei.com/article/20261012-BLTZNZUPOVO2NECBN2ZFEM5NNU/",
-   "p": "2026-10-12T06:00:00+00:00",
-   "o": "保守系FOXにも怒りの矛先 トランプ氏報道圧力、CNN排除→取材ボイコット参加に不満"
+   "b": "法國政治人物過度支出，把自身政治存續置於國家財政健全之上。",
+   "u": "https://www.wsj.com/opinion/france-keeps-digging-a-hole-8c52404f?mod=rss_worldnews",
+   "p": "2026-10-12T15:05:00+00:00",
+   "o": "Opinion | France Keeps Digging a Hole"
   },
   {
    "c": "fin",
-   "s": "WSJ",
-   "t": "儘管印度央行再度出手支撐，盧比強勢恐為暫時",
-   "b": "瑞穗證券表示，在印度央行最新支撐措施後，盧比短期內可能升至兌美元 95 左右的中段水準。",
+   "s": "Yahoo Finance",
+   "t": "上週表現優於大盤的 5 個 ETF 領域",
    "pts": [
-    "瑞穗證券表示，在印度央行最新支撐措施後，盧比短期內可能升至兌美元 95 左右的中段水準。"
+    "巴西股市、油輪、公用事業、資安與雲端運算 ETF 上週領漲。"
    ],
-   "u": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
-   "p": "2026-10-12T05:52:00+00:00",
-   "o": "Rupee Strength Could Prove Temporary Despite Latest RBI Support"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "中國制裁中南美兩位部長，因巴拉圭與貝里斯支持維持對台外交",
-   "b": "中國外交部 12 日宣布，決定制裁南美巴拉圭與中美洲貝里斯各一名部長，包括凍結其在中國境內的資產。措施依據「反外國制裁法」，即日實施。理由是兩人分別支持各自國家維持與台灣的外交關係。",
-   "pts": [
-    "中國外交部 12 日宣布，決定制裁南美巴拉圭與中美洲貝里斯各一名部長，包括凍結其在中國境內的資產。",
-    "措施依據「反外國制裁法」，即日實施。",
-    "理由是兩人分別支持各自國家維持與台灣的外交關係。"
-   ],
-   "u": "https://www.sankei.com/article/20261012-E4DFKGR6FVJLTDBUDZZT6LZXRY/",
-   "p": "2026-10-12T05:40:53+00:00",
-   "o": "中国、中南米2閣僚に制裁 パラグアイとベリーズ、台湾との外交維持支持で"
+   "b": "巴西股市、油輪、公用事業、資安與雲端運算 ETF 上週領漲。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/5-market-beating-etf-areas-150000476.html?.tsrc=rss",
+   "p": "2026-10-12T15:00:00+00:00",
+   "o": "5 Market-Beating ETF Areas of Last Week"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "北韓彈道飛彈飛行超過 900 公里，南韓軍方分析為對抗南韓極音速飛彈成功",
-   "b": "南韓軍方 12 日表示，北韓當天上午 9 點 20 分左右從平壤附近向日本海發射數枚彈道飛彈，其中部分飛行超過 900 公里。據日本防衛省說明，這些飛彈似乎都落在日本專屬經濟海域之外。標題顯示南韓軍方分析，此舉是在對抗南韓極音速飛彈試射成功。",
+   "t": "報導：美國民主黨議員奧馬爾住家遭搜索，她曾批評移民取締與川普政府對立",
    "pts": [
-    "南韓軍方 12 日表示，北韓當天上午 9 點 20 分左右從平壤附近向日本海發射數枚彈道飛彈，其中部分飛行超過 900 公里。",
-    "據日本防衛省說明，這些飛彈似乎都落在日本專屬經濟海域之外。",
-    "標題顯示南韓軍方分析，此舉是在對抗南韓極音速飛彈試射成功。"
+    "保守派福斯新聞 12 日報導，美國當局當天搜索了明尼蘇達州民主黨聯邦眾議員奧馬爾位於華府近郊的住家。",
+    "前索馬利亞難民奧馬爾曾嚴厲批評移民及海關執法局（ICE）的強硬取締移民作法，因此與川普政府對立。"
    ],
-   "u": "https://www.sankei.com/article/20261012-OLU4DGKSJ5OWNDX7ZCGPLIDKB4/",
-   "p": "2026-10-12T05:18:44+00:00",
-   "o": "北朝鮮の弾道ミサイルは900㌔以上飛行 韓国の極超音速ミサイル成功に対抗と韓国軍分析"
+   "b": "保守派福斯新聞 12 日報導，美國當局當天搜索了明尼蘇達州民主黨聯邦眾議員奧馬爾位於華府近郊的住家。前索馬利亞難民奧馬爾曾嚴厲批評移民及海關執法局（ICE）的強硬取締移民作法，因此與川普政府對立。",
+   "u": "https://www.sankei.com/article/20261012-U5AHFPZFM5IYHBNZQWOHR547DY/",
+   "p": "2026-10-12T14:57:22+00:00",
+   "o": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "財報季前夕看大型銀行，以及 Meta 投資人該注意的一項指標",
+   "pts": [
+    "Yahoo Finance 執行編輯 Brian Sozzi 回顧開盤時段重要新聞。",
+    "內容包括財報季開跑，以及標普 500 漲勢背後的隱憂。"
+   ],
+   "b": "Yahoo Finance 執行編輯 Brian Sozzi 回顧開盤時段重要新聞。內容包括財報季開跑，以及標普 500 漲勢背後的隱憂。",
+   "u": "https://finance.yahoo.com/video/a-closer-look-at-big-banks-ahead-of-q3-earnings--one-metric-meta-investors-should-watch-145616926.html?.tsrc=rss",
+   "p": "2026-10-12T14:56:16+00:00",
+   "o": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "花旗 (C)：有形普通股權益報酬率回升，奠定長期論點",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-rebounding-return-tangible-145206861.html?.tsrc=rss",
+   "p": "2026-10-12T14:52:06+00:00",
+   "o": "Citigroup (C): Rebounding Return on Tangible Common Equity Anchors Long-Term Thesis"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "必治妥施貴寶一年大漲逾三成五：該買、賣還是持有？",
+   "pts": [
+    "必治妥施貴寶 (BMY) 股價一年大漲，成長型產品組合與管線進展推動動能。",
+    "但學名藥競爭與估值仍須謹慎。"
+   ],
+   "b": "必治妥施貴寶 (BMY) 股價一年大漲，成長型產品組合與管線進展推動動能。但學名藥競爭與估值仍須謹慎。",
+   "u": "https://finance.yahoo.com/healthcare/articles/bmy-surges-35-7-buy-144800053.html?.tsrc=rss",
+   "p": "2026-10-12T14:48:00+00:00",
+   "o": "BMY Surges 35.7% in a Year: Should You Buy, Sell or Hold the Stock?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "本週值得鎖定的 1 檔標普 500 股票，以及我們存疑的 2 檔",
+   "pts": [
+    "標普 500 涵蓋產業領導者，但並非每檔成分股都是贏家。",
+    "有些公司已過巔峰，受執行不力、財務疲弱或結構性逆風拖累。"
+   ],
+   "b": "標普 500 涵蓋產業領導者，但並非每檔成分股都是贏家。有些公司已過巔峰，受執行不力、財務疲弱或結構性逆風拖累。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-target-144703946.html?.tsrc=rss",
+   "p": "2026-10-12T14:47:03+00:00",
+   "o": "1 S&P 500 Stock to Target This Week and 2 We Question"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "太陽死後的太陽系，比想像中的更快崩解",
+   "pts": [
+    "加州理工學院與密西根大學團隊發現，太陽死亡時的質量流失並非平滑，而是約 4,600 次隨機猛烈的「踢擊」。",
+    "每次拋射約相當 33 個地球質量，會使太陽微幅偏移並擾動引力場。",
+    "依蓋亞衛星觀測與數百次模擬，近 80% 情境中外側行星會在太陽脫殼結束前出現軌道交錯。",
+    "90% 的模型中，太陽系會在太陽變成白矮星後 30 億年內自我毀滅。",
+    "天王星與海王星可能互換位置，木星與土星甚至可能被甩出太陽系。"
+   ],
+   "b": "加州理工學院與密西根大學團隊發現，太陽死亡時的質量流失並非平滑，而是約 4,600 次隨機猛烈的「踢擊」。每次拋射約相當 33 個地球質量，會使太陽微幅偏移並擾動引力場。依蓋亞衛星觀測與數百次模擬，近 80% 情境中外側行星會在太陽脫殼結束前出現軌道交錯。90% 的模型中，太陽系會在太陽變成白矮星後 30 億年內自我毀滅。天王星與海王星可能互換位置，木星與土星甚至可能被甩出太陽系。",
+   "u": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
+   "p": "2026-10-12T14:27:30+00:00",
+   "o": "太陽死後的太陽系，比想像中的更快崩解"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "歐盟擬設中國混合動力車進口上限，壓低其市占",
+   "pts": [
+    "歐盟將限制自中國進口的混合動力車，每年上限為 35 萬輛。",
+    "目的是把中國對歐盟的預估出貨量壓低一半以上。"
+   ],
+   "b": "歐盟將限制自中國進口的混合動力車，每年上限為 35 萬輛。目的是把中國對歐盟的預估出貨量壓低一半以上。",
+   "u": "https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews",
+   "p": "2026-10-12T14:24:00+00:00",
+   "o": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美股漲跌互見，烏克蘭新一輪能源攻擊推升油價",
+   "pts": [
+    "美股交易中漲跌互見，投資人期待本週大型美國銀行公布財報。",
+    "油價因烏克蘭新的能源攻擊而上漲。"
+   ],
+   "b": "美股交易中漲跌互見，投資人期待本週大型美國銀行公布財報。油價因烏克蘭新的能源攻擊而上漲。",
+   "u": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+   "p": "2026-10-12T14:09:00+00:00",
+   "o": "U.S. Stocks Mixed, Oil Gains on Fresh Energy Strikes in Ukraine"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "歐盟對北韓與俄羅斯追加制裁，因北韓彈道飛彈開發違反聯合國決議",
+   "pts": [
+    "歐盟 12 日宣布，將北韓與俄羅斯的 3 人及 4 個團體追加列入制裁對象。",
+    "兩國在軍事與經濟面向持續強化關係。",
+    "歐盟指其涉及北韓彈道飛彈開發，違反聯合國安理會對北韓的制裁決議。"
+   ],
+   "b": "歐盟 12 日宣布，將北韓與俄羅斯的 3 人及 4 個團體追加列入制裁對象。兩國在軍事與經濟面向持續強化關係。歐盟指其涉及北韓彈道飛彈開發，違反聯合國安理會對北韓的制裁決議。",
+   "u": "https://www.sankei.com/article/20261012-OF2BTDL4CZOLDKXKHJ3A3ZO23Q/",
+   "p": "2026-10-12T13:45:58+00:00",
+   "o": "EU、北朝鮮とロシアに追加制裁 北の弾道ミサイル開発巡り国連安保理決議違反"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美國天然氣期貨回吐部分漲幅",
+   "pts": [
+    "受週末天氣帶動需求減少影響，美國天然氣期貨走低。"
+   ],
+   "b": "受週末天氣帶動需求減少影響，美國天然氣期貨走低。",
+   "u": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-some-gains-47941921?mod=rss_markets_main",
+   "p": "2026-10-12T13:45:00+00:00",
+   "o": "U.S. Natural Gas Futures Give Back Some Gains"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "中東供應風險持續，油價反彈",
+   "pts": [
+    "週一油價在初期下跌後反轉走高，因中東供應風險持續。",
+    "交易員同時評估俄羅斯柴油供應增加，以及俄烏可能達成能源停火的前景。"
+   ],
+   "b": "週一油價在初期下跌後反轉走高，因中東供應風險持續。交易員同時評估俄羅斯柴油供應增加，以及俄烏可能達成能源停火的前景。",
+   "u": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=rss_worldnews",
+   "p": "2026-10-12T13:32:00+00:00",
+   "o": "Oil Prices Rebound Amid Persistent Middle East Supply Risks"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "習近平的超級強權野心助長中國危險的債務螺旋",
+   "pts": [
+    "報導指稱習近平主導下的債務螺旋相當危險，正在扼殺中國國內經濟。",
+    "這也損害了全球各地的貿易夥伴。"
+   ],
+   "b": "報導指稱習近平主導下的債務螺旋相當危險，正在扼殺中國國內經濟。這也損害了全球各地的貿易夥伴。",
+   "u": "https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f?mod=rss_worldnews",
+   "p": "2026-10-12T13:29:00+00:00",
+   "o": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "北約最高指揮官提出阻止俄羅斯攻擊聯盟的計畫",
+   "pts": [
+    "北約最高指揮官 Alexus Grynkewich 將軍提出一系列步驟，用以阻擋初期攻擊。",
+    "計畫也包括瓦解對手控制與支援其部隊的能力。"
+   ],
+   "b": "北約最高指揮官 Alexus Grynkewich 將軍提出一系列步驟，用以阻擋初期攻擊。計畫也包括瓦解對手控制與支援其部隊的能力。",
+   "u": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews",
+   "p": "2026-10-12T13:16:00+00:00",
+   "o": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "Steris 以 21 億美元收購 Xodus Medical",
+   "pts": [
+    "總部位於愛爾蘭都柏林的醫院與製藥業者產品及服務供應商 Steris 宣布收購 Xodus Medical。",
+    "公司預期這項交易將擴大其產品組合。"
+   ],
+   "b": "總部位於愛爾蘭都柏林的醫院與製藥業者產品及服務供應商 Steris 宣布收購 Xodus Medical。公司預期這項交易將擴大其產品組合。",
+   "u": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=rss_markets_main",
+   "p": "2026-10-12T13:11:00+00:00",
+   "o": "Steris to Acquire Xodus Medical for $2.1 Billion"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "儘管川普宣布停火，俄羅斯仍猛攻烏克蘭能源設施",
+   "pts": [
+    "俄軍攻擊包括天然氣設施、一座電廠與一座變電站。",
+    "此時美方正向烏克蘭施壓，要求停止攻擊俄羅斯煉油廠。"
+   ],
+   "b": "俄軍攻擊包括天然氣設施、一座電廠與一座變電站。此時美方正向烏克蘭施壓，要求停止攻擊俄羅斯煉油廠。",
+   "u": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d?mod=rss_worldnews",
+   "p": "2026-10-12T13:04:00+00:00",
+   "o": "Russia Pounds Ukrainian Energy Despite Trump’s Ceasefire Announcement"
   },
   {
    "c": "fin",
    "s": "産経新聞",
-   "t": "鴻海與夏普錯位的十年與浮現的共同戰線：從 AI 伺服器找勝算",
-   "b": "夏普 8 月滿 10 年成為鴻海旗下；當年為度過液晶事業過度投資造成的嚴重經營危機而接受鴻海入股。兩家公司的合作至今看不到明顯成果。夏普 9 月宣布與鴻海合作，進入日本國內 AI 伺服器事業，被視為合作的新起跑點，期待能扳回一城。",
+   "t": "微軟發表 AI 推論用次世代晶片「Maia 300」，2027 年導入，日本也將部署",
    "pts": [
-    "夏普 8 月滿 10 年成為鴻海旗下；當年為度過液晶事業過度投資造成的嚴重經營危機而接受鴻海入股。",
-    "兩家公司的合作至今看不到明顯成果。",
-    "夏普 9 月宣布與鴻海合作，進入日本國內 AI 伺服器事業，被視為合作的新起跑點，期待能扳回一城。"
+    "微軟 12 日發表供 AI 推論（生成回答）使用的次世代半導體「Maia 300」。",
+    "明年起先在美國導入，並擴大到數 GW 規模。",
+    "將成為 Copilot 等自家服務的核心基礎，並部署到包含日本在內的全球各地。"
    ],
-   "u": "https://www.sankei.com/article/20261008-P6VTGXN3QZMJ7NAGZKZCKOGPMM/",
-   "p": "2026-10-12T05:00:00+00:00",
-   "o": "台湾・鴻海とシャープのすれ違いの10年と見えてきた共同戦線 AIサーバーからの勝ち筋"
+   "b": "微軟 12 日發表供 AI 推論（生成回答）使用的次世代半導體「Maia 300」。明年起先在美國導入，並擴大到數 GW 規模。將成為 Copilot 等自家服務的核心基礎，並部署到包含日本在內的全球各地。",
+   "u": "https://www.sankei.com/article/20261012-I3N6CFAE2RK4DMNXXEQEIWRD5I/",
+   "p": "2026-10-12T13:00:00+00:00",
+   "o": "米マイクロソフト、AI推論向け次世代半導体発表「マイア300」27年導入、日本も配備"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "亞股漲跌互見，川普稱美國將向俄羅斯買柴油，油價下跌約 1.5 美元",
-   "b": "總統川普計畫向俄羅斯購買柴油，受到部分議員批評。油價下跌約 1.5 美元，亞洲股市漲跌互見。",
+   "c": "tech",
+   "s": "WSJ",
+   "t": "AI 推升併購熱潮",
    "pts": [
-    "總統川普計畫向俄羅斯購買柴油，受到部分議員批評。",
-    "油價下跌約 1.5 美元，亞洲股市漲跌互見。"
+    "本篇指出 AI 正助長併購潮。",
+    "另提到企業尋找由 AI 帶動生產力的「企業搜尋」仍在持續。"
    ],
-   "u": "https://finance.yahoo.com/markets/articles/asian-shares-mixed-oil-prices-043200193.html?.tsrc=rss",
-   "p": "2026-10-12T04:32:00+00:00",
-   "o": "Asian shares are mixed and oil prices fall about $1.50 as Trump says US will buy diesel from Russia"
+   "b": "本篇指出 AI 正助長併購潮。另提到企業尋找由 AI 帶動生產力的「企業搜尋」仍在持續。",
+   "u": "https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04?mod=rss_Technology",
+   "p": "2026-10-12T12:39:00+00:00",
+   "o": "AI Fuels M&A Machine"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "FTX 昔日比特幣挖礦資產如今成為 AI 熱潮一部分",
-   "b": "一家在山姆·班克曼-弗里德的加密帝國崩潰後看似已死的比特幣挖礦事業，正為 AI 建設重新復活。",
+   "t": "房利美與房地美的信用評分轉換正在撼動房貸市場",
    "pts": [
-    "一家在山姆·班克曼-弗里德的加密帝國崩潰後看似已死的比特幣挖礦事業，正為 AI 建設重新復活。"
+    "川普政府與放款機構表示，採用 FICO 的競爭產品將壓低房貸成本。",
+    "但也有人對核貸風險提出警告。"
    ],
-   "u": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?mod=rss_markets_main",
-   "p": "2026-10-12T04:01:00+00:00",
-   "o": "FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "股市今天開盤嗎？哥倫布日交易時間一覽",
-   "b": "並非所有人都能在哥倫布日休息。",
-   "pts": [
-    "並非所有人都能在哥倫布日休息。"
-   ],
-   "u": "https://finance.yahoo.com/m/a88000c3-b240-3f77-aa8f-45bef421f9f1/is-the-stock-market-open.html?.tsrc=rss",
-   "p": "2026-10-12T04:01:00+00:00",
-   "o": "Is the Stock Market Open Today? Here Are the Trading Hours for Columbus Day."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "油價回落、財報季升溫，亞股漲跌互見",
-   "b": "俄烏能源停火提議仍不確定，油價週一回落，亞洲股市漲跌互見。投資人正準備迎接本週的美國通膨數據與第三季財報。",
-   "pts": [
-    "俄烏能源停火提議仍不確定，油價週一回落，亞洲股市漲跌互見。",
-    "投資人正準備迎接本週的美國通膨數據與第三季財報。"
-   ],
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-oil-retreats-035535247.html?.tsrc=rss",
-   "p": "2026-10-12T03:55:35+00:00",
-   "o": "Asia stocks mixed as oil retreats, earnings season gathers pace"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "川普宣布俄烏「能源停火」，道瓊、標普、那斯達克期貨上揚",
-   "b": "週日深夜油價成為焦點，俄烏能源停火與中東衝突並存，油價仍維持在每桶 100 美元以上。",
-   "pts": [
-    "週日深夜油價成為焦點，俄烏能源停火與中東衝突並存，油價仍維持在每桶 100 美元以上。"
-   ],
-   "u": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-after-oil-in-focus-as-trump-declares-energy-ceasefire-between-russia-and-ukraine-iren-wff-vstm-cifr-stocks-in-focus/cZx4DAYRBFX?.tsrc=rss",
-   "p": "2026-10-12T03:50:27+00:00",
-   "o": "Dow, S&P 500, Nasdaq Futures Climb After Oil In Focus As Trump Declares ‘Energy Ceasefire’ Between Russia And Ukraine: IREN, WFF, VSTM, CIFR Stocks In Focus"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "川普稱俄烏達成「能源停火」，道瓊期貨上揚；ASML、台積電財報將至",
-   "b": "川普宣稱烏克蘭與俄羅斯同意「能源停火」。ASML 與輝達晶片製造商台積電的財報，將是 AI 股的關鍵。",
-   "pts": [
-    "川普宣稱烏克蘭與俄羅斯同意「能源停火」。",
-    "ASML 與輝達晶片製造商台積電的財報，將是 AI 股的關鍵。"
-   ],
-   "u": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures-rise-as.html?.tsrc=rss",
-   "p": "2026-10-12T03:47:33+00:00",
-   "o": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "華爾街上週升評的 3 檔科技股，以及我最先會買的那檔",
-   "b": "微軟、Palantir 與 Marvell 上週都獲得升評，作者認為 Marvell 是首選。",
-   "pts": [
-    "微軟、Palantir 與 Marvell 上週都獲得升評，作者認為 Marvell 是首選。"
-   ],
-   "u": "https://www.fool.com/investing/2026/10/11/stocks-wall-street-upgraded-last-week-one-id-buy/?.tsrc=rss",
-   "p": "2026-10-12T02:50:00+00:00",
-   "o": "3 Tech Stocks Wall Street Upgraded Last Week, and the One I'd Buy First"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "星座能源 43 億美元核能升級可能是其最聰明的一步",
-   "b": "星座能源（CEG）10 月 6 日股價大漲 12.2%，因與 Google 簽下 20 年協議，新增 890 百萬瓦核電。公司將透過升級 11 座現有反應爐達成，並投入 43 億美元。",
-   "pts": [
-    "星座能源（CEG）10 月 6 日股價大漲 12.2%，因與 Google 簽下 20 年協議，新增 890 百萬瓦核電。",
-    "公司將透過升級 11 座現有反應爐達成，並投入 43 億美元。"
-   ],
-   "u": "https://finance.yahoo.com/energy/articles/constellation-4-3-billion-nuclear-172824134.html?.tsrc=rss",
-   "p": "2026-10-12T02:42:24+00:00",
-   "o": "Constellation’s $4.3 Billion Nuclear Upgrade Could Be Its Smartest Move Yet"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "別再選 VOO：「VT and Chill」持有 9,000 檔股票，避開失落十年問題",
-   "b": "美股過去十年表現強勢，但歷史顯示長期押注美國也曾讓投資人在實質購買力上付出代價。單一 ETF 涵蓋數十個國家約 9,000 檔股票，無需預測哪個市場勝出。",
-   "pts": [
-    "美股過去十年表現強勢，但歷史顯示長期押注美國也曾讓投資人在實質購買力上付出代價。",
-    "單一 ETF 涵蓋數十個國家約 9,000 檔股票，無需預測哪個市場勝出。"
-   ],
-   "u": "https://247wallst.com/investing/etf/2026/10/11/forget-voo-vt-and-chill-owns-9000-stocks-and-skips-the-lost-decade-problem/?.tsrc=rss",
-   "p": "2026-10-12T02:23:34+00:00",
-   "o": "Forget VOO. “VT and Chill” Owns 9,000 Stocks and Skips the Lost Decade Problem"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "少數股票撐起標普 500：41% 成分股較高點下跌 30%",
-   "b": "標普 500 接近紀錄高點，但 Kobeissi Letter 指出，41% 的成分股較高點下跌逾 30%。",
-   "pts": [
-    "標普 500 接近紀錄高點，但 Kobeissi Letter 指出，41% 的成分股較高點下跌逾 30%。"
-   ],
-   "u": "https://beincrypto.com/sp-500-record-stocks-below-highs/?.tsrc=rss",
-   "p": "2026-10-12T02:15:00+00:00",
-   "o": "A Few Stocks Carry the S&P 500: 41% of Stocks Trade 30% Below Highs"
+   "b": "川普政府與放款機構表示，採用 FICO 的競爭產品將壓低房貸成本。但也有人對核貸風險提出警告。",
+   "u": "https://www.wsj.com/finance/regulation/fannie-freddie-vantagescore-mortgages-85b41d3f?mod=rss_markets_main",
+   "p": "2026-10-12T12:00:00+00:00",
+   "o": "A Credit-Score Shift at Fannie and Freddie Is Shaking Up the Mortgage Market"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "中國為何不想躋身已開發國家之列",
-   "b": "中國正接近高收入國家門檻，與其自詡全球南方代表的形象形成矛盾。",
+   "t": "晨間風險報告：法院面臨有人對陪審案件結果下注的難題",
    "pts": [
-    "中國正接近高收入國家門檻，與其自詡全球南方代表的形象形成矛盾。"
+    "本期探討法院如何處理有人對陪審團案件結果下注的問題。",
+    "另提到美國正制裁國際刑事法院，以及 AI 的「上帝問題」。"
    ],
-   "u": "https://www.wsj.com/world/china/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-e37bbec1?mod=rss_worldnews",
-   "p": "2026-10-12T02:00:00+00:00",
-   "o": "Why China Doesn’t Want to Join the Ranks of the World’s Developed Countries"
+   "b": "本期探討法院如何處理有人對陪審團案件結果下注的問題。另提到美國正制裁國際刑事法院，以及 AI 的「上帝問題」。",
+   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-5ae06b30?mod=rss_worldnews",
+   "p": "2026-10-12T11:32:00+00:00",
+   "o": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "油價下跌帶動美股期貨上揚，第三季財報將登場",
-   "b": "川普宣布俄烏能源停火後油價下跌，週日晚間美股指數期貨走高。",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "德國聯合執政黨領導人請辭，勞動部長也辭職，梅爾茨政府出現裂痕",
    "pts": [
-    "川普宣布俄烏能源停火後油價下跌，週日晚間美股指數期貨走高。"
+    "德國勞動暨社會部長巴斯 12 日表示，將辭去中間偏左社民黨（SPD）共同黨魁與聯合政府勞動社會部長的職務。",
+    "她透過 Instagram 發表聲明，並批評梅爾茨所屬的保守派基民盟／基社盟（CDU/CSU）。",
+    "聯合政府內部因政策內容而出現的裂痕因此浮現。"
    ],
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-tracking-015559662.html?.tsrc=rss",
-   "p": "2026-10-12T01:55:59+00:00",
-   "o": "US stock futures rise tracking oil price decline; Q3 earnings on tap"
+   "b": "德國勞動暨社會部長巴斯 12 日表示，將辭去中間偏左社民黨（SPD）共同黨魁與聯合政府勞動社會部長的職務。她透過 Instagram 發表聲明，並批評梅爾茨所屬的保守派基民盟／基社盟（CDU/CSU）。聯合政府內部因政策內容而出現的裂痕因此浮現。",
+   "u": "https://www.sankei.com/article/20261012-STILH4SELBK7RPBAGMF5BVSKUA/",
+   "p": "2026-10-12T11:27:37+00:00",
+   "o": "独連立与党トップが辞意 労働相も、メルツ政権亀裂 政策内容巡り対立"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "哪檔製藥 ETF 更值得買：iShares 的 IHE 還是 Invesco 的 PJP？",
-   "b": "製藥股是過去一年最佳投資標的之一，選擇這兩檔基金取決於你想如何持有未來的成長。",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "澤倫斯基：若俄羅斯同意停火 60 天，烏克蘭將舉行總統大選",
    "pts": [
-    "製藥股是過去一年最佳投資標的之一，選擇這兩檔基金取決於你想如何持有未來的成長。"
+    "澤倫斯基 11 日接受澳洲 ABC 專訪時表示，若俄羅斯接受 60 天停火，烏克蘭將舉行總統大選。",
+    "他說也已向美國總統川普表達相同想法。",
+    "報導認為這可能是他首次明確提出期間。"
    ],
-   "u": "https://www.fool.com/coverage/etfs/2026/10/11/which-pharmaceutical-etf-is-the-better-buy-ishares-ihe-or-invesco-s-pjp/?.tsrc=rss",
-   "p": "2026-10-12T01:12:11+00:00",
-   "o": "Which Pharmaceuticals ETF Is the Better Buy: iShares’ IHE or Invesco’s PJP?"
+   "b": "澤倫斯基 11 日接受澳洲 ABC 專訪時表示，若俄羅斯接受 60 天停火，烏克蘭將舉行總統大選。他說也已向美國總統川普表達相同想法。報導認為這可能是他首次明確提出期間。",
+   "u": "https://www.sankei.com/article/20261012-AHPNZIDNYJJ4XHDMETHULNVHMA/",
+   "p": "2026-10-12T11:06:00+00:00",
+   "o": "ゼレンスキー氏、60日間停戦を条件に「ウクライナ大統領選を実施」期間明示は初めてか"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "福利國家正在壓垮英國",
-   "b": "英國福利支出大幅膨脹，借貸成本已高於所有七大工業國。英國支付的債務利息甚至高於揮霍成性的法國。",
+   "t": "川普轉向俄羅斯柴油的舉動引發反彈與質疑",
    "pts": [
-    "英國福利支出大幅膨脹，借貸成本已高於所有七大工業國。",
-    "英國支付的債務利息甚至高於揮霍成性的法國。"
+    "川普購買俄羅斯柴油的舉措招致反對與懷疑。",
+    "另提到零售商把關稅退款用於節前行銷，以及中國吉利計劃明年向加拿大消費者銷售電動車。"
    ],
-   "u": "https://www.wsj.com/world/uk/united-kingdom-welfare-disability-payouts-737d77a0?mod=rss_worldnews",
-   "p": "2026-10-12T01:00:00+00:00",
-   "o": "The Welfare State Is Crushing Britain"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "伊朗支持的武裝組織向沙國王儲步步進逼",
-   "b": "沙國王儲沙爾曼（Mohammed bin Salman）如今受困於因大舉支出與低估胡塞威脅而走弱的經濟。",
-   "pts": [
-    "沙國王儲沙爾曼（Mohammed bin Salman）如今受困於因大舉支出與低估胡塞威脅而走弱的經濟。"
-   ],
-   "u": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789?mod=rss_worldnews",
-   "p": "2026-10-12T01:00:00+00:00",
-   "o": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince"
+   "b": "川普購買俄羅斯柴油的舉措招致反對與懷疑。另提到零售商把關稅退款用於節前行銷，以及中國吉利計劃明年向加拿大消費者銷售電動車。",
+   "u": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
+   "p": "2026-10-12T10:55:00+00:00",
+   "o": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "市場期待俄羅斯柴油緩解全球燃料短缺，油價下跌",
-   "b": "亞洲早盤油價走低，市場期待俄羅斯柴油能緩解全球燃料短缺。",
+   "t": "股市窄幅上漲並不罕見，何時才該開始擔心",
    "pts": [
-    "亞洲早盤油價走低，市場期待俄羅斯柴油能緩解全球燃料短缺。"
+    "本篇探討窄幅股市漲勢並不罕見，以及何時才需要開始擔心。",
+    "文中並提到財報季即將開跑。"
    ],
-   "u": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-hopes-that-russian-diesel-can-ease-global-fuel-shortages-db1651af?mod=rss_markets_main",
-   "p": "2026-10-12T00:46:00+00:00",
-   "o": "Oil Falls on Hopes That Russian Diesel Can Ease Global Fuel Shortages"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "市場權衡油價回落，黃金上漲",
-   "b": "亞洲早盤黃金上漲，市場評估油價回落的影響。",
-   "pts": [
-    "亞洲早盤黃金上漲，市場評估油價回落的影響。"
-   ],
-   "u": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
-   "p": "2026-10-12T00:43:00+00:00",
-   "o": "Gold Rises as Markets Weigh Oil Pullback"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "類股輪動揭示新的買進機會（即使標普 500 接近紀錄高點）",
-   "b": "B. Riley Wealth 首席市場策略師 Art Hogan 認為，持有廣泛的標普 500 部位可以跟上市場領導權的輪動。",
-   "pts": [
-    "B. Riley Wealth 首席市場策略師 Art Hogan 認為，持有廣泛的標普 500 部位可以跟上市場領導權的輪動。"
-   ],
-   "u": "https://www.thestreet.com/investing/sector-rotation-reveals-new-buying-opportunities-even-with-the-sp-500-at-record-highs?.tsrc=rss",
-   "p": "2026-10-12T00:23:52+00:00",
-   "o": "Sector rotation reveals new buying opportunities (even with the S&P 500 near record highs)"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "哪檔全球不動產 ETF 更值得買：State Street 的 RWO 還是 Xtrackers 的 HAUZ？",
-   "b": "一檔自稱全球型但超過一半資金放在美國；另一檔完全投資海外，費用僅五分之一。",
-   "pts": [
-    "一檔自稱全球型但超過一半資金放在美國；另一檔完全投資海外，費用僅五分之一。"
-   ],
-   "u": "https://www.fool.com/coverage/etfs/2026/10/11/which-global-real-estate-etf-is-the-better-buy-state-street-s-rwo-or-xtrackers-hauz/?.tsrc=rss",
-   "p": "2026-10-12T00:22:27+00:00",
-   "o": "Which Global Real Estate ETF Is the Better Buy: State Street’s RWO or Xtrackers’ HAUZ?"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "「AI 美元」時代來臨，科技巨頭獲利能力將成霸權新考驗",
-   "b": "AI 投資熱潮讓美元的支撐力量出現新變化，但與傳統石油美元不同，更依賴少數美國科技公司的獲利與市場信心。中國也在發展自己的 AI 生態與支付基礎設施，可能在部分領域形成競爭。AI 相關支出帶動晶片、伺服器、電力與資料中心需求，讓美國經濟在高利率下仍維持韌性。日本央行總裁植田和男指出，若企業獲利跟不上投資擴張，市場可能修正；AI 企業大規模發債也在推高長天期利率。美元的持久優勢仍取決於財政赤字、債務負擔與制度信譽。",
-   "pts": [
-    "AI 投資熱潮讓美元的支撐力量出現新變化，但與傳統石油美元不同，更依賴少數美國科技公司的獲利與市場信心。",
-    "中國也在發展自己的 AI 生態與支付基礎設施，可能在部分領域形成競爭。",
-    "AI 相關支出帶動晶片、伺服器、電力與資料中心需求，讓美國經濟在高利率下仍維持韌性。",
-    "日本央行總裁植田和男指出，若企業獲利跟不上投資擴張，市場可能修正；AI 企業大規模發債也在推高長天期利率。",
-    "美元的持久優勢仍取決於財政赤字、債務負擔與制度信譽。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/how-ai-could-scupper-the-dollar/",
-   "p": "2026-10-11T23:40:42+00:00",
-   "o": "「AI 美元」時代來臨，科技巨頭獲利能力將成霸權新考驗"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "金價高漲刺激投資，埃及黃金夢逐漸成形",
-   "b": "埃及 6 年前修改礦業法吸引外資，但官僚低效率與非法採礦的暴力問題，仍讓投資卻步。主要產地 Sukari 金礦年產約 50 萬盎司；政府計劃 2030 年前將年產量提升至 80 萬盎司。在金價帶動下，Abu Marawat 預計 2027 年投產，沙烏地黃金精煉公司預計到 2030 年投資埃及 2 億美元。若金價回跌投資恐縮水，要長久仍須處理行政成本與非法採礦風險。",
-   "pts": [
-    "埃及 6 年前修改礦業法吸引外資，但官僚低效率與非法採礦的暴力問題，仍讓投資卻步。",
-    "主要產地 Sukari 金礦年產約 50 萬盎司；政府計劃 2030 年前將年產量提升至 80 萬盎司。",
-    "在金價帶動下，Abu Marawat 預計 2027 年投產，沙烏地黃金精煉公司預計到 2030 年投資埃及 2 億美元。",
-    "若金價回跌投資恐縮水，要長久仍須處理行政成本與非法採礦風險。"
-   ],
-   "u": "https://finance.technews.tw/2026/10/12/egypts-gold-ambitions-start-to-take-shape/",
-   "p": "2026-10-11T23:30:55+00:00",
-   "o": "金價高漲刺激投資，埃及黃金夢逐漸成形"
+   "b": "本篇探討窄幅股市漲勢並不罕見，以及何時才需要開始擔心。文中並提到財報季即將開跑。",
+   "u": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d?mod=rss_markets_main",
+   "p": "2026-10-12T10:44:00+00:00",
+   "o": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying."
   }
  ]
 }
