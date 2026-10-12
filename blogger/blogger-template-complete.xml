@@ -4,7 +4,7 @@
 
 <!--
 =====================================================================
-  羅傑觀點評論  Consulting &amp; Technology
+  羅傑股海江湖  Consulting &amp; Technology
   Blogger 完整自訂版型&#65288;不依賴 Google 內建主題&#65289;&#8212; 薄荷夜色&#12539;淺色&#65295;深色自動雙主題版
   已加入「全球新聞脈動」&#65288;新聞條列 + 摘要卡&#65292;不需要 API Key&#65289;
 
@@ -42,7 +42,7 @@
 
   <b:skin><![CDATA[
 /* =====================================================================
-   羅傑觀點評論 — 薄荷夜色風（淺色／深色雙主題，皆保持高對比）
+   羅傑股海江湖 — 薄荷夜色風（淺色／深色雙主題，皆保持高對比）
    設計重點：
    1. 預設自動跟隨使用者裝置的「淺色／深色」設定；右上角按鈕可手動覆寫
    2. 暖黑底 + 深色卡片 + 薄荷綠強調；淺色模式為薄荷灰白底 + 深綠文字強調
@@ -142,9 +142,9 @@ img{max-width:100%;height:auto}
 .Header h1.title{margin:0;display:flex;align-items:center;gap:16px;font-weight:900;font-size:clamp(28px,5vw,44px);letter-spacing:.05em;line-height:1.25;color:var(--strong)}
 .Header h1.title a{color:inherit}
 .Header h1.title::before{content:'R';flex:0 0 auto;display:grid;place-items:center;width:56px;height:56px;background:var(--brand);border-radius:46% 54% 42% 58% / 55% 40% 60% 45%;font:italic 900 34px/1 var(--sans);color:#1A1405;transform:rotate(-8deg)}
-.Header .description{margin:4px 0 0;font-size:12px;font-weight:500;letter-spacing:.36em;color:var(--muted);text-transform:none}
+.Header .description{margin:4px 0 0;font-size:14px;font-weight:500;letter-spacing:.36em;color:var(--muted);text-transform:none}
 
-.mast-tools{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.mast-tools{display:flex;align-items:center;gap:10px;font-size:15px;color:var(--muted)}
 .btn-sub{display:inline-block;background:var(--btn-bg);color:var(--btn-ink);border:1px solid var(--btn-line);font-weight:700;letter-spacing:.08em;padding:8px 20px;border-radius:999px;transition:background .2s,color .2s,transform .2s}
 .btn-sub:hover{background:var(--accent);color:var(--on-accent);border-color:var(--accent);transform:translateY(-1px)}
 .theme-btn{width:42px;height:42px;border-radius:50%;border:1px solid var(--btn-line);background:var(--btn-bg);color:var(--btn-ink);font-size:18px;cursor:pointer;line-height:1;transition:background .2s,color .2s}
@@ -168,7 +168,7 @@ img{max-width:100%;height:auto}
 .cat-tile b,.cat-tile strong,.cat-tile span{position:relative;z-index:1}
 .cat-tile b{display:block;font-weight:900;font-size:26px;line-height:1;color:var(--accent-ink)}
 .cat-tile strong{display:block;margin-top:8px;font-weight:700;font-size:19px;letter-spacing:.05em;color:var(--strong)}
-.cat-tile span{display:block;margin-top:4px;font-size:13px;line-height:1.6;color:var(--muted)}
+.cat-tile span{display:block;margin-top:4px;font-size:15px;line-height:1.6;color:var(--muted)}
 .cat-tile:hover{transform:translateY(-4px);border-color:var(--accent);box-shadow:var(--shadow)}
 .cat-tile:hover::after{transform:scale(1.9)}
 
@@ -197,13 +197,13 @@ img{max-width:100%;height:auto}
 .post-outer:hover .card-thumb img{transform:scale(1.045)}
 .card-thumb.noimg{display:grid;place-items:center;background:linear-gradient(135deg,var(--ph-a),var(--ph-b))}
 .card-thumb.noimg span{font:italic 900 72px/1 var(--sans);color:var(--ph-ink);opacity:.9}
-.card-tag{position:absolute;left:14px;top:14px;background:rgba(8,18,14,.74);color:#8FE9C4;font-weight:700;font-size:12px;letter-spacing:.1em;padding:3px 13px;border-radius:999px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+.card-tag{position:absolute;left:14px;top:14px;background:rgba(8,18,14,.74);color:#8FE9C4;font-weight:700;font-size:14px;letter-spacing:.1em;padding:3px 13px;border-radius:999px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
 
 .index-page h3.post-title{margin:0 0 6px;font-weight:700;font-size:20px;line-height:1.5;letter-spacing:.02em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .index-page h3.post-title a{color:var(--strong)}
 .index-page .post-outer:hover h3.post-title a{color:var(--accent-ink)}
-.card-meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;margin:0 0 8px;font-size:13px;color:var(--muted)}
-.new-badge{display:inline-block;background:var(--badge-bg);color:var(--badge-ink);font-weight:700;font-size:12px;line-height:20px;padding:0 9px;border-radius:999px}
+.card-meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;margin:0 0 8px;font-size:15px;color:var(--muted)}
+.new-badge{display:inline-block;background:var(--badge-bg);color:var(--badge-ink);font-weight:700;font-size:14px;line-height:20px;padding:0 9px;border-radius:999px}
 .index-page .post-body{font-size:15px;line-height:1.85;color:var(--muted);max-height:7.6em;overflow:hidden}
 .index-page .post-body p{margin:0}
 .card-more{display:inline-block;margin-top:14px;background:var(--chip);color:var(--chip-ink);font-weight:500;font-size:14px;letter-spacing:.06em;padding:6px 18px;border-radius:999px}
@@ -224,11 +224,11 @@ img{max-width:100%;height:auto}
 /* ---------- 文章頁 ---------- */
 .single .post-outer{padding:clamp(22px,4.5vw,52px);border-radius:24px}
 .date-header{margin:0 0 12px}
-.date-header span{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:13px;letter-spacing:.08em;padding:3px 14px;border-radius:999px}
+.date-header span{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:15px;letter-spacing:.08em;padding:3px 14px;border-radius:999px}
 .single h3.post-title{margin:4px 0 14px;font-weight:700;font-size:clamp(26px,4vw,36px);line-height:1.45;letter-spacing:.02em;color:var(--strong)}
-.post-header{font-size:13px;color:var(--muted);margin-bottom:16px}
-.post-footer{margin-top:28px;padding-top:16px;border-top:1px solid var(--line);font-size:13px;color:var(--muted);line-height:2}
-.post-labels a{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-size:12px;font-weight:700;letter-spacing:.06em;padding:1px 13px;margin:0 5px 4px 0;border-radius:999px}
+.post-header{font-size:15px;color:var(--muted);margin-bottom:16px}
+.post-footer{margin-top:28px;padding-top:16px;border-top:1px solid var(--line);font-size:15px;color:var(--muted);line-height:2}
+.post-labels a{display:inline-block;background:var(--accent-soft);color:var(--accent-ink);font-size:14px;font-weight:700;letter-spacing:.06em;padding:1px 13px;margin:0 5px 4px 0;border-radius:999px}
 .post-labels a:hover{background:var(--accent);color:var(--on-accent)}
 
 .post-body{font-size:17px;line-height:2.05;color:var(--ink);word-wrap:break-word}
@@ -310,7 +310,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .widget a:hover{color:var(--accent-ink)}
 
 .cloud-label-widget-content{display:flex;flex-wrap:wrap;gap:8px}
-.cloud-label-widget-content .label-size{font-size:13px}
+.cloud-label-widget-content .label-size{font-size:15px}
 .cloud-label-widget-content .label-size a{display:inline-block;padding:3px 14px;background:var(--chip);color:var(--chip-ink);border-radius:999px}
 .cloud-label-widget-content .label-size a:hover{background:var(--accent);color:var(--on-accent)}
 .label-size .label-count{margin-left:4px;color:var(--muted)}
@@ -322,7 +322,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .PopularPosts .item-thumbnail{float:left;margin:0 14px 0 0}
 .PopularPosts .item-thumbnail img{width:76px;height:76px;object-fit:cover;border-radius:14px}
 .PopularPosts .item-title{font-weight:500;line-height:1.6;color:var(--strong)}
-.PopularPosts .item-title::before{content:counter(rank);display:inline-block;width:22px;height:22px;line-height:22px;margin-right:8px;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:12px;text-align:center;border-radius:50%}
+.PopularPosts .item-title::before{content:counter(rank);display:inline-block;width:22px;height:22px;line-height:22px;margin-right:8px;background:var(--accent-soft);color:var(--accent-ink);font-weight:700;font-size:14px;text-align:center;border-radius:50%}
 .PopularPosts .item-snippet{display:none}
 
 .BlogArchive ul.hierarchy{padding-left:14px}
@@ -344,10 +344,10 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .site-footer{background:var(--footer);color:#D5DDD8;border-radius:32px 32px 0 0;padding:38px 0 34px;font-size:14px}
 .site-footer .brand{font-weight:900;font-size:21px;letter-spacing:.06em;color:#F4F7F5}
 .site-footer .brand em{font-style:normal;color:var(--brand)}
-.site-footer .tagline{letter-spacing:.3em;font-size:12px;color:#8F9A95;margin:2px 0 14px}
+.site-footer .tagline{letter-spacing:.3em;font-size:14px;color:#8F9A95;margin:2px 0 14px}
 .site-footer .disclaimer{max-width:820px;line-height:1.95;color:#AAB5B0;background:rgba(255,255,255,.05);border-radius:14px;padding:14px 18px;margin:0}
 .site-footer a{color:#7EE2B8}
-.site-footer .Attribution{margin-top:18px;font-size:12px;color:#8F9A95}
+.site-footer .Attribution{margin-top:18px;font-size:14px;color:#8F9A95}
 .site-footer .widget{background:none;border:0;box-shadow:none;padding:0;margin:0}
 
 /* 回到頂部 */
@@ -370,7 +370,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
   /* 手機：頂部分段導覽收起，改用底部浮動膠囊 */
   .mainnav{display:none}
   .bottomnav{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));max-width:520px;margin:0 auto;padding:6px;gap:2px;background:var(--card);border:1px solid var(--line);border-radius:30px;box-shadow:0 10px 30px rgba(0,0,0,.28);z-index:80}
-  .bottomnav a{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 2px 7px;border-radius:24px;font-size:11px;font-weight:500;letter-spacing:.02em;color:var(--muted);white-space:nowrap}
+  .bottomnav a{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;padding:8px 2px 7px;border-radius:24px;font-size:13px;font-weight:500;letter-spacing:.02em;color:var(--muted);white-space:nowrap}
   .bottomnav svg{width:22px;height:22px}
   .bottomnav a.on{background:var(--pill-bg);color:var(--accent-ink);font-weight:700}
   #toTop{bottom:96px;right:14px}
@@ -382,7 +382,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
   .index-page .blog-posts>.date-outer:first-child .date-posts>.post-outer:first-child h3.post-title{font-size:23px}
   .post-body{font-size:16px;line-height:2}
   .post-body h2{font-size:20px}
-  .post-body table{display:block;overflow-x:auto;font-size:13px}
+  .post-body table{display:block;overflow-x:auto;font-size:15px}
   .rel-grid{grid-template-columns:1fr}
   .cta{padding:20px 22px}
   .site-footer{border-radius:24px 24px 0 0}
@@ -402,7 +402,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .np-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .np-head h2{margin:0;display:flex;align-items:center;gap:10px;font-weight:900;font-size:22px;letter-spacing:.06em;color:var(--strong)}
 .np-head h2::before{content:'';width:10px;height:10px;border-radius:50%;background:var(--up);animation:npPulse 1.8s infinite}
-.np-updated{font-size:13px;color:var(--muted)}
+.np-updated{font-size:15px;color:var(--muted)}
 .np-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
 .np-tabs button{font:inherit;font-size:14px;font-weight:500;letter-spacing:.06em;padding:5px 16px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--muted);cursor:pointer}
 .np-tabs button:hover{color:var(--strong)}
@@ -411,12 +411,12 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .np-row{display:block;width:100%;text-align:left;font:inherit;color:inherit;background:none;border:0;border-top:1px solid var(--line);padding:14px 20px;cursor:pointer}
 .np-row:first-child{border-top:0}
 .np-row:hover{background:var(--card-2)}
-.np-meta{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;font-size:12px;color:var(--muted)}
+.np-meta{display:flex;align-items:center;flex-wrap:wrap;gap:4px 10px;font-size:14px;color:var(--muted)}
 .np-tag{font-weight:700;letter-spacing:.06em;padding:1px 11px;border-radius:999px;background:var(--accent-soft);color:var(--accent-ink)}
 .np-title{display:block;margin-top:4px;font-weight:700;font-size:16.5px;line-height:1.6;color:var(--strong)}
 .np-row:hover .np-title{color:var(--accent-ink)}
 .np-empty{padding:28px 20px;text-align:center;color:var(--muted)}
-.np-note{margin:10px 2px 0;font-size:12px;color:var(--muted);line-height:1.7}
+.np-note{margin:10px 2px 0;font-size:14px;color:var(--muted);line-height:1.7}
 
 /* 摘要卡 */
 #npCard{border:1px solid var(--line);border-radius:22px;background:var(--card);color:var(--ink);width:min(640px,calc(100vw - 28px));max-height:86vh;padding:22px 24px;box-shadow:var(--shadow)}
@@ -425,14 +425,14 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .npc-x{margin-left:auto;width:36px;height:36px;border-radius:50%;border:1px solid var(--btn-line);background:var(--btn-bg);color:var(--btn-ink);font-size:15px;cursor:pointer}
 .npc-x:hover{background:var(--accent);color:var(--on-accent)}
 #npCard h3{margin:12px 0 2px;font-weight:700;font-size:21px;line-height:1.5;color:var(--strong)}
-.npc-orig{font-size:12.5px;color:var(--muted)}
-#npCard h4{margin:16px 0 8px;font-size:13px;letter-spacing:.08em;color:var(--muted)}
+.npc-orig{font-size:14.5px;color:var(--muted)}
+#npCard h4{margin:16px 0 8px;font-size:15px;letter-spacing:.08em;color:var(--muted)}
 .npc-pts{display:grid;gap:8px;margin:0;padding:14px 16px;list-style:none;background:var(--accent-soft);border-radius:14px;font-size:15.5px;line-height:1.8}
 .npc-pts li{display:flex;gap:.6em;align-items:baseline}
 .npc-pts li::before{content:'\2022';flex:none;width:.6em;text-align:center;color:var(--accent-ink)}
 .npc-pts li span{min-width:0;overflow-wrap:anywhere}
 .npc-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:18px}
-.npc-foot small{font-size:12px;color:var(--muted)}
+.npc-foot small{font-size:14px;color:var(--muted)}
 .npc-go{font:inherit;font-weight:700;letter-spacing:.08em;background:var(--accent);color:var(--on-accent);border:0;border-radius:999px;padding:9px 24px;cursor:pointer}
 .npc-go:hover{transform:translateY(-1px)}
 @keyframes npPulse{50%{opacity:.25}}
@@ -443,7 +443,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 .tk-i{display:inline-flex;align-items:baseline;gap:8px;padding:0 22px;line-height:46px;white-space:nowrap;font-size:14px;border-right:1px solid var(--line)}
 .tk-i b{font-weight:700;color:var(--strong);letter-spacing:.04em}
 .tk-p{color:var(--ink);font-variant-numeric:tabular-nums}
-.tk-c{font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.tk-c{font-size:15px;font-variant-numeric:tabular-nums;color:var(--muted)}
 .tk-c.up{color:var(--up)}
 .tk-c.down{color:var(--down)}
 @keyframes tkmove{to{transform:translateX(-50%)}}
@@ -456,10 +456,16 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
 @media (max-width:720px){.np-head h2{font-size:19px}.np-row{padding:12px 16px}#npCard{padding:18px 18px}}
 @media (prefers-reduced-motion:reduce){.np-head h2::before{animation:none!important}}
 
+
+/* ---------- 版面調整：沒有側邊欄、隱藏 Blogger 署名、非首頁不顯示頁首標題區塊 ---------- */
+.layout{grid-template-columns:minmax(0,1fr)}
+.Attribution,.site-footer .Attribution{display:none!important}
+body:not(.is-home) .masthead .header{display:none}
+body:not(.is-home) .masthead-inner{justify-content:flex-end;padding-top:14px;padding-bottom:4px}
 ]]></b:skin>
 </head>
 
-<body expr:class='data:blog.pageType + &quot;-page&quot;'>
+<body expr:class='data:blog.pageType + &quot;-page&quot; + (data:blog.url == data:blog.homepageUrl ? &quot; is-home&quot; : &quot;&quot;)'>
 
   <div id='progress'/>
 
@@ -549,7 +555,6 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
       </b:section>
       <div class='mast-tools'>
         <span id='todayDate'/>
-        <a class='btn-sub' expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' target='_blank'>RSS 訂閱</a>
         <button class='theme-btn' id='themeToggle' title='切換深色／淺色' type='button'>&#9790;</button>
       </div>
     </div>
@@ -595,7 +600,7 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
         </div>
         <div class='np-tabs' id='npTabs'></div>
         <div class='np-list' id='npList'><div class='np-empty'>新聞載入中…</div></div>
-        <p class='np-note'>新聞取自 WSJ、Yahoo Finance、科技新報、財經新報公開 RSS，外文新聞已譯為繁體中文並摘要，每日 08:00、20:00 更新，僅供參考。點新聞先看摘要卡，需要時再按「閱讀全文」前往原文。</p>
+        <p class='np-note'>新聞取自 WSJ、Yahoo Finance、科技新報、財經新報、DIGITIMES、産経新聞公開 RSS，外文新聞已譯為繁體中文並摘要，每日 08:00、20:00 更新，僅供參考。點新聞先看摘要卡，需要時再按「閱讀全文」前往原文。</p>
       </section>
       <dialog id='npCard' aria-labelledby='npcT'>
         <div class='npc-bar'><span class='np-tag' id='npcTag'></span><span class='np-meta' id='npcMeta'></span><button class='npc-x' id='npcX' type='button' aria-label='關閉'>&#10005;</button></div>
@@ -676,8 +681,6 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
     <!-- navigation -->
     <b:include name='nextprev'/>
 
-    <!-- feed links -->
-    <b:include name='feedLinks'/>
 
   <b:else/>
     <b:include name='mobile-main'/>
@@ -1457,221 +1460,13 @@ mark{background:linear-gradient(transparent 55%,var(--mark) 55%);color:inherit;p
         </b:section>
       </main>
 
-      <aside class='sidebar'>
-        <b:section class='sidebar-sec' id='sidebar' preferred='yes'>
-          <b:widget id='BlogSearch1' locked='false' title='搜尋文章' type='BlogSearch'>
-            <b:includable id='main'>
-    <!-- only display title if it's non-empty -->
-    <b:if cond='data:title != &quot;&quot;'>
-      <h2 class='title'><data:title/></h2>
-    </b:if>
-
-    <div class='widget-content'>
-      <div expr:id='data:widget.instanceId + &quot;_form&quot;'>
-        <form class='gsc-search-box' expr:action='data:blog.searchUrl'>
-          <b:attr cond='not data:view.isPreview' name='target' value='_top'/>
-          <table cellpadding='0' cellspacing='0' class='gsc-search-box'>
-            <tbody>
-              <tr>
-                <td class='gsc-input'>
-                  <input autocomplete='off' class='gsc-input' expr:value='data:view.isSearch ? data:view.search.query.escaped : &quot;&quot;' name='q' size='10' title='search' type='text'/>
-                </td>
-                <td class='gsc-search-button'>
-                  <input class='gsc-search-button' expr:value='data:messages.search' title='search' type='submit'/>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </form>
-      </div>
-    </div>
-
-    <b:include name='quickedit'/>
-  </b:includable>
-          </b:widget>
-          <b:widget id='PopularPosts1' locked='false' title='熱門文章' type='PopularPosts'>
-            <b:widget-settings>
-              <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
-              <b:widget-setting name='showThumbnails'>true</b:widget-setting>
-              <b:widget-setting name='showSnippets'>true</b:widget-setting>
-              <b:widget-setting name='timeRange'>LAST_YEAR</b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
-  <div class='widget-content popular-posts'>
-    <ul>
-      <b:loop values='data:posts' var='post'>
-      <li>
-        <b:if cond='!data:showThumbnails'>
-          <b:if cond='!data:showSnippets'>
-            <!-- (1) No snippet/thumbnail -->
-            <a expr:href='data:post.href'><data:post.title/></a>
-          <b:else/>
-            <!-- (2) Show only snippets -->
-            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
-            <div class='item-snippet'><data:post.snippet/></div>
-          </b:if>
-        <b:else/>
-          <!-- (3) Show only thumbnails or (4) Snippets and thumbnails. -->
-          <div expr:class='data:showSnippets ? &quot;item-content&quot; : &quot;item-thumbnail-only&quot;'>
-            <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
-              <div class='item-thumbnail'>
-                <a expr:href='data:post.href' target='_blank'>
-                  <b:with value='data:post.featuredImage.isResizable                                  ? resizeImage(data:post.featuredImage, 72, &quot;1:1&quot;)                                  : data:post.thumbnail' var='image'>
-                    <img alt='' border='0' expr:src='data:image'/>
-                  </b:with>
-                </a>
-              </div>
-            </b:if>
-            <div class='item-title'><a expr:href='data:post.href'><data:post.title/></a></div>
-            <b:if cond='data:showSnippets'>
-              <div class='item-snippet'><data:post.snippet/></div>
-            </b:if>
-          </div>
-          <div style='clear: both;'/>
-        </b:if>
-      </li>
-      </b:loop>
-    </ul>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-          </b:widget>
-          <b:widget id='Label1' locked='false' title='主題分類' type='Label'>
-            <b:widget-settings>
-              <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
-              <b:widget-setting name='display'>LIST</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'/>
-              <b:widget-setting name='showType'>ALL</b:widget-setting>
-              <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2><data:title/></h2>
-  </b:if>
-  <div expr:class='&quot;widget-content &quot; + data:display + &quot;-label-widget-content&quot;'>
-    <b:if cond='data:display == &quot;list&quot;'>
-      <ul>
-        <b:loop values='data:labels' var='label'>
-          <li>
-            <b:if cond='data:blog.url == data:label.url'>
-              <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-            <b:else/>
-              <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-            </b:if>
-            <b:if cond='data:showFreqNumbers'>
-              <span dir='ltr'>(<data:label.count/>)</span>
-            </b:if>
-          </li>
-        </b:loop>
-      </ul>
-    <b:else/>
-      <b:loop values='data:labels' var='label'>
-        <span expr:class='&quot;label-size label-size-&quot; + data:label.cssSize'>
-          <b:if cond='data:blog.url == data:label.url'>
-            <span expr:dir='data:blog.languageDirection'><data:label.name/></span>
-          <b:else/>
-            <a expr:dir='data:blog.languageDirection' expr:href='data:label.url'><data:label.name/></a>
-          </b:if>
-          <b:if cond='data:showFreqNumbers'>
-            <span class='label-count' dir='ltr'>(<data:label.count/>)</span>
-          </b:if>
-        </span>
-      </b:loop>
-    </b:if>
-    <b:include name='quickedit'/>
-  </div>
-</b:includable>
-          </b:widget>
-          <b:widget id='BlogArchive1' locked='false' title='文章存檔' type='BlogArchive'>
-            <b:widget-settings>
-              <b:widget-setting name='showStyle'>FLAT</b:widget-setting>
-              <b:widget-setting name='yearPattern'>yyyy</b:widget-setting>
-              <b:widget-setting name='showWeekEnd'>true</b:widget-setting>
-              <b:widget-setting name='monthPattern'>MMMM yyyy</b:widget-setting>
-              <b:widget-setting name='dayPattern'>MMM dd</b:widget-setting>
-              <b:widget-setting name='weekPattern'>MM/dd</b:widget-setting>
-              <b:widget-setting name='chronological'>false</b:widget-setting>
-              <b:widget-setting name='showPosts'>true</b:widget-setting>
-              <b:widget-setting name='frequency'>MONTHLY</b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2><data:title/></h2>
-  </b:if>
-  <div class='widget-content'>
-  <div id='ArchiveList'>
-  <div expr:id='data:widget.instanceId + &quot;_ArchiveList&quot;'>
-    <b:include cond='data:style == &quot;HIERARCHY&quot;' data='data' name='interval'/>
-    <b:include cond='data:style == &quot;FLAT&quot;' data='data' name='flat'/>
-    <b:include cond='data:style == &quot;MENU&quot;' data='data' name='menu'/>
-  </div>
-  </div>
-  <b:include name='quickedit'/>
-  </div>
-</b:includable>
-            <b:includable id='flat' var='data'>
-  <ul class='flat'>
-    <b:loop values='data:data' var='i'>
-      <li class='archivedate'>
-        <a expr:href='data:i.url'><data:i.name/></a> (<data:i.post-count/>)
-      </li>
-    </b:loop>
-  </ul>
-</b:includable>
-            <b:includable id='interval' var='intervalData'>
-  <b:loop values='data:intervalData' var='interval'>
-    <ul class='hierarchy'>
-      <li expr:class='&quot;archivedate &quot; + data:interval.expclass'>
-        <b:include cond='data:interval.toggleId' data='interval' name='toggle'/>
-        <a class='post-count-link' expr:href='data:interval.url'>
-          <data:interval.name/>
-        </a>
-        <span class='post-count' dir='ltr'>(<data:interval.post-count/>)</span>
-        <b:include cond='data:interval.data' data='interval.data' name='interval'/>
-        <b:include cond='data:interval.posts' data='interval.posts' name='posts'/>
-      </li>
-    </ul>
-  </b:loop>
-</b:includable>
-            <b:includable id='menu' var='data'>
-  <select expr:id='data:widget.instanceId + &quot;_ArchiveMenu&quot;'>
-    <option value=''><data:title/></option>
-    <b:loop values='data:data' var='i'>
-      <option expr:value='data:i.url'><data:i.name/> (<data:i.post-count/>)</option>
-    </b:loop>
-  </select>
-</b:includable>
-            <b:includable id='posts' var='posts'>
-  <ul class='posts'>
-    <b:loop values='data:posts' var='post'>
-      <li><a expr:href='data:post.url'><data:post.title/></a></li>
-    </b:loop>
-  </ul>
-</b:includable>
-            <b:includable id='toggle' var='interval'>
-  <a class='toggle' href='javascript:void(0)'>
-    <span expr:class='&quot;zippy&quot; + (data:interval.expclass == &quot;expanded&quot; ? &quot; toggle-open&quot; : &quot;&quot;)'>
-      <b:if cond='data:interval.expclass == &quot;expanded&quot;'>
-        &#9660;&#160;
-      <b:elseif cond='data:blog.languageDirection == &quot;rtl&quot;'/>
-        &#9668;&#160;
-      <b:else/>
-        &#9658;&#160;
-      </b:if>
-    </span>
-  </a>
-</b:includable>
-          </b:widget>
-        </b:section>
-      </aside>
     </div>
   </div>
 
   <!-- 頁尾 -->
   <footer class='site-footer'>
     <div class='wrap'>
-      <div class='brand'><em>R</em> 羅傑觀點評論</div>
+      <div class='brand'><em>R</em> 羅傑股海江湖</div>
       <div class='tagline'>CONSULTING &amp; TECHNOLOGY</div>
       <p class='disclaimer'>本站內容為個人投資心得與研究分享&#65292;僅供參考&#65292;不構成任何買賣建議或獲利保證&#12290;投資一定有風險&#65292;請務必獨立思考&#12289;審慎評估自身風險承受度後再做決定&#65292;並自負盈虧&#12290;</p>
       <b:section class='footer' id='footer' maxwidgets='1' showaddelement='no'>
@@ -2032,22 +1827,6 @@ head.appendChild(script);
     var host = $('.blog-posts');
     if (!host) { return; }
 
-    var cta = d.createElement('div');
-    cta.className = 'cta';
-    var left = d.createElement('div');
-    var h4 = d.createElement('h4');
-    h4.textContent = '不錯過每一篇觀點';
-    var cp = d.createElement('p');
-    cp.textContent = '訂閱 RSS，投資動態、產業文章、個股分享與產經新聞第一時間掌握。';
-    left.appendChild(h4);
-    left.appendChild(cp);
-    var ca = d.createElement('a');
-    ca.href = '/feeds/posts/default?alt=rss';
-    ca.target = '_blank';
-    ca.textContent = 'RSS 訂閱';
-    cta.appendChild(left);
-    cta.appendChild(ca);
-    host.appendChild(cta);
 
     var lab = $('.post-labels a[rel="tag"]') || $('.post-labels a');
     if (!lab || !window.fetch) { return; }
@@ -2130,7 +1909,7 @@ head.appendChild(script);
   <!-- 全球新聞脈動內嵌資料（備用方案 B）：貼在 blogger-3 之前。更新時只要換掉這一段。 -->
   <script type='text/javascript'>
 //<![CDATA[
-window.NEWS_DATA={"updated": "2026-10-11T09:49:05+00:00", "items": [{"c": "tech", "s": "科技新報", "t": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題", "b": "目前紅血球冷凍保存主要用甘油防止冰晶，但甘油有細胞毒性，輸血前必須徹底移除，這個步驟又會損傷紅血球。水熊蟲脫水時會大量生成 CAHS 蛋白，與海藻糖作用可形成類似玻璃的保護結構。團隊取 CAHS 蛋白具保護作用的片段搭配海藻糖，浸入液氮冷凍小鼠紅血球，解凍後只需離心即可洗去。紅血球解凍後完整恢復率達 89%，傳統甘油方法約 82%；輸血給貧血小鼠也提升紅血球數與血紅素，且未引發發炎。要用於人類紅血球庫存，仍需更多人體試驗與長期穩定性評估。", "pts": ["目前紅血球冷凍保存主要用甘油防止冰晶，但甘油有細胞毒性，輸血前必須徹底移除，這個步驟又會損傷紅血球。", "水熊蟲脫水時會大量生成 CAHS 蛋白，與海藻糖作用可形成類似玻璃的保護結構。", "團隊取 CAHS 蛋白具保護作用的片段搭配海藻糖，浸入液氮冷凍小鼠紅血球，解凍後只需離心即可洗去。", "紅血球解凍後完整恢復率達 89%，傳統甘油方法約 82%；輸血給貧血小鼠也提升紅血球數與血紅素，且未引發發炎。", "要用於人類紅血球庫存，仍需更多人體試驗與長期穩定性評估。"], "u": "https://technews.tw/2026/10/11/red-blood-cell-tardigrade-cahs-protein-trehalose-centrifugation/", "p": "2026-10-11T09:49:05+00:00", "o": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題"}, {"c": "tech", "s": "科技新報", "t": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響", "b": "美國國際貿易委員會於 10 月 9 日啟動編號 337-TA-1526 調查，起因是 Vicor 於 9 月 9 日提出專利侵權申訴，涉及垂直供電系統及相關運算設備。被列名的有鴻海、廣達、台達電、英飛凌、立訊精密、MPS、Flex 與 Celestica 等業者。鴻海與廣達皆表示產品、生產營運與出貨目前未受影響，將配合調查並維護權益。USITC 說明啟動調查不代表認定侵權，將由行政法官審理，並於立案後 45 天內設定調查完成的目標日期。這不是 Vicor 首次針對台灣供應鏈提起 337 調查，但各案的專利與產品範圍不同，不能視為同一爭議的延續。", "pts": ["美國國際貿易委員會於 10 月 9 日啟動編號 337-TA-1526 調查，起因是 Vicor 於 9 月 9 日提出專利侵權申訴，涉及垂直供電系統及相關運算設備。", "被列名的有鴻海、廣達、台達電、英飛凌、立訊精密、MPS、Flex 與 Celestica 等業者。", "鴻海與廣達皆表示產品、生產營運與出貨目前未受影響，將配合調查並維護權益。", "USITC 說明啟動調查不代表認定侵權，將由行政法官審理，並於立案後 45 天內設定調查完成的目標日期。", "這不是 Vicor 首次針對台灣供應鏈提起 337 調查，但各案的專利與產品範圍不同，不能視為同一爭議的延續。"], "u": "https://finance.technews.tw/2026/10/11/337-usa-victor/", "p": "2026-10-11T08:34:13+00:00", "o": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響"}, {"c": "tech", "s": "科技新報", "t": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路", "b": "Hark Pro 定位為「生活的作業系統」，網頁、iOS 與 Android 免費使用，付費方案為每月 20 美元與 100 美元。主畫面除文字輸入框外，左側有「主動卡片」，會依連結的電子郵件與服務提醒待辦事項。執行任務時會啟動名為 Handoff 的雲端電腦代為操作，最後由使用者確認付款。Hark 強調 AI 具備「預判」能力，並承諾不出售使用者資料、不與廣告商分享。首款硬體預計 2027 年問世，不會是穿戴式裝置，公司也無意結合 Figure 人形機器人。", "pts": ["Hark Pro 定位為「生活的作業系統」，網頁、iOS 與 Android 免費使用，付費方案為每月 20 美元與 100 美元。", "主畫面除文字輸入框外，左側有「主動卡片」，會依連結的電子郵件與服務提醒待辦事項。", "執行任務時會啟動名為 Handoff 的雲端電腦代為操作，最後由使用者確認付款。", "Hark 強調 AI 具備「預判」能力，並承諾不出售使用者資料、不與廣告商分享。", "首款硬體預計 2027 年問世，不會是穿戴式裝置，公司也無意結合 Figure 人形機器人。"], "u": "https://technews.tw/2026/10/11/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch/", "p": "2026-10-11T08:30:41+00:00", "o": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路"}, {"c": "tech", "s": "科技新報", "t": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化", "b": "WISE 0855–0714 是已知最冷的棕矮星，距離地球 7.5 光年，表面溫度約零下 13 至 48℃。韋伯望遠鏡連續觀測 11 小時，首度證實其高空水雲會隨自轉變厚或變薄。深層大氣的化學氣體也被對流翻湧上來，像一鍋熱湯。韋伯的中解析度光譜儀能追蹤單一分子特徵，區分亮度變化來自雲層或溫度，這是過去儀器做不到的。其天氣模式與氣態巨行星高度相似，為解讀遙遠氣態巨行星天氣提供理論基礎；論文將發表於《天文物理期刊》。", "pts": ["WISE 0855–0714 是已知最冷的棕矮星，距離地球 7.5 光年，表面溫度約零下 13 至 48℃。", "韋伯望遠鏡連續觀測 11 小時，首度證實其高空水雲會隨自轉變厚或變薄。", "深層大氣的化學氣體也被對流翻湧上來，像一鍋熱湯。", "韋伯的中解析度光譜儀能追蹤單一分子特徵，區分亮度變化來自雲層或溫度，這是過去儀器做不到的。", "其天氣模式與氣態巨行星高度相似，為解讀遙遠氣態巨行星天氣提供理論基礎；論文將發表於《天文物理期刊》。"], "u": "https://technews.tw/2026/10/11/wise-0855-brown-dwarf-star-atmosphere-water-cloud/", "p": "2026-10-11T08:18:46+00:00", "o": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化"}, {"c": "fin", "s": "Yahoo Finance", "t": "四年來增加 40 兆美元：為何這波 AI 驅動的牛市仍有空間", "b": "自 2022 年秋季以來，AI 投資熱潮已改變整個市場。", "u": "https://finance.yahoo.com/m/4a6ddf57-8100-34f1-89a7-923bd93d7e6d/four-years-in%2C-%2440-trillion.html?.tsrc=rss", "p": "2026-10-11T08:00:00+00:00", "o": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run"}, {"c": "tech", "s": "科技新報", "t": "AI 代理的下道關卡，網站願不願意放行", "b": "Meta 的 Muse、ChatGPT 的 Dots 等個人 AI 代理人能代訂機票、訂位與買菜，但常被網站擋下而無法完成任務。有些封鎖並非刻意，例如沃爾瑪是 Muse 的合作夥伴，問題出在「點擊按鈕驗證真人」的流程中斷後驗證失敗。也有業者明確不歡迎：達美航空防範未經授權的自動化，聯合航空引用使用條款禁止，Yelp 要求代理透過資料授權計畫付費。eBay 表示限制的是未授權的代理與自動爬取、模型訓練，並非禁止所有第三方購物代理。Meta、沃爾瑪、Stripe 等業者已著手制定開放標準，用來區分代表使用者的代理人與惡意機器人。", "pts": ["Meta 的 Muse、ChatGPT 的 Dots 等個人 AI 代理人能代訂機票、訂位與買菜，但常被網站擋下而無法完成任務。", "有些封鎖並非刻意，例如沃爾瑪是 Muse 的合作夥伴，問題出在「點擊按鈕驗證真人」的流程中斷後驗證失敗。", "也有業者明確不歡迎：達美航空防範未經授權的自動化，聯合航空引用使用條款禁止，Yelp 要求代理透過資料授權計畫付費。", "eBay 表示限制的是未授權的代理與自動爬取、模型訓練，並非禁止所有第三方購物代理。", "Meta、沃爾瑪、Stripe 等業者已著手制定開放標準，用來區分代表使用者的代理人與惡意機器人。"], "u": "https://infosecu.technews.tw/2026/10/11/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/", "p": "2026-10-11T07:30:36+00:00", "o": "AI 代理的下道關卡，網站願不願意放行"}, {"c": "tech", "s": "科技新報", "t": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍", "b": "這座實驗室設於旗下試劑供應商 Abcam，整合 AI、機器人與多家子公司技術，預計 2027 年初全面規模化運作。系統由 AI 設計抗體等親和性試劑，機器人製作與測試，結果再回饋給模型，形成「設計、製作、測試、學習」的循環。丹納赫預估從構想到完成驗證試劑最高可快 8 倍，年產量可增加至 10 倍，從數十種擴大到數百種。這只是第一步，公司將打造能產出「AI 就緒資料」的智慧儀器與代理式 AI，建立更多自動實驗室。業界認為此舉反映生命科學工具供應商正把 AI 與自動化整合進實驗室設備，以縮短藥物研發時程。", "pts": ["這座實驗室設於旗下試劑供應商 Abcam，整合 AI、機器人與多家子公司技術，預計 2027 年初全面規模化運作。", "系統由 AI 設計抗體等親和性試劑，機器人製作與測試，結果再回饋給模型，形成「設計、製作、測試、學習」的循環。", "丹納赫預估從構想到完成驗證試劑最高可快 8 倍，年產量可增加至 10 倍，從數十種擴大到數百種。", "這只是第一步，公司將打造能產出「AI 就緒資料」的智慧儀器與代理式 AI，建立更多自動實驗室。", "業界認為此舉反映生命科學工具供應商正把 AI 與自動化整合進實驗室設備，以縮短藥物研發時程。"], "u": "https://technews.tw/2026/10/11/danaher-launching-ai-powered-autonomous-lab-for-drug-discovery/", "p": "2026-10-11T07:00:45+00:00", "o": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍"}, {"c": "tech", "s": "科技新報", "t": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄", "b": "UNSW 郝曉靜教授團隊與 UtmoLight 合作，30×30 公分次模組達 23.5% 認證穩定轉換效率，有效受光面積 676 平方公分。關鍵是拿掉傳統製程的氧化鎳層；氧化鎳容易與鈣鈦礦產生不良反應，還會增加製程步驟。團隊以新材料與製作方式，讓電洞選擇性接觸在製作過程中直接形成。成果縮小了大面積模組與約 1 平方公分實驗室小電池之間的效率落差。下一步是製作 2.8 平方公尺的全尺寸模組，目標效率約 18% 至 19%；大規模部署前，效率、再現性與長期穩定性仍需精進。", "pts": ["UNSW 郝曉靜教授團隊與 UtmoLight 合作，30×30 公分次模組達 23.5% 認證穩定轉換效率，有效受光面積 676 平方公分。", "關鍵是拿掉傳統製程的氧化鎳層；氧化鎳容易與鈣鈦礦產生不良反應，還會增加製程步驟。", "團隊以新材料與製作方式，讓電洞選擇性接觸在製作過程中直接形成。", "成果縮小了大面積模組與約 1 平方公分實驗室小電池之間的效率落差。", "下一步是製作 2.8 平方公尺的全尺寸模組，目標效率約 18% 至 19%；大規模部署前，效率、再現性與長期穩定性仍需精進。"], "u": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/", "p": "2026-10-11T06:30:08+00:00", "o": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的 Invesco 醫療保健 ETF：聚焦製藥的 PJP 對比視野更廣的 RSPH", "b": "PJP 的一年期報酬勝過 RSPH，但 RSPH 持有 61 檔醫療保健股，分散度更高、費用率更低。", "u": "https://www.fool.com/coverage/etfs/2026/10/11/better-invesco-healthcare-etf-pjp-targeting-pharmaceuticals-vs-rsph-s-broader-sector-lens/?.tsrc=rss", "p": "2026-10-11T06:13:48+00:00", "o": "Better Invesco Healthcare ETF: PJP Targeting Pharmaceuticals vs. RSPH's Broader Sector Lens"}, {"c": "tech", "s": "科技新報", "t": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐", "b": "10 月 5 日加權指數大漲 1,236.3 點，收 49,712.04 點；7 日收 49,806.37 點，在 5 萬點前因獲利了結賣壓而高檔震盪。渣打認為第四季短期波動會升高，但全球股市上漲背後有強勁盈餘支撐，例如輝達本益比已從年初 30 倍降至 20 到 25 倍。渣打預估到 2030 年前 AI 相關資本支出年複合成長率超過 30%，並從科技延伸到電力、電網與電氣化等基礎建設。第四季最大的跨資產風險是油價，渣打已把 WTI 三個月預測上調至每桶 100 美元。配置上建議「股優於債」、分批布局，並適度納入黃金與 3 至 7 年期短中天期債券作為防禦。", "pts": ["10 月 5 日加權指數大漲 1,236.3 點，收 49,712.04 點；7 日收 49,806.37 點，在 5 萬點前因獲利了結賣壓而高檔震盪。", "渣打認為第四季短期波動會升高，但全球股市上漲背後有強勁盈餘支撐，例如輝達本益比已從年初 30 倍降至 20 到 25 倍。", "渣打預估到 2030 年前 AI 相關資本支出年複合成長率超過 30%，並從科技延伸到電力、電網與電氣化等基礎建設。", "第四季最大的跨資產風險是油價，渣打已把 WTI 三個月預測上調至每桶 100 美元。", "配置上建議「股優於債」、分批布局，並適度納入黃金與 3 至 7 年期短中天期債券作為防禦。"], "u": "https://finance.technews.tw/2026/10/11/what-driving-taiwan-stocks-toward-50000/", "p": "2026-10-11T06:00:00+00:00", "o": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐"}, {"c": "fin", "s": "WSJ", "t": "讓私募信貸崛起的沉悶保險產品", "b": "指數型年金保證不虧損，但保險公司可定期調整報酬公式。", "u": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main", "p": "2026-10-11T02:46:00+00:00", "o": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent"}, {"c": "pol", "s": "WSJ", "t": "飢餓的烏克蘭人冒死逃離前線小鎮", "b": "整年來糧食供應日益短缺，地雷與無人機讓道路愈來愈難以通行。", "u": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews", "p": "2026-10-11T02:00:00+00:00", "o": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town"}, {"c": "tech", "s": "WSJ", "t": "如何保護你的網路攝影機不被窺探", "b": "弱密碼、過時軟體與不佳的 Wi-Fi 安全，可能讓陌生人入侵你家中的攝影機。", "u": "https://www.wsj.com/tech/personal-tech/how-to-keep-your-webcam-safe-from-prying-eyes-20c05b74?mod=rss_Technology", "p": "2026-10-11T00:57:00+00:00", "o": "How to Keep Your Webcam Safe From Prying Eyes"}, {"c": "pol", "s": "WSJ", "t": "監視攝影機無所不在，如今成為戰爭中的駭客目標", "b": "這些高度脆弱的設備已被交戰方用來追蹤、監視與攻擊敵人。", "u": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews", "p": "2026-10-11T00:30:00+00:00", "o": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War"}, {"c": "fin", "s": "財經新報", "t": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈", "b": "車麗屋是汽車百貨龍頭，有 30 多家直營店、會員數突破 180 萬；去年營收 18.2 億元、EPS 7.07 元，預計 10 月 13 日登興櫃。過去靠 500 坪大店立足，但符合條件的大坪數土地愈來愈難找、租金上升，展店遇到瓶頸。公司取得 Point S 台灣獨家總代理，推出「368 計畫」，以開放加盟將服務網延伸到全台 368 個鄉鎮市區。加盟店不必承擔輪胎庫存，消費者線上下單後由系統從最近直營店調貨，隔天即可換完。試行發現消費者容易下錯輪胎規格，公司正導入 AI 客服；加盟店預計明年下半年陸續上路，估計單店月營收可達百萬元。", "pts": ["車麗屋是汽車百貨龍頭，有 30 多家直營店、會員數突破 180 萬；去年營收 18.2 億元、EPS 7.07 元，預計 10 月 13 日登興櫃。", "過去靠 500 坪大店立足，但符合條件的大坪數土地愈來愈難找、租金上升，展店遇到瓶頸。", "公司取得 Point S 台灣獨家總代理，推出「368 計畫」，以開放加盟將服務網延伸到全台 368 個鄉鎮市區。", "加盟店不必承擔輪胎庫存，消費者線上下單後由系統從最近直營店調貨，隔天即可換完。", "試行發現消費者容易下錯輪胎規格，公司正導入 AI 客服；加盟店預計明年下半年陸續上路，估計單店月營收可達百萬元。"], "u": "https://finance.technews.tw/2026/10/11/car-quality-automotive-expands-its-footprint/", "p": "2026-10-11T00:00:18+00:00", "o": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈"}, {"c": "pol", "s": "WSJ", "t": "胡塞武裝襲擊沙烏地機場，至少 12 死、數百人受傷", "b": "飛彈攻擊迫使沙國國際機場關閉，是該國十多年來最致命的攻擊。", "u": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews", "p": "2026-10-10T23:28:00+00:00", "o": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes"}, {"c": "fin", "s": "Yahoo Finance", "t": "標普 500 中一檔 COVID 疫苗股今年飆漲 600%", "b": "Moderna 股價今年上漲 663%，超越 AI 概念股成為標普 500 漲幅冠軍，完整的癌症疫苗數據將於 10 月 24 日公布。", "u": "https://beincrypto.com/moderna-stock-best-sp-500-2026/?.tsrc=rss", "p": "2026-10-10T22:23:54+00:00", "o": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year"}, {"c": "tech", "s": "WSJ", "t": "美軍沙漠科技測試顯示 AI 戰爭仍有漫漫長路", "b": "一場沙漠試驗暴露出裝備限制與體制障礙，使美軍在跟上擅長 AI 的對手時步履維艱。", "u": "https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?mod=rss_Technology", "p": "2026-10-10T22:11:00+00:00", "o": "The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare"}, {"c": "fin", "s": "Yahoo Finance", "t": "VOO 不持有 SpaceX、台積電、三星電子、SK 海力士或 ASML，這檔 Vanguard ETF 則有", "b": "部分全球最重要的 AI 股票明顯不在標普 500 之中。", "u": "https://www.fool.com/investing/2026/10/10/voo-doesnt-own-spacex-taiwan-semiconductor-samsung/?.tsrc=rss", "p": "2026-10-10T20:51:33+00:00", "o": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does."}, {"c": "pol", "s": "WSJ", "t": "川普要求烏克蘭停止攻擊俄羅斯煉油廠，並更換澤倫斯基", "b": "隨著俄羅斯加強轟炸烏克蘭城市，白宮與基輔的關係跌至新低。", "u": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews", "p": "2026-10-10T20:00:00+00:00", "o": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky"}, {"c": "tech", "s": "WSJ", "t": "為什麼鞋子的額外緩衝可能反而增加腳的負擔", "b": "超厚緩震鞋大行其道，但部分醫師擔心對腳、腳踝、膝蓋或髖部有長期風險。", "u": "https://www.wsj.com/lifestyle/fitness/shoes-cushion-feet-health-8f5d83a8?mod=rss_Technology", "p": "2026-10-10T20:00:00+00:00", "o": "Why Extra Cushioning in Your Shoes Might Actually Increase Stress on Your Feet"}, {"c": "fin", "s": "Yahoo Finance", "t": "「大空頭」投資人對最關鍵的 AI 風險看法分歧", "b": "史蒂夫·艾斯曼認為，麥可·貝瑞可能看錯了 AI 熱潮的弱點。", "u": "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss", "p": "2026-10-10T19:13:00+00:00", "o": "‘Big Short’ investors split over the AI risk that matters most"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的生技 ETF：First Trust FBT 對比 VanEck BBH", "b": "VanEck 較低的 0.35% 費用率吸引重視成本的投資人，First Trust 則以 29 億美元規模與等權重配置見長。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/better-biotechnology-etf-first-trust-fbt-vs-vaneck-bbh/?.tsrc=rss", "p": "2026-10-10T19:07:11+00:00", "o": "Better Biotechnology ETF: First Trust FBT vs. VanEck BBH"}, {"c": "fin", "s": "Yahoo Finance", "t": "華爾街對一檔創新標普 500 成分股的目標價看法分歧", "b": "分析師對這檔去年才加入標普 500 的股票前景意見不一。", "u": "https://www.thestreet.com/crypto/markets/wall-street-split-on-pioneering-s-p-500-stocks-price-target?.tsrc=rss", "p": "2026-10-10T18:15:00+00:00", "o": "Wall Street split on pioneering S&P 500 stock's price target"}, {"c": "fin", "s": "Yahoo Finance", "t": "戴爾（DELL）大幅跑贏標普 500，AI 帶動的漲勢能否延續？", "b": "戴爾科技近期成長多來自硬體銷售，這是毛利較低、銷量較大的路線。", "u": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-outpaced-p-500-174029607.html?.tsrc=rss", "p": "2026-10-10T17:40:29+00:00", "o": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?"}, {"c": "fin", "s": "Yahoo Finance", "t": "巴菲特警告股市投資人將面臨現實檢驗", "b": "巴菲特為當前市場現象下了定義，投資人或許該聽一聽。", "u": "https://www.thestreet.com/investing/stocks/warren-buffett-reality-check-stock-investors-high-share-prices?.tsrc=rss", "p": "2026-10-10T17:34:53+00:00", "o": "Warren Buffett warns of a reality check coming for stock investors"}, {"c": "fin", "s": "Yahoo Finance", "t": "優步（UBER）：強勁營運成長被疲弱財測抵銷", "b": "Suncoast Equity Management 發布其 2026 年第三季投資人信，內容涉及美國大型股精選成長策略。", "u": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-strong-operational-141051947.html?.tsrc=rss", "p": "2026-10-10T17:30:51+00:00", "o": "Uber Technologies (UBER): Strong Operational Growth Offset by Soft Guidance"}, {"c": "fin", "s": "Yahoo Finance", "t": "為什麼 Meta（META）是便宜的買進標的", "b": "Suncoast Equity Management 發布其 2026 年第三季投資人信，內容涉及美國大型股精選成長策略。", "u": "https://finance.yahoo.com/technology/ai/articles/meta-meta-ai-strategy-gains-144459494.html?.tsrc=rss", "p": "2026-10-10T17:26:59+00:00", "o": "Here’s Why Meta (META) Is A Cheap Stock To Buy"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的醫療保健 ETF：VanEck 聚焦生技的 BBH 對比 State Street 聚焦製藥的 XPH", "b": "BBH 集中持有 25 檔大型生技龍頭，XPH 則分散於 62 檔製藥股，兩者年費皆為 0.35%。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/better-healthcare-etf-vaneck-s-biotech-focused-bbh-vs-state-street-s-xph-targeting-pharma/?.tsrc=rss", "p": "2026-10-10T16:39:50+00:00", "o": "Better Healthcare ETF: VanEck's Biotech-Focused BBH vs. State Street's XPH Targeting Pharma"}, {"c": "fin", "s": "Yahoo Finance", "t": "道瓊期貨：標普 500、那斯達克接近高點，ASML 與台積電將揭開 AI 財報季序幕", "b": "儘管走勢震盪，標普 500 與那斯達克仍接近高點，ASML 與輝達晶片製造商台積電的財報可能決定 AI 股回檔是否為買點。", "u": "https://finance.yahoo.com/m/0d7a86f7-63d8-35ac-9402-ed0f2ca814ac/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss", "p": "2026-10-10T15:28:10+00:00", "o": "Dow Jones Futures: S&P 500, Nasdaq Near Highs; ASML, Nvidia's Chipmaker Taiwan Semi To Kick Off AI Earnings"}, {"c": "fin", "s": "Yahoo Finance", "t": "GE Vernova、Snowflake 領銜 5 檔營收加速成長的 AI 股", "b": "營收加速成長激起投資人胃口。", "u": "https://finance.yahoo.com/m/14772ad4-6d0f-356a-88f1-942838969885/ge-vernova%2C-snowflake-lead-5.html?.tsrc=rss", "p": "2026-10-10T15:24:44+00:00", "o": "GE Vernova, Snowflake Lead 5 AI Stocks With Accelerating Growth"}, {"c": "fin", "s": "Yahoo Finance", "t": "花旗發出嚴厲股市預警，1970 年代的訊號再度出現", "b": "一個熟悉的通膨時代訊號正引起華爾街關注。", "u": "https://www.thestreet.com/investing/stocks/citi-stark-stock-market-call-as-1970s-signal-growth-inflation-returns?.tsrc=rss", "p": "2026-10-10T15:17:00+00:00", "o": "Citi issues stark stock market call as a 1970s signal returns"}, {"c": "fin", "s": "Yahoo Finance", "t": "歷史告訴我們：下次熊市來臨前，每位投資人都該做的一件事", "b": "分散投資仍是長期投資的最佳策略之一。", "u": "https://www.fool.com/investing/2026/10/10/history-portfolio-move-investor-make-bear-market/?.tsrc=rss", "p": "2026-10-10T15:14:00+00:00", "o": "History Says This Is the 1 Portfolio Move Every Investor Should Make Before the Next Bear Market"}, {"c": "fin", "s": "Yahoo Finance", "t": "規模能否終於轉化為獲利？QXO 公司（QXO）", "b": "QXO 今年以來下跌近 43%，10 月 8 日清晨股價約 11 美元。", "u": "https://finance.yahoo.com/markets/stocks/articles/scale-finally-translate-earnings-qxo-151158963.html?.tsrc=rss", "p": "2026-10-10T15:11:58+00:00", "o": "Can Scale Finally Translate Into Earnings for QXO Inc. (QXO)?"}, {"c": "fin", "s": "Yahoo Finance", "t": "投資人預測 Anthropic 可能成為首家市值 10 兆美元的公司", "b": "SemiAnalysis 創辦人迪倫·帕特爾在 Big Technology Podcast 上表示，Anthropic 可能成為首家估值達 10 兆美元的公司。", "u": "https://www.tikr.com/blog/investor-predicts-anthropic-could-be-the-first-10-trillion-company-cue-the-amazon-google-payday?ref=yahoofinance&.tsrc=rss", "p": "2026-10-10T15:05:37+00:00", "o": "Investor Predicts Anthropic Could Be “the First” $10 Trillion Company. Cue the Amazon + Google Payday"}, {"c": "fin", "s": "Yahoo Finance", "t": "預測：投資 5,000 美元於 Vanguard 標普 500 ETF（VOO），到 2040 年價值多少？", "b": "1.9 萬美元，聽起來如何？", "u": "https://www.fool.com/investing/2026/10/10/prediction-what-an-investment-in-voo-etf-sp500/?.tsrc=rss", "p": "2026-10-10T14:55:00+00:00", "o": "Prediction: This Is What a $5,000 Investment in the Vanguard S&P 500 ETF (VOO) Will Be Worth by 2040"}, {"c": "pol", "s": "WSJ", "t": "印度封鎖首都核心區，阻止選民權利抗議", "b": "對選民名冊的不滿，與年輕人求職困難的怨氣交織在一起。", "u": "https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4?mod=rss_worldnews", "p": "2026-10-10T14:34:00+00:00", "o": "India Locks Down Heart of Capital to Thwart Voter Rights Protest"}, {"c": "fin", "s": "Yahoo Finance", "t": "REIT ETF 對決：哪檔更適合重視收益的投資人？", "b": "State Street 基金年費僅 0.08%，iShares 為 0.32%，但績效與殖利率的差異更為細膩。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/?.tsrc=rss", "p": "2026-10-10T14:30:02+00:00", "o": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?"}, {"c": "pol", "s": "WSJ", "t": "在危險而分裂的世界中致富的北歐公式", "b": "瑞典與丹麥大舉投入國防、強化彼此及與歐洲的關係，並逐步擺脫對美國的依賴，成效顯著。", "u": "https://www.wsj.com/world/europe/the-nordic-formula-for-prospering-in-a-dangerous-fragmented-world-cb0de1d7?mod=rss_worldnews", "p": "2026-10-10T14:00:00+00:00", "o": "The Nordic Formula for Prospering in a Dangerous, Fragmented World"}, {"c": "tech", "s": "WSJ", "t": "OpenAI 在防止 ChatGPT 引發妄想方面取得進展", "b": "心理健康專家就這款聊天機器人如何提出更好的問題、區分危機與其他狀況提供建議。", "u": "https://www.wsj.com/tech/ai/chatgpt-gpt5-sycophancy-delusions-9b3506bf?mod=rss_Technology", "p": "2026-10-10T12:00:00+00:00", "o": "OpenAI Makes Progress in Preventing AI-Driven ChatGPT Delusions"}]};
+window.NEWS_DATA={"updated": "2026-10-12T07:30:44+00:00", "items": [{"c": "pol", "s": "産経新聞", "t": "巴基斯坦宣布緊急狀態，傳邦首席部長等人遭拘留", "b": "巴基斯坦西北部開伯爾－普什圖省發布緊急狀態宣言後，當地媒體報導該省首席部長阿夫里迪等人遭到拘留。這項消息來自阿夫里迪所屬的在野黨巴基斯坦正義運動黨（PTI）。支持者表示反彈，政黨之間的紛爭恐進一步升高。", "pts": ["巴基斯坦西北部開伯爾－普什圖省發布緊急狀態宣言後，當地媒體報導該省首席部長阿夫里迪等人遭到拘留。", "這項消息來自阿夫里迪所屬的在野黨巴基斯坦正義運動黨（PTI）。", "支持者表示反彈，政黨之間的紛爭恐進一步升高。"], "u": "https://www.sankei.com/article/20261012-PORYCLBLMNIS3G3WH3533QXYRM/", "p": "2026-10-12T07:30:44+00:00", "o": "非常事態宣言のパキスタン、州首相ら拘束か 地元記者「ネット遮断、道路封鎖、外出制限」"}, {"c": "pol", "s": "産経新聞", "t": "俄羅斯衛星通訊網「黎明」疑採中國製零件量產，烏克蘭軍方取得情報", "b": "烏克蘭軍方 12 日取得的情報顯示，俄羅斯正建構的衛星通訊服務「拉斯維特（黎明）」，衛星很可能搭載中國製電子零件並進入量產。軍方人士向共同社透露此事。烏克蘭擔憂俄羅斯一旦完成通訊網並用於軍事，將大幅影響戰局，因此提高警戒。", "pts": ["烏克蘭軍方 12 日取得的情報顯示，俄羅斯正建構的衛星通訊服務「拉斯維特（黎明）」，衛星很可能搭載中國製電子零件並進入量產。", "軍方人士向共同社透露此事。", "烏克蘭擔憂俄羅斯一旦完成通訊網並用於軍事，將大幅影響戰局，因此提高警戒。"], "u": "https://www.sankei.com/article/20261012-UAIDWSHSCNJ4LCHZMN2DX245LA/", "p": "2026-10-12T07:30:00+00:00", "o": "ロシア衛星通信網「夜明け」、中国製部品で量産か ウクライナ軍が情報入手、軍事利用警戒"}, {"c": "fin", "s": "産経新聞", "t": "IMF 試算：AI 讓亞洲成長加快 0.5 到 1 個百分點，可抵銷高齡化負面影響", "b": "IMF 總裁喬治艾娃 12 日表示，AI 的助益可讓亞洲已開發經濟體成長加快 0.5 至 1 個百分點。新興經濟體預計也有 0.2 至 0.8 個百分點的提升效果。她是在泰國曼谷舉行的 IMF 與世界銀行年會活動上發表此試算。", "pts": ["IMF 總裁喬治艾娃 12 日表示，AI 的助益可讓亞洲已開發經濟體成長加快 0.5 至 1 個百分點。", "新興經濟體預計也有 0.2 至 0.8 個百分點的提升效果。", "她是在泰國曼谷舉行的 IMF 與世界銀行年會活動上發表此試算。"], "u": "https://www.sankei.com/article/20261012-QBG6KHDHI5JOHL3RQKBATDK6AY/", "p": "2026-10-12T07:28:28+00:00", "o": "AIでアジア成長0.5～1ポイント加速 IMF専務理事試算「高齢化のマイナスを相殺」"}, {"c": "pol", "s": "産経新聞", "t": "川普怒火也燒向保守派福斯：施壓媒體，從排除 CNN 到不滿抵制採訪", "b": "持續加強對主要媒體施壓的美國總統川普，對原本關係良好的保守派福斯電視台也逐漸不滿。政府 9 月把 CNN 等自由派電視台列為「禁止出入」時，福斯也與其他主要媒體一起加入白宮代表拍攝的抵制，可能因此讓川普態度強硬。福斯是主要媒體中少數與川普政府立場親近的一家，但美國媒體過去面對政府的過度施壓時，曾跨越論調界線團結一致。", "pts": ["持續加強對主要媒體施壓的美國總統川普，對原本關係良好的保守派福斯電視台也逐漸不滿。", "政府 9 月把 CNN 等自由派電視台列為「禁止出入」時，福斯也與其他主要媒體一起加入白宮代表拍攝的抵制，可能因此讓川普態度強硬。", "福斯是主要媒體中少數與川普政府立場親近的一家，但美國媒體過去面對政府的過度施壓時，曾跨越論調界線團結一致。"], "u": "https://www.sankei.com/article/20261012-BLTZNZUPOVO2NECBN2ZFEM5NNU/", "p": "2026-10-12T06:00:00+00:00", "o": "保守系FOXにも怒りの矛先 トランプ氏報道圧力、CNN排除→取材ボイコット参加に不満"}, {"c": "pol", "s": "産経新聞", "t": "中國制裁中南美兩位部長，因巴拉圭與貝里斯支持維持對台外交", "b": "中國外交部 12 日宣布，決定制裁南美巴拉圭與中美洲貝里斯各一名部長，包括凍結其在中國境內的資產。措施依據「反外國制裁法」，即日實施。理由是兩人分別支持各自國家維持與台灣的外交關係。", "pts": ["中國外交部 12 日宣布，決定制裁南美巴拉圭與中美洲貝里斯各一名部長，包括凍結其在中國境內的資產。", "措施依據「反外國制裁法」，即日實施。", "理由是兩人分別支持各自國家維持與台灣的外交關係。"], "u": "https://www.sankei.com/article/20261012-E4DFKGR6FVJLTDBUDZZT6LZXRY/", "p": "2026-10-12T05:40:53+00:00", "o": "中国、中南米2閣僚に制裁 パラグアイとベリーズ、台湾との外交維持支持で"}, {"c": "pol", "s": "産経新聞", "t": "北韓彈道飛彈飛行超過 900 公里，南韓軍方分析為對抗南韓極音速飛彈成功", "b": "南韓軍方 12 日表示，北韓當天上午 9 點 20 分左右從平壤附近向日本海發射數枚彈道飛彈，其中部分飛行超過 900 公里。據日本防衛省說明，這些飛彈似乎都落在日本專屬經濟海域之外。標題顯示南韓軍方分析，此舉是在對抗南韓極音速飛彈試射成功。", "pts": ["南韓軍方 12 日表示，北韓當天上午 9 點 20 分左右從平壤附近向日本海發射數枚彈道飛彈，其中部分飛行超過 900 公里。", "據日本防衛省說明，這些飛彈似乎都落在日本專屬經濟海域之外。", "標題顯示南韓軍方分析，此舉是在對抗南韓極音速飛彈試射成功。"], "u": "https://www.sankei.com/article/20261012-OLU4DGKSJ5OWNDX7ZCGPLIDKB4/", "p": "2026-10-12T05:18:44+00:00", "o": "北朝鮮の弾道ミサイルは900㌔以上飛行 韓国の極超音速ミサイル成功に対抗と韓国軍分析"}, {"c": "fin", "s": "産経新聞", "t": "鴻海與夏普錯位的十年與浮現的共同戰線：從 AI 伺服器找勝算", "b": "夏普 8 月滿 10 年成為鴻海旗下；當年為度過液晶事業過度投資造成的嚴重經營危機而接受鴻海入股。兩家公司的合作至今看不到明顯成果。夏普 9 月宣布與鴻海合作，進入日本國內 AI 伺服器事業，被視為合作的新起跑點，期待能扳回一城。", "pts": ["夏普 8 月滿 10 年成為鴻海旗下；當年為度過液晶事業過度投資造成的嚴重經營危機而接受鴻海入股。", "兩家公司的合作至今看不到明顯成果。", "夏普 9 月宣布與鴻海合作，進入日本國內 AI 伺服器事業，被視為合作的新起跑點，期待能扳回一城。"], "u": "https://www.sankei.com/article/20261008-P6VTGXN3QZMJ7NAGZKZCKOGPMM/", "p": "2026-10-12T05:00:00+00:00", "o": "台湾・鴻海とシャープのすれ違いの10年と見えてきた共同戦線 AIサーバーからの勝ち筋"}, {"c": "tech", "s": "DIGITIMES", "t": "DIGITIMES Today：Vicor 再告台廠 鴻海、廣達、台達電入列 | 華為供應東協資料中心設備 |友達轉型邁入新階段", "b": "Vicor 年內二度提告，鴻海、廣達、台達電再遭點名。美國國際貿易委員會（USITC）9 日（美國時間）投票通過，針對垂直供電系統、相關元件及搭載這類系統的運算設備啟動 337 調查。這是每日重點摘要，標題另提到華為供應東協資料中心設備與友達轉型邁入新階段。", "pts": ["Vicor 年內二度提告，鴻海、廣達、台達電再遭點名。", "美國國際貿易委員會（USITC）9 日（美國時間）投票通過，針對垂直供電系統、相關元件及搭載這類系統的運算設備啟動 337 調查。", "這是每日重點摘要，標題另提到華為供應東協資料中心設備與友達轉型邁入新階段。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771083_K5G1O9RQ7T2SFK4PE9G7V", "p": "2026-10-11T21:00:00+00:00", "o": "DIGITIMES Today：Vicor 再告台廠 鴻海、廣達、台達電入列 | 華為供應東協資料中心設備 |友達轉型邁入新階段"}, {"c": "tech", "s": "DIGITIMES", "t": "談手機保守、CPO卻積極 老實樹大立光林恩平的直白", "b": "大立光執行長林恩平在線上法說會直言，主要客戶新機「9 月就下修，應該是不好吧」。從拉貨節奏、毛利結構到 2026 年能見度，手機鏡頭產業同時面對三重壓力。林恩平談手機時語氣相對保守，談共同封裝光學（CPO）時則較為積極。", "pts": ["大立光執行長林恩平在線上法說會直言，主要客戶新機「9 月就下修，應該是不好吧」。", "從拉貨節奏、毛利結構到 2026 年能見度，手機鏡頭產業同時面對三重壓力。", "林恩平談手機時語氣相對保守，談共同封裝光學（CPO）時則較為積極。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770955_6778HCN76J796F4E9HUFN", "p": "2026-10-11T19:00:00+00:00", "o": "談手機保守、CPO卻積極 老實樹大立光林恩平的直白"}, {"c": "tech", "s": "DIGITIMES", "t": "台積電攜ASML衝12吋光罩 High-NA全幅視野與成本決定主流化", "b": "DIGITIMES Research 分析，High-NA EUV 將數值孔徑由 Low-NA 的 0.33 提高到 0.55，單次曝光解析度可由約 13 奈米再往前推進。先進製程持續朝 2 奈米與埃世代推進，EUV 曝光技術也進入 High-NA 階段。標題指出台積電攜手 ASML 推進 12 吋光罩，High-NA 的全幅視野與成本將決定能否成為主流。", "pts": ["DIGITIMES Research 分析，High-NA EUV 將數值孔徑由 Low-NA 的 0.33 提高到 0.55，單次曝光解析度可由約 13 奈米再往前推進。", "先進製程持續朝 2 奈米與埃世代推進，EUV 曝光技術也進入 High-NA 階段。", "標題指出台積電攜手 ASML 推進 12 吋光罩，High-NA 的全幅視野與成本將決定能否成為主流。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770868_B9D94PUG5LJ18K9W7ZKFG", "p": "2026-10-11T19:00:00+00:00", "o": "台積電攜ASML衝12吋光罩 High-NA全幅視野與成本決定主流化"}, {"c": "tech", "s": "DIGITIMES", "t": "記憶體飆漲推升手機售價 點燃N-1代、二手機買氣", "b": "手機品牌廠因記憶體價格飆漲而調漲手機售價，已讓 2026 年新機銷售表現受創。外界預期 2026 年手機總出貨量恐出現 15% 至 17% 的跌幅，品牌業者營運受累。前一代（N-1 代）與二手手機買氣因此被點燃。", "pts": ["手機品牌廠因記憶體價格飆漲而調漲手機售價，已讓 2026 年新機銷售表現受創。", "外界預期 2026 年手機總出貨量恐出現 15% 至 17% 的跌幅，品牌業者營運受累。", "前一代（N-1 代）與二手手機買氣因此被點燃。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770971_T8GL8R0C615SMP2VIZGIE", "p": "2026-10-11T18:58:37+00:00", "o": "記憶體飆漲推升手機售價 點燃N-1代、二手機買氣"}, {"c": "tech", "s": "DIGITIMES", "t": "AI晶片採購掀數百億美元融資潮 投資回報考驗債市承受力", "b": "AI 產業的競爭焦點，已從取得更多 GPU，進一步轉向「誰能以更低成本取得足夠資金」。近期 SpaceX、博通與甲骨文相繼傳出洽談數百億美元融資。AI 資料中心的硬體支出已大到必須由銀行、私募信貸及債券市場共同承擔，投資回報將考驗債市承受力。", "pts": ["AI 產業的競爭焦點，已從取得更多 GPU，進一步轉向「誰能以更低成本取得足夠資金」。", "近期 SpaceX、博通與甲骨文相繼傳出洽談數百億美元融資。", "AI 資料中心的硬體支出已大到必須由銀行、私募信貸及債券市場共同承擔，投資回報將考驗債市承受力。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770934_CZM8Z7X74Z0DIH3MK9H15", "p": "2026-10-11T18:58:24+00:00", "o": "AI晶片採購掀數百億美元融資潮 投資回報考驗債市承受力"}, {"c": "tech", "s": "DIGITIMES", "t": "【漫圖秒懂】Sam Altman親上火線力挺 攜Cerebras突破AI算力極限", "b": "外傳 OpenAI 的 GPT-6.1 Sol Ultrafast 模式將捨棄 Cerebras、改採 NVIDIA GPU，導致 Cerebras 市值一度重挫 20%。OpenAI 執行長 Sam Altman 親上火線力挺，標題指將與 Cerebras 攜手突破 AI 算力極限。", "pts": ["外傳 OpenAI 的 GPT-6.1 Sol Ultrafast 模式將捨棄 Cerebras、改採 NVIDIA GPU，導致 Cerebras 市值一度重挫 20%。", "OpenAI 執行長 Sam Altman 親上火線力挺，標題指將與 Cerebras 攜手突破 AI 算力極限。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770853_G9K9ZEZU4X8IF04UHDQ5E", "p": "2026-10-11T18:54:40+00:00", "o": "【漫圖秒懂】Sam Altman親上火線力挺 攜Cerebras突破AI算力極限"}, {"c": "tech", "s": "DIGITIMES", "t": "拆解中歐貿易戰引信 中國電動車取消退稅成關鍵", "b": "中歐瀕臨貿易戰邊緣，評論認為北京理應讓步，逐步取消長期支持中國出口商的退稅政策是好的起點。此舉無法單方面解決歐盟所有不滿，但能改善歐盟每日逾 10 億美元的對中貿易逆差，並展現北京願意妥協的誠意。內容綜合彭博與路透報導。", "pts": ["中歐瀕臨貿易戰邊緣，評論認為北京理應讓步，逐步取消長期支持中國出口商的退稅政策是好的起點。", "此舉無法單方面解決歐盟所有不滿，但能改善歐盟每日逾 10 億美元的對中貿易逆差，並展現北京願意妥協的誠意。", "內容綜合彭博與路透報導。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770975_X1KLRKRM69A8IQ6N1QJ6V", "p": "2026-10-11T18:52:30+00:00", "o": "拆解中歐貿易戰引信 中國電動車取消退稅成關鍵"}, {"c": "tech", "s": "DIGITIMES", "t": "大立光預示「旺季提前下修」 手機晶片業者4Q26挑戰大", "b": "大立光董事長兼執行長林恩平表示，2026 年 10 月拉貨動能與 9 月相當，11 月將開始下滑。原因是客戶在新機開賣後下修先前給出的預測，拉貨高峰已經過去。這預示 2026 年手機供應鏈需求將在第 4 季下滑，第 3 季因手機拉貨表現優異的廠商，第 4 季可能面臨挑戰。", "pts": ["大立光董事長兼執行長林恩平表示，2026 年 10 月拉貨動能與 9 月相當，11 月將開始下滑。", "原因是客戶在新機開賣後下修先前給出的預測，拉貨高峰已經過去。", "這預示 2026 年手機供應鏈需求將在第 4 季下滑，第 3 季因手機拉貨表現優異的廠商，第 4 季可能面臨挑戰。"], "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770967_HI3L5VEI51WEEU89A3W0N", "p": "2026-10-11T18:48:25+00:00", "o": "大立光預示「旺季提前下修」 手機晶片業者4Q26挑戰大"}, {"c": "tech", "s": "科技新報", "t": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題", "b": "目前紅血球冷凍保存主要用甘油防止冰晶，但甘油有細胞毒性，輸血前必須徹底移除，這個步驟又會損傷紅血球。水熊蟲脫水時會大量生成 CAHS 蛋白，與海藻糖作用可形成類似玻璃的保護結構。團隊取 CAHS 蛋白具保護作用的片段搭配海藻糖，浸入液氮冷凍小鼠紅血球，解凍後只需離心即可洗去。紅血球解凍後完整恢復率達 89%，傳統甘油方法約 82%；輸血給貧血小鼠也提升紅血球數與血紅素，且未引發發炎。要用於人類紅血球庫存，仍需更多人體試驗與長期穩定性評估。", "pts": ["目前紅血球冷凍保存主要用甘油防止冰晶，但甘油有細胞毒性，輸血前必須徹底移除，這個步驟又會損傷紅血球。", "水熊蟲脫水時會大量生成 CAHS 蛋白，與海藻糖作用可形成類似玻璃的保護結構。", "團隊取 CAHS 蛋白具保護作用的片段搭配海藻糖，浸入液氮冷凍小鼠紅血球，解凍後只需離心即可洗去。", "紅血球解凍後完整恢復率達 89%，傳統甘油方法約 82%；輸血給貧血小鼠也提升紅血球數與血紅素，且未引發發炎。", "要用於人類紅血球庫存，仍需更多人體試驗與長期穩定性評估。"], "u": "https://technews.tw/2026/10/11/red-blood-cell-tardigrade-cahs-protein-trehalose-centrifugation/", "p": "2026-10-11T09:49:05+00:00", "o": "借鏡地表最強生物抗凍蛋白，或突破人類紅血球冷凍保存難題"}, {"c": "tech", "s": "科技新報", "t": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響", "b": "美國國際貿易委員會於 10 月 9 日啟動編號 337-TA-1526 調查，起因是 Vicor 於 9 月 9 日提出專利侵權申訴，涉及垂直供電系統及相關運算設備。被列名的有鴻海、廣達、台達電、英飛凌、立訊精密、MPS、Flex 與 Celestica 等業者。鴻海與廣達皆表示產品、生產營運與出貨目前未受影響，將配合調查並維護權益。USITC 說明啟動調查不代表認定侵權，將由行政法官審理，並於立案後 45 天內設定調查完成的目標日期。這不是 Vicor 首次針對台灣供應鏈提起 337 調查，但各案的專利與產品範圍不同，不能視為同一爭議的延續。", "pts": ["美國國際貿易委員會於 10 月 9 日啟動編號 337-TA-1526 調查，起因是 Vicor 於 9 月 9 日提出專利侵權申訴，涉及垂直供電系統及相關運算設備。", "被列名的有鴻海、廣達、台達電、英飛凌、立訊精密、MPS、Flex 與 Celestica 等業者。", "鴻海與廣達皆表示產品、生產營運與出貨目前未受影響，將配合調查並維護權益。", "USITC 說明啟動調查不代表認定侵權，將由行政法官審理，並於立案後 45 天內設定調查完成的目標日期。", "這不是 Vicor 首次針對台灣供應鏈提起 337 調查，但各案的專利與產品範圍不同，不能視為同一爭議的延續。"], "u": "https://finance.technews.tw/2026/10/11/337-usa-victor/", "p": "2026-10-11T08:34:13+00:00", "o": "美 337 調查再盯上台廠，鴻海、廣達：營運未受影響"}, {"c": "tech", "s": "科技新報", "t": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路", "b": "Hark Pro 定位為「生活的作業系統」，網頁、iOS 與 Android 免費使用，付費方案為每月 20 美元與 100 美元。主畫面除文字輸入框外，左側有「主動卡片」，會依連結的電子郵件與服務提醒待辦事項。執行任務時會啟動名為 Handoff 的雲端電腦代為操作，最後由使用者確認付款。Hark 強調 AI 具備「預判」能力，並承諾不出售使用者資料、不與廣告商分享。首款硬體預計 2027 年問世，不會是穿戴式裝置，公司也無意結合 Figure 人形機器人。", "pts": ["Hark Pro 定位為「生活的作業系統」，網頁、iOS 與 Android 免費使用，付費方案為每月 20 美元與 100 美元。", "主畫面除文字輸入框外，左側有「主動卡片」，會依連結的電子郵件與服務提醒待辦事項。", "執行任務時會啟動名為 Handoff 的雲端電腦代為操作，最後由使用者確認付款。", "Hark 強調 AI 具備「預判」能力，並承諾不出售使用者資料、不與廣告商分享。", "首款硬體預計 2027 年問世，不會是穿戴式裝置，公司也無意結合 Figure 人形機器人。"], "u": "https://technews.tw/2026/10/11/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch/", "p": "2026-10-11T08:30:41+00:00", "o": "目標成為 AI 代理界的麥金塔！蘋果前設計師操刀 Hark 推出主動式 AI 程式 Hark Pro，為硬體明年上市鋪路"}, {"c": "tech", "s": "科技新報", "t": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化", "b": "WISE 0855–0714 是已知最冷的棕矮星，距離地球 7.5 光年，表面溫度約零下 13 至 48℃。韋伯望遠鏡連續觀測 11 小時，首度證實其高空水雲會隨自轉變厚或變薄。深層大氣的化學氣體也被對流翻湧上來，像一鍋熱湯。韋伯的中解析度光譜儀能追蹤單一分子特徵，區分亮度變化來自雲層或溫度，這是過去儀器做不到的。其天氣模式與氣態巨行星高度相似，為解讀遙遠氣態巨行星天氣提供理論基礎；論文將發表於《天文物理期刊》。", "pts": ["WISE 0855–0714 是已知最冷的棕矮星，距離地球 7.5 光年，表面溫度約零下 13 至 48℃。", "韋伯望遠鏡連續觀測 11 小時，首度證實其高空水雲會隨自轉變厚或變薄。", "深層大氣的化學氣體也被對流翻湧上來，像一鍋熱湯。", "韋伯的中解析度光譜儀能追蹤單一分子特徵，區分亮度變化來自雲層或溫度，這是過去儀器做不到的。", "其天氣模式與氣態巨行星高度相似，為解讀遙遠氣態巨行星天氣提供理論基礎；論文將發表於《天文物理期刊》。"], "u": "https://technews.tw/2026/10/11/wise-0855-brown-dwarf-star-atmosphere-water-cloud/", "p": "2026-10-11T08:18:46+00:00", "o": "棕矮星也會變天，韋伯望遠鏡捕捉 7.5 光年外鄰居天體雲層變化"}, {"c": "fin", "s": "Yahoo Finance", "t": "四年來增加 40 兆美元：為何這波 AI 驅動的牛市仍有空間", "b": "自 2022 年秋季以來，AI 投資熱潮已改變整個市場。", "u": "https://finance.yahoo.com/m/4a6ddf57-8100-34f1-89a7-923bd93d7e6d/four-years-in%2C-%2440-trillion.html?.tsrc=rss", "p": "2026-10-11T08:00:00+00:00", "o": "Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run"}, {"c": "tech", "s": "科技新報", "t": "AI 代理的下道關卡，網站願不願意放行", "b": "Meta 的 Muse、ChatGPT 的 Dots 等個人 AI 代理人能代訂機票、訂位與買菜，但常被網站擋下而無法完成任務。有些封鎖並非刻意，例如沃爾瑪是 Muse 的合作夥伴，問題出在「點擊按鈕驗證真人」的流程中斷後驗證失敗。也有業者明確不歡迎：達美航空防範未經授權的自動化，聯合航空引用使用條款禁止，Yelp 要求代理透過資料授權計畫付費。eBay 表示限制的是未授權的代理與自動爬取、模型訓練，並非禁止所有第三方購物代理。Meta、沃爾瑪、Stripe 等業者已著手制定開放標準，用來區分代表使用者的代理人與惡意機器人。", "pts": ["Meta 的 Muse、ChatGPT 的 Dots 等個人 AI 代理人能代訂機票、訂位與買菜，但常被網站擋下而無法完成任務。", "有些封鎖並非刻意，例如沃爾瑪是 Muse 的合作夥伴，問題出在「點擊按鈕驗證真人」的流程中斷後驗證失敗。", "也有業者明確不歡迎：達美航空防範未經授權的自動化，聯合航空引用使用條款禁止，Yelp 要求代理透過資料授權計畫付費。", "eBay 表示限制的是未授權的代理與自動爬取、模型訓練，並非禁止所有第三方購物代理。", "Meta、沃爾瑪、Stripe 等業者已著手制定開放標準，用來區分代表使用者的代理人與惡意機器人。"], "u": "https://infosecu.technews.tw/2026/10/11/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/", "p": "2026-10-11T07:30:36+00:00", "o": "AI 代理的下道關卡，網站願不願意放行"}, {"c": "tech", "s": "科技新報", "t": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍", "b": "這座實驗室設於旗下試劑供應商 Abcam，整合 AI、機器人與多家子公司技術，預計 2027 年初全面規模化運作。系統由 AI 設計抗體等親和性試劑，機器人製作與測試，結果再回饋給模型，形成「設計、製作、測試、學習」的循環。丹納赫預估從構想到完成驗證試劑最高可快 8 倍，年產量可增加至 10 倍，從數十種擴大到數百種。這只是第一步，公司將打造能產出「AI 就緒資料」的智慧儀器與代理式 AI，建立更多自動實驗室。業界認為此舉反映生命科學工具供應商正把 AI 與自動化整合進實驗室設備，以縮短藥物研發時程。", "pts": ["這座實驗室設於旗下試劑供應商 Abcam，整合 AI、機器人與多家子公司技術，預計 2027 年初全面規模化運作。", "系統由 AI 設計抗體等親和性試劑，機器人製作與測試，結果再回饋給模型，形成「設計、製作、測試、學習」的循環。", "丹納赫預估從構想到完成驗證試劑最高可快 8 倍，年產量可增加至 10 倍，從數十種擴大到數百種。", "這只是第一步，公司將打造能產出「AI 就緒資料」的智慧儀器與代理式 AI，建立更多自動實驗室。", "業界認為此舉反映生命科學工具供應商正把 AI 與自動化整合進實驗室設備，以縮短藥物研發時程。"], "u": "https://technews.tw/2026/10/11/danaher-launching-ai-powered-autonomous-lab-for-drug-discovery/", "p": "2026-10-11T07:00:45+00:00", "o": "丹納赫將推首座 AI 自動實驗室，抗體試劑開發最高快 8 倍"}, {"c": "tech", "s": "科技新報", "t": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄", "b": "UNSW 郝曉靜教授團隊與 UtmoLight 合作，30×30 公分次模組達 23.5% 認證穩定轉換效率，有效受光面積 676 平方公分。關鍵是拿掉傳統製程的氧化鎳層；氧化鎳容易與鈣鈦礦產生不良反應，還會增加製程步驟。團隊以新材料與製作方式，讓電洞選擇性接觸在製作過程中直接形成。成果縮小了大面積模組與約 1 平方公分實驗室小電池之間的效率落差。下一步是製作 2.8 平方公尺的全尺寸模組，目標效率約 18% 至 19%；大規模部署前，效率、再現性與長期穩定性仍需精進。", "pts": ["UNSW 郝曉靜教授團隊與 UtmoLight 合作，30×30 公分次模組達 23.5% 認證穩定轉換效率，有效受光面積 676 平方公分。", "關鍵是拿掉傳統製程的氧化鎳層；氧化鎳容易與鈣鈦礦產生不良反應，還會增加製程步驟。", "團隊以新材料與製作方式，讓電洞選擇性接觸在製作過程中直接形成。", "成果縮小了大面積模組與約 1 平方公分實驗室小電池之間的效率落差。", "下一步是製作 2.8 平方公尺的全尺寸模組，目標效率約 18% 至 19%；大規模部署前，效率、再現性與長期穩定性仍需精進。"], "u": "https://technews.tw/2026/10/11/perovskite-solar-efficiency-hits-new-record/", "p": "2026-10-11T06:30:08+00:00", "o": "澳洲 UNSW 攜手 UtmoLight，大面積鈣鈦礦太陽能次模組效率達 23.5% 創世界紀錄"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的 Invesco 醫療保健 ETF：聚焦製藥的 PJP 對比視野更廣的 RSPH", "b": "PJP 的一年期報酬勝過 RSPH，但 RSPH 持有 61 檔醫療保健股，分散度更高、費用率更低。", "u": "https://www.fool.com/coverage/etfs/2026/10/11/better-invesco-healthcare-etf-pjp-targeting-pharmaceuticals-vs-rsph-s-broader-sector-lens/?.tsrc=rss", "p": "2026-10-11T06:13:48+00:00", "o": "Better Invesco Healthcare ETF: PJP Targeting Pharmaceuticals vs. RSPH's Broader Sector Lens"}, {"c": "tech", "s": "科技新報", "t": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐", "b": "10 月 5 日加權指數大漲 1,236.3 點，收 49,712.04 點；7 日收 49,806.37 點，在 5 萬點前因獲利了結賣壓而高檔震盪。渣打認為第四季短期波動會升高，但全球股市上漲背後有強勁盈餘支撐，例如輝達本益比已從年初 30 倍降至 20 到 25 倍。渣打預估到 2030 年前 AI 相關資本支出年複合成長率超過 30%，並從科技延伸到電力、電網與電氣化等基礎建設。第四季最大的跨資產風險是油價，渣打已把 WTI 三個月預測上調至每桶 100 美元。配置上建議「股優於債」、分批布局，並適度納入黃金與 3 至 7 年期短中天期債券作為防禦。", "pts": ["10 月 5 日加權指數大漲 1,236.3 點，收 49,712.04 點；7 日收 49,806.37 點，在 5 萬點前因獲利了結賣壓而高檔震盪。", "渣打認為第四季短期波動會升高，但全球股市上漲背後有強勁盈餘支撐，例如輝達本益比已從年初 30 倍降至 20 到 25 倍。", "渣打預估到 2030 年前 AI 相關資本支出年複合成長率超過 30%，並從科技延伸到電力、電網與電氣化等基礎建設。", "第四季最大的跨資產風險是油價，渣打已把 WTI 三個月預測上調至每桶 100 美元。", "配置上建議「股優於債」、分批布局，並適度納入黃金與 3 至 7 年期短中天期債券作為防禦。"], "u": "https://finance.technews.tw/2026/10/11/what-driving-taiwan-stocks-toward-50000/", "p": "2026-10-11T06:00:00+00:00", "o": "台股 5 萬點前高檔震盪，渣打：企業獲利跑贏股價，漲勢仍有基本面支撐"}, {"c": "fin", "s": "WSJ", "t": "讓私募信貸崛起的沉悶保險產品", "b": "指數型年金保證不虧損，但保險公司可定期調整報酬公式。", "u": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main", "p": "2026-10-11T02:46:00+00:00", "o": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent"}, {"c": "pol", "s": "WSJ", "t": "飢餓的烏克蘭人冒死逃離前線小鎮", "b": "整年來糧食供應日益短缺，地雷與無人機讓道路愈來愈難以通行。", "u": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews", "p": "2026-10-11T02:00:00+00:00", "o": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town"}, {"c": "tech", "s": "WSJ", "t": "如何保護你的網路攝影機不被窺探", "b": "弱密碼、過時軟體與不佳的 Wi-Fi 安全，可能讓陌生人入侵你家中的攝影機。", "u": "https://www.wsj.com/tech/personal-tech/how-to-keep-your-webcam-safe-from-prying-eyes-20c05b74?mod=rss_Technology", "p": "2026-10-11T00:57:00+00:00", "o": "How to Keep Your Webcam Safe From Prying Eyes"}, {"c": "pol", "s": "WSJ", "t": "監視攝影機無所不在，如今成為戰爭中的駭客目標", "b": "這些高度脆弱的設備已被交戰方用來追蹤、監視與攻擊敵人。", "u": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews", "p": "2026-10-11T00:30:00+00:00", "o": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War"}, {"c": "fin", "s": "財經新報", "t": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈", "b": "車麗屋是汽車百貨龍頭，有 30 多家直營店、會員數突破 180 萬；去年營收 18.2 億元、EPS 7.07 元，預計 10 月 13 日登興櫃。過去靠 500 坪大店立足，但符合條件的大坪數土地愈來愈難找、租金上升，展店遇到瓶頸。公司取得 Point S 台灣獨家總代理，推出「368 計畫」，以開放加盟將服務網延伸到全台 368 個鄉鎮市區。加盟店不必承擔輪胎庫存，消費者線上下單後由系統從最近直營店調貨，隔天即可換完。試行發現消費者容易下錯輪胎規格，公司正導入 AI 客服；加盟店預計明年下半年陸續上路，估計單店月營收可達百萬元。", "pts": ["車麗屋是汽車百貨龍頭，有 30 多家直營店、會員數突破 180 萬；去年營收 18.2 億元、EPS 7.07 元，預計 10 月 13 日登興櫃。", "過去靠 500 坪大店立足，但符合條件的大坪數土地愈來愈難找、租金上升，展店遇到瓶頸。", "公司取得 Point S 台灣獨家總代理，推出「368 計畫」，以開放加盟將服務網延伸到全台 368 個鄉鎮市區。", "加盟店不必承擔輪胎庫存，消費者線上下單後由系統從最近直營店調貨，隔天即可換完。", "試行發現消費者容易下錯輪胎規格，公司正導入 AI 客服；加盟店預計明年下半年陸續上路，估計單店月營收可達百萬元。"], "u": "https://finance.technews.tw/2026/10/11/car-quality-automotive-expands-its-footprint/", "p": "2026-10-11T00:00:18+00:00", "o": "汽車百貨龍頭 10 月登興櫃，車麗屋靠「零庫存換胎」策略打造全新加盟生態圈"}, {"c": "pol", "s": "WSJ", "t": "胡塞武裝襲擊沙烏地機場，至少 12 死、數百人受傷", "b": "飛彈攻擊迫使沙國國際機場關閉，是該國十多年來最致命的攻擊。", "u": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews", "p": "2026-10-10T23:28:00+00:00", "o": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes"}, {"c": "fin", "s": "Yahoo Finance", "t": "標普 500 中一檔 COVID 疫苗股今年飆漲 600%", "b": "Moderna 股價今年上漲 663%，超越 AI 概念股成為標普 500 漲幅冠軍，完整的癌症疫苗數據將於 10 月 24 日公布。", "u": "https://beincrypto.com/moderna-stock-best-sp-500-2026/?.tsrc=rss", "p": "2026-10-10T22:23:54+00:00", "o": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year"}, {"c": "tech", "s": "WSJ", "t": "美軍沙漠科技測試顯示 AI 戰爭仍有漫漫長路", "b": "一場沙漠試驗暴露出裝備限制與體制障礙，使美軍在跟上擅長 AI 的對手時步履維艱。", "u": "https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?mod=rss_Technology", "p": "2026-10-10T22:11:00+00:00", "o": "The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare"}, {"c": "fin", "s": "Yahoo Finance", "t": "VOO 不持有 SpaceX、台積電、三星電子、SK 海力士或 ASML，這檔 Vanguard ETF 則有", "b": "部分全球最重要的 AI 股票明顯不在標普 500 之中。", "u": "https://www.fool.com/investing/2026/10/10/voo-doesnt-own-spacex-taiwan-semiconductor-samsung/?.tsrc=rss", "p": "2026-10-10T20:51:33+00:00", "o": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does."}, {"c": "pol", "s": "WSJ", "t": "川普要求烏克蘭停止攻擊俄羅斯煉油廠，並更換澤倫斯基", "b": "隨著俄羅斯加強轟炸烏克蘭城市，白宮與基輔的關係跌至新低。", "u": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews", "p": "2026-10-10T20:00:00+00:00", "o": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky"}, {"c": "tech", "s": "WSJ", "t": "為什麼鞋子的額外緩衝可能反而增加腳的負擔", "b": "超厚緩震鞋大行其道，但部分醫師擔心對腳、腳踝、膝蓋或髖部有長期風險。", "u": "https://www.wsj.com/lifestyle/fitness/shoes-cushion-feet-health-8f5d83a8?mod=rss_Technology", "p": "2026-10-10T20:00:00+00:00", "o": "Why Extra Cushioning in Your Shoes Might Actually Increase Stress on Your Feet"}, {"c": "fin", "s": "Yahoo Finance", "t": "「大空頭」投資人對最關鍵的 AI 風險看法分歧", "b": "史蒂夫·艾斯曼認為，麥可·貝瑞可能看錯了 AI 熱潮的弱點。", "u": "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss", "p": "2026-10-10T19:13:00+00:00", "o": "‘Big Short’ investors split over the AI risk that matters most"}, {"c": "fin", "s": "Yahoo Finance", "t": "更好的生技 ETF：First Trust FBT 對比 VanEck BBH", "b": "VanEck 較低的 0.35% 費用率吸引重視成本的投資人，First Trust 則以 29 億美元規模與等權重配置見長。", "u": "https://www.fool.com/coverage/etfs/2026/10/10/better-biotechnology-etf-first-trust-fbt-vs-vaneck-bbh/?.tsrc=rss", "p": "2026-10-10T19:07:11+00:00", "o": "Better Biotechnology ETF: First Trust FBT vs. VanEck BBH"}, {"c": "fin", "s": "Yahoo Finance", "t": "華爾街對一檔創新標普 500 成分股的目標價看法分歧", "b": "分析師對這檔去年才加入標普 500 的股票前景意見不一。", "u": "https://www.thestreet.com/crypto/markets/wall-street-split-on-pioneering-s-p-500-stocks-price-target?.tsrc=rss", "p": "2026-10-10T18:15:00+00:00", "o": "Wall Street split on pioneering S&P 500 stock's price target"}, {"c": "fin", "s": "Yahoo Finance", "t": "戴爾（DELL）大幅跑贏標普 500，AI 帶動的漲勢能否延續？", "b": "戴爾科技近期成長多來自硬體銷售，這是毛利較低、銷量較大的路線。", "u": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-outpaced-p-500-174029607.html?.tsrc=rss", "p": "2026-10-10T17:40:29+00:00", "o": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?"}]};
 //]]>
   </script>
 
