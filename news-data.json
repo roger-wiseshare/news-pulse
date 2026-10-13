@@ -1,526 +1,524 @@
 {
- "updated": "2026-10-12T16:13:44+00:00",
+ "updated": "2026-10-13T13:39:31+00:00",
  "items": [
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "SCHD 較高點下跌 6%，歷史顯示仍值得買進",
-   "pts": [
-    "即使標普 500 出現拋售，股息股仍可能有更大的上行空間。"
-   ],
-   "b": "即使標普 500 出現拋售，股息股仍可能有更大的上行空間。",
-   "u": "https://www.fool.com/investing/2026/10/12/schd-is-down-6-from-its-peak-heres-why-history-say/?.tsrc=rss",
-   "p": "2026-10-12T16:05:00+00:00",
-   "o": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "今日股市：道瓊在漲跌互見中表現較佳，油輪公司 Navios 進入買進區",
-   "pts": [
-    "週一道瓊指數上漲，因川普宣布「能源停火」。",
-    "Salesforce 股價因分析師升評而大漲。"
-   ],
-   "b": "週一道瓊指數上漲，因川普宣布「能源停火」。Salesforce 股價因分析師升評而大漲。",
-   "u": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-dow.html?.tsrc=rss",
-   "p": "2026-10-12T15:56:02+00:00",
-   "o": "Stock Market Today: Dow Outperforms In Mixed Trade; Tanker Firm Navios Glides Into Buy Zone (Live Coverage)"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "午盤要聞：星巴克稱不會收購 Chipotle，IonQ 以最高 13 億美元收購 Elisity",
-   "pts": [
-    "週一上午盤中道瓊指數上漲。",
-    "標題顯示星巴克表示不會收購 Chipotle，IonQ 將以最高 13 億美元收購 Elisity。"
-   ],
-   "b": "週一上午盤中道瓊指數上漲。標題顯示星巴克表示不會收購 Chipotle，IonQ 將以最高 13 億美元收購 Elisity。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-starbucks-says-154837169.html?.tsrc=rss",
-   "p": "2026-10-12T15:48:37+00:00",
-   "o": "Top Midday Stories: Starbucks Says It's Not Buying Chipotle; IonQ Buying Elisity for Up to $1.3 Billion"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "我們存疑的 3 檔消費類股",
-   "pts": [
-    "可選消費類股隨經濟循環起伏，近六個月已回落 4.6%。",
-    "近期表現顯示需求可能正在減弱。"
-   ],
-   "b": "可選消費類股隨經濟循環起伏，近六個月已回落 4.6%。近期表現顯示需求可能正在減弱。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-skeptical-154303892.html?.tsrc=rss",
-   "p": "2026-10-12T15:43:03+00:00",
-   "o": "3 Consumer Stocks We’re Skeptical Of"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "三張圖說明為何許多美國家庭正陷入困境",
-   "pts": [
-    "高盛團隊的數張圖表揭示了許多美國家庭面臨的現實。",
-    "也說明了為何許多消費類公司正在掙扎。"
-   ],
-   "b": "高盛團隊的數張圖表揭示了許多美國家庭面臨的現實。也說明了為何許多消費類公司正在掙扎。",
-   "u": "https://finance.yahoo.com/economy/article/3-charts-sum-up-why-many-us-households-are-struggling-right-now-153911897.html?.tsrc=rss",
-   "p": "2026-10-12T15:39:11+00:00",
-   "o": "3 charts sum up why many US households are struggling right now"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Precigen (PGEN)：商業上市成功驗證早期募資論點",
-   "pts": [
-    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
-    "該策略在本季表現優於標普 500。"
-   ],
-   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
-   "u": "https://finance.yahoo.com/healthcare/articles/precigen-pgen-commercial-launch-success-153807719.html?.tsrc=rss",
-   "p": "2026-10-12T15:38:07+00:00",
-   "o": "Precigen (PGEN): Commercial Launch Success Validates Early Capital Raise Thesis"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Chime Financial (CHYM) 為何是長期複利股？",
-   "pts": [
-    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
-    "該策略在本季表現優於標普 500。"
-   ],
-   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-chime-financial-chym-long-153346312.html?.tsrc=rss",
-   "p": "2026-10-12T15:33:46+00:00",
-   "o": "What Makes Chime Financial (CHYM) A Long-Term Compounder?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "庫藏股買回對 Sanmina 每股盈餘貢獻多少？",
-   "pts": [
-    "Sanmina (SANM) 股價過去十二個月上漲 68%，大幅優於標普 500 的 17.0%。",
-    "這家電子製造商的股數約減少 7%，股票回購可能是持有的理由之一。"
-   ],
-   "b": "Sanmina (SANM) 股價過去十二個月上漲 68%，大幅優於標普 500 的 17.0%。這家電子製造商的股數約減少 7%，股票回購可能是持有的理由之一。",
-   "u": "https://www.trefis.com/articles/618330/how-much-have-buybacks-lifted-sanminas-earnings-per-share/2026-10-12?.tsrc=rss",
-   "p": "2026-10-12T15:26:13+00:00",
-   "o": "How Much Have Buybacks Lifted Sanmina’s Earnings Per Share?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "聯合健康 (UNH)：早期獲利復甦為中段兩位數複利成長奠基",
-   "pts": [
-    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
-    "該策略在本季表現優於標普 500。"
-   ],
-   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/united-healthcare-unh-early-stage-152237095.html?.tsrc=rss",
-   "p": "2026-10-12T15:22:37+00:00",
-   "o": "United Healthcare (UNH): Early-Stage Earnings Recovery Sets the Stage for Mid-Teens Compound Growth"
-  },
   {
    "c": "tech",
    "s": "WSJ",
-   "t": "五金行吸引顧客的祕密武器",
+   "t": "企業使用 AI 增加，儘管疑慮升高",
    "pts": [
-    "這些原本只為除蟲而雇用的「員工」，如今帶動了店內人流。",
-    "他們也在社群媒體上累積了數千次爆紅觀看。"
+    "本篇指出企業對 AI 的使用持續上升，同時疑慮也在增加。",
+    "另提到 Meta 的新模型。"
    ],
-   "b": "這些原本只為除蟲而雇用的「員工」，如今帶動了店內人流。他們也在社群媒體上累積了數千次爆紅觀看。",
-   "u": "https://www.wsj.com/lifestyle/hardware-stores-secret-weapon-cats-05fecb1e?mod=rss_Technology",
-   "p": "2026-10-12T15:21:00+00:00",
-   "o": "Hardware Stores Have a Secret Weapon for Wooing Customers"
+   "b": "本篇指出企業對 AI 的使用持續上升，同時疑慮也在增加。另提到 Meta 的新模型。",
+   "u": "https://www.wsj.com/cio-journal/ai-business-use-rises-despite-growing-concern-74f5e7d7?mod=rss_Technology",
+   "p": "2026-10-13T13:29:00+00:00",
+   "o": "AI Business Use Rises Despite Growing Concern"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "值得長期持有的 2 檔標普 500 成分股，以及我們認為有風險的 1 檔",
+   "t": "Truist 因 Muse 採用強勁，把 Meta 目標價上調至華爾街最高的 1,000 美元",
    "pts": [
-    "標普 500 常被視為強勢企業的基準，但並非每檔成分股都值得持有。",
-    "有些公司面臨成長停滯、高負債或新競爭者顛覆等挑戰。"
+    "Truist 證券將 Meta 目標價由 763 美元上調至 1,000 美元，與富國銀行並列華爾街最高。",
+    "理由是 Meta 的 Muse AI 代理早期獲得市場採用。"
    ],
-   "b": "標普 500 常被視為強勢企業的基準，但並非每檔成分股都值得持有。有些公司面臨成長停滯、高負債或新競爭者顛覆等挑戰。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-own-151903610.html?.tsrc=rss",
-   "p": "2026-10-12T15:19:03+00:00",
-   "o": "2 S&P 500 Stocks to Own for Decades and 1 We Find Risky"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Royalty Pharma (RPRX) 在合理本益比下提供具吸引力的風險報酬",
-   "pts": [
-    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
-    "該策略在本季表現優於標普 500。"
-   ],
-   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/royalty-pharma-rprx-offers-attractive-151805927.html?.tsrc=rss",
-   "p": "2026-10-12T15:18:05+00:00",
-   "o": "Royalty Pharma (RPRX) Offers Attractive Risk-Reward Profiles at Reasonable Multiples"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Jim Cramer 點出美國人退休投資方式的問題",
-   "pts": [
-    "這種常見的投資習慣可能隱藏風險。"
-   ],
-   "b": "這種常見的投資習慣可能隱藏風險。",
-   "u": "https://www.thestreet.com/investing/stocks/jim-cramer-portfolio-diversification?.tsrc=rss",
-   "p": "2026-10-12T15:17:00+00:00",
-   "o": "Jim Cramer exposes a problem with how Americans invest for retirement"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "晶片股跌勢延續",
-   "pts": [
-    "晶片股近來遭到重挫，即使財報季表現亮眼也可能不足以提振。"
-   ],
-   "b": "晶片股近來遭到重挫，即使財報季表現亮眼也可能不足以提振。",
-   "u": "https://finance.yahoo.com/m/211a3a39-0ee9-3853-bf69-c10fd13941f3/chip-stock-skid-stretches-on.html?.tsrc=rss",
-   "p": "2026-10-12T15:14:31+00:00",
-   "o": "Chip Stock Skid Stretches On"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "油價下降對好市多的銷售與利潤率意味著什麼",
-   "pts": [
-    "好市多 (COST) 本益比約 45.6 倍，標普 500 為 21.9 倍。",
-    "投資人願意付出這樣的價格，可能是在押注成長；9 月淨銷售額年增 13.0%。"
-   ],
-   "b": "好市多 (COST) 本益比約 45.6 倍，標普 500 為 21.9 倍。投資人願意付出這樣的價格，可能是在押注成長；9 月淨銷售額年增 13.0%。",
-   "u": "https://www.trefis.com/articles/618347/what-cheaper-gas-would-mean-for-costcos-sales-and-margins/2026-10-12?.tsrc=rss",
-   "p": "2026-10-12T15:07:25+00:00",
-   "o": "What Cheaper Gas Would Mean For Costco’s Sales And Margins"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "社論｜法國持續挖坑自陷",
-   "pts": [
-    "法國政治人物過度支出，把自身政治存續置於國家財政健全之上。"
-   ],
-   "b": "法國政治人物過度支出，把自身政治存續置於國家財政健全之上。",
-   "u": "https://www.wsj.com/opinion/france-keeps-digging-a-hole-8c52404f?mod=rss_worldnews",
-   "p": "2026-10-12T15:05:00+00:00",
-   "o": "Opinion | France Keeps Digging a Hole"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "上週表現優於大盤的 5 個 ETF 領域",
-   "pts": [
-    "巴西股市、油輪、公用事業、資安與雲端運算 ETF 上週領漲。"
-   ],
-   "b": "巴西股市、油輪、公用事業、資安與雲端運算 ETF 上週領漲。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/5-market-beating-etf-areas-150000476.html?.tsrc=rss",
-   "p": "2026-10-12T15:00:00+00:00",
-   "o": "5 Market-Beating ETF Areas of Last Week"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "報導：美國民主黨議員奧馬爾住家遭搜索，她曾批評移民取締與川普政府對立",
-   "pts": [
-    "保守派福斯新聞 12 日報導，美國當局當天搜索了明尼蘇達州民主黨聯邦眾議員奧馬爾位於華府近郊的住家。",
-    "前索馬利亞難民奧馬爾曾嚴厲批評移民及海關執法局（ICE）的強硬取締移民作法，因此與川普政府對立。"
-   ],
-   "b": "保守派福斯新聞 12 日報導，美國當局當天搜索了明尼蘇達州民主黨聯邦眾議員奧馬爾位於華府近郊的住家。前索馬利亞難民奧馬爾曾嚴厲批評移民及海關執法局（ICE）的強硬取締移民作法，因此與川普政府對立。",
-   "u": "https://www.sankei.com/article/20261012-U5AHFPZFM5IYHBNZQWOHR547DY/",
-   "p": "2026-10-12T14:57:22+00:00",
-   "o": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "財報季前夕看大型銀行，以及 Meta 投資人該注意的一項指標",
-   "pts": [
-    "Yahoo Finance 執行編輯 Brian Sozzi 回顧開盤時段重要新聞。",
-    "內容包括財報季開跑，以及標普 500 漲勢背後的隱憂。"
-   ],
-   "b": "Yahoo Finance 執行編輯 Brian Sozzi 回顧開盤時段重要新聞。內容包括財報季開跑，以及標普 500 漲勢背後的隱憂。",
-   "u": "https://finance.yahoo.com/video/a-closer-look-at-big-banks-ahead-of-q3-earnings--one-metric-meta-investors-should-watch-145616926.html?.tsrc=rss",
-   "p": "2026-10-12T14:56:16+00:00",
-   "o": "A closer look at Big Banks ahead of Q3 earnings, & one metric Meta investors should watch"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "花旗 (C)：有形普通股權益報酬率回升，奠定長期論點",
-   "pts": [
-    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
-    "該策略在本季表現優於標普 500。"
-   ],
-   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-rebounding-return-tangible-145206861.html?.tsrc=rss",
-   "p": "2026-10-12T14:52:06+00:00",
-   "o": "Citigroup (C): Rebounding Return on Tangible Common Equity Anchors Long-Term Thesis"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "必治妥施貴寶一年大漲逾三成五：該買、賣還是持有？",
-   "pts": [
-    "必治妥施貴寶 (BMY) 股價一年大漲，成長型產品組合與管線進展推動動能。",
-    "但學名藥競爭與估值仍須謹慎。"
-   ],
-   "b": "必治妥施貴寶 (BMY) 股價一年大漲，成長型產品組合與管線進展推動動能。但學名藥競爭與估值仍須謹慎。",
-   "u": "https://finance.yahoo.com/healthcare/articles/bmy-surges-35-7-buy-144800053.html?.tsrc=rss",
-   "p": "2026-10-12T14:48:00+00:00",
-   "o": "BMY Surges 35.7% in a Year: Should You Buy, Sell or Hold the Stock?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "本週值得鎖定的 1 檔標普 500 股票，以及我們存疑的 2 檔",
-   "pts": [
-    "標普 500 涵蓋產業領導者，但並非每檔成分股都是贏家。",
-    "有些公司已過巔峰，受執行不力、財務疲弱或結構性逆風拖累。"
-   ],
-   "b": "標普 500 涵蓋產業領導者，但並非每檔成分股都是贏家。有些公司已過巔峰，受執行不力、財務疲弱或結構性逆風拖累。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-target-144703946.html?.tsrc=rss",
-   "p": "2026-10-12T14:47:03+00:00",
-   "o": "1 S&P 500 Stock to Target This Week and 2 We Question"
+   "b": "Truist 證券將 Meta 目標價由 763 美元上調至 1,000 美元，與富國銀行並列華爾街最高。理由是 Meta 的 Muse AI 代理早期獲得市場採用。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/truist-lifts-meta-target-street-132728242.html?.tsrc=rss",
+   "p": "2026-10-13T13:27:28+00:00",
+   "o": "Truist lifts Meta target to Street-high $1,000 on strong Muse adoption"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "太陽死後的太陽系，比想像中的更快崩解",
+   "t": "Siri AI 住你家，蘋果 HomeView 一次認得六張臉",
    "pts": [
-    "加州理工學院與密西根大學團隊發現，太陽死亡時的質量流失並非平滑，而是約 4,600 次隨機猛烈的「踢擊」。",
-    "每次拋射約相當 33 個地球質量，會使太陽微幅偏移並擾動引力場。",
-    "依蓋亞衛星觀測與數百次模擬，近 80% 情境中外側行星會在太陽脫殼結束前出現軌道交錯。",
-    "90% 的模型中，太陽系會在太陽變成白矮星後 30 億年內自我毀滅。",
-    "天王星與海王星可能互換位置，木星與土星甚至可能被甩出太陽系。"
+    "蘋果智慧家庭裝置 HomeView 結合 7 吋觸控螢幕、智慧音響與家庭控制中心，搭載新 Siri AI。",
+    "可透過臉部辨識區分最多六名家庭成員，各自顯示專屬介面與資訊。",
+    "美國售價 299 美元，預計 11 月 13 日上市，首波市場未包含台灣。",
+    "蘋果在新聞稿註腳提到部分 AI 功能設有每日使用上限，未來可能開放付費擴大額度。",
+    "查看私人內容時須通過臉部辨識，且配對的 iPhone 或 iPad 需在附近並近期解鎖。"
    ],
-   "b": "加州理工學院與密西根大學團隊發現，太陽死亡時的質量流失並非平滑，而是約 4,600 次隨機猛烈的「踢擊」。每次拋射約相當 33 個地球質量，會使太陽微幅偏移並擾動引力場。依蓋亞衛星觀測與數百次模擬，近 80% 情境中外側行星會在太陽脫殼結束前出現軌道交錯。90% 的模型中，太陽系會在太陽變成白矮星後 30 億年內自我毀滅。天王星與海王星可能互換位置，木星與土星甚至可能被甩出太陽系。",
-   "u": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
-   "p": "2026-10-12T14:27:30+00:00",
-   "o": "太陽死後的太陽系，比想像中的更快崩解"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "歐盟擬設中國混合動力車進口上限，壓低其市占",
-   "pts": [
-    "歐盟將限制自中國進口的混合動力車，每年上限為 35 萬輛。",
-    "目的是把中國對歐盟的預估出貨量壓低一半以上。"
-   ],
-   "b": "歐盟將限制自中國進口的混合動力車，每年上限為 35 萬輛。目的是把中國對歐盟的預估出貨量壓低一半以上。",
-   "u": "https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews",
-   "p": "2026-10-12T14:24:00+00:00",
-   "o": "EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap"
+   "b": "蘋果智慧家庭裝置 HomeView 結合 7 吋觸控螢幕、智慧音響與家庭控制中心，搭載新 Siri AI。可透過臉部辨識區分最多六名家庭成員，各自顯示專屬介面與資訊。美國售價 299 美元，預計 11 月 13 日上市，首波市場未包含台灣。蘋果在新聞稿註腳提到部分 AI 功能設有每日使用上限，未來可能開放付費擴大額度。查看私人內容時須通過臉部辨識，且配對的 iPhone 或 iPad 需在附近並近期解鎖。",
+   "u": "https://technews.tw/2026/10/13/siri-ai-homeview/",
+   "p": "2026-10-13T13:25:19+00:00",
+   "o": "Siri AI 住你家，蘋果 HomeView 一次認得六張臉"
   },
   {
    "c": "fin",
-   "s": "WSJ",
-   "t": "美股漲跌互見，烏克蘭新一輪能源攻擊推升油價",
+   "s": "Yahoo Finance",
+   "t": "歷史上標普 500 在期中選舉後會上漲，但這次可能不同",
    "pts": [
-    "美股交易中漲跌互見，投資人期待本週大型美國銀行公布財報。",
-    "油價因烏克蘭新的能源攻擊而上漲。"
+    "上一次川普執政時，市場在期中選舉週期出現急劇下跌。"
    ],
-   "b": "美股交易中漲跌互見，投資人期待本週大型美國銀行公布財報。油價因烏克蘭新的能源攻擊而上漲。",
-   "u": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
-   "p": "2026-10-12T14:09:00+00:00",
-   "o": "U.S. Stocks Mixed, Oil Gains on Fresh Energy Strikes in Ukraine"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "歐盟對北韓與俄羅斯追加制裁，因北韓彈道飛彈開發違反聯合國決議",
-   "pts": [
-    "歐盟 12 日宣布，將北韓與俄羅斯的 3 人及 4 個團體追加列入制裁對象。",
-    "兩國在軍事與經濟面向持續強化關係。",
-    "歐盟指其涉及北韓彈道飛彈開發，違反聯合國安理會對北韓的制裁決議。"
-   ],
-   "b": "歐盟 12 日宣布，將北韓與俄羅斯的 3 人及 4 個團體追加列入制裁對象。兩國在軍事與經濟面向持續強化關係。歐盟指其涉及北韓彈道飛彈開發，違反聯合國安理會對北韓的制裁決議。",
-   "u": "https://www.sankei.com/article/20261012-OF2BTDL4CZOLDKXKHJ3A3ZO23Q/",
-   "p": "2026-10-12T13:45:58+00:00",
-   "o": "EU、北朝鮮とロシアに追加制裁 北の弾道ミサイル開発巡り国連安保理決議違反"
+   "b": "上一次川普執政時，市場在期中選舉週期出現急劇下跌。",
+   "u": "https://www.fool.com/investing/2026/10/13/historically-the-s-and-p-500-rallies-after-the-midterm-elections-but-here-s-why-that-might-not-happen-this-time-around/?.tsrc=rss",
+   "p": "2026-10-13T13:17:01+00:00",
+   "o": "Historically, the S&P 500 Rallies After the Midterm Elections. But Here's Why That Might Not Happen This Time Around"
   },
   {
    "c": "fin",
-   "s": "WSJ",
-   "t": "美國天然氣期貨回吐部分漲幅",
+   "s": "Yahoo Finance",
+   "t": "週二盤前 ETF 走低、股指期貨漲跌互見，晶片疲弱、銀行財報在即",
    "pts": [
-    "受週末天氣帶動需求減少影響，美國天然氣期貨走低。"
+    "追蹤大盤的 SPDR 標普 500 ETF（SPY）盤前下跌 0.04%。",
+    "標題指出晶片類股疲弱，且市場正評估銀行財報。"
    ],
-   "b": "受週末天氣帶動需求減少影響，美國天然氣期貨走低。",
-   "u": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-some-gains-47941921?mod=rss_markets_main",
-   "p": "2026-10-12T13:45:00+00:00",
-   "o": "U.S. Natural Gas Futures Give Back Some Gains"
+   "b": "追蹤大盤的 SPDR 標普 500 ETF（SPY）盤前下跌 0.04%。標題指出晶片類股疲弱，且市場正評估銀行財報。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131042414.html?.tsrc=rss",
+   "p": "2026-10-13T13:10:42+00:00",
+   "o": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Tuesday Amid Chip Weakness, Bank Earnings"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "中東供應風險持續，油價反彈",
+   "t": "英國情報機關：面對俄羅斯與伊朗日益升高的混合戰爭",
    "pts": [
-    "週一油價在初期下跌後反轉走高，因中東供應風險持續。",
-    "交易員同時評估俄羅斯柴油供應增加，以及俄烏可能達成能源停火的前景。"
+    "軍情五處（MI5）局長描繪了英國與歐洲盟友目前面臨的一系列嚴峻威脅。"
    ],
-   "b": "週一油價在初期下跌後反轉走高，因中東供應風險持續。交易員同時評估俄羅斯柴油供應增加，以及俄烏可能達成能源停火的前景。",
-   "u": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=rss_worldnews",
-   "p": "2026-10-12T13:32:00+00:00",
-   "o": "Oil Prices Rebound Amid Persistent Middle East Supply Risks"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "習近平的超級強權野心助長中國危險的債務螺旋",
-   "pts": [
-    "報導指稱習近平主導下的債務螺旋相當危險，正在扼殺中國國內經濟。",
-    "這也損害了全球各地的貿易夥伴。"
-   ],
-   "b": "報導指稱習近平主導下的債務螺旋相當危險，正在扼殺中國國內經濟。這也損害了全球各地的貿易夥伴。",
-   "u": "https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f?mod=rss_worldnews",
-   "p": "2026-10-12T13:29:00+00:00",
-   "o": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "北約最高指揮官提出阻止俄羅斯攻擊聯盟的計畫",
-   "pts": [
-    "北約最高指揮官 Alexus Grynkewich 將軍提出一系列步驟，用以阻擋初期攻擊。",
-    "計畫也包括瓦解對手控制與支援其部隊的能力。"
-   ],
-   "b": "北約最高指揮官 Alexus Grynkewich 將軍提出一系列步驟，用以阻擋初期攻擊。計畫也包括瓦解對手控制與支援其部隊的能力。",
-   "u": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews",
-   "p": "2026-10-12T13:16:00+00:00",
-   "o": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "Steris 以 21 億美元收購 Xodus Medical",
-   "pts": [
-    "總部位於愛爾蘭都柏林的醫院與製藥業者產品及服務供應商 Steris 宣布收購 Xodus Medical。",
-    "公司預期這項交易將擴大其產品組合。"
-   ],
-   "b": "總部位於愛爾蘭都柏林的醫院與製藥業者產品及服務供應商 Steris 宣布收購 Xodus Medical。公司預期這項交易將擴大其產品組合。",
-   "u": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=rss_markets_main",
-   "p": "2026-10-12T13:11:00+00:00",
-   "o": "Steris to Acquire Xodus Medical for $2.1 Billion"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "儘管川普宣布停火，俄羅斯仍猛攻烏克蘭能源設施",
-   "pts": [
-    "俄軍攻擊包括天然氣設施、一座電廠與一座變電站。",
-    "此時美方正向烏克蘭施壓，要求停止攻擊俄羅斯煉油廠。"
-   ],
-   "b": "俄軍攻擊包括天然氣設施、一座電廠與一座變電站。此時美方正向烏克蘭施壓，要求停止攻擊俄羅斯煉油廠。",
-   "u": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d?mod=rss_worldnews",
-   "p": "2026-10-12T13:04:00+00:00",
-   "o": "Russia Pounds Ukrainian Energy Despite Trump’s Ceasefire Announcement"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "微軟發表 AI 推論用次世代晶片「Maia 300」，2027 年導入，日本也將部署",
-   "pts": [
-    "微軟 12 日發表供 AI 推論（生成回答）使用的次世代半導體「Maia 300」。",
-    "明年起先在美國導入，並擴大到數 GW 規模。",
-    "將成為 Copilot 等自家服務的核心基礎，並部署到包含日本在內的全球各地。"
-   ],
-   "b": "微軟 12 日發表供 AI 推論（生成回答）使用的次世代半導體「Maia 300」。明年起先在美國導入，並擴大到數 GW 規模。將成為 Copilot 等自家服務的核心基礎，並部署到包含日本在內的全球各地。",
-   "u": "https://www.sankei.com/article/20261012-I3N6CFAE2RK4DMNXXEQEIWRD5I/",
-   "p": "2026-10-12T13:00:00+00:00",
-   "o": "米マイクロソフト、AI推論向け次世代半導体発表「マイア300」27年導入、日本も配備"
+   "b": "軍情五處（MI5）局長描繪了英國與歐洲盟友目前面臨的一系列嚴峻威脅。",
+   "u": "https://www.wsj.com/world/europe/u-k-spy-agency-confronts-escalating-hybrid-war-with-russia-and-iran-4c54f9ab?mod=rss_worldnews",
+   "p": "2026-10-13T13:01:00+00:00",
+   "o": "U.K. Spy Agency Confronts Escalating Hybrid War With Russia and Iran"
   },
   {
    "c": "tech",
    "s": "WSJ",
-   "t": "AI 推升併購熱潮",
+   "t": "我對蘋果新智慧家庭顯示器的第一印象",
    "pts": [
-    "本篇指出 AI 正助長併購潮。",
-    "另提到企業尋找由 AI 帶動生產力的「企業搜尋」仍在持續。"
+    "HomeView 是方形螢幕，可用於智慧家庭控制、免持 FaceTime 通話，並可使用 Siri AI。"
    ],
-   "b": "本篇指出 AI 正助長併購潮。另提到企業尋找由 AI 帶動生產力的「企業搜尋」仍在持續。",
-   "u": "https://www.wsj.com/cio-journal/ai-fuels-m-a-machine-282e1e04?mod=rss_Technology",
-   "p": "2026-10-12T12:39:00+00:00",
-   "o": "AI Fuels M&A Machine"
+   "b": "HomeView 是方形螢幕，可用於智慧家庭控制、免持 FaceTime 通話，並可使用 Siri AI。",
+   "u": "https://www.wsj.com/tech/personal-tech/apple-homeview-first-impressions-615ac94c?mod=rss_Technology",
+   "p": "2026-10-13T13:00:00+00:00",
+   "o": "My First Impressions of Apple’s New Smart Home Display"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "醫療龍頭嬌生下跌，中東衝突拖累醫材銷售",
+   "pts": [
+    "嬌生股價週二早盤走低，因中東衝突影響醫療器材銷售。"
+   ],
+   "b": "嬌生股價週二早盤走低，因中東衝突影響醫療器材銷售。",
+   "u": "https://finance.yahoo.com/m/c7470072-1bb8-3e04-9a12-dbe7687fb4f1/health-bellwether-j%26j-slumps.html?.tsrc=rss",
+   "p": "2026-10-13T12:54:39+00:00",
+   "o": "Health Bellwether J&J Slumps As Middle East Conflict Hampers Medtech Sales"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "更新：美股期貨盤前漲跌互見，交易員評估大型銀行財報",
+   "pts": [
+    "內容更新了經濟數據、近期油價走勢、全球市場概況與個股消息。"
+   ],
+   "b": "內容更新了經濟數據、近期油價走勢、全球市場概況與個股消息。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-124855756.html?.tsrc=rss",
+   "p": "2026-10-13T12:48:55+00:00",
+   "o": "Update: US Equity Futures Mixed Pre-Bell as Traders Assess Major Bank Earnings"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "2 檔基本面亮眼的保險股，以及我們存疑的 1 檔",
+   "pts": [
+    "保險公司在金融體系中扮演重要角色，但理賠嚴重度與監管趨嚴的疑慮已降溫市場熱情。"
+   ],
+   "b": "保險公司在金融體系中扮演重要角色，但理賠嚴重度與監管趨嚴的疑慮已降溫市場熱情。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-insurance-stocks-impressive-fundamentals-124304579.html?.tsrc=rss",
+   "p": "2026-10-13T12:43:04+00:00",
+   "o": "2 Insurance Stocks with Impressive Fundamentals and 1 We Question"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "房利美與房地美的信用評分轉換正在撼動房貸市場",
+   "t": "摩根大通、高盛獲利躍升，銀行財報季揭幕",
    "pts": [
-    "川普政府與放款機構表示，採用 FICO 的競爭產品將壓低房貸成本。",
-    "但也有人對核貸風險提出警告。"
+    "摩根大通、高盛、富國銀行與花旗公布第三季業績，揭開好壞參半的華爾街財報季。"
    ],
-   "b": "川普政府與放款機構表示，採用 FICO 的競爭產品將壓低房貸成本。但也有人對核貸風險提出警告。",
-   "u": "https://www.wsj.com/finance/regulation/fannie-freddie-vantagescore-mortgages-85b41d3f?mod=rss_markets_main",
-   "p": "2026-10-12T12:00:00+00:00",
-   "o": "A Credit-Score Shift at Fannie and Freddie Is Shaking Up the Mortgage Market"
+   "b": "摩根大通、高盛、富國銀行與花旗公布第三季業績，揭開好壞參半的華爾街財報季。",
+   "u": "https://www.wsj.com/finance/banking/jpmorgan-goldman-profit-jumps-as-banks-kick-off-earnings-3e78b37d?mod=rss_markets_main",
+   "p": "2026-10-13T12:43:00+00:00",
+   "o": "JPMorgan, Goldman Profit Jumps as Banks Kick Off Earnings"
   },
   {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "晨間風險報告：法院面臨有人對陪審案件結果下注的難題",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "今日股市：道瓊因銀行財報上漲，美光、Sandisk、SK 海力士遭拋售",
    "pts": [
-    "本期探討法院如何處理有人對陪審團案件結果下注的問題。",
-    "另提到美國正制裁國際刑事法院，以及 AI 的「上帝問題」。"
+    "摩根大通與高盛公布財報，週二道瓊指數上漲。",
+    "美光、Sandisk 與 SK 海力士遭到賣壓。"
    ],
-   "b": "本期探討法院如何處理有人對陪審團案件結果下注的問題。另提到美國正制裁國際刑事法院，以及 AI 的「上帝問題」。",
-   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-5ae06b30?mod=rss_worldnews",
-   "p": "2026-10-12T11:32:00+00:00",
-   "o": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "德國聯合執政黨領導人請辭，勞動部長也辭職，梅爾茨政府出現裂痕",
-   "pts": [
-    "德國勞動暨社會部長巴斯 12 日表示，將辭去中間偏左社民黨（SPD）共同黨魁與聯合政府勞動社會部長的職務。",
-    "她透過 Instagram 發表聲明，並批評梅爾茨所屬的保守派基民盟／基社盟（CDU/CSU）。",
-    "聯合政府內部因政策內容而出現的裂痕因此浮現。"
-   ],
-   "b": "德國勞動暨社會部長巴斯 12 日表示，將辭去中間偏左社民黨（SPD）共同黨魁與聯合政府勞動社會部長的職務。她透過 Instagram 發表聲明，並批評梅爾茨所屬的保守派基民盟／基社盟（CDU/CSU）。聯合政府內部因政策內容而出現的裂痕因此浮現。",
-   "u": "https://www.sankei.com/article/20261012-STILH4SELBK7RPBAGMF5BVSKUA/",
-   "p": "2026-10-12T11:27:37+00:00",
-   "o": "独連立与党トップが辞意 労働相も、メルツ政権亀裂 政策内容巡り対立"
+   "b": "摩根大通與高盛公布財報，週二道瓊指數上漲。美光、Sandisk 與 SK 海力士遭到賣壓。",
+   "u": "https://finance.yahoo.com/m/53f0b0da-d3c5-3ed1-b95b-353bb359f22f/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+   "p": "2026-10-13T12:41:48+00:00",
+   "o": "Stock Market Today: Dow Rises On Bank Earnings; Micron, Sandisk, SK Hynix Sell Off (Live Coverage)"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "澤倫斯基：若俄羅斯同意停火 60 天，烏克蘭將舉行總統大選",
+   "t": "中國對前重慶市長黃奇帆展開調查，涉嫌嚴重違紀違法",
    "pts": [
-    "澤倫斯基 11 日接受澳洲 ABC 專訪時表示，若俄羅斯接受 60 天停火，烏克蘭將舉行總統大選。",
-    "他說也已向美國總統川普表達相同想法。",
-    "報導認為這可能是他首次明確提出期間。"
+    "中共中央紀律檢查委員會與國家監察委員會 13 日宣布，74 歲的前重慶市長黃奇帆涉嫌嚴重違紀違法，正接受調查。",
+    "違規內容等細節尚未公布。"
    ],
-   "b": "澤倫斯基 11 日接受澳洲 ABC 專訪時表示，若俄羅斯接受 60 天停火，烏克蘭將舉行總統大選。他說也已向美國總統川普表達相同想法。報導認為這可能是他首次明確提出期間。",
-   "u": "https://www.sankei.com/article/20261012-AHPNZIDNYJJ4XHDMETHULNVHMA/",
-   "p": "2026-10-12T11:06:00+00:00",
-   "o": "ゼレンスキー氏、60日間停戦を条件に「ウクライナ大統領選を実施」期間明示は初めてか"
+   "b": "中共中央紀律檢查委員會與國家監察委員會 13 日宣布，74 歲的前重慶市長黃奇帆涉嫌嚴重違紀違法，正接受調查。違規內容等細節尚未公布。",
+   "u": "https://www.sankei.com/article/20261013-W5JAZLYAS5JJLNEBBMED6D3NDI/",
+   "p": "2026-10-13T12:41:30+00:00",
+   "o": "中国で元重慶市長を調査、重大な規律・法律違反の疑い 74歳の黄奇帆氏"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "我們觀察名單上的 3 檔標普 500 股票",
+   "pts": [
+    "標普 500 有許多成熟企業，但只有部分持續跑贏大盤。",
+    "少數表現突出的公司受惠於強勁基本面與持續的競爭優勢。"
+   ],
+   "b": "標普 500 有許多成熟企業，但只有部分持續跑贏大盤。少數表現突出的公司受惠於強勁基本面與持續的競爭優勢。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-watchlist-123504538.html?.tsrc=rss",
+   "p": "2026-10-13T12:35:04+00:00",
+   "o": "3 S&P 500 Stocks on Our Watchlist"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "若熊市已經開始，歷史說這是最該避免的投資錯誤",
+   "pts": [
+    "投資人只需堅持長期路線。"
+   ],
+   "b": "投資人只需堅持長期路線。",
+   "u": "https://www.fool.com/investing/2026/10/13/bear-market-history-says-investing-mistake/?.tsrc=rss",
+   "p": "2026-10-13T12:35:00+00:00",
+   "o": "If a Bear Market Is Underway, History Says This Is the Biggest Investing Mistake to Avoid"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "好市多股價過去一年漲了多少？答案可能讓你意外",
+   "pts": [
+    "文章稱好市多是「全天候」股票。"
+   ],
+   "b": "文章稱好市多是「全天候」股票。",
+   "u": "https://www.fool.com/investing/2026/10/13/this-is-how-much-costco-stock-has-gained-over-the/?.tsrc=rss",
+   "p": "2026-10-13T12:13:00+00:00",
+   "o": "This Is How Much Costco Stock Has Gained Over the Past Year (It Might Surprise You)"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "輝達 (NVDA)：黃仁勳的遠見領導推動長期 AI 成長",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-jensen-huang-120916609.html?.tsrc=rss",
+   "p": "2026-10-13T12:09:16+00:00",
+   "o": "Nvidia Corp (NVDA): Jensen Huang’s Visionary Leadership Drives Long-Term AI Growth"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "川普轉向俄羅斯柴油的舉動引發反彈與質疑",
+   "t": "油價在三連漲後回落，交易員評估中東風險與俄羅斯柴油供應",
    "pts": [
-    "川普購買俄羅斯柴油的舉措招致反對與懷疑。",
-    "另提到零售商把關稅退款用於節前行銷，以及中國吉利計劃明年向加拿大消費者銷售電動車。"
+    "油價在連續三個交易日上漲後回檔。",
+    "但中東緊張局勢升溫、限制波斯灣出口流量，可能讓進一步下跌空間有限。"
    ],
-   "b": "川普購買俄羅斯柴油的舉措招致反對與懷疑。另提到零售商把關稅退款用於節前行銷，以及中國吉利計劃明年向加拿大消費者銷售電動車。",
-   "u": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
-   "p": "2026-10-12T10:55:00+00:00",
-   "o": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism"
+   "b": "油價在連續三個交易日上漲後回檔。但中東緊張局勢升溫、限制波斯灣出口流量，可能讓進一步下跌空間有限。",
+   "u": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=rss_worldnews",
+   "p": "2026-10-13T12:09:00+00:00",
+   "o": "Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Google (GOOGL) 為何具有不對稱上行潛力？",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-google-googl-offers-asymmetric-120806718.html?.tsrc=rss",
+   "p": "2026-10-13T12:08:06+00:00",
+   "o": "Why Google (GOOGL) Offers Asymmetric Upside Potential?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "亞馬遜 (AMZN) 具吸引力的風險報酬，以及在 AI 領域的多種獲勝方式",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-holds-compelling-120709970.html?.tsrc=rss",
+   "p": "2026-10-13T12:07:09+00:00",
+   "o": "Amazon.com (AMZN) Holds Compelling Risk/Reward and Multiple Ways to Win in AI"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Meta (META) 為何是具吸引力的投資機會？",
+   "pts": [
+    "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。",
+    "該策略在本季表現優於標普 500。"
+   ],
+   "b": "Patient Capital Management 發布「Patient Opportunity Equity Strategy」2026 年第三季投資人信。該策略在本季表現優於標普 500。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-meta-platforms-meta-attractive-120555792.html?.tsrc=rss",
+   "p": "2026-10-13T12:05:55+00:00",
+   "o": "What Makes Meta Platforms (META) an Attractive Opportunity?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "PDD Holdings (PDD) 吸引投資人關注：您該知道的事",
+   "pts": [
+    "Zacks.com 用戶近來頻繁關注 PDD Holdings。",
+    "文章稱值得了解可能左右其股價前景的因素。"
+   ],
+   "b": "Zacks.com 用戶近來頻繁關注 PDD Holdings。文章稱值得了解可能左右其股價前景的因素。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-sponsored-adr-120006533.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:06+00:00",
+   "o": "PDD Holdings Inc. Sponsored ADR (PDD) is Attracting Investor Attention: Here is What You Should Know"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "超微電腦 (SMCI) 成為熱門股的背後：您該知道的事",
+   "pts": [
+    "Zacks.com 用戶近來頻繁關注 Super Micro。",
+    "文章稱應了解可能影響其股價前景的因素。"
+   ],
+   "b": "Zacks.com 用戶近來頻繁關注 Super Micro。文章稱應了解可能影響其股價前景的因素。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-super-micro-120006183.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:06+00:00",
+   "o": "Here is What to Know Beyond Why Super Micro Computer, Inc. (SMCI) is a Trending Stock"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Coinbase (COIN) 是熱門股：下注前該知道的事實",
+   "pts": [
+    "Zacks.com 用戶近來頻繁關注 Coinbase。",
+    "文章稱應了解可能影響其股價前景的因素。"
+   ],
+   "b": "Zacks.com 用戶近來頻繁關注 Coinbase。文章稱應了解可能影響其股價前景的因素。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-trending-120006978.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:06+00:00",
+   "o": "Coinbase Global, Inc. (COIN) Is a Trending Stock: Facts to Know Before Betting on It"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Visa (V) 成為熱門股的背後：您該知道的事",
+   "pts": [
+    "Zacks.com 用戶近來高度關注 Visa。",
+    "文章稱值得檢視該股的前景。"
+   ],
+   "b": "Zacks.com 用戶近來高度關注 Visa。文章稱值得檢視該股的前景。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-visa-inc-120006683.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:06+00:00",
+   "o": "Here is What to Know Beyond Why Visa Inc. (V) is a Trending Stock"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "投資人大量搜尋 GigaCloud (GCT)：您該知道的事",
+   "pts": [
+    "Zacks.com 用戶近來頻繁關注 GigaCloud。",
+    "文章稱應了解可能影響其股價前景的因素。"
+   ],
+   "b": "Zacks.com 用戶近來頻繁關注 GigaCloud。文章稱應了解可能影響其股價前景的因素。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-gigacloud-technology-120006943.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:06+00:00",
+   "o": "Investors Heavily Search GigaCloud Technology Inc. (GCT): Here is What You Need to Know"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "最受關注的 Kinder Morgan (KMI) 現在值得下注嗎？",
+   "pts": [
+    "Zacks.com 用戶近來頻繁關注 Kinder Morgan。",
+    "文章稱應了解可能影響其股價前景的因素。"
+   ],
+   "b": "Zacks.com 用戶近來頻繁關注 Kinder Morgan。文章稱應了解可能影響其股價前景的因素。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-kinder-morgan-120005548.html?.tsrc=rss",
+   "p": "2026-10-13T12:00:05+00:00",
+   "o": "Is Most-Watched Stock Kinder Morgan, Inc. (KMI) Worth Betting on Now?"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "股市窄幅上漲並不罕見，何時才該開始擔心",
+   "t": "全球 AI 股拋售加劇，那斯達克期貨下挫",
    "pts": [
-    "本篇探討窄幅股市漲勢並不罕見，以及何時才需要開始擔心。",
-    "文中並提到財報季即將開跑。"
+    "市場對中國競爭的疑慮升高，AI 類股拋售加劇，那斯達克期貨大幅下跌。",
+    "油價回落與避險需求則讓美債殖利率獲得一些喘息。"
    ],
-   "b": "本篇探討窄幅股市漲勢並不罕見，以及何時才需要開始擔心。文中並提到財報季即將開跑。",
-   "u": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d?mod=rss_markets_main",
-   "p": "2026-10-12T10:44:00+00:00",
-   "o": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying."
+   "b": "市場對中國競爭的疑慮升高，AI 類股拋售加劇，那斯達克期貨大幅下跌。油價回落與避險需求則讓美債殖利率獲得一些喘息。",
+   "u": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-global-ai-selloff-intensifies-fe149717?mod=rss_markets_main",
+   "p": "2026-10-13T11:58:00+00:00",
+   "o": "Nasdaq Futures Fall as Global AI Selloff Intensifies"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "英鎊需要新的正面催化劑才能進一步上漲",
+   "pts": [
+    "英鎊兌美元走強，但 XS.com 表示需要新的催化劑才能延續上行動能。",
+    "即將公布的數據可能改變市場對英國央行與聯準會的預期平衡。"
+   ],
+   "b": "英鎊兌美元走強，但 XS.com 表示需要新的催化劑才能延續上行動能。即將公布的數據可能改變市場對英國央行與聯準會的預期平衡。",
+   "u": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
+   "p": "2026-10-13T11:50:00+00:00",
+   "o": "Sterling Needs New Positive Catalyst to Rise Further"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "歐洲帶著低天然氣庫存進入冬季，波灣供應存變數",
+   "pts": [
+    "中東攻擊升級威脅供應，歐洲天然氣價格升至近四年來最高。",
+    "異常偏低的庫存也引發全球搶購液化天然氣的擔憂。"
+   ],
+   "b": "中東攻擊升級威脅供應，歐洲天然氣價格升至近四年來最高。異常偏低的庫存也引發全球搶購液化天然氣的擔憂。",
+   "u": "https://www.wsj.com/finance/commodities-futures/europe-heads-into-winter-with-low-gas-reserves-uncertain-gulf-supplies-78cd3507?mod=rss_markets_main",
+   "p": "2026-10-13T11:43:00+00:00",
+   "o": "Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "晨間風險報告：川普與俄羅斯的柴油交易，合法性遭議員質疑",
+   "pts": [
+    "本期探討川普與俄羅斯的柴油協議在合法性上面臨議員質疑。",
+    "另提到英國考慮對詐欺吹哨者發放獎金，以及達美航空延後沙烏地阿拉伯航班計畫。"
+   ],
+   "b": "本期探討川普與俄羅斯的柴油協議在合法性上面臨議員質疑。另提到英國考慮對詐欺吹哨者發放獎金，以及達美航空延後沙烏地阿拉伯航班計畫。",
+   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=rss_worldnews",
+   "p": "2026-10-13T11:30:00+00:00",
+   "o": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "人口統計的海市蜃樓，可能扭曲了中國的經濟雄心",
+   "pts": [
+    "本篇探討人口統計因素可能如何扭曲中國的經濟雄心。",
+    "另提到北京力道不足的復甦措施、下滑的政府公債殖利率，以及中國為何抗拒躋身已開發國家之列。"
+   ],
+   "b": "本篇探討人口統計因素可能如何扭曲中國的經濟雄心。另提到北京力道不足的復甦措施、下滑的政府公債殖利率，以及中國為何抗拒躋身已開發國家之列。",
+   "u": "https://www.wsj.com/world/china/a-demographic-mirage-may-be-distorting-chinas-economic-ambitions-adf0bc92?mod=rss_worldnews",
+   "p": "2026-10-13T10:55:00+00:00",
+   "o": "A Demographic Mirage May Be Distorting China’s Economic Ambitions"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "這項投資策略好到你承受不起",
+   "pts": [
+    "本篇為投資專欄，另提到銀行財報週。"
+   ],
+   "b": "本篇為投資專欄，另提到銀行財報週。",
+   "u": "https://www.wsj.com/finance/investing/this-investing-strategy-is-so-good-you-cant-handle-it-66a2fb16?mod=rss_markets_main",
+   "p": "2026-10-13T10:35:00+00:00",
+   "o": "This Investing Strategy Is So Good You Can’t Handle It"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "指數型年金為私募信貸挹注資金",
+   "pts": [
+    "屬 WSJ 對投資與財富管理產業的分析專欄。"
+   ],
+   "b": "屬 WSJ 對投資與財富管理產業的分析專欄。",
+   "u": "https://www.wsj.com/finance/investing/indexed-annuities-boost-private-credit-33942931?mod=rss_markets_main",
+   "p": "2026-10-13T10:32:00+00:00",
+   "o": "Indexed Annuities Boost Private Credit"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "政府擬放棄以發行餐券刺激外食需求，消費稅減稅配套改推外帶等支援",
+   "pts": [
+    "日本政府正協調放棄發行餐券，外食業者原本要求以此刺激需求，因其稅率維持 10%。",
+    "政府判斷恩惠可能偏向大型業者、支援成效低。",
+    "將改為研議推動外帶等經營支援措施。",
+    "預期擔心減稅後客人流失的業界，及要求更周全對策的在野黨將會反彈。"
+   ],
+   "b": "日本政府正協調放棄發行餐券，外食業者原本要求以此刺激需求，因其稅率維持 10%。政府判斷恩惠可能偏向大型業者、支援成效低。將改為研議推動外帶等經營支援措施。預期擔心減稅後客人流失的業界，及要求更周全對策的在野黨將會反彈。",
+   "u": "https://www.sankei.com/article/20261013-ZC6EC5ONTZK75FAQB5YD755RUI/",
+   "p": "2026-10-13T10:11:14+00:00",
+   "o": "食事券発行の需要喚起策は見送り 政府、消費減税の外食支援で 持ち帰りの導入など後押し"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI Agent 進入 LINE 聊天室，訂閱會員獲六項進階功能",
+   "pts": [
+    "LINE 在台上線 15 週年，於 13 日年度記者會公布首頁、聊天、TODAY 與錢包等核心入口的體驗革新。",
+    "AI Agent 將進入群組聊天室，可標註 @ai 解答疑問、整理任務、擷取活動資訊並分類照片。",
+    "AI Agent 也將串聯「吃、玩、買」生活服務，台灣導入時程待 LINE 進一步公布。",
+    "LINE Premium 在台已有超過 200 萬使用者體驗，第四季至 2027 上半年將陸續推出六項會員功能。",
+    "編輯訊息將於 10 月 20 日起回歸為 LINE Premium 專屬功能。"
+   ],
+   "b": "LINE 在台上線 15 週年，於 13 日年度記者會公布首頁、聊天、TODAY 與錢包等核心入口的體驗革新。AI Agent 將進入群組聊天室，可標註 @ai 解答疑問、整理任務、擷取活動資訊並分類照片。AI Agent 也將串聯「吃、玩、買」生活服務，台灣導入時程待 LINE 進一步公布。LINE Premium 在台已有超過 200 萬使用者體驗，第四季至 2027 上半年將陸續推出六項會員功能。編輯訊息將於 10 月 20 日起回歸為 LINE Premium 專屬功能。",
+   "u": "https://infosecu.technews.tw/2026/10/13/line-converge-taiwan-2026-1/",
+   "p": "2026-10-13T10:04:49+00:00",
+   "o": "AI Agent 進入 LINE 聊天室，訂閱會員獲六項進階功能"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "京東方 OLED 產線出問題持續半年，恐吃不到蘋果 iPad 訂單",
+   "pts": [
+    "京東方成都 B16 的 8.6 代 OLED 產線自初期生產起，就反覆出現玻璃基板龜裂或破損。",
+    "一旦大尺寸玻璃破裂就須停機清碎片並檢查，恢復運作需半天至一天。",
+    "京東方 9 月起才用該產線生產蘋果 iPad 的 OLED 驗證面板，仍在客戶認證階段。",
+    "業界認為，若裂痕問題未解，拿下蘋果訂單恐有困難，或讓時程更往後延。",
+    "後續擴產計畫仍按原定時程推進，追加蒸鍍設備預計 11 月起供應。"
+   ],
+   "b": "京東方成都 B16 的 8.6 代 OLED 產線自初期生產起，就反覆出現玻璃基板龜裂或破損。一旦大尺寸玻璃破裂就須停機清碎片並檢查，恢復運作需半天至一天。京東方 9 月起才用該產線生產蘋果 iPad 的 OLED 驗證面板，仍在客戶認證階段。業界認為，若裂痕問題未解，拿下蘋果訂單恐有困難，或讓時程更往後延。後續擴產計畫仍按原定時程推進，追加蒸鍍設備預計 11 月起供應。",
+   "u": "https://technews.tw/2026/10/13/%e2%80%8bboe-struggles-with-glass-substrate-cracking-at-8-6-gen-oled-line/",
+   "p": "2026-10-13T10:00:21+00:00",
+   "o": "京東方 OLED 產線出問題持續半年，恐吃不到蘋果 iPad 訂單"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "CSG 以約 4.34 億美元入股加拿大 MDA Space，進軍太空領域",
+   "pts": [
+    "這家捷克軍火商成為 MDA Space 的最大股東。",
+    "此舉是為了跨足太空產業。"
+   ],
+   "b": "這家捷克軍火商成為 MDA Space 的最大股東。此舉是為了跨足太空產業。",
+   "u": "https://www.wsj.com/finance/investing/csg-buys-largest-stake-in-canadas-mda-space-to-enter-space-sector-07fa370d?mod=rss_markets_main",
+   "p": "2026-10-13T09:57:00+00:00",
+   "o": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "友誼才是重點，如今 Cyera 市值達 120 億美元",
+   "pts": [
+    "WSJ 的 RSS 沒有提供內文簡述，本則僅依標題呈現。"
+   ],
+   "b": "WSJ 的 RSS 沒有提供內文簡述，本則僅依標題呈現。",
+   "u": "https://www.wsj.com/articles/friendship-was-the-pointnow-cyera-is-worth-12-billion-524979d4?mod=rss_Technology",
+   "p": "2026-10-13T09:56:00+00:00",
+   "o": "Friendship Was the Point—Now Cyera Is Worth $12 Billion"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "中國年輕人對「努力就有回報」的承諾逐漸失去信心",
+   "pts": [
+    "本篇探討中國年輕人對努力工作能帶來回報的信念正在動搖。",
+    "另提到川普說他正在「考慮」開除 Kimberly Guilfoyle，以及伊朗號召民眾為重返戰事做準備。"
+   ],
+   "b": "本篇探討中國年輕人對努力工作能帶來回報的信念正在動搖。另提到川普說他正在「考慮」開除 Kimberly Guilfoyle，以及伊朗號召民眾為重返戰事做準備。",
+   "u": "https://www.wsj.com/world/chinas-young-people-are-losing-faith-in-the-promise-of-hard-work-861a2f39?mod=rss_worldnews",
+   "p": "2026-10-13T09:52:00+00:00",
+   "o": "China’s Young People Are Losing Faith in the Promise of Hard Work"
   }
  ]
 }
