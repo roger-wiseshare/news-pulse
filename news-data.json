@@ -1,6 +1,382 @@
 {
- "updated": "2026-10-17T12:13:35+00:00",
+ "updated": "2026-10-18T00:12:12+00:00",
  "items": [
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "英媒：馬斯克向川普提議限制星鏈軍用服務，川普同意",
+   "pts": [
+    "英國《電訊報》報導，SpaceX 負責人馬斯克向川普提議限制烏克蘭軍隊使用的星鏈軍事服務。",
+    "報導稱川普表示同意。"
+   ],
+   "b": "英國《電訊報》報導，SpaceX 負責人馬斯克向川普提議限制烏克蘭軍隊使用的星鏈軍事服務。報導稱川普表示同意。",
+   "u": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
+   "p": "2026-10-18T00:01:51+00:00",
+   "o": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道"
+  },
+  {
+   "c": "tech",
+   "s": "財經新報",
+   "t": "台股叩關五萬點怎麼布局？名家公開「真 AI」供應鏈口袋名單",
+   "pts": [
+    "分析師蘇威元認為指數低檔支撐先看 46,000 至 48,000 點，拉回時可留意基本面佳的 AI 股。",
+    "陳榮華建議聚焦有實質營收與 EPS 支撐的 AI 半導體、先進封裝、光通訊、記憶體與高階電子材料。",
+    "半導體首選台積電與聯電；台積電今年資本支出上調至 600 億至 640 億美元。",
+    "統一投顧廖婉婷看好日月光、大立光與台光電的「新三光」。"
+   ],
+   "b": "分析師蘇威元認為指數低檔支撐先看 46,000 至 48,000 點，拉回時可留意基本面佳的 AI 股。陳榮華建議聚焦有實質營收與 EPS 支撐的 AI 半導體、先進封裝、光通訊、記憶體與高階電子材料。半導體首選台積電與聯電；台積電今年資本支出上調至 600 億至 640 億美元。統一投顧廖婉婷看好日月光、大立光與台光電的「新三光」。",
+   "u": "https://finance.technews.tw/2026/10/18/which-taiwan-ai-stocks-are-worth-buying/",
+   "p": "2026-10-18T00:00:50+00:00",
+   "o": "台股叩關五萬點怎麼布局？名家公開「真 AI」供應鏈口袋名單"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "道瓊期貨：標普與那斯達克跌破支撐後該怎麼做？Meta 財報能救 AI 嗎？",
+   "pts": [
+    "標普 500、那斯達克與領導股跌破關鍵支撐。",
+    "市場關注 Meta、特斯拉、SpaceX 的財報與資本支出能否重振 AI 族群。"
+   ],
+   "b": "標普 500、那斯達克與領導股跌破關鍵支撐。市場關注 Meta、特斯拉、SpaceX 的財報與資本支出能否重振 AI 族群。",
+   "u": "https://finance.yahoo.com/m/4342d021-69d3-3aa1-9753-76f72c9ba95d/dow-jones-futures%3A-what-to-do.html?.tsrc=rss",
+   "p": "2026-10-17T23:47:05+00:00",
+   "o": "Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "霍華．馬克斯：現在的標普 500 不是好賭注",
+   "pts": [
+    "標題指出霍華．馬克斯認為標普 500 目前並非好的押注標的。"
+   ],
+   "b": "標題指出霍華．馬克斯認為標普 500 目前並非好的押注標的。",
+   "u": "https://myfirstmillion.videonest.co/videos/2320811/howard-marks-the-s-p-500-isnt-a-good-bet-right-now-GdPtxuy5lJ?.tsrc=rss",
+   "p": "2026-10-17T23:30:57+00:00",
+   "o": "Howard Marks: The S&P 500 isn’t a good bet right now"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "俄羅斯衛星異常接近並尾隨美國衛星，疑干擾援烏",
+   "pts": [
+    "Axios 報導，俄羅斯衛星 16 日被觀測到異常接近一顆美企商用衛星並尾隨。",
+    "該衛星疑屬支援烏克蘭軍隊的衛星網路，俄方可能意圖干擾。"
+   ],
+   "b": "Axios 報導，俄羅斯衛星 16 日被觀測到異常接近一顆美企商用衛星並尾隨。該衛星疑屬支援烏克蘭軍隊的衛星網路，俄方可能意圖干擾。",
+   "u": "https://www.sankei.com/article/20261018-R43VTWVDPFL53IUNUDJXQHKJYE/",
+   "p": "2026-10-17T23:27:34+00:00",
+   "o": "ロシア衛星、米衛星に異常接近し追尾 ウクライナ支援妨害か"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "側近楚拜斯曾致信普丁批評入侵",
+   "pts": [
+    "曾任俄羅斯總統特別代表的前第一副總理楚拜斯，被曝在 2022 年 3 月出國前致信普丁。",
+    "信中批評入侵決定，並呼籲立即停止戰鬥。"
+   ],
+   "b": "曾任俄羅斯總統特別代表的前第一副總理楚拜斯，被曝在 2022 年 3 月出國前致信普丁。信中批評入侵決定，並呼籲立即停止戰鬥。",
+   "u": "https://www.sankei.com/article/20261018-CUKVYLLCCROPXAHDGV46QO3PYY/",
+   "p": "2026-10-17T23:18:25+00:00",
+   "o": "ロシアのプーチン大統領に侵攻批判の手紙 側近のチュバイス氏、2022年の出国前に"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "AI 崛起，網站提升流量重點從 SEO 轉向 GEO",
+   "pts": [
+    "AI 使網路搜尋出現劇變，企業與新聞網站能否被 AI 引用成為關鍵。",
+    "AI 搜尋結果導致網站「零點擊」，針對 AI 引用優化的 GEO 轉型迫在眉睫。"
+   ],
+   "b": "AI 使網路搜尋出現劇變，企業與新聞網站能否被 AI 引用成為關鍵。AI 搜尋結果導致網站「零點擊」，針對 AI 引用優化的 GEO 轉型迫在眉睫。",
+   "u": "https://www.sankei.com/article/20261018-KDSFPHXC7BJ4NJWDVCTBCKOG6E/",
+   "p": "2026-10-17T23:00:00+00:00",
+   "o": "AIの台頭でウエブサイトのアクセス向上策はSEOからGEOにシフト 対応急務に"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "法國抗議演變成劫掠縱火，馬克宏：有人想製造混亂",
+   "pts": [
+    "法國 17 日學生與工會抗議政府，多地與警方爆發衝突。",
+    "蒙面暴徒趁機襲擊市政廳與商店，縱火劫掠，400 多人遭拘留。",
+    "約半年後將舉行總統大選，社會不安升高。"
+   ],
+   "b": "法國 17 日學生與工會抗議政府，多地與警方爆發衝突。蒙面暴徒趁機襲擊市政廳與商店，縱火劫掠，400 多人遭拘留。約半年後將舉行總統大選，社會不安升高。",
+   "u": "https://www.sankei.com/article/20261018-KZHMVP745RODPGF33IQ5EPWXKA/",
+   "p": "2026-10-17T22:46:28+00:00",
+   "o": "荒れ狂う略奪と放火 仏抗議デモ暴走、役所に暴徒乱入 マクロン氏「混沌作る連中いる」"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "澤倫斯基對美國不信任，悲觀看待對俄制裁鬆綁",
+   "pts": [
+    "川普宣布放寬俄羅斯輕油制裁、延後實施對俄制裁法，澤倫斯基表示「遺憾的是制裁解除還會持續」。",
+    "11 月美國期中選舉共和黨處於劣勢，川普急於壓低燃油價格。"
+   ],
+   "b": "川普宣布放寬俄羅斯輕油制裁、延後實施對俄制裁法，澤倫斯基表示「遺憾的是制裁解除還會持續」。11 月美國期中選舉共和黨處於劣勢，川普急於壓低燃油價格。",
+   "u": "https://www.sankei.com/article/20261018-LUYHRLV4KZJPBGBFGAKPCLLHKA/",
+   "p": "2026-10-17T22:16:44+00:00",
+   "o": "ウクライナのゼレンスキー大統領、米に不信感 対ロシア制裁解除進むと悲観"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "法國各地爆發暴力抗議",
+   "pts": [
+    "巴黎、馬賽等地和平示威旁出現暴亂。",
+    "民怨源自生活負擔加重與政府預算刪減。"
+   ],
+   "b": "巴黎、馬賽等地和平示威旁出現暴亂。民怨源自生活負擔加重與政府預算刪減。",
+   "u": "https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews",
+   "p": "2026-10-17T21:49:00+00:00",
+   "o": "Violent Protests Rip Through Cities Across France"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "蒙面以色列屯墾者襲擊歐洲外交官",
+   "pts": [
+    "約旦河西岸的暴力事件持續升級。",
+    "此類攻擊正使以色列與西方國家關係緊繃。"
+   ],
+   "b": "約旦河西岸的暴力事件持續升級。此類攻擊正使以色列與西方國家關係緊繃。",
+   "u": "https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1?mod=rss_worldnews",
+   "p": "2026-10-17T20:43:00+00:00",
+   "o": "Masked Israeli Settlers Attack European Diplomats in West Bank"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "花旗：利率對經濟的影響可能比股市估值更大",
+   "pts": [
+    "AI 順風與投資人行為的結構轉變，正削弱公債殖利率與股市間的傳統關係。",
+    "花旗分析師認為，利率對經濟成長預期的影響可能大於對股市估值。"
+   ],
+   "b": "AI 順風與投資人行為的結構轉變，正削弱公債殖利率與股市間的傳統關係。花旗分析師認為，利率對經濟成長預期的影響可能大於對股市估值。",
+   "u": "https://finance.yahoo.com/economy/policy/articles/citi-says-interest-rates-may-202416020.html?.tsrc=rss",
+   "p": "2026-10-17T20:24:16+00:00",
+   "o": "Citi says interest rates may matter more for economy than stock valuations"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "庫克任內 15 年蘋果市值從 3,500 億美元漲到 5 兆美元，特努斯接棒後的成長意味著什麼",
+   "pts": [
+    "特努斯擔任執行長最初幾週，已主導多項新品發表。"
+   ],
+   "b": "特努斯擔任執行長最初幾週，已主導多項新品發表。",
+   "u": "https://www.fool.com/investing/2026/10/17/apple-market-value-from-350-billion-to-5-trillion/?.tsrc=rss",
+   "p": "2026-10-17T20:07:00+00:00",
+   "o": "Apple's Market Value Grew From $350 Billion to $5 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Serve Robotics 本週股價為何重挫",
+   "pts": [
+    "有分析師預期 Serve Robotics 到 2028 年仍將持續虧損。"
+   ],
+   "b": "有分析師預期 Serve Robotics 到 2028 年仍將持續虧損。",
+   "u": "https://www.fool.com/coverage/market-movers/2026/10/17/why-serve-robotics-stock-plunged-this-week/?.tsrc=rss",
+   "p": "2026-10-17T19:47:10+00:00",
+   "o": "Why Serve Robotics Stock Plunged This Week"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "財測上修使 Twilio 受關注",
+   "pts": [
+    "Twilio 於 10 月初被納入標普 500 等權重指數，並從兩個羅素小型股指數中移除。",
+    "盈餘預期趨於樂觀、券商研究偏正面，焦點在其能否將高價值客戶互動需求轉為持續獲利。"
+   ],
+   "b": "Twilio 於 10 月初被納入標普 500 等權重指數，並從兩個羅素小型股指數中移除。盈餘預期趨於樂觀、券商研究偏正面，焦點在其能否將高價值客戶互動需求轉為持續獲利。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/earnings-upgrades-put-twilio-stock-180855455.html?.tsrc=rss",
+   "p": "2026-10-17T18:08:55+00:00",
+   "o": "Earnings Upgrades Put Twilio Stock In Focus"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "乙太幣第三季大幅勝過標普 500，現在是時候加碼嗎？",
+   "pts": [
+    "乙太幣近期強勢明顯，但未必能持續，投資人仍需保持謹慎。"
+   ],
+   "b": "乙太幣近期強勢明顯，但未必能持續，投資人仍需保持謹慎。",
+   "u": "https://www.fool.com/investing/2026/10/17/ethereum-dramatically-outperformed-the-sp-500-in-q/?.tsrc=rss",
+   "p": "2026-10-17T18:00:00+00:00",
+   "o": "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "若股災來臨，歷史顯示這個策略可把投資組合復原時間縮短一半",
+   "pts": [
+    "文章介紹一種歷史悠久、廣受歡迎的策略。"
+   ],
+   "b": "文章介紹一種歷史悠久、廣受歡迎的策略。",
+   "u": "https://www.fool.com/investing/2026/10/17/if-stock-market-crash-is-coming-history-says-this/?.tsrc=rss",
+   "p": "2026-10-17T17:35:00+00:00",
+   "o": "If a Stock Market Crash Is Coming, History Says This Strategy Can Cut Your Portfolio's Recovery Time in Half"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美光為何砸 350 億美元買回自家股票",
+   "pts": [
+    "美光（MU）今年股價漲逾 200%，是標普 500 表現最佳的股票之一。"
+   ],
+   "b": "美光（MU）今年股價漲逾 200%，是標普 500 表現最佳的股票之一。",
+   "u": "https://www.barchart.com/story/news/8143258/why-micron-is-betting-35-billion-on-its-own-stock?.tsrc=rss",
+   "p": "2026-10-17T17:30:03+00:00",
+   "o": "Why Micron Is Betting $35 Billion on Its Own Stock"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "哈雷戴維森股價為何下跌，投資人關注什麼",
+   "pts": [
+    "Larry McDonald 認為標普 500 創高掩蓋了內部的「崩跌」，並以哈雷（HOG）為壓力下的消費品牌代表。",
+    "哈雷單日跌 3.01%，年初至今報酬 29.65%，但五年總股東報酬為 -18.96%。"
+   ],
+   "b": "Larry McDonald 認為標普 500 創高掩蓋了內部的「崩跌」，並以哈雷（HOG）為壓力下的消費品牌代表。哈雷單日跌 3.01%，年初至今報酬 29.65%，但五年總股東報酬為 -18.96%。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-harley-davidson-hog-dropped-171322177.html?.tsrc=rss",
+   "p": "2026-10-17T17:13:22+00:00",
+   "o": "Why Harley-Davidson (HOG) Dropped And What Investors Are Watching"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "AMD 投資人現在應留意的 1 個警訊",
+   "pts": [
+    "AMD 股價漲幅已跑在業務前面。"
+   ],
+   "b": "AMD 股價漲幅已跑在業務前面。",
+   "u": "https://www.fool.com/investing/2026/10/17/1-red-flag-that-amd-investors-should-be-aware-of/?.tsrc=rss",
+   "p": "2026-10-17T16:50:00+00:00",
+   "o": "1 Red Flag That AMD Investors Should Be Aware Of Now"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "若股災來臨，這 5 檔股票歷來相對抗跌",
+   "pts": [
+    "作者認為這 5 檔股票是具防禦性的保護性選擇。"
+   ],
+   "b": "作者認為這 5 檔股票是具防禦性的保護性選擇。",
+   "u": "https://www.fool.com/investing/2026/10/17/if-a-stock-market-crash-is-coming-these-5-stocks/?.tsrc=rss",
+   "p": "2026-10-17T16:20:00+00:00",
+   "o": "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "蘋果新任執行長剛與庫克的老對手聯手",
+   "pts": [
+    "祖克柏一句公開感謝，化解了長達十年的商業心結。",
+    "文章也提出持有蘋果股票的投資人需思考的問題。"
+   ],
+   "b": "祖克柏一句公開感謝，化解了長達十年的商業心結。文章也提出持有蘋果股票的投資人需思考的問題。",
+   "u": "https://www.thestreet.com/technology/apples-new-ceo-teams-up-with-mark-zuckerberg?.tsrc=rss",
+   "p": "2026-10-17T16:17:00+00:00",
+   "o": "Apple's new CEO just teamed up with Tim Cook's old rival"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "世足相關預測市場的成交量幾乎全是循環交易",
+   "pts": [
+    "阿布達比王室支持的 ADI Predictstreet 為世界盃廣告權砸下近 1.5 億美元。",
+    "報導指出該平台幾乎所有成交量都屬循環交易。"
+   ],
+   "b": "阿布達比王室支持的 ADI Predictstreet 為世界盃廣告權砸下近 1.5 億美元。報導指出該平台幾乎所有成交量都屬循環交易。",
+   "u": "https://www.wsj.com/finance/nearly-all-volume-on-fifa-linked-prediction-market-is-circular-trading-549393f3?mod=rss_markets_main",
+   "p": "2026-10-17T16:02:00+00:00",
+   "o": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌",
+   "pts": [
+    "Instagram 私訊選單新增「Create a song」，輸入文字或歌詞並選曲風，由 Meta AI 生成音樂。",
+    "曲風包括 Pop、Rock、Hip-hop、Trap、R&B、K-pop、Electronic 與 Jazz。",
+    "Meta 尚未公布支援語言、開放地區與收費安排，Snapchat 的類似功能則屬付費 Lens+。",
+    "使用 Meta AI 即同意互動資料用於改善其 AI，輸入歌詞時應避免敏感個資。"
+   ],
+   "b": "Instagram 私訊選單新增「Create a song」，輸入文字或歌詞並選曲風，由 Meta AI 生成音樂。曲風包括 Pop、Rock、Hip-hop、Trap、R&B、K-pop、Electronic 與 Jazz。Meta 尚未公布支援語言、開放地區與收費安排，Snapchat 的類似功能則屬付費 Lens+。使用 Meta AI 即同意互動資料用於改善其 AI，輸入歌詞時應避免敏感個資。",
+   "u": "https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/",
+   "p": "2026-10-17T16:00:51+00:00",
+   "o": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "5 分鐘轉一圈，薇拉．魯賓天文台尋獲史上最大「超高速自轉」小行星",
+   "pts": [
+    "研究團隊改良光變曲線分析方法，個別選擇傅立葉級數階數，降低週期誤判。",
+    "編號 491384 與 566130 的小行星直徑都超過 2 公里，卻只需約 5 分鐘自轉一圈。",
+    "491384 直徑約 2.53 公里、週期約 4.18 分鐘，是已知最大的超高速自轉小行星。",
+    "其內部須有足夠凝聚力才不致解體，成果已發表於 arXiv。"
+   ],
+   "b": "研究團隊改良光變曲線分析方法，個別選擇傅立葉級數階數，降低週期誤判。編號 491384 與 566130 的小行星直徑都超過 2 公里，卻只需約 5 分鐘自轉一圈。491384 直徑約 2.53 公里、週期約 4.18 分鐘，是已知最大的超高速自轉小行星。其內部須有足夠凝聚力才不致解體，成果已發表於 arXiv。",
+   "u": "https://technews.tw/2026/10/18/vera-rubin-observatory-finds-largest-ultra-fast-spinning-asteroid/",
+   "p": "2026-10-17T16:00:45+00:00",
+   "o": "5 分鐘轉一圈，薇拉·魯賓天文台尋獲史上最大「超高速自轉」小行星"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "我剛把 4,600 美元投入 3 檔頂尖股息股，這是我現在加碼的標的",
+   "pts": [
+    "這些公司的股息穩健且持續成長。"
+   ],
+   "b": "這些公司的股息穩健且持續成長。",
+   "u": "https://www.fool.com/investing/2026/10/17/i-just-invested-usd4-600-across-3-top-dividend-stocks-here-s-what-i-m-loading-up-on-right-now/?.tsrc=rss",
+   "p": "2026-10-17T15:20:02+00:00",
+   "o": "I Just Invested $4,600 Across 3 Top Dividend Stocks. Here’s What I’m Loading Up on Right Now."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "股市看來脆弱，投資人該賣股嗎？",
+   "pts": [
+    "文章指出崩盤時全面賣出可能代價高昂。",
+    "並提醒檢視投資組合，為他人恐慌時的機會做準備。"
+   ],
+   "b": "文章指出崩盤時全面賣出可能代價高昂。並提醒檢視投資組合，為他人恐慌時的機會做準備。",
+   "u": "https://www.fool.com/investing/2026/10/17/the-stock-market-looks-vulnerable-should-investors/?.tsrc=rss",
+   "p": "2026-10-17T14:43:00+00:00",
+   "o": "The Stock Market Looks Vulnerable. Should Investors Sell Their Stocks Now?"
+  },
+  {
+   "c": "tech",
+   "s": "財經新報",
+   "t": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產",
+   "pts": [
+    "日本經產省 16 日批准熊本二廠改產 3 奈米，為日本首度導入 3 奈米量產。",
+    "二廠第一階段 3 奈米月產能暫定 6,000 片，預計 2028 年 12 月投產。",
+    "一廠停產 12/16 奈米，集中生產 22/28 奈米，月產能 4.5 萬片。",
+    "政府原規劃補助 7,320 億日圓，最終產能視實際補助金額而定。"
+   ],
+   "b": "日本經產省 16 日批准熊本二廠改產 3 奈米，為日本首度導入 3 奈米量產。二廠第一階段 3 奈米月產能暫定 6,000 片，預計 2028 年 12 月投產。一廠停產 12/16 奈米，集中生產 22/28 奈米，月產能 4.5 萬片。政府原規劃補助 7,320 億日圓，最終產能視實際補助金額而定。",
+   "u": "https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/",
+   "p": "2026-10-17T12:45:47+00:00",
+   "o": "日本核准台積電熊本二廠升級 3 奈米計畫，預計 2028 年底投產"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "7 檔分析師青睞的高盈餘成長股，禮來領軍",
+   "pts": [
+    "在盈餘表現最佳的個股中，評等很高的禮來處於買進區。"
+   ],
+   "b": "在盈餘表現最佳的個股中，評等很高的禮來處於買進區。",
+   "u": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+   "p": "2026-10-17T12:02:21+00:00",
+   "o": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Eli Lilly Leads Industry"
+  },
   {
    "c": "fin",
    "s": "Yahoo Finance",
@@ -14,17 +390,17 @@
    "o": "Wall Street's record breakouts unravel as investors dump recent winners: Chart of the Day"
   },
   {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美軍疑誤炸伊朗小學，調查結果傳將延至期中選舉後公布",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "摩根大通預期第三季獲利成長將從 AI 擴散到美歐股市",
    "pts": [
-    "彭博報導，五角大廈擬將伊朗南部米納布小學疑遭美軍誤炸的調查結果，延到 11 月期中選舉後才公布。",
-    "美國對伊朗作戰拖長與物價高漲的不滿升溫，執政的共和黨選情居劣勢，可能是顧慮選舉。"
+    "策略師 Mislav Matejka 團隊指出，獲利成長正擴及 AI 以外的更廣泛產業。",
+    "指數層級的獲利預期仍高，但排除個別大型公司貢獻後較為溫和。"
    ],
-   "b": "彭博報導，五角大廈擬將伊朗南部米納布小學疑遭美軍誤炸的調查結果，延到 11 月期中選舉後才公布。美國對伊朗作戰拖長與物價高漲的不滿升溫，執政的共和黨選情居劣勢，可能是顧慮選舉。",
-   "u": "https://www.sankei.com/article/20261017-Y4AO7ZAZRFOQ3IAOZHCUI63FQY/",
-   "p": "2026-10-17T11:41:01+00:00",
-   "o": "イラン小学校への米誤爆の調査公表は中間選挙後に見送り　米報道、有権者への影響懸念か"
+   "b": "策略師 Mislav Matejka 團隊指出，獲利成長正擴及 AI 以外的更廣泛產業。指數層級的獲利預期仍高，但排除個別大型公司貢獻後較為溫和。",
+   "u": "https://investorshub.advfn.com/market-news/article/38224/jpmorgan-expects-q3-earnings-growth-to-broaden-beyond-ai-across-us-and-european-equities?.tsrc=rss",
+   "p": "2026-10-17T11:41:00+00:00",
+   "o": "JPMorgan Expects Q3 Earnings Growth to Broaden Beyond AI Across US and European Equities"
   },
   {
    "c": "fin",
@@ -64,70 +440,6 @@
    "o": "自民、消費減税の財源、19日以降に党内議論本格化へ　国民民主は20日にも対案提出"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "英特爾股價 2027 年可能跑贏大盤的 1 個理由",
-   "pts": [
-    "英特爾資料中心業務快速成長，可能帶動 2027 年再度走強，且估值仍有上升空間。"
-   ],
-   "b": "英特爾資料中心業務快速成長，可能帶動 2027 年再度走強，且估值仍有上升空間。",
-   "u": "https://www.fool.com/investing/2026/10/17/1-reason-intel-stock-could-outperform-in-2027/?.tsrc=rss",
-   "p": "2026-10-17T11:05:00+00:00",
-   "o": "1 Reason Intel Stock Could Outperform in 2027"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "SPTM 與 SCHB 比較：挑選大盤指數基金該看什麼",
-   "pts": [
-    "SCHB 持股 2,394 檔，分散度較高。",
-    "SPTM 近一年報酬較強，且五年最大回檔較低。"
-   ],
-   "b": "SCHB 持股 2,394 檔，分散度較高。SPTM 近一年報酬較強，且五年最大回檔較低。",
-   "u": "https://www.fool.com/coverage/etfs/2026/10/17/sptm-vs-schb-compared-what-to-look-for-in-a-broad-market-index-fund/?.tsrc=rss",
-   "p": "2026-10-17T10:34:01+00:00",
-   "o": "SPTM vs. SCHB Compared: What to Look for in a Broad Market Index Fund"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "沙烏地國際會議與體育賽事接連延期或取消，胡塞武裝攻擊下以安全為先",
-   "pts": [
-    "親伊朗的葉門武裝組織胡塞持續攻擊沙烏地，國際會議與體育賽事接連延期或中止。",
-    "首都利雅德國際機場遭攻擊並有人死亡，主辦方以參與者可能遇險為由。"
-   ],
-   "b": "親伊朗的葉門武裝組織胡塞持續攻擊沙烏地，國際會議與體育賽事接連延期或中止。首都利雅德國際機場遭攻擊並有人死亡，主辦方以參與者可能遇險為由。",
-   "u": "https://www.sankei.com/article/20261017-JY4XPG45SRMA5FN2DVM6RWYC5E/",
-   "p": "2026-10-17T10:30:55+00:00",
-   "o": "サウジで国際会議やスポーツ大会が相次ぎ延期・中止に　フーシ派の攻撃で安全優先"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "油價重返 100 美元上方，歷史顯示最大輸家類股可能帶來最大上漲空間",
-   "pts": [
-    "願意逆向操作的投資人，該類股目前看起來頗具吸引力。"
-   ],
-   "b": "願意逆向操作的投資人，該類股目前看起來頗具吸引力。",
-   "u": "https://www.fool.com/investing/2026/10/17/oil-prices-above-100-history-says-biggest-losers/?.tsrc=rss",
-   "p": "2026-10-17T10:25:00+00:00",
-   "o": "Oil Prices Are Back Above $100. History Says the Biggest Stock Market Loser May Now Offer the Biggest Upside."
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "政府提出新給付制度參考案：2027、28 年度約 2,000 萬人、每人平均年領 3 萬日圓",
-   "pts": [
-    "政府向朝野提出與所得連動的新給付制度，2027、28 年度先行導入。",
-    "約 2,000 萬人、每人平均年領約 3 萬日圓，對象為稅與社保負擔重的中低所得就業者，個人年收可能以 300 萬日圓段為上限。",
-    "飲食料品消費稅減稅與給付合併的相關法案，20 日在眾議院本會議開始審議。"
-   ],
-   "b": "政府向朝野提出與所得連動的新給付制度，2027、28 年度先行導入。約 2,000 萬人、每人平均年領約 3 萬日圓，對象為稅與社保負擔重的中低所得就業者，個人年收可能以 300 萬日圓段為上限。飲食料品消費稅減稅與給付合併的相關法案，20 日在眾議院本會議開始審議。",
-   "u": "https://www.sankei.com/article/20261017-W6OTH53RONM2TCZK4W6IKZXZRA/",
-   "p": "2026-10-17T10:01:58+00:00",
-   "o": "新給付制度で平均3万円案を提示　27、28年度に2000万人が対象　「一つの参考」"
-  },
-  {
    "c": "pol",
    "s": "WSJ",
    "t": "為何歐洲右派正與 MAGA 劃清界線",
@@ -153,47 +465,8 @@
    "o": "It’s Too Late for Small Fixes at Pepsi"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "若只有 1,000 美元可投資，我會買這 1 檔 ETF 並持有 20 年",
-   "pts": [
-    "在股市中，複雜並不會加分。"
-   ],
-   "b": "在股市中，複雜並不會加分。",
-   "u": "https://www.fool.com/investing/2026/10/17/1000-invest-buy-1-etf-and-hold-20-years/?.tsrc=rss",
-   "p": "2026-10-17T09:29:00+00:00",
-   "o": "If I Only Had $1,000 to Invest, I'd Buy This 1 ETF and Wouldn't Touch It for 20 Years"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "配合川普政府意向，IMF 會議主席聲明避用「AI」一詞",
-   "pts": [
-    "IMF 17 日在曼谷召開決定營運方針的會議，並發表主席聲明。",
-    "川普政府推動將 AI 改稱「超級智慧」，聲明避用 AI 一詞，改稱「先進智慧」。"
-   ],
-   "b": "IMF 17 日在曼谷召開決定營運方針的會議，並發表主席聲明。川普政府推動將 AI 改稱「超級智慧」，聲明避用 AI 一詞，改稱「先進智慧」。",
-   "u": "https://www.sankei.com/article/20261017-SB7IKHEOUFLV5D77OAXVP2NOKE/",
-   "p": "2026-10-17T09:17:55+00:00",
-   "o": "トランプ米政権の意向受け「AI」の名称の使用回避　IMF会合の議長声明"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "南韓外交部表示深感失望與遺憾，批高市首相奉納靖國神社供物、閣僚參拜",
-   "pts": [
-    "高市早苗首相 17 日向靖國神社奉納稱為「真榊」的供物，並有閣僚參拜。",
-    "南韓外交部發言人當天發表評論，表示「深感失望與遺憾」。",
-    "南韓政府要求日本負責任的領導人正視歷史，並以行動展現謙虛的反省。"
-   ],
-   "b": "高市早苗首相 17 日向靖國神社奉納稱為「真榊」的供物，並有閣僚參拜。南韓外交部發言人當天發表評論，表示「深感失望與遺憾」。南韓政府要求日本負責任的領導人正視歷史，並以行動展現謙虛的反省。",
-   "u": "https://www.sankei.com/article/20261017-SEIRYPZX5RINNAZBJG2L3PXTOY/",
-   "p": "2026-10-17T09:15:08+00:00",
-   "o": "韓国外務省報道官「深い失望と遺憾」　高市首相の靖国供物奉納や閣僚参拝に「歴史直視を」"
-  },
-  {
    "c": "tech",
-   "s": "科技新報",
+   "s": "財經新報",
    "t": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入",
    "pts": [
     "SK 海力士發表聲明，強烈否認以在美國建晶圓廠為條件，要求美方放寬大連廠設備出口限制的報導。",
@@ -204,19 +477,6 @@
    "u": "https://finance.technews.tw/2026/10/17/sk-hynix-explicitly-denied-using-conditions-in-exchange-for-the-us-allowing-the-import-of-equipment-from-its-dalian-china-plant/",
    "p": "2026-10-17T09:10:19+00:00",
    "o": "SK 海力士明確否認拿條件換美國允許中國大連廠設備輸入"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "他用 solo 401(k) 買寶可夢卡，報酬勝過標普 500，國稅局仍要他繳稅",
-   "pts": [
-    "古董寶可夢卡在 solo 401(k) 內的表現優於標普 500，購入當年仍收到稅單。",
-    "觸發稅務的規定與投資績效無關。"
-   ],
-   "b": "古董寶可夢卡在 solo 401(k) 內的表現優於標普 500，購入當年仍收到稅單。觸發稅務的規定與投資績效無關。",
-   "u": "https://247wallst.com/personal-finance/2026/10/17/he-bought-pokemon-cards-through-his-solo-401k-the-irs-doesnt-care-that-they-outperformed-the-sp-500/?.tsrc=rss",
-   "p": "2026-10-17T08:35:58+00:00",
-   "o": "He Bought Pokémon Cards Through His Solo 401(k). The IRS Doesn’t Care That They Outperformed the S&P 500."
   },
   {
    "c": "tech",
@@ -234,20 +494,8 @@
    "o": "不禁 AI 但拒絕 AI 垃圾內容，YouTube、TikTok 等社群平台齊改規則"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "十年一遇的買點：五年飆漲 900% 的 AI 股是「七巨頭」中最便宜的一檔",
-   "pts": [
-    "這家公司是其領域的領導者。"
-   ],
-   "b": "這家公司是其領域的領導者。",
-   "u": "https://www.fool.com/investing/2026/10/17/once-in-a-decade-buying-opportunity-this-ai-stock-that-s-soared-900-over-5-years-is-the-cheapest-of-the-magnificent-seven/?.tsrc=rss",
-   "p": "2026-10-17T08:30:02+00:00",
-   "o": "Once-in-a-Decade Buying Opportunity: This AI Stock That’s Soared 900% Over 5 Years Is the Cheapest of the “Magnificent Seven.”"
-  },
-  {
    "c": "tech",
-   "s": "科技新報",
+   "s": "財經新報",
    "t": "AI 記憶體下一步？三星確認速度、可擴展性、持久性為發展重點",
    "pts": [
     "三星在 OCP 全球峰會發表次世代記憶體策略，以速度、可擴展性與持久性為三大核心。",
@@ -274,271 +522,6 @@
    "u": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/",
    "p": "2026-10-17T08:00:01+00:00",
    "o": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "買二手嬰兒用品要小心，美國調查發現禁售、召回商品仍在網路販售",
-   "pts": [
-    "《消費者報告》調查發現，多個二手平台仍在販售禁售或召回的嬰兒用品。",
-    "「床中床」最令人擔憂，在 Facebook Marketplace 上數量最多，找到 50 件後仍持續出現。",
-    "側欄可下拉式嬰兒床 2000 至 2010 年間與至少 32 起確認的嬰幼兒死亡相關。",
-    "eBay 接獲通報後的處理流程相對完善，其他平台仍有改善空間。",
-    "該組織提醒家長購買前務必查證，有疑慮就放棄交易。"
-   ],
-   "b": "《消費者報告》調查發現，多個二手平台仍在販售禁售或召回的嬰兒用品。「床中床」最令人擔憂，在 Facebook Marketplace 上數量最多，找到 50 件後仍持續出現。側欄可下拉式嬰兒床 2000 至 2010 年間與至少 32 起確認的嬰幼兒死亡相關。eBay 接獲通報後的處理流程相對完善，其他平台仍有改善空間。該組織提醒家長購買前務必查證，有疑慮就放棄交易。",
-   "u": "https://technews.tw/2026/10/17/ebay-facebook-mercari-craigslist-still-sell-banned-baby-gear/",
-   "p": "2026-10-17T07:30:31+00:00",
-   "o": "買二手嬰兒用品要小心，美國調查發現禁售、召回商品仍在網路販售"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "Agentic AI 浪潮襲來！HPE 剖析企業 AI 轉型痛點與企業級 AI 工廠策略",
-   "pts": [
-    "HPE 台灣暨香港董事長王嘉昇指出，企業 AI 應用正跨入目標導向的 Agentic AI 時代。",
-    "企業落地面臨三大困境：部門各自選模型、資安與金鑰洩漏風險、營運成本飆脹。",
-    "他分析全球新增算力的 30% 至 50% 集中於少數 AI 巨頭，推理效率與模型路由比 GPU 峰值更關鍵。",
-    "HPE 提出企業級 AI 工廠與自駕級基礎架構，涵蓋 KV Cache 優化與高密度液冷資料中心。"
-   ],
-   "b": "HPE 台灣暨香港董事長王嘉昇指出，企業 AI 應用正跨入目標導向的 Agentic AI 時代。企業落地面臨三大困境：部門各自選模型、資安與金鑰洩漏風險、營運成本飆脹。他分析全球新增算力的 30% 至 50% 集中於少數 AI 巨頭，推理效率與模型路由比 GPU 峰值更關鍵。HPE 提出企業級 AI 工廠與自駕級基礎架構，涵蓋 KV Cache 優化與高密度液冷資料中心。",
-   "u": "https://finance.technews.tw/2026/10/17/hpe-analyzes-the-pain-points-of-enterprise-ai-transformation-and-enterprise-level-ai-factory-strategies/",
-   "p": "2026-10-17T07:00:20+00:00",
-   "o": "Agentic AI 浪潮襲來！HPE 剖析企業 AI 轉型痛點與企業級 AI 工廠策略"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "即使行為與人類無異，科學證實人們仍認為 AI 缺乏「真正意識」",
-   "pts": [
-    "發表於《Cognition》的 LMU 研究，對近 1,100 名受試者比較人類與 AI 主角的故事情境。",
-    "受試者需評估主角的感知（Awareness）與意識（Consciousness）。",
-    "研究者指出，人們直覺上把「意識」保留給有主觀內在體驗的生物，感知則視為資訊處理能力。",
-    "學者提醒，科技業過度擬人化的用詞與大眾直覺衝突，應注重溝通精準度。"
-   ],
-   "b": "發表於《Cognition》的 LMU 研究，對近 1,100 名受試者比較人類與 AI 主角的故事情境。受試者需評估主角的感知（Awareness）與意識（Consciousness）。研究者指出，人們直覺上把「意識」保留給有主觀內在體驗的生物，感知則視為資訊處理能力。學者提醒，科技業過度擬人化的用詞與大眾直覺衝突，應注重溝通精準度。",
-   "u": "https://technews.tw/2026/10/17/cognitive-boundaries-ai-human-consciousness/",
-   "p": "2026-10-17T07:00:13+00:00",
-   "o": "即使行為與人類無異，科學證實人們仍認為 AI 缺乏「真正意識」"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "AI 泡沫疑慮升溫，彭双浪：成長將放緩、趨勢不會改變",
-   "pts": [
-    "友達董事長彭双浪表示 AI 是不可逆趨勢，他不認為有泡沫，只是產業成熟後成長趨緩。",
-    "他預期 2027 年景氣審慎樂觀，不會比今年差，但仍有戰爭、缺工與記憶體短缺等不確定因素。",
-    "友達持續布局 AR／VR、低軌衛星通訊與半導體先進封裝，先進封裝已進入與客戶討論規格階段。",
-    "友達今年通過 240 億元資本支出，尚未訂出具體營收貢獻目標。"
-   ],
-   "b": "友達董事長彭双浪表示 AI 是不可逆趨勢，他不認為有泡沫，只是產業成熟後成長趨緩。他預期 2027 年景氣審慎樂觀，不會比今年差，但仍有戰爭、缺工與記憶體短缺等不確定因素。友達持續布局 AR／VR、低軌衛星通訊與半導體先進封裝，先進封裝已進入與客戶討論規格階段。友達今年通過 240 億元資本支出，尚未訂出具體營收貢獻目標。",
-   "u": "https://finance.technews.tw/2026/10/17/ai-bubble-auo/",
-   "p": "2026-10-17T06:43:17+00:00",
-   "o": "AI 泡沫疑慮升溫，彭双浪：成長將放緩、趨勢不會改變"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "台積電亮眼財報背後，市場關注隱憂關鍵浮現",
-   "pts": [
-    "台積電第三季營收 467 億美元，年增 41%；淨利逾新台幣 7,600 億元，毛利率 66.4%。",
-    "第四季營收預估 523 億至 543 億美元，全年營收成長財測由 30% 上調至 44%。",
-    "3 奈米占晶圓收入 33%，2 奈米占比升至 8%；HPC 貢獻 68% 營收。",
-    "2026 年資本支出 600 億至 640 億美元，海外建廠折舊可能壓抑利潤率。",
-    "市場隱憂在於微軟、Google 等終端客戶能否從 AI 服務賺到足夠獲利。"
-   ],
-   "b": "台積電第三季營收 467 億美元，年增 41%；淨利逾新台幣 7,600 億元，毛利率 66.4%。第四季營收預估 523 億至 543 億美元，全年營收成長財測由 30% 上調至 44%。3 奈米占晶圓收入 33%，2 奈米占比升至 8%；HPC 貢獻 68% 營收。2026 年資本支出 600 億至 640 億美元，海外建廠折舊可能壓抑利潤率。市場隱憂在於微軟、Google 等終端客戶能否從 AI 服務賺到足夠獲利。",
-   "u": "https://finance.technews.tw/2026/10/17/behind-tsmcs-impressive-financial-report-key-concerns-have-emerged-that-have-drawn-market-attention/",
-   "p": "2026-10-17T06:00:57+00:00",
-   "o": "台積電亮眼財報背後，市場關注隱憂關鍵浮現"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Nike 股價低迷，為何現在該轉樂觀",
-   "pts": [
-    "與同業相比，該股呈現最具吸引力的風險報酬比。"
-   ],
-   "b": "與同業相比，該股呈現最具吸引力的風險報酬比。",
-   "u": "https://finance.yahoo.com/m/e6754ffa-d169-3c02-b4a0-895010717bb3/nike-stock-has-been-dismal..html?.tsrc=rss",
-   "p": "2026-10-17T04:21:00+00:00",
-   "o": "Nike Stock Has Been Dismal. Why It’s Time to Be Bullish."
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "與三菱電機簽訂策略聯盟，鴻海 235 億元買股權經營汽車設備事業",
-   "pts": [
-    "鴻海透過子公司 Lin Yin 與三菱電機簽訂策略聯盟，共同經營汽車設備事業。",
-    "三菱電機將把三菱電機移動 50% 股權轉讓給 Lin Yin，交易金額預計 1,150 億日圓。",
-    "標的事業企業價值 3,200 億日圓、股權價值 2,300 億日圓。",
-    "交易需取得競爭法等主管機關核准，預計 2027 年 10 月 1 日完成。",
-    "雙方將合作打造源自日本的高品質電動車平台。"
-   ],
-   "b": "鴻海透過子公司 Lin Yin 與三菱電機簽訂策略聯盟，共同經營汽車設備事業。三菱電機將把三菱電機移動 50% 股權轉讓給 Lin Yin，交易金額預計 1,150 億日圓。標的事業企業價值 3,200 億日圓、股權價值 2,300 億日圓。交易需取得競爭法等主管機關核准，預計 2027 年 10 月 1 日完成。雙方將合作打造源自日本的高品質電動車平台。",
-   "u": "https://finance.technews.tw/2026/10/17/foxconn-to-acquire-shares-for-nt23-5-billion/",
-   "p": "2026-10-17T04:00:16+00:00",
-   "o": "與三菱電機簽訂策略聯盟，鴻海 235 億元買股權經營汽車設備事業"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "林恩平潑 Micro LED 光通訊冷水？友達彭双浪提另一種解讀",
-   "pts": [
-    "大立光董事長林恩平對 Micro LED 用於 CPO 表達保留，友達董事長彭双浪回應技術路線尚無定論。",
-    "他指出在 10 公分內短距傳輸，Micro LED 耗能約為傳統銅線的 5% 至 10%。",
-    "Micro VCSEL 可支援更高頻寬與較長距離，DFB 雷射適合更長距離，未來可能出現混合式架構。",
-    "友達專注發光晶片、大立光投入光纖陣列單元，彭双浪認為雙方是合作夥伴。",
-    "Micro LED 已導入智慧手錶量產，車用也即將量產。"
-   ],
-   "b": "大立光董事長林恩平對 Micro LED 用於 CPO 表達保留，友達董事長彭双浪回應技術路線尚無定論。他指出在 10 公分內短距傳輸，Micro LED 耗能約為傳統銅線的 5% 至 10%。Micro VCSEL 可支援更高頻寬與較長距離，DFB 雷射適合更長距離，未來可能出現混合式架構。友達專注發光晶片、大立光投入光纖陣列單元，彭双浪認為雙方是合作夥伴。Micro LED 已導入智慧手錶量產，車用也即將量產。",
-   "u": "https://finance.technews.tw/2026/10/17/auo-micro-led-3/",
-   "p": "2026-10-17T03:54:53+00:00",
-   "o": "林恩平潑 Micro LED 光通訊冷水？友達彭双浪提另一種解讀"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "台積電進駐熊本滿五年：地方財政霸榜大豐收，在地中小企業為何卻苦喊吃不消",
-   "pts": [
-    "台積電進駐熊本滿五年，周邊三個市町人口增幅包辦縣內前三名。",
-    "菊陽町財政力指數 0.95 居全縣第一，自 2025 年度起成為不需領取地方交付稅的「不交付團體」。",
-    "熊本縣商工會調查 489 家業者，88% 認為影響說不上好壞，3% 指出人事成本上升、人手不足。",
-    "中小企業面臨租金與人才雙重壓力，大津町已有業者退會甚至歇業。",
-    "五年間建築用地平均價格上漲三至五成，但 2026 年地價漲勢已出現降溫跡象。"
-   ],
-   "b": "台積電進駐熊本滿五年，周邊三個市町人口增幅包辦縣內前三名。菊陽町財政力指數 0.95 居全縣第一，自 2025 年度起成為不需領取地方交付稅的「不交付團體」。熊本縣商工會調查 489 家業者，88% 認為影響說不上好壞，3% 指出人事成本上升、人手不足。中小企業面臨租金與人才雙重壓力，大津町已有業者退會甚至歇業。五年間建築用地平均價格上漲三至五成，但 2026 年地價漲勢已出現降溫跡象。",
-   "u": "https://finance.technews.tw/2026/10/17/tsmc-kumamoto-expansion-poses-challenges-for-local-smes/",
-   "p": "2026-10-17T03:00:27+00:00",
-   "o": "台積電進駐熊本滿五年：地方財政霸榜大豐收，在地中小企業為何卻苦喊吃不消"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "大摩記憶體與 AI 供應鏈展望，HBM 與 SSD 合約價飆升，算力與網路列投資首選",
-   "pts": [
-    "摩根士丹利上調 2026 年第四季合約價：DRAM 季增由 3～8% 升至 10～15%，NAND 升至 15～20%。",
-    "預測 2027 年 HBM 平均售價年增 121%，但 Rubin 放量落後，2026 年 VR200 NVL72 出貨預估低於 1 萬台。",
-    "投資順序為算力第一、網路第二、記憶體選擇性配置。"
-   ],
-   "b": "摩根士丹利上調 2026 年第四季合約價：DRAM 季增由 3～8% 升至 10～15%，NAND 升至 15～20%。預測 2027 年 HBM 平均售價年增 121%，但 Rubin 放量落後，2026 年 VR200 NVL72 出貨預估低於 1 萬台。投資順序為算力第一、網路第二、記憶體選擇性配置。",
-   "u": "https://finance.technews.tw/2026/10/17/morgan-stanley-memory-and-ai-supply-chain-outlook/",
-   "p": "2026-10-17T03:00:16+00:00",
-   "o": "大摩記憶體與 AI 供應鏈展望，HBM 與 SSD 合約價飆升推動算力與網路列投資首選"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "禮來股價大漲前，它透露了什麼訊號？",
-   "pts": [
-    "2025 年 10 月 14 日投入禮來（LLY）1 萬美元，到 2026 年 10 月 15 日約變為 1.55 萬美元。"
-   ],
-   "b": "2025 年 10 月 14 日投入禮來（LLY）1 萬美元，到 2026 年 10 月 15 日約變為 1.55 萬美元。",
-   "u": "https://www.trefis.com/articles/618985/what-was-eli-lilly-telling-you-before-its-stock-ran/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T02:57:02+00:00",
-   "o": "What Was Eli Lilly Telling You Before Its Stock Ran?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "現在該如何重新看待 Palantir",
-   "pts": [
-    "Palantir（PLTR）股價為營收的 78.2 倍，標普 500 為 3.1 倍。",
-    "付出這樣的溢價，投資人需清楚知道自己買的是什麼。"
-   ],
-   "b": "Palantir（PLTR）股價為營收的 78.2 倍，標普 500 為 3.1 倍。付出這樣的溢價，投資人需清楚知道自己買的是什麼。",
-   "u": "https://www.trefis.com/articles/618984/why-you-should-think-about-palantir-differently-now/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T02:50:36+00:00",
-   "o": "Why You Should Think About Palantir Differently Now"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "該減碼或加碼 Joby Aviation？",
-   "pts": [
-    "Joby Aviation（JOBY）股價過去一年下跌約 70%，同期標普 500 報酬為 17%。"
-   ],
-   "b": "Joby Aviation（JOBY）股價過去一年下跌約 70%，同期標普 500 報酬為 17%。",
-   "u": "https://www.trefis.com/articles/618995/should-you-trim-or-add-to-your-joby-aviation-position-now/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T02:42:45+00:00",
-   "o": "Should You Trim Or Add To Your Joby Aviation Position Now?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Trade Desk 能否再次從舊支撐反彈？",
-   "pts": [
-    "Trade Desk（TTD）過去一年股價下跌 74.1%，同期標普 500 報酬為 17.9%。"
-   ],
-   "b": "Trade Desk（TTD）過去一年股價下跌 74.1%，同期標普 500 報酬為 17.9%。",
-   "u": "https://www.trefis.com/articles/618992/can-trade-desk-stock-bounce-off-its-old-support-again/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T02:19:48+00:00",
-   "o": "Can Trade Desk Stock Bounce Off Its Old Support Again?"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "熱門節稅操作助長華爾街融資熱潮",
-   "pts": [
-    "嘉信理財第三季保證金貸款餘額膨脹至近 1,900 億美元。",
-    "主因是某種節稅虧損收割策略的成長。"
-   ],
-   "b": "嘉信理財第三季保證金貸款餘額膨脹至近 1,900 億美元。主因是某種節稅虧損收割策略的成長。",
-   "u": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2?mod=rss_markets_main",
-   "p": "2026-10-17T02:06:00+00:00",
-   "o": "A Popular Tax-Saving Trade is Juicing Wall Street’s Borrowing Binge"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "埃森哲股價為何大漲？",
-   "pts": [
-    "2026 年 7 月 17 日至 10 月 15 日，埃森哲（ACN）股價上漲 57.9%，標普 500 漲 4.1%。",
-    "這段漲勢中單日最大漲幅出現在 10 月 1 日。"
-   ],
-   "b": "2026 年 7 月 17 日至 10 月 15 日，埃森哲（ACN）股價上漲 57.9%，標普 500 漲 4.1%。這段漲勢中單日最大漲幅出現在 10 月 1 日。",
-   "u": "https://www.trefis.com/articles/619002/why-did-accenture-stock-jump/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T02:02:14+00:00",
-   "o": "Why Did Accenture Stock Jump?"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "中國新創企業開發出 EUV 光源，預估距離正式商用最快 3 年",
-   "pts": [
-    "中國新創朗道矽斯展示首款自研 EUV 雷射光源系統 FlintNano，約 90% 組件來自本土。",
-    "採雷射激發電漿技術，配備 1,000 瓦驅動雷射，轉換效率超過 2%，可連續運行逾 100 小時。",
-    "專家指出光源只是整機的一環，仍需精密光學與定位系統；官方預估商用仍需 3 至 5 年。"
-   ],
-   "b": "中國新創朗道矽斯展示首款自研 EUV 雷射光源系統 FlintNano，約 90% 組件來自本土。採雷射激發電漿技術，配備 1,000 瓦驅動雷射，轉換效率超過 2%，可連續運行逾 100 小時。專家指出光源只是整機的一環，仍需精密光學與定位系統；官方預估商用仍需 3 至 5 年。",
-   "u": "https://finance.technews.tw/2026/10/17/chinese-startup-develops-euv-light-source/",
-   "p": "2026-10-17T02:00:28+00:00",
-   "o": "中國新創企業開發出 EUV 光源，預估距離正式商用最快 3 年"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "伊朗向胡塞武裝提供目標與情報，協助攻擊沙烏地阿拉伯",
-   "pts": [
-    "德黑蘭的支援，讓葉門的胡塞武裝對沙烏地阿拉伯發動至今最具威力的攻擊。"
-   ],
-   "b": "德黑蘭的支援，讓葉門的胡塞武裝對沙烏地阿拉伯發動至今最具威力的攻擊。",
-   "u": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews",
-   "p": "2026-10-17T02:00:00+00:00",
-   "o": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Cipher Digital 股價有哪些變了、哪些沒變？",
-   "pts": [
-    "Cipher Digital（CIFR）股價在 10 月 8 日至 15 日的五個交易日下跌 26.4%。",
-    "同期標普 500 下滑 0.25%。"
-   ],
-   "b": "Cipher Digital（CIFR）股價在 10 月 8 日至 15 日的五個交易日下跌 26.4%。同期標普 500 下滑 0.25%。",
-   "u": "https://www.trefis.com/articles/619005/what-changed-for-cipher-digital-stock-and-what-did-not/2026-10-16?.tsrc=rss",
-   "p": "2026-10-17T01:26:45+00:00",
-   "o": "What Changed For Cipher Digital Stock, And What Did Not?"
   }
  ]
 }
