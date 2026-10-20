@@ -1,513 +1,524 @@
 {
- "updated": "2026-10-19T13:52:45+00:00",
+ "updated": "2026-10-20T01:15:45+00:00",
  "items": [
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "財報即時更新：焦點集中在馬斯克與 Meta，第三季財報升溫",
-   "pts": [
-    "大型科技股的第三季財報週本週開跑。"
-   ],
-   "b": "大型科技股的第三季財報週本週開跑。",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html?.tsrc=rss",
-   "p": "2026-10-19T13:41:52+00:00",
-   "o": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "蘋果跑贏標普 500，但 35 倍本益比是否跑在成長前面？",
-   "pts": [
-    "文章探討蘋果是否同時具備 iPhone 仍有顯著成長，以及配得上高盈餘估值這兩項條件。",
-    "蘋果的一年總報酬達 30.25，遠高於標普 500。"
-   ],
-   "b": "文章探討蘋果是否同時具備 iPhone 仍有顯著成長，以及配得上高盈餘估值這兩項條件。蘋果的一年總報酬達 30.25，遠高於標普 500。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-outperformed-p-500-aapl-133312470.html?.tsrc=rss",
-   "p": "2026-10-19T13:33:12+00:00",
-   "o": "Apple Has Outperformed the S&P 500, but is AAPL’s 35x Valuation Getting Ahead of its Growth?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "輝達躲過 AI 賣壓，黃仁勳有一套說法",
-   "pts": [
-    "近期市場震盪凸顯出一道有趣的分歧。"
-   ],
-   "b": "近期市場震盪凸顯出一道有趣的分歧。",
-   "u": "https://www.thestreet.com/investing/stocks/nvidia-dodged-the-ai-selloff-and-jensen-huang-has-a-theory-why?.tsrc=rss",
-   "p": "2026-10-19T13:33:00+00:00",
-   "o": "Nvidia dodged the AI selloff, and Jensen Huang has a theory why"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "應材走向穩健：AI 成長是否已反映在股價中？",
-   "pts": [
-    "應用材料交出足以支撐 AI 成長故事的獲利，一年總報酬 79.4%，標普 500 為 13.72%。",
-    "大漲之後，問題在於成長是否已被反映。"
-   ],
-   "b": "應用材料交出足以支撐 AI 成長故事的獲利，一年總報酬 79.4%，標普 500 為 13.72%。大漲之後，問題在於成長是否已被反映。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-going-solid-ai-133121103.html?.tsrc=rss",
-   "p": "2026-10-19T13:31:21+00:00",
-   "o": "Applied Materials is Going Solid. Is its AI Growth Already Priced In?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "3 檔令我們擔憂的醫療保健股",
-   "pts": [
-    "從新藥到遠距醫療，多數醫療保健公司以改善病患療效為使命。"
-   ],
-   "b": "從新藥到遠距醫療，多數醫療保健公司以改善病患療效為使命。",
-   "u": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-132855491.html?.tsrc=rss",
-   "p": "2026-10-19T13:28:55+00:00",
-   "o": "3 Healthcare Stocks That Concern Us"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "紐約匯市日圓報 158 日圓出頭，財政惡化使日圓信用疑慮升溫",
-   "pts": [
-    "19 日週一紐約外匯市場，截至上午 8 時 40 分日圓兌美元報 158.29 至 158.39 日圓，較上週五貶值 33 錢。",
-    "標題指財政惡化引發日圓信用降低的疑慮，日圓賣盤占優。"
-   ],
-   "b": "19 日週一紐約外匯市場，截至上午 8 時 40 分日圓兌美元報 158.29 至 158.39 日圓，較上週五貶值 33 錢。標題指財政惡化引發日圓信用降低的疑慮，日圓賣盤占優。",
-   "u": "https://www.sankei.com/article/20261019-5GIQDAKQG5LXDIP22HIGYBDEII/",
-   "p": "2026-10-19T13:20:29+00:00",
-   "o": "NY円、158円台前半 財政悪化による円の信用低下懸念 円売りドル買い優勢"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "ETF 走高、股指期貨漲跌互見，週一盤前科技股回升",
-   "pts": [
-    "追蹤大盤的 SPDR S&P 500 ETF（SPY）上漲 0.6%。"
-   ],
-   "b": "追蹤大盤的 SPDR S&P 500 ETF（SPY）上漲 0.6%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131756600.html?.tsrc=rss",
-   "p": "2026-10-19T13:17:56+00:00",
-   "o": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday as Tech Stocks Recover"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "馬斯克誓言送每位美國兒童一股 SpaceX 股份",
-   "pts": [
-    "這位全球首富在 Anthropic 等知名富豪作出類似承諾後宣布此事。"
-   ],
-   "b": "這位全球首富在 Anthropic 等知名富豪作出類似承諾後宣布此事。",
-   "u": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=rss_Technology",
-   "p": "2026-10-19T13:13:00+00:00",
-   "o": "Musk Vows to Give Each U.S. Child a SpaceX Share"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "3 檔表現不如預期的保險股",
-   "pts": [
-    "保險業者憑藉風險評估專長保護資產，並受惠於定價能力改善與保費成長強勁。"
-   ],
-   "b": "保險業者憑藉風險評估專長保護資產，並受惠於定價能力改善與保費成長強勁。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-insurance-stocks-fall-short-131255295.html?.tsrc=rss",
-   "p": "2026-10-19T13:12:55+00:00",
-   "o": "3 Insurance Stocks That Fall Short"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "優衣庫將漲價 4%，受原料成本與日圓貶值影響，襪子多件購買也將終止",
-   "pts": [
-    "優衣庫宣布全品項平均售價上調約 4%。",
-    "「感動夾克」11 月 10 日由 6,990 日圓漲至 7,990 日圓，襪子多件購買優惠也將結束。",
-    "公司說明原因是原物料與物流成本上升及日圓貶值。"
-   ],
-   "b": "優衣庫宣布全品項平均售價上調約 4%。「感動夾克」11 月 10 日由 6,990 日圓漲至 7,990 日圓，襪子多件購買優惠也將結束。公司說明原因是原物料與物流成本上升及日圓貶值。",
-   "u": "https://www.sankei.com/article/20261019-KM75TQEDGJLULJDVBASZKZTDIA/",
-   "p": "2026-10-19T13:12:07+00:00",
-   "o": "ユニクロ4％値上げへ 原材料費高や円安の影響 靴下まとめ買いも終了し1点販売へ"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "白銀兩難：冒險者選 SLVP，保守派選 SLV",
-   "pts": [
-    "SLV 追蹤實體白銀，資產 283 億美元；SLVP 投資礦業公司，一年報酬較強。",
-    "兩種策略的風險輪廓與成本結構各異。"
-   ],
-   "b": "SLV 追蹤實體白銀，資產 283 億美元；SLVP 投資礦業公司，一年報酬較強。兩種策略的風險輪廓與成本結構各異。",
-   "u": "https://www.fool.com/coverage/etfs/2026/10/19/the-silver-dilemma-why-risk-takers-choose-slvp-and-purists-choose-slv/?.tsrc=rss",
-   "p": "2026-10-19T13:10:02+00:00",
-   "o": "The Silver Dilemma: Why Risk-Takers Choose SLVP and Purists Choose SLV"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "今日股市：AI 概念股反彈帶動科技期貨走高，AMD、CoreWeave、輝達上漲（即時報導）",
-   "pts": [
-    "週一道瓊指數下跌，但科技期貨大漲。",
-    "AMD、CoreWeave、輝達等 AI 概念股反彈。"
-   ],
-   "b": "週一道瓊指數下跌，但科技期貨大漲。AMD、CoreWeave、輝達等 AI 概念股反彈。",
-   "u": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-tech.html?.tsrc=rss",
-   "p": "2026-10-19T13:02:11+00:00",
-   "o": "Stock Market Today: Tech Futures Rebound As AI Names Bounce; AMD, CoreWeave, Nvidia Rally (Live Coverage)"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "更新：科技股反彈帶動美股期貨盤前多數走高",
-   "pts": [
-    "報導更新了經濟數據、近期油價動向、全球市場概況與企業個股動態。"
-   ],
-   "b": "報導更新了經濟數據、近期油價動向、全球市場概況與企業個股動態。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-rebound-nudges-us-130104078.html?.tsrc=rss",
-   "p": "2026-10-19T13:01:04+00:00",
-   "o": "Update: Tech Stock Rebound Nudges US Equity Futures Mostly Higher Pre-Bell"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "CVS 管理層提高門檻，股價走勢圖同意嗎？",
-   "pts": [
-    "CVS 於 2026 年 8 月 5 日把全年營收預測上修至至少 4,140 億美元，高於 5 月的 4,050 億美元。",
-    "但股價自公布前收盤至今下跌 11.5%，標普 500 則跌 1.0%。"
-   ],
-   "b": "CVS 於 2026 年 8 月 5 日把全年營收預測上修至至少 4,140 億美元，高於 5 月的 4,050 億美元。但股價自公布前收盤至今下跌 11.5%，標普 500 則跌 1.0%。",
-   "u": "https://www.trefis.com/articles/619174/management-raised-the-bar-for-cvs-health-stock-does-the-chart-agree/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:56:04+00:00",
-   "o": "Management Raised The Bar For CVS Health Stock; Does The Chart Agree?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "市場在 Netflix 股價下跌中忽略了什麼？",
-   "pts": [
-    "Netflix 管理層不再不計成本砸錢拍片，讓內容支出成長慢於營收。",
-    "但市場尚未獎勵這種紀律。"
-   ],
-   "b": "Netflix 管理層不再不計成本砸錢拍片，讓內容支出成長慢於營收。但市場尚未獎勵這種紀律。",
-   "u": "https://www.trefis.com/articles/619178/what-has-the-market-missed-in-netflix-stocks-drop/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:55:59+00:00",
-   "o": "What Has The Market Missed In Netflix Stock's Drop?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "嬌生股票是否變成另一種押注？",
-   "pts": [
-    "嬌生本益比 29.2 倍，標普 500 為 22.9 倍。",
-    "持有者需要了解自己究竟買的是什麼，公司的優先事項已改變。"
-   ],
-   "b": "嬌生本益比 29.2 倍，標普 500 為 22.9 倍。持有者需要了解自己究竟買的是什麼，公司的優先事項已改變。",
-   "u": "https://www.trefis.com/articles/619181/has-johnson-johnson-stock-become-a-different-bet/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:55:56+00:00",
-   "o": "Has Johnson & Johnson Stock Become A Different Bet?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "博通股價夠便宜了嗎？",
-   "pts": [
-    "博通 10 月 16 日收 328.75 美元，較 6 月 2 日的年內最高收盤價低 31.5%。",
-    "過去 12 個月股東虧損 5.7%，標普 500 則上漲 16.2%。"
-   ],
-   "b": "博通 10 月 16 日收 328.75 美元，較 6 月 2 日的年內最高收盤價低 31.5%。過去 12 個月股東虧損 5.7%，標普 500 則上漲 16.2%。",
-   "u": "https://www.trefis.com/articles/619192/is-broadcom-stock-cheap-enough-yet/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:55:49+00:00",
-   "o": "Is Broadcom Stock Cheap Enough Yet?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "醫療成本上升要到什麼程度才會擊垮聯合健康股價？",
-   "pts": [
-    "聯合健康本益比 25.6 倍，高於標普 500 的 22.9 倍，顯示投資人押注獲利復甦。"
-   ],
-   "b": "聯合健康本益比 25.6 倍，高於標普 500 的 22.9 倍，顯示投資人押注獲利復甦。",
-   "u": "https://www.trefis.com/articles/619191/what-would-it-take-for-rising-medical-costs-to-break-unitedhealth-stock/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:55:47+00:00",
-   "o": "What Would It Take For Rising Medical Costs To Break UnitedHealth Stock?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "如果成長停滯，Robinhood 股價會怎樣？",
-   "pts": [
-    "Robinhood 第二季營收創高，達 13.1 億美元，年增 32%。",
-    "管理層在 7 月 29 日財報電話會議指出，7 月淨入金預計達約 40 億美元。"
-   ],
-   "b": "Robinhood 第二季營收創高，達 13.1 億美元，年增 32%。管理層在 7 月 29 日財報電話會議指出，7 月淨入金預計達約 40 億美元。",
-   "u": "https://www.trefis.com/articles/619189/what-happens-to-robinhood-stock-if-its-growth-stalls/2026-10-19?.tsrc=rss",
-   "p": "2026-10-19T12:55:44+00:00",
-   "o": "What Happens To Robinhood Stock If Its Growth Stalls?"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "戴蒙要求領導人加強網路防禦",
-   "pts": [
-    "同則電子報也提到，一家輝達支持的新創推出新類別 AI 以降低運算成本。"
-   ],
-   "b": "同則電子報也提到，一家輝達支持的新創推出新類別 AI 以降低運算成本。",
-   "u": "https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f?mod=rss_Technology",
-   "p": "2026-10-19T12:50:00+00:00",
-   "o": "Jamie Dimon Tells Leaders to Ramp Up Cyber Defenses"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "Nifty 恐有最多 54 萬筆個資外洩，系統遭非法存取",
-   "pts": [
-    "網路接取業者 Nifty 19 日宣布系統遭非法存取，客戶姓名、地址、電話等最多 54 萬筆恐外洩。",
-    "不含銀行帳戶或信用卡資訊。",
-    "已阻斷來自非法存取來源的通訊並持續調查。"
-   ],
-   "b": "網路接取業者 Nifty 19 日宣布系統遭非法存取，客戶姓名、地址、電話等最多 54 萬筆恐外洩。不含銀行帳戶或信用卡資訊。已阻斷來自非法存取來源的通訊並持續調查。",
-   "u": "https://www.sankei.com/article/20261019-PBAQ2W4WKBPILHZKU4QKGYTHWM/",
-   "p": "2026-10-19T12:48:14+00:00",
-   "o": "ニフティ最大54万件の個人情報流出恐れ システムに不正アクセス、氏名や住所"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "德國默克以 13 億美元收購英國生技 Silence Therapeutics",
-   "pts": [
-    "默克對那斯達克上市的 Silence 美國存託憑證，每股出價 20 美元現金。",
-    "出價較該標的週五收盤價高出一倍以上。"
-   ],
-   "b": "默克對那斯達克上市的 Silence 美國存託憑證，每股出價 20 美元現金。出價較該標的週五收盤價高出一倍以上。",
-   "u": "https://www.wsj.com/tech/biotech/germanys-merck-to-buy-u-k-biotech-silence-therapeutics-for-1-3-billion-aab773c5?mod=rss_Technology",
-   "p": "2026-10-19T12:48:00+00:00",
-   "o": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "CoreWeave 的「減震器」功能將一再受到考驗",
-   "pts": [
-    "CoreWeave 的 GPU 帝國有 1,040 億美元積壓訂單與沉重債務，使每則輝達消息都成為對其股權的保證金追繳。"
-   ],
-   "b": "CoreWeave 的 GPU 帝國有 1,040 億美元積壓訂單與沉重債務，使每則輝達消息都成為對其股權的保證金追繳。",
-   "u": "https://247wallst.com/investing/2026/10/19/coreweaves-shock-absorber-function-will-be-tested-again-and-again/?.tsrc=rss",
-   "p": "2026-10-19T12:45:27+00:00",
-   "o": "Coreweave’s Shock Absorber Function Will Be Tested Again……and Again"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "特斯拉與標普 500：誰在 2030 年前勝出？",
-   "pts": [
-    "SpaceX 是否可能成為特斯拉股價能否跑贏大盤的關鍵？"
-   ],
-   "b": "SpaceX 是否可能成為特斯拉股價能否跑贏大盤的關鍵？",
-   "u": "https://www.fool.com/investing/2026/10/19/tesla-stock-vs-the-sp-500-which-investment-wins-th/?.tsrc=rss",
-   "p": "2026-10-19T12:32:00+00:00",
-   "o": "Tesla Stock vs. the S&P 500: Which Investment Wins Through 2030?"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "股票期貨上揚，投資人謹慎重返風險資產",
-   "pts": [
-    "上週重挫後，投資人試探性回頭買進 AI 股，那斯達克期貨反彈。"
-   ],
-   "b": "上週重挫後，投資人試探性回頭買進 AI 股，那斯達克期貨反彈。",
-   "u": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-investors-make-cautious-return-to-risk-cd3b0e6a?mod=rss_markets_main",
-   "p": "2026-10-19T12:31:00+00:00",
-   "o": "Stock Futures Rise as Investors Make Cautious Return to Risk"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "羅氏與中國翰森合作，交易規模可能逾 150 億美元",
-   "pts": [
-    "早期臨床試驗完成後，這家瑞士藥廠將負責中國、港澳台以外地區的後續工作。"
-   ],
-   "b": "早期臨床試驗完成後，這家瑞士藥廠將負責中國、港澳台以外地區的後續工作。",
-   "u": "https://www.wsj.com/health/pharma/roche-partners-with-chinas-hansoh-in-deal-that-could-top-15-billion-a6681938?mod=rss_Technology",
-   "p": "2026-10-19T12:10:00+00:00",
-   "o": "Roche Partners With China’s Hansoh in Deal That Could Top $15 Billion"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "輝達支持的新創 doubleAI 推出模型以降低運算成本",
-   "pts": [
-    "公司由 Mobileye 執行長 Amnon Shashua 共同創辦。",
-    "公司稱已替一名早期客戶把運算成本砍了 67%。"
-   ],
-   "b": "公司由 Mobileye 執行長 Amnon Shashua 共同創辦。公司稱已替一名早期客戶把運算成本砍了 67%。",
-   "u": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?mod=rss_Technology",
-   "p": "2026-10-19T12:00:00+00:00",
-   "o": "Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "醫療保健綜述：Market Talk",
-   "pts": [
-    "Market Talk 涵蓋醫療保健的最新評論，包括 CSL、Cochlear、Suzuken 等。"
-   ],
-   "b": "Market Talk 涵蓋醫療保健的最新評論，包括 CSL、Cochlear、Suzuken 等。",
-   "u": "https://www.wsj.com/business/health-care-roundup-market-talk-a4c91f4c?mod=rss_markets_main",
-   "p": "2026-10-19T11:40:00+00:00",
-   "o": "Health Care Roundup: Market Talk"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "油價下跌，交易員權衡對俄制裁豁免與中東風險",
-   "pts": [
-    "週一油價回落，扭轉上週五的漲勢。",
-    "交易員權衡川普豁免新實施對俄制裁的決定，以及持續存在的中東供應風險。"
-   ],
-   "b": "週一油價回落，扭轉上週五的漲勢。交易員權衡川普豁免新實施對俄制裁的決定，以及持續存在的中東供應風險。",
-   "u": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_worldnews",
-   "p": "2026-10-19T11:36:00+00:00",
-   "o": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "基礎材料綜述：Market Talk",
-   "pts": [
-    "Market Talk 涵蓋基礎材料的最新評論，包括 Lotte Chemical、Press Metal Aluminium、Deep Yellow 等。"
-   ],
-   "b": "Market Talk 涵蓋基礎材料的最新評論，包括 Lotte Chemical、Press Metal Aluminium、Deep Yellow 等。",
-   "u": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d32997f7?mod=rss_markets_main",
-   "p": "2026-10-19T11:32:00+00:00",
-   "o": "Basic Materials Roundup: Market Talk"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "微軟因電力供應問題退出 Nscale 英國資料中心交易",
-   "pts": [
-    "微軟因電力供應問題退出英國資料中心交易。",
-    "對準備上市的 AI 基礎設施公司 Nscale 是一項挫折。"
-   ],
-   "b": "微軟因電力供應問題退出英國資料中心交易。對準備上市的 AI 基礎設施公司 Nscale 是一項挫折。",
-   "u": "https://www.wsj.com/tech/microsoft-pulls-out-of-nscale-u-k-data-center-deal-over-power-supply-issues-f804c434?mod=rss_Technology",
-   "p": "2026-10-19T11:29:00+00:00",
-   "o": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "科技、媒體與電信綜述：Market Talk",
-   "pts": [
-    "Market Talk 涵蓋科技、媒體與電信的最新評論，包括聯想、騰訊、Hipages 等。"
-   ],
-   "b": "Market Talk 涵蓋科技、媒體與電信的最新評論，包括聯想、騰訊、Hipages 等。",
-   "u": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e8a9b95e?mod=rss_markets_main",
-   "p": "2026-10-19T11:28:00+00:00",
-   "o": "Tech, Media & Telecom Roundup: Market Talk"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "金融服務綜述：Market Talk",
-   "pts": [
-    "Market Talk 涵蓋金融服務的最新評論，包括 Public Bank、美國公債等。"
-   ],
-   "b": "Market Talk 涵蓋金融服務的最新評論，包括 Public Bank、美國公債等。",
-   "u": "https://www.wsj.com/business/financial-services-roundup-market-talk-ae5e63b2?mod=rss_markets_main",
-   "p": "2026-10-19T11:21:00+00:00",
-   "o": "Financial Services Roundup: Market Talk"
-  },
-  {
    "c": "tech",
    "s": "科技新報",
-   "t": "三大電信攜手高檢署打詐，導入 AI、大數據提前辨識詐騙風險",
+   "t": "美國制裁與中國籍 Google 前工程師相關的公司",
    "pts": [
-    "台灣電信產業發展協會與臺灣高檢署簽署防詐協作合作意向書，結合三大電信技術。",
-    "將以 AI 與大數據分析異常通訊行為，推動防詐從事後攔阻轉向事前預警。",
-    "2007 年以來累計攔阻逾 1.2 億則詐騙簡訊，2023 年起攔阻逾 3,500 萬通境外詐騙電話。",
-    "物流隱碼服務已讓逾 5,000 萬件包裹隱藏個資配送。"
+    "美國國務院制裁與丁林葳有關的 5 個實體，理由是涉及竊取美國人士的商業祕密。",
+    "丁林葳創辦的上海至算科技等實體在列。",
+    "財政部發布一般許可證，授權於 2027 年 1 月 19 日前逐步結束相關交易。"
    ],
-   "b": "台灣電信產業發展協會與臺灣高檢署簽署防詐協作合作意向書，結合三大電信技術。將以 AI 與大數據分析異常通訊行為，推動防詐從事後攔阻轉向事前預警。2007 年以來累計攔阻逾 1.2 億則詐騙簡訊，2023 年起攔阻逾 3,500 萬通境外詐騙電話。物流隱碼服務已讓逾 5,000 萬件包裹隱藏個資配送。",
-   "u": "https://infosecu.technews.tw/2026/10/19/telecom-operator-scam/",
-   "p": "2026-10-19T11:19:37+00:00",
-   "o": "三大電信攜手高檢署打詐，導入 AI、大數據提前辨識詐騙風險"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "Netflix 股票可能是潛力黑馬",
-   "pts": [
-    "另提到科技股可望反彈。"
-   ],
-   "b": "另提到科技股可望反彈。",
-   "u": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1?mod=rss_markets_main",
-   "p": "2026-10-19T10:33:00+00:00",
-   "o": "Netflix Stock Might be a Sleeper Hit"
+   "b": "美國國務院制裁與丁林葳有關的 5 個實體，理由是涉及竊取美國人士的商業祕密。丁林葳創辦的上海至算科技等實體在列。財政部發布一般許可證，授權於 2027 年 1 月 19 日前逐步結束相關交易。",
+   "u": "https://infosecu.technews.tw/2026/10/20/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft/",
+   "p": "2026-10-20T01:11:00+00:00",
+   "o": "美控涉竊商業祕密，制裁中國籍 Google 前工程師相關公司"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "日本對俄外交屢屢失敗，應展現「強硬」而非讓步：保坂三四郎",
+   "t": "巴黎共和國廣場宵禁平穩開始，當地記者稱屬治安上的象徵性措施",
    "pts": [
-    "日本政府對俄外交屢屢失敗。",
-    "根本原因在於日本式思維認為只要釋出善意對方也會讓步，卻不理解俄羅斯把讓步視為軟弱並加以利用。"
+    "巴黎共和國廣場 19 日晚間 11 時起實施異常的夜間外出禁令，現場未生混亂。",
+    "周邊咖啡廳與餐廳照常營業，實際上是禁止進入廣場的措施。"
    ],
-   "b": "日本政府對俄外交屢屢失敗。根本原因在於日本式思維認為只要釋出善意對方也會讓步，卻不理解俄羅斯把讓步視為軟弱並加以利用。",
-   "u": "https://www.sankei.com/article/20261019-UJJUUV35L5LALARO4IMQACQJRI/",
-   "p": "2026-10-19T10:28:30+00:00",
-   "o": "失敗重ねた日本の対露外交 譲歩ではなく「強さ」を示せ ロシア研究の保坂三四郎氏"
+   "b": "巴黎共和國廣場 19 日晚間 11 時起實施異常的夜間外出禁令，現場未生混亂。周邊咖啡廳與餐廳照常營業，實際上是禁止進入廣場的措施。",
+   "u": "https://www.sankei.com/article/20261020-DAONFIBVDJOSFJWYA4Y3OXZ7MA/",
+   "p": "2026-10-20T01:08:06+00:00",
+   "o": "パリ広場の夜間外出禁止、混乱なく開始 「治安対策の象徴的措置」と地元記者"
   },
   {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "普丁企圖以莫斯科的條件結束烏克蘭戰爭",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美國務院聲援日方：俄羅斯拘留北海道新聞記者，譴責任何威嚇嘗試",
    "pts": [
-    "同則電子報還提到，Anthropic 的 IPO 上空有一個鮮為人知的私人信託，以及法國暴動後領導人互相指責。"
+    "美國務院發言人 19 日表示，譴責任何對記者與獨立意見者的威嚇、騷擾或懲罰。",
+    "俄羅斯當局以涉嫌間諜罪拘留北海道新聞記者，日方否認間諜行為。"
    ],
-   "b": "同則電子報還提到，Anthropic 的 IPO 上空有一個鮮為人知的私人信託，以及法國暴動後領導人互相指責。",
-   "u": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec?mod=rss_markets_main",
-   "p": "2026-10-19T10:02:00+00:00",
-   "o": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "戴蒙的國安承諾首年資助 2,300 億美元",
-   "pts": [
-    "摩根大通的「安全與韌性倡議」正在強化美國供應鏈與國防承包商。"
-   ],
-   "b": "摩根大通的「安全與韌性倡議」正在強化美國供應鏈與國防承包商。",
-   "u": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
-   "p": "2026-10-19T10:01:00+00:00",
-   "o": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year"
+   "b": "美國務院發言人 19 日表示，譴責任何對記者與獨立意見者的威嚇、騷擾或懲罰。俄羅斯當局以涉嫌間諜罪拘留北海道新聞記者，日方否認間諜行為。",
+   "u": "https://www.sankei.com/article/20261020-M6TZYLW3UJJCTJCQZGTNP2PNWA/",
+   "p": "2026-10-20T01:02:18+00:00",
+   "o": "「いかなる試みも非難する」米国務省、ロシア当局の道新記者拘束 日本側を擁護"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者",
+   "t": "AI 給錯醫療建議卻無跡可尋，研究籲建立追蹤與通報機制",
    "pts": [
-    "日本總務省與經產省預計自 2027 年度起導入資料中心與雲端服務安全認證制度。",
-    "審查項目含企業資訊、防洩漏風險管理與設備採購來源，並建議金融、醫療等機構使用認證業者。",
-    "政府將向 2027 年 1 月召開的國會提出經濟安全保障推進法修正案。",
-    "制度參考 JC-STAR，中國製產品迄今無取得認證實績，外界認為實質排除中國業者。"
+    "研究指出，AI 的有害醫療建議對話紀錄通常只留在 AI 公司系統內，外界無法查閱。",
+    "案例中一名 60 歲男子聽信 ChatGPT 把食鹽換成溴化鈉，導致溴中毒住院。",
+    "研究團隊建議 AI 企業讓使用者便於分享對話紀錄給醫師，並建立透明的通報與調查機制。",
+    "並呼籲社群平台標示 AI 生成的健康內容。"
    ],
-   "b": "日本總務省與經產省預計自 2027 年度起導入資料中心與雲端服務安全認證制度。審查項目含企業資訊、防洩漏風險管理與設備採購來源，並建議金融、醫療等機構使用認證業者。政府將向 2027 年 1 月召開的國會提出經濟安全保障推進法修正案。制度參考 JC-STAR，中國製產品迄今無取得認證實績，外界認為實質排除中國業者。",
-   "u": "https://infosecu.technews.tw/2026/10/19/japan-security-certification-cloud-services-exclude-china-russia-influenced-firms/",
-   "p": "2026-10-19T10:00:29+00:00",
-   "o": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者"
+   "b": "研究指出，AI 的有害醫療建議對話紀錄通常只留在 AI 公司系統內，外界無法查閱。案例中一名 60 歲男子聽信 ChatGPT 把食鹽換成溴化鈉，導致溴中毒住院。研究團隊建議 AI 企業讓使用者便於分享對話紀錄給醫師，並建立透明的通報與調查機制。並呼籲社群平台標示 AI 生成的健康內容。",
+   "u": "https://technews.tw/2026/10/20/ai-medical-advice-risks-liability-crisis/",
+   "p": "2026-10-20T01:00:28+00:00",
+   "o": "AI 給錯醫療建議卻無跡可尋，研究籲建立追蹤與通報機制"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "勒龐趁法國動盪自我定位為準領導人",
+   "pts": [
+    "全國性動盪使極右翼候選人勒龐受惠。",
+    "馬克宏政府則難以維持控制。"
+   ],
+   "b": "全國性動盪使極右翼候選人勒龐受惠。馬克宏政府則難以維持控制。",
+   "u": "https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews",
+   "p": "2026-10-20T01:00:00+00:00",
+   "o": "Marine Le Pen Seizes on French Chaos to Present Herself as Leader in Waiting"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "岸田：烏克蘭戰事若得逞，東亞也會有國家誤判",
+   "pts": [
+    "前首相岸田文雄 19 日在牛津大學與前英國首相蘇納克對談。",
+    "他說俄羅斯入侵若成功，東亞可能有國家誤以為能以武力單方面改變現狀。"
+   ],
+   "b": "前首相岸田文雄 19 日在牛津大學與前英國首相蘇納克對談。他說俄羅斯入侵若成功，東亞可能有國家誤以為能以武力單方面改變現狀。",
+   "u": "https://www.sankei.com/article/20261020-EF2KYCMIZFIEZOCWS2LZWC75KE/",
+   "p": "2026-10-20T00:58:01+00:00",
+   "o": "「東アジアでも勘違いする国が出る」岸田氏がウクライナ侵攻に危機感、英元首相と対談"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美司法部起訴 28 名不實登記選民的非公民，批加州不配合",
+   "pts": [
+    "美國司法部 19 日起訴加州 28 名外籍人士，指控其在無公民身分下登記為選民。",
+    "此舉屬川普政府為 11 月期中選舉杜絕不當投票的作為，司法部批評加州不配合。"
+   ],
+   "b": "美國司法部 19 日起訴加州 28 名外籍人士，指控其在無公民身分下登記為選民。此舉屬川普政府為 11 月期中選舉杜絕不當投票的作為，司法部批評加州不配合。",
+   "u": "https://www.sankei.com/article/20261020-TA2F5YMJLJKS3P7ADTJSUKSXLE/",
+   "p": "2026-10-20T00:55:09+00:00",
+   "o": "不正有権者登録の非市民28人訴追、米司法省 カリフォルニア州が根非協力と批判"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "油價小幅走低但供應風險猶存",
+   "pts": [
+    "亞洲早盤油價小幅下滑。",
+    "澳新銀行指出，支撐燃料市場的努力恐怕不足。"
+   ],
+   "b": "亞洲早盤油價小幅下滑。澳新銀行指出，支撐燃料市場的努力恐怕不足。",
+   "u": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-but-supply-risks-linger-913dc341?mod=rss_markets_main",
+   "p": "2026-10-20T00:54:00+00:00",
+   "o": "Oil Edges Lower But Supply Risks Linger"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "日本向聯合國提出核廢除決議案，要求完全履行核裁軍",
+   "pts": [
+    "日本政府 19 日宣布向聯大第一委員會提交核武廢除決議案，已連續 33 年提出。",
+    "鑑於 5 月 NPT 審議會議未能通過成果文件，要求核武國完全履行核裁軍義務。"
+   ],
+   "b": "日本政府 19 日宣布向聯大第一委員會提交核武廢除決議案，已連續 33 年提出。鑑於 5 月 NPT 審議會議未能通過成果文件，要求核武國完全履行核裁軍義務。",
+   "u": "https://www.sankei.com/article/20261020-Q76OR7T7WBI45OGF4IMTPZC44M/",
+   "p": "2026-10-20T00:52:49+00:00",
+   "o": "NPTに基づき「核軍縮を完全履行を」要請 日本が国連に廃絶決議案を提出"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "AI 熱潮疑慮與高債券殖利率，日經指數下挫",
+   "pts": [
+    "日經平均股價早盤下跌 0.7%，投資人對 AI 熱潮與偏高的債券殖利率感到擔憂。"
+   ],
+   "b": "日經平均股價早盤下跌 0.7%，投資人對 AI 熱潮與偏高的債券殖利率感到擔憂。",
+   "u": "https://www.wsj.com/finance/stocks/nikkei-falls-amid-lingering-worry-over-ai-boom-amid-elevated-bond-yields-6628932c?mod=rss_markets_main",
+   "p": "2026-10-20T00:50:00+00:00",
+   "o": "Nikkei Falls Amid Lingering Worry Over AI Boom Amid Elevated Bond Yields"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "東京匯市日圓報 158 日圓中段，通膨加速疑慮使日圓遭拋售",
+   "pts": [
+    "20 日上午東京外匯市場日圓兌美元以 158 日圓中段開盤。",
+    "標題指日本通膨加速的疑慮使日圓遭賣出。"
+   ],
+   "b": "20 日上午東京外匯市場日圓兌美元以 158 日圓中段開盤。標題指日本通膨加速的疑慮使日圓遭賣出。",
+   "u": "https://www.sankei.com/article/20261020-6ZRY5FLS35PM3DFSDDEVGPQDGI/",
+   "p": "2026-10-20T00:47:34+00:00",
+   "o": "東京円、158円台半ば 日本でインフレが加速するとの懸念から円が売られる"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "完全孤立、附近沒有任何恆星，FAST 望遠鏡發現「暗星系」新候選者",
+   "t": "馬斯克宣布送 SpaceX 股票，明年擬發美國每名孩童 1 股",
    "pts": [
-    "中國 FAST 電波望遠鏡發現極孤立氫雲團 J1351+0039，為暗星系（RELHIC）候選者。",
-    "其周遭 100 kpc 內無可見恆星或大型星系，中性氫質量約為太陽的 50 萬倍，總質量約 1.3 億倍。",
-    "隨機運動速度約每秒 11.6 公里，遠大於旋轉速度約每秒 4.2 公里。",
-    "團隊接下來需分析韋伯或哈伯影像，確認是否真正無星。"
+    "馬斯克 19 日在 X 平台宣布，明年將送給美國每位孩童 1 股 SpaceX 股票，並稱這是「第一步」。",
+    "美國 18 歲以下孩童約 7,300 萬人，馬斯克持有 SpaceX 約 38% 股份。",
+    "SpaceX 6 月完成史上最大 IPO，募得 857 億美元。",
+    "星艦上月首度成功進入地球軌道。"
    ],
-   "b": "中國 FAST 電波望遠鏡發現極孤立氫雲團 J1351+0039，為暗星系（RELHIC）候選者。其周遭 100 kpc 內無可見恆星或大型星系，中性氫質量約為太陽的 50 萬倍，總質量約 1.3 億倍。隨機運動速度約每秒 11.6 公里，遠大於旋轉速度約每秒 4.2 公里。團隊接下來需分析韋伯或哈伯影像，確認是否真正無星。",
-   "u": "https://technews.tw/2026/10/19/j13510039-relhic-dark-galaxy/",
-   "p": "2026-10-19T09:51:46+00:00",
-   "o": "完全孤立、附近沒有任何恆星，FAST 望遠鏡發現「暗星系」新候選者"
+   "b": "馬斯克 19 日在 X 平台宣布，明年將送給美國每位孩童 1 股 SpaceX 股票，並稱這是「第一步」。美國 18 歲以下孩童約 7,300 萬人，馬斯克持有 SpaceX 約 38% 股份。SpaceX 6 月完成史上最大 IPO，募得 857 億美元。星艦上月首度成功進入地球軌道。",
+   "u": "https://finance.technews.tw/2026/10/20/elon-musk-vows-to-give-a-share-of-spacex-stock-to-every-us-child/",
+   "p": "2026-10-20T00:40:08+00:00",
+   "o": "馬斯克宣布送 SpaceX 股票，明年擬發美國每名孩童 1 股"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "自駕車只「看得見」還不夠，智慧地圖讓車輛像在地人「理解」路況",
+   "pts": [
+    "感測器只能反映當下所見，智慧地圖能提供超出視野的道路結構與速限資訊。",
+    "多數自駕系統在訓練與測試階段仍高度依賴高精地圖與車道模型。",
+    "端到端 AI 結合相機視覺與基礎 GPS 地圖，可更快發現定位與感測偏差。",
+    "未來挑戰在於維持地圖即時性與跨平台互通性。"
+   ],
+   "b": "感測器只能反映當下所見，智慧地圖能提供超出視野的道路結構與速限資訊。多數自駕系統在訓練與測試階段仍高度依賴高精地圖與車道模型。端到端 AI 結合相機視覺與基礎 GPS 地圖，可更快發現定位與感測偏差。未來挑戰在於維持地圖即時性與跨平台互通性。",
+   "u": "https://technews.tw/2026/10/20/key-mapless-debate-self-driving-cars/",
+   "p": "2026-10-20T00:30:11+00:00",
+   "o": "自駕車只「看得見」還不夠，智慧地圖讓車輛像在地人「理解」路況"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "從 2021 年的研究路線圖到 Claude Code，Anthropic 如何把 AI 程式設計師變成現實",
+   "pts": [
+    "Anthropic 2021 年 7 月的內部研究路線圖因版權訴訟公開，設想可對話建立並修改軟體的 AI 助手。",
+    "路線圖把「透過強化學習掌握工具使用」列為重要方向。",
+    "Anthropic 稱截至 2026 年 5 月，內部合併的程式碼超過 80% 由 Claude 撰寫。",
+    "公司強調程式碼行數只反映產量，不能直接等同生產力或成本節省。"
+   ],
+   "b": "Anthropic 2021 年 7 月的內部研究路線圖因版權訴訟公開，設想可對話建立並修改軟體的 AI 助手。路線圖把「透過強化學習掌握工具使用」列為重要方向。Anthropic 稱截至 2026 年 5 月，內部合併的程式碼超過 80% 由 Claude 撰寫。公司強調程式碼行數只反映產量，不能直接等同生產力或成本節省。",
+   "u": "https://technews.tw/2026/10/20/anthropic-was-researching-safe-ai-agents-as-early-as-2021/",
+   "p": "2026-10-20T00:20:28+00:00",
+   "o": "從 2021 年的研究路線圖到 Claude Code，Anthropic 如何把 AI 程式設計師變成現實"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "NASA 重返金星計畫加速，DAVINCI 提前至 2030 年發射",
+   "pts": [
+    "NASA 金星任務 DAVINCI 與 VERITAS 的發射時程已更新至 2030 年代初期。",
+    "DAVINCI 探測器隔熱球體測試顯示可將內部組件維持在攝氏 30 度以下。",
+    "DAVINCI 有望傳回 1982 年以來首批金星表面直接影像。",
+    "ESA 的 Envision 預計 2032 年發射，Rocket Lab 最快 2027 年末發射私人探測器。"
+   ],
+   "b": "NASA 金星任務 DAVINCI 與 VERITAS 的發射時程已更新至 2030 年代初期。DAVINCI 探測器隔熱球體測試顯示可將內部組件維持在攝氏 30 度以下。DAVINCI 有望傳回 1982 年以來首批金星表面直接影像。ESA 的 Envision 預計 2032 年發射，Rocket Lab 最快 2027 年末發射私人探測器。",
+   "u": "https://technews.tw/2026/10/20/nasa-relaunches-venus-exploration-mission/",
+   "p": "2026-10-20T00:10:03+00:00",
+   "o": "NASA 重返金星計畫加速，DAVINCI 提前至 2030 年發射"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "Netflix 約 300 部作品用 AI，省下的製作費誰拿走？",
+   "pts": [
+    "Netflix 官員稱約 300 部作品使用 AI，但不等於 300 部 AI 製作作品，也無公開資料說明平均省下多少成本。",
+    "導演姜允成估計 AI 可減少約四成製作費。",
+    "省下的成本能否留給製作公司，取決於合作與報價方式。",
+    "目前無證據顯示 Netflix 已因 AI 全面壓低製作報價。"
+   ],
+   "b": "Netflix 官員稱約 300 部作品使用 AI，但不等於 300 部 AI 製作作品，也無公開資料說明平均省下多少成本。導演姜允成估計 AI 可減少約四成製作費。省下的成本能否留給製作公司，取決於合作與報價方式。目前無證據顯示 Netflix 已因 AI 全面壓低製作報價。",
+   "u": "https://technews.tw/2026/10/20/netflix-uses-ai-in-300-titles-who-gets-the-savings/",
+   "p": "2026-10-20T00:00:23+00:00",
+   "o": "Netflix 約 300 部作品用 AI，省下的製作費誰拿走？"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "實體 AI 是日本「國粹」進化的王牌，社會實裝以十年為單位",
+   "pts": [
+    "日本自豪的產業機器人與自動化工廠，期待以實體 AI 驅動機器自主運作而進化。",
+    "日本在尖端技術落後美中，社會實裝被視為十年之計。"
+   ],
+   "b": "日本自豪的產業機器人與自動化工廠，期待以實體 AI 驅動機器自主運作而進化。日本在尖端技術落後美中，社會實裝被視為十年之計。",
+   "u": "https://www.sankei.com/article/20261020-DAVNCIVLDBKBLFSEME5DTIE6LI/",
+   "p": "2026-10-20T00:00:00+00:00",
+   "o": "フィジカルAIは〝お家芸〟進化の切り札 デジタル敗戦挽回へ、社会実装「10年の計」"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "台灣應將中國擴大技術出口限制的危機，變成拓展對外合作的轉機",
+   "pts": [
+    "作者指出中國擴大出口技術管制，供應鏈高度整合的國家容易受到威脅。",
+    "台灣自中國與香港進口金額持續增加，中國與香港為台灣第一大進口來源地。",
+    "建議政府盤點歐盟、日本等國自中國進口的零組件，協助其降低中國風險。"
+   ],
+   "b": "作者指出中國擴大出口技術管制，供應鏈高度整合的國家容易受到威脅。台灣自中國與香港進口金額持續增加，中國與香港為台灣第一大進口來源地。建議政府盤點歐盟、日本等國自中國進口的零組件，協助其降低中國風險。",
+   "u": "https://finance.technews.tw/2026/10/20/taiwan-should-transform-chinas-expanded-tech-export-restrictions-into-opportunities-for-broader-international-cooperation/",
+   "p": "2026-10-19T23:50:34+00:00",
+   "o": "台灣應將中國擴大技術出口限制的危機，變成拓展對外合作的轉機"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "范斯拒絕背書納坦雅胡競選連任",
+   "pts": [
+    "副總統范斯與川普立場分歧，川普支持納坦雅胡在 10 月 27 日的以色列大選連任。"
+   ],
+   "b": "副總統范斯與川普立場分歧，川普支持納坦雅胡在 10 月 27 日的以色列大選連任。",
+   "u": "https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews",
+   "p": "2026-10-19T23:50:00+00:00",
+   "o": "Vance Declines to Endorse Netanyahu in Re-Election Bid"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "3M 擴大與亞馬遜資料中心產品合作，股價跳升",
+   "pts": [
+    "3M 宣布擴大對亞馬遜資料中心的產品供應關係，股價上漲。",
+    "公司即將公布財報。"
+   ],
+   "b": "3M 宣布擴大對亞馬遜資料中心的產品供應關係，股價上漲。公司即將公布財報。",
+   "u": "https://finance.yahoo.com/m/9f746d33-c17c-38dd-9fb5-a7b8bead6c9c/3m-jumps-on-expanded-amazon.html?.tsrc=rss",
+   "p": "2026-10-19T23:39:09+00:00",
+   "o": "3M Jumps On Expanded Amazon Data Center Deal; Earnings On Tap"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "AI 賣壓降溫，那斯達克 100 創近一個月最佳單日表現",
+   "pts": [
+    "費城半導體指數上漲約 1.6%。"
+   ],
+   "b": "費城半導體指數上漲約 1.6%。",
+   "u": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
+   "p": "2026-10-19T23:00:23+00:00",
+   "o": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "那斯達克漲逾 1%，道瓊跌破 50 日線",
+   "pts": [
+    "大型科技股推動尾盤強力反彈，那斯達克綜合指數漲 1.11%。"
+   ],
+   "b": "大型科技股推動尾盤強力反彈，那斯達克綜合指數漲 1.11%。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss",
+   "p": "2026-10-19T22:11:00+00:00",
+   "o": "Nasdaq Jumps Past 1 Percent as VIX Swings While Dow Dips Below Its 50-Day Line"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "川普稱願與普丁、習近平會面",
+   "pts": [
+    "川普表示願意與俄羅斯、中國領導人討論去核化。"
+   ],
+   "b": "川普表示願意與俄羅斯、中國領導人討論去核化。",
+   "u": "https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews",
+   "p": "2026-10-19T21:55:00+00:00",
+   "o": "Trump Says He Would Be Open to Meeting With Putin and Xi"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "涉竊聽的前 OpenAI 員工曾與沙烏地皇室談工作",
+   "pts": [
+    "法官裁定 Abdulrahman Alfozan 不得保釋。",
+    "沙烏地領事館曾提出替他支付保釋金。"
+   ],
+   "b": "法官裁定 Abdulrahman Alfozan 不得保釋。沙烏地領事館曾提出替他支付保釋金。",
+   "u": "https://www.wsj.com/tech/ai/former-openai-worker-accused-of-bugging-discussed-jobs-with-saudi-royal-277c1c45?mod=rss_worldnews",
+   "p": "2026-10-19T21:52:00+00:00",
+   "o": "Former OpenAI Worker Accused of Bugging Discussed Jobs With Saudi Royal"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "Tradeweb 擬以約 19.7 億美元收購 Trumid",
+   "pts": [
+    "Tradeweb 將收購固定收益交易平台 Trumid。",
+    "交易使 Tradeweb 更早切入信用週期。"
+   ],
+   "b": "Tradeweb 將收購固定收益交易平台 Trumid。交易使 Tradeweb 更早切入信用週期。",
+   "u": "https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb?mod=rss_markets_main",
+   "p": "2026-10-19T21:49:00+00:00",
+   "o": "Tradeweb to Buy Trumid For About $1.97 Billion"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "克里夫蘭—克里夫斯因第三季佳績與上修預期而大漲",
+   "pts": [
+    "10 月 19 日該鋼廠調整後 EBITDA 較前一季成長逾一倍。"
+   ],
+   "b": "10 月 19 日該鋼廠調整後 EBITDA 較前一季成長逾一倍。",
+   "u": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-cleveland-cliffs-surges-on-stronger-q3-results-and-raised-2027-ebitda-outlook/?.tsrc=rss",
+   "p": "2026-10-19T21:37:27+00:00",
+   "o": "Stock Market Today, Oct. 19: Cleveland-Cliffs Surges on Stronger Q3 Results and Raised 2027 EBITDA Outlook"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "別看科技股，能源才是本季財報大贏家",
+   "pts": [
+    "伊朗戰爭推升汽油等燃料價格，讓能源公司受惠。"
+   ],
+   "b": "伊朗戰爭推升汽油等燃料價格，讓能源公司受惠。",
+   "u": "https://finance.yahoo.com/m/2bba9727-a5dc-3eb3-821b-571b920f9856/forget-tech.-energy-will-be.html?.tsrc=rss",
+   "p": "2026-10-19T21:33:00+00:00",
+   "o": "Forget Tech. Energy Will Be The Big Winner This Earnings Season."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "更新：美股指數收盤漲跌互見，成交量清淡",
+   "pts": [
+    "報導更新了指數與個股漲跌、總體經濟數據與公司消息。"
+   ],
+   "b": "報導更新了指數與個股漲跌、總體經濟數據與公司消息。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-mixed-213108305.html?.tsrc=rss",
+   "p": "2026-10-19T21:31:08+00:00",
+   "o": "Update: US Equity Indexes Close Mixed Amid Thin Trading Volumes as Consumer Discretionary, Technology Tops Sector Charts"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "亞馬遜因摩根士丹利首選與 350 美元目標價大漲",
+   "pts": [
+    "摩根士丹利的升評強化了 AWS 與 AI 動能。",
+    "亞馬遜將於 10 月 29 日公布財報。"
+   ],
+   "b": "摩根士丹利的升評強化了 AWS 與 AI 動能。亞馬遜將於 10 月 29 日公布財報。",
+   "u": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target/?.tsrc=rss",
+   "p": "2026-10-19T21:31:03+00:00",
+   "o": "Stock Market Today, Oct. 19: Amazon Surges on Morgan Stanley Top Pick and $350 Price Target"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "高盛升評並給 139 美元目標價，CoreWeave 反彈",
+   "pts": [
+    "高盛把目標價由 106 美元上調至 139 美元，穩住市場對 AI 基礎設施合約經濟性的看法。"
+   ],
+   "b": "高盛把目標價由 106 美元上調至 139 美元，穩住市場對 AI 基礎設施合約經濟性的看法。",
+   "u": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-coreweave-rebounds-on-goldman-sachs-buy-upgrade-and-139-price-target/?.tsrc=rss",
+   "p": "2026-10-19T21:25:01+00:00",
+   "o": "Stock Market Today, Oct. 19: CoreWeave Rebounds on Goldman Sachs Buy Upgrade and $139 Price Target"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "克里夫蘭—克里夫斯預期 2027 年表現優異，受惠關稅",
+   "pts": [
+    "第三季 EBITDA 為 6.12 億美元，營收 56 億美元，高於華爾街預期的約 6.01 億美元。"
+   ],
+   "b": "第三季 EBITDA 為 6.12 億美元，營收 56 億美元，高於華爾街預期的約 6.01 億美元。",
+   "u": "https://finance.yahoo.com/m/9ded3254-8acb-336d-a279-aa7dd53cbf7b/cleveland-cliffs-expects-2027.html?.tsrc=rss",
+   "p": "2026-10-19T21:20:00+00:00",
+   "o": "Cleveland-Cliffs Expects 2027 Will Be a Very Good Year With Help From Tariffs"
+  },
+  {
+   "c": "tech",
+   "s": "DIGITIMES",
+   "t": "友達玻璃基板不跟群創拚尺寸；金管會呼籲謹慎投資；中國擬管制 AI 晶片設計與算力技術",
+   "pts": [
+    "DIGITIMES Today 彙整友達玻璃基板策略、金管會風險提醒與中國擬管制 AI 晶片設計及算力技術等消息。"
+   ],
+   "b": "DIGITIMES Today 彙整友達玻璃基板策略、金管會風險提醒與中國擬管制 AI 晶片設計及算力技術等消息。",
+   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771964_TVTLYCR055TK5855UPQJC",
+   "p": "2026-10-19T21:00:00+00:00",
+   "o": "DIGITIMES Today：友達玻璃基板不跟群創拚尺寸 | 金管會呼籲謹慎投資注意風險 | 中國擬管制AI晶片設計與算力技術"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "AI 信貸疑慮緩解，美股多數收高",
+   "pts": [
+    "交易員減碼對 CoreWeave 等追逐 AI 的科技公司的悲觀押注。"
+   ],
+   "b": "交易員減碼對 CoreWeave 等追逐 AI 的科技公司的悲觀押注。",
+   "u": "https://www.wsj.com/finance/investing/u-s-stocks-mostly-higher-as-ai-credit-worries-abate-600bf008?mod=rss_markets_main",
+   "p": "2026-10-19T20:58:00+00:00",
+   "o": "U.S. Stocks Mostly Higher as AI Credit Worries Abate"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "馬斯克承諾向美國兒童發放 SpaceX 股份",
+   "pts": [
+    "同一則電子報也提到沙烏地阿拉伯延後旗艦投資人大會，以及美國鋼鐵商預估創紀錄獲利。"
+   ],
+   "b": "同一則電子報也提到沙烏地阿拉伯延後旗艦投資人大會，以及美國鋼鐵商預估創紀錄獲利。",
+   "u": "https://www.wsj.com/finance/stocks/elon-musk-promises-to-give-out-spacex-shares-to-u-s-children-69ffe0b5?mod=rss_markets_main",
+   "p": "2026-10-19T20:18:00+00:00",
+   "o": "Elon Musk Promises to Give Out SpaceX Shares to U.S. Children"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美國豁免部分對俄制裁，油價期貨收低",
+   "pts": [
+    "川普豁免部分新對俄制裁後，原油期貨收低。",
+    "中東供應疑慮限制了跌幅。"
+   ],
+   "b": "川普豁免部分新對俄制裁後，原油期貨收低。中東供應疑慮限制了跌幅。",
+   "u": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
+   "p": "2026-10-19T19:44:00+00:00",
+   "o": "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "西非成為黃金開採的新蠻荒西部",
+   "pts": [
+    "金價接近歷史高點，礦業公司已在西非新金礦投入數十億美元。"
+   ],
+   "b": "金價接近歷史高點，礦業公司已在西非新金礦投入數十億美元。",
+   "u": "https://www.wsj.com/world/africa/the-new-wild-west-of-gold-mining-is-west-africa-8b4886c4?mod=rss_worldnews",
+   "p": "2026-10-19T19:18:00+00:00",
+   "o": "The New Wild West of Gold Mining Is West Africa"
+  },
+  {
+   "c": "tech",
+   "s": "DIGITIMES",
+   "t": "聯發科 TPU v9 玻璃基板良率卡關？2026 年拉貨仍拚高檔",
+   "pts": [
+    "市場傳出聯發科與 Google 合作的 TPU 玻璃基板良率卡關。",
+    "標題指 2026 年拉貨仍維持高檔。"
+   ],
+   "b": "市場傳出聯發科與 Google 合作的 TPU 玻璃基板良率卡關。標題指 2026 年拉貨仍維持高檔。",
+   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771936_S1EL12IA2J94BA7U44MUF",
+   "p": "2026-10-19T19:00:00+00:00",
+   "o": "聯發科TPU v9玻璃基板良率卡關？ 2026年拉貨仍拚高檔"
+  },
+  {
+   "c": "tech",
+   "s": "DIGITIMES",
+   "t": "（獨家）蘋果逼出微軟 Surface 降規，12 吋拚低成本、超微 Arm 回歸",
+   "pts": [
+    "蘋果 MacBook Neo 衝擊全球低價筆電市場，整機供應鏈成本持續攀升。",
+    "微軟初步擬定 12 吋 Surface 入門機種全面降規，多家筆電業者同步調整策略。"
+   ],
+   "b": "蘋果 MacBook Neo 衝擊全球低價筆電市場，整機供應鏈成本持續攀升。微軟初步擬定 12 吋 Surface 入門機種全面降規，多家筆電業者同步調整策略。",
+   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771912_8LJ815QH28NEAL1EUBWT0",
+   "p": "2026-10-19T19:00:00+00:00",
+   "o": "（獨家）蘋果逼出微軟Surface降規 12吋拚低成本、超微Arm回歸"
+  },
+  {
+   "c": "tech",
+   "s": "DIGITIMES",
+   "t": "AI 基礎建設不缺需求，電力、建置、技術與資金「四重關卡」待突破",
+   "pts": [
+    "標題指 AI 基礎建設需求不缺，但電力、建置、技術與資金四重關卡仍待突破。"
+   ],
+   "b": "標題指 AI 基礎建設需求不缺，但電力、建置、技術與資金四重關卡仍待突破。",
+   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771935_3AZ8X40L425RZ34K8QS4W",
+   "p": "2026-10-19T18:56:41+00:00",
+   "o": "AI基礎建設不缺需求 電力、建置、技術與資金「四重關卡」待突破"
+  },
+  {
+   "c": "tech",
+   "s": "DIGITIMES",
+   "t": "蘋果 Micro LED 喊停，傳 LGD 仍暗中研發",
+   "pts": [
+    "蘋果退出 Micro LED 開發後，LG Display 也暫緩大規模量產投資。",
+    "但韓媒引述業界消息稱，LGD 仍持續投入研發以維持技術實力。"
+   ],
+   "b": "蘋果退出 Micro LED 開發後，LG Display 也暫緩大規模量產投資。但韓媒引述業界消息稱，LGD 仍持續投入研發以維持技術實力。",
+   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771925_2QS8G8033FY7PF4RM48FS",
+   "p": "2026-10-19T18:52:25+00:00",
+   "o": "蘋果Micro LED喊停 傳LGD仍暗中研發"
   }
  ]
 }
