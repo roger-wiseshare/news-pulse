@@ -1,513 +1,513 @@
 {
- "updated": "2026-10-26T00:12:23+00:00",
+ "updated": "2026-10-26T12:14:30+00:00",
  "items": [
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 1｜聯準會升息路徑與 10/28 FOMC（納指 9／費半 9　方向 ↓）",
+   "c": "fin",
+   "s": "WSJ",
+   "t": "金融服務業快訊：市場談話",
    "pts": [
-    "納斯達克影響 9 分、費城半導體影響 9 分，方向 ↓（偏空）。",
-    "聯準會 9/16 升息 25bp 至 3.75%–4.00%；9 月 CPI 年增 3.7%（8 月 3.4%）、核心 2.6%（前值 2.4%）；CME FedWatch（10/22）10 月維持不變 90.6%、升息 9.4%；eoption（10/23）稱 12 月升息機率約 71%（單一來源）；10/28 美東 14:00 公布決議（台北 10/29 02:00），本次不公布點陣圖（Tradingkey，10/22–10/25；eoption，10/23）。"
+    "最新市場談話涵蓋金融服務業，提及安聯、Medibank Private、Plus500 等公司。"
    ],
-   "b": "納斯達克影響 9 分、費城半導體影響 9 分，方向 ↓（偏空）。聯準會 9/16 升息 25bp 至 3.75%–4.00%；9 月 CPI 年增 3.7%（8 月 3.4%）、核心 2.6%（前值 2.4%）；CME FedWatch（10/22）10 月維持不變 90.6%、升息 9.4%；eoption（10/23）稱 12 月升息機率約 71%（單一來源）；10/28 美東 14:00 公布決議（台北 10/29 02:00），本次不公布點陣圖（Tradingkey，10/22–10/25；eoption，10/23）。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:58+00:00",
-   "o": "因素 1｜聯準會升息路徑與 10/28 FOMC（納指 9／費半 9　方向 ↓）"
+   "b": "最新市場談話涵蓋金融服務業，提及安聯、Medibank Private、Plus500 等公司。",
+   "u": "https://www.wsj.com/business/financial-services-roundup-market-talk-8a90f511?mod=rss_markets_main",
+   "p": "2026-10-26T12:08:00+00:00",
+   "o": "Financial Services Roundup: Market Talk"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 2｜超大規模雲端財報與資本支出（納指 9／費半 8　方向 ↔）",
+   "c": "fin",
+   "s": "WSJ",
+   "t": "科技、媒體與電信快訊：市場談話",
    "pts": [
-    "納斯達克影響 9 分、費城半導體影響 8 分，方向 ↔（中性）。",
-    "10/28 盤後 Alphabet、微軟（KLA 同日），10/29 盤後亞馬遜、英特爾；公司指引 2026 年資本支出：Alphabet 1,950–2,050 億美元、亞馬遜約 2,200 億美元、微軟約 1,750 億美元（含融資租賃，口徑不同）；模型估計財報日隱含波動 MSFT 4.2%、GOOGL 5.3%、AMZN 7.3%、INTC 8.8%、KLAC 9.3%；Meta 10/21 財報後 10/22 下跌 6.98%（Sentisense，10/25 讀取；stockanalysis）。"
+    "最新市場談話涵蓋科技、媒體與電信業，提及寒武紀科技、Maxis、SK 海力士等公司。"
    ],
-   "b": "納斯達克影響 9 分、費城半導體影響 8 分，方向 ↔（中性）。10/28 盤後 Alphabet、微軟（KLA 同日），10/29 盤後亞馬遜、英特爾；公司指引 2026 年資本支出：Alphabet 1,950–2,050 億美元、亞馬遜約 2,200 億美元、微軟約 1,750 億美元（含融資租賃，口徑不同）；模型估計財報日隱含波動 MSFT 4.2%、GOOGL 5.3%、AMZN 7.3%、INTC 8.8%、KLAC 9.3%；Meta 10/21 財報後 10/22 下跌 6.98%（Sentisense，10/25 讀取；stockanalysis）。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:57+00:00",
-   "o": "因素 2｜超大規模雲端財報與資本支出（納指 9／費半 8　方向 ↔）"
+   "b": "最新市場談話涵蓋科技、媒體與電信業，提及寒武紀科技、Maxis、SK 海力士等公司。",
+   "u": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7433e957?mod=rss_markets_main",
+   "p": "2026-10-26T12:05:00+00:00",
+   "o": "Tech, Media & Telecom Roundup: Market Talk"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 3｜長天期殖利率逼近 5%（納指 8／費半 8　方向 ↓）",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美國期中選舉剩一週，民主黨奪回眾議院出現勝算；川普支持率創新低仍四處造勢",
    "pts": [
-    "納斯達克影響 8 分、費城半導體影響 8 分，方向 ↓（偏空）。",
-    "10 年期 10/23 約 4.99%（+3bp；來源 4.987%～4.999%），10/14 曾達約 5.19%（通膨數據高於預期，roic 報導），10/22 回落至 4.96%；油價推升通膨預期使殖利率重回 5% 邊緣。TLT 10/23 收 81.34（−0.49%）。（Cappnotes、eoption，10/23；roic，10/15）"
+    "距離 11 月 3 日期中選舉剩一週，在野民主黨有望奪回眾議院多數，並將參議院納入視野。",
+    "執政共和黨受攻擊伊朗與物價居高不下影響，預料選情吃緊。",
+    "支持率創新低的川普連日巡迴造勢，力圖鞏固支持者。"
    ],
-   "b": "納斯達克影響 8 分、費城半導體影響 8 分，方向 ↓（偏空）。10 年期 10/23 約 4.99%（+3bp；來源 4.987%～4.999%），10/14 曾達約 5.19%（通膨數據高於預期，roic 報導），10/22 回落至 4.96%；油價推升通膨預期使殖利率重回 5% 邊緣。TLT 10/23 收 81.34（−0.49%）。（Cappnotes、eoption，10/23；roic，10/15）",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:56+00:00",
-   "o": "因素 3｜長天期殖利率逼近 5%（納指 8／費半 8　方向 ↓）"
+   "b": "距離 11 月 3 日期中選舉剩一週，在野民主黨有望奪回眾議院多數，並將參議院納入視野。執政共和黨受攻擊伊朗與物價居高不下影響，預料選情吃緊。支持率創新低的川普連日巡迴造勢，力圖鞏固支持者。",
+   "u": "https://www.sankei.com/article/20261026-YHC3X3TZXBMORBWXBH33NIVILI/",
+   "p": "2026-10-26T11:59:28+00:00",
+   "o": "米中間選挙投票まで1週間 民主、下院奪還に現実味 トランプ氏遊説行脚も支持率過去最低"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 4｜記憶體週期與中國 CXMT 競爭（納指 6／費半 9　方向 ↓）",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美股期貨盤前走高，交易員關注油價下滑並等待本週聯準會決議",
    "pts": [
-    "納斯達克影響 6 分、費城半導體影響 9 分，方向 ↓（偏空）。",
-    "CXMT 4F² DRAM 設計消息自 10/12 起壓低記憶體股（Pip Theory 標題：SK 海力士 −10%、三星 −7.4%，日期未註明）；10/22 MU 收盤 −6.26%、WDC −6.43%、SanDisk 盤中 −8%（24/7 Wall St.）；10/23 MU +2.46% 反彈，WDC −2.97%、STX −1.81%；MU 10/23 收 877.55，較 10/1 高點 1,097.39 低 20.0%。"
+    "週一盤前美股期貨小幅走高。",
+    "交易員留意到油價走低，並等待本週聯準會的利率決議。"
    ],
-   "b": "納斯達克影響 6 分、費城半導體影響 9 分，方向 ↓（偏空）。CXMT 4F² DRAM 設計消息自 10/12 起壓低記憶體股（Pip Theory 標題：SK 海力士 −10%、三星 −7.4%，日期未註明）；10/22 MU 收盤 −6.26%、WDC −6.43%、SanDisk 盤中 −8%（24/7 Wall St.）；10/23 MU +2.46% 反彈，WDC −2.97%、STX −1.81%；MU 10/23 收 877.55，較 10/1 高點 1,097.39 低 20.0%。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:55+00:00",
-   "o": "因素 4｜記憶體週期與中國 CXMT 競爭（納指 6／費半 9　方向 ↓）"
+   "b": "週一盤前美股期貨小幅走高。交易員留意到油價走低，並等待本週聯準會的利率決議。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115912697.html?.tsrc=rss",
+   "p": "2026-10-26T11:59:12+00:00",
+   "o": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 5｜AI 融資與信用風險（納指 7／費半 8　方向 ↓）",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "哪檔不動產 ETF 較值得買：iShares 集中持股的 ICF，還是 Northern Trust 的全球型 GQRE？",
    "pts": [
-    "納斯達克影響 7 分、費城半導體影響 8 分，方向 ↓（偏空）。",
-    "CoreWeave 5 年期 CDS 逾 1,000bp、2032 年債約 77 美分且殖利率逾 15%；Oracle CDS 288bp 創紀錄；Oracle FY27Q1 資本支出 285 億美元、自由現金流 −54 億美元（roic，10/15 報導）；CRWV 10/23 收 54.24（−2.46%），較 10/13 的 77.81 低 30.3%。"
+    "ICF 集中持有 30 檔美國主要 REIT，報酬表現較強。",
+    "GQRE 採全球布局，配息殖利率將近高出一倍。"
    ],
-   "b": "納斯達克影響 7 分、費城半導體影響 8 分，方向 ↓（偏空）。CoreWeave 5 年期 CDS 逾 1,000bp、2032 年債約 77 美分且殖利率逾 15%；Oracle CDS 288bp 創紀錄；Oracle FY27Q1 資本支出 285 億美元、自由現金流 −54 億美元（roic，10/15 報導）；CRWV 10/23 收 54.24（−2.46%），較 10/13 的 77.81 低 30.3%。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:54+00:00",
-   "o": "因素 5｜AI 融資與信用風險（納指 7／費半 8　方向 ↓）"
+   "b": "ICF 集中持有 30 檔美國主要 REIT，報酬表現較強。GQRE 採全球布局，配息殖利率將近高出一倍。",
+   "u": "https://www.fool.com/coverage/etfs/2026/10/26/which-real-estate-etf-is-the-better-buy-ishares-concentrated-icf-or-northern-trust-s-global-gqre/?.tsrc=rss",
+   "p": "2026-10-26T11:58:09+00:00",
+   "o": "Which Real Estate ETF Is the Better Buy: iShares’ Concentrated ICF or Northern Trust’s Global GQRE?"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 6｜輝達與 AI 晶片龍頭／供應鏈（納指 6／費半 8　方向 ↔）",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "盤前異動股：Moderna、巴西 ADR 下跌；SpaceX 上漲",
    "pts": [
-    "納斯達克影響 6 分、費城半導體影響 8 分，方向 ↔（中性）。",
-    "NVDA 10/23 收 210.96（−0.59%），較 10/7 的 237.47 低 11.2%；AVGO 收 321.68（−0.48%），較 10/7 的 376.51 低 14.6%；黃仁勳 10/22 受訪稱未見 2029 年記憶體過剩跡象（CNBC 標題，內文未取得）；輝達下次財報預估 11/18（未確認）。"
+    "週一美股指數期貨在前一交易日科技股拖累下跌後回升。",
+    "投資人轉而關注本週聯準會的政策公告。"
    ],
-   "b": "納斯達克影響 6 分、費城半導體影響 8 分，方向 ↔（中性）。NVDA 10/23 收 210.96（−0.59%），較 10/7 的 237.47 低 11.2%；AVGO 收 321.68（−0.48%），較 10/7 的 376.51 低 14.6%；黃仁勳 10/22 受訪稱未見 2029 年記憶體過剩跡象（CNBC 標題，內文未取得）；輝達下次財報預估 11/18（未確認）。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:53+00:00",
-   "o": "因素 6｜輝達與 AI 晶片龍頭／供應鏈（納指 6／費半 8　方向 ↔）"
+   "b": "週一美股指數期貨在前一交易日科技股拖累下跌後回升。投資人轉而關注本週聯準會的政策公告。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-moderna-brazil-adrs-115628526.html?.tsrc=rss",
+   "p": "2026-10-26T11:56:28+00:00",
+   "o": "Premarket movers: Moderna, Brazil ADRs drop; SpaceX rises"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 7｜油價與中東地緣（納指 7／費半 6　方向 ↓）",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "週一華爾街分析師重點評等：Block、Boise Cascade、Equifax、FirstEnergy、洛克希德馬丁、Lumentum、NetApp、Roper、Spotify 等",
    "pts": [
-    "納斯達克影響 7 分、費城半導體影響 6 分，方向 ↓（偏空）。",
-    "WTI 12 月契約 10/23 結算 103.27 美元（+3.8%），為 4 月底以來最高；布蘭特 116.72 美元（+3.14%），週漲約 6%；胡塞武裝攻擊沙烏地、荷莫茲海峽附近再傳油輪遭襲；S&P 能源板塊 +2.5% 創歷史新高（The Market Breakdown、Cappnotes、eoption，10/23）。"
+    "分析師在週一調整了從國防巨頭到金融科技業者的多檔個股評等。",
+    "市場仍在消化上週的跌勢，金價也出現下跌。"
    ],
-   "b": "納斯達克影響 7 分、費城半導體影響 6 分，方向 ↓（偏空）。WTI 12 月契約 10/23 結算 103.27 美元（+3.8%），為 4 月底以來最高；布蘭特 116.72 美元（+3.14%），週漲約 6%；胡塞武裝攻擊沙烏地、荷莫茲海峽附近再傳油輪遭襲；S&P 能源板塊 +2.5% 創歷史新高（The Market Breakdown、Cappnotes、eoption，10/23）。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:52+00:00",
-   "o": "因素 7｜油價與中東地緣（納指 7／費半 6　方向 ↓）"
+   "b": "分析師在週一調整了從國防巨頭到金融科技業者的多檔個股評等。市場仍在消化上週的跌勢，金價也出現下跌。",
+   "u": "https://247wallst.com/investing/2026/10/26/here-are-mondays-top-wall-street-analyst-research-calls-block-boise-cascade-equifax-firstenergy-lockheed-martin-lumentum-holdings-netapp-roper-technologies-spotify-technology-and-m/?.tsrc=rss",
+   "p": "2026-10-26T11:46:43+00:00",
+   "o": "Here Are Monday’s Top Wall Street Analyst Research Calls: Block, Boise Cascade, Equifax, FirstEnergy, Lockheed Martin, Lumentum Holdings, NetApp, Roper Technologies, Spotify, Technology, and More"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 8｜市場部位、波動與廣度（納指 6／費半 7　方向 ↔）",
+   "c": "tech",
+   "s": "WSJ",
+   "t": "Meta 規劃籌資最高 950 億美元，支應 AI 擴張",
    "pts": [
-    "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↔（中性）。",
-    "VIX 19.45（+2.21%）；NYSE 跌家：漲家 1.72：1、納斯達克 1.57：1；納斯達克新低 334 檔、新高 74 檔；Fear & Greed 20（極度恐懼，eoption）；費半 10/14 前六個交易日下跌近 10%、晶片股市值有望蒸發逾 1 兆美元（Qz，10/14）；10/23 SOX +0.44% 暫止跌。"
+    "Meta 表示將尋求籌資最高 950 億美元。",
+    "資金將用於支應其龐大的 AI 基礎設施與「個人超級智慧」投資。"
    ],
-   "b": "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↔（中性）。VIX 19.45（+2.21%）；NYSE 跌家：漲家 1.72：1、納斯達克 1.57：1；納斯達克新低 334 檔、新高 74 檔；Fear & Greed 20（極度恐懼，eoption）；費半 10/14 前六個交易日下跌近 10%、晶片股市值有望蒸發逾 1 兆美元（Qz，10/14）；10/23 SOX +0.44% 暫止跌。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:51+00:00",
-   "o": "因素 8｜市場部位、波動與廣度（納指 6／費半 7　方向 ↔）"
+   "b": "Meta 表示將尋求籌資最高 950 億美元。資金將用於支應其龐大的 AI 基礎設施與「個人超級智慧」投資。",
+   "u": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e?mod=rss_Technology",
+   "p": "2026-10-26T11:45:00+00:00",
+   "o": "Meta Plans Up to $95 Billion in Financing to Power Its AI Growth"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 9｜台積電與先進製程需求（納指 5／費半 7　方向 ↑）",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "摩根士丹利：選後市場將迎來紓壓",
    "pts": [
-    "納斯達克影響 5 分、費城半導體影響 7 分，方向 ↑（偏多）。",
-    "TSMC 10/15 公布 Q3：營收約 467.2 億美元（年增 41.2%、季增 16.2%）、毛利率 66.4%（Q2 為 67.7%）、HPC 占 68%；Q4 指引營收 523–543 億美元、毛利率 65–67%；Q3 資本支出約 138.4 億美元（fourweekmba，10/18 更新）；TSM ADR 10/23 收 418.51（+1.49%），較 10/5 的 485.80 低 13.9%。"
+    "摩根士丹利週一對客戶表示，包括期中選舉在內的數個後續事件落幕後，應可為目前的股市修正畫下句點。"
    ],
-   "b": "納斯達克影響 5 分、費城半導體影響 7 分，方向 ↑（偏多）。TSMC 10/15 公布 Q3：營收約 467.2 億美元（年增 41.2%、季增 16.2%）、毛利率 66.4%（Q2 為 67.7%）、HPC 占 68%；Q4 指引營收 523–543 億美元、毛利率 65–67%；Q3 資本支出約 138.4 億美元（fourweekmba，10/18 更新）；TSM ADR 10/23 收 418.51（+1.49%），較 10/5 的 485.80 低 13.9%。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:50+00:00",
-   "o": "因素 9｜台積電與先進製程需求（納指 5／費半 7　方向 ↑）"
+   "b": "摩根士丹利週一對客戶表示，包括期中選舉在內的數個後續事件落幕後，應可為目前的股市修正畫下句點。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/post-election-relief-ahead-markets-113100945.html?.tsrc=rss",
+   "p": "2026-10-26T11:31:00+00:00",
+   "o": "Post-election relief ahead for markets, says Morgan Stanley"
   },
   {
-   "c": "imp",
-   "s": "羅傑分析",
-   "t": "因素 10｜美中科技政策：出口管制與第 232 條關稅（納指 4／費半 6　方向 ↔）",
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "政府討論 AI 風險抑制對策，焦點為對惡質業者的罰則",
    "pts": [
-    "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↔（中性）。",
-    "本次搜尋僅見「第 232 條 AI 晶片 25% 關稅」等標題與關稅暫緩 90 天的舊聞，日期與現況無法確認；未查到可確認日期的最新進展，分數保守。"
+    "政府 26 日召開 AI 政策專家會議，展開檢討去年通過的 AI 法。",
+    "對最先進 AI 出現人類非預期「失控」行為的疑慮增加，焦點在修法是否納入對惡質業者的罰則。"
    ],
-   "b": "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↔（中性）。本次搜尋僅見「第 232 條 AI 晶片 25% 關稅」等標題與關稅暫緩 90 天的舊聞，日期與現況無法確認；未查到可確認日期的最新進展，分數保守。",
-   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
-   "p": "2026-10-26T00:08:49+00:00",
-   "o": "因素 10｜美中科技政策：出口管制與第 232 條關稅（納指 4／費半 6　方向 ↔）"
+   "b": "政府 26 日召開 AI 政策專家會議，展開檢討去年通過的 AI 法。對最先進 AI 出現人類非預期「失控」行為的疑慮增加，焦點在修法是否納入對惡質業者的罰則。",
+   "u": "https://www.sankei.com/article/20261026-F4KOUXNPRRNV3HMR4BYFSBGUOM/",
+   "p": "2026-10-26T11:30:13+00:00",
+   "o": "AIリスク抑制策を議論 急速な進化や意図しない「暴走」懸念 悪質業者への罰則規定焦点に"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "道富 RWO 或 iShares REET：長期投資人該選哪檔全球不動產 ETF？",
+   "pts": [
+    "REET 年費率僅 0.14%，RWO 為 0.5%。",
+    "兩者殖利率相近約 3.5%，且同樣重押 Welltower 與 Prologis 等持股。"
+   ],
+   "b": "REET 年費率僅 0.14%，RWO 為 0.5%。兩者殖利率相近約 3.5%，且同樣重押 Welltower 與 Prologis 等持股。",
+   "u": "https://www.fool.com/coverage/etfs/2026/10/26/state-street-s-rwo-or-ishares-reet-which-global-real-estate-etf-should-long-term-investors-choose/?.tsrc=rss",
+   "p": "2026-10-26T11:19:25+00:00",
+   "o": "State Street’s RWO or iShares’ REET: Which Global Real Estate ETF Should Long-Term Investors Choose?"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "三菱扶桑與鴻海的巴士合資公司 11 月成立，以電動化拓展海外，在富山市製造",
+   "pts": [
+    "三菱扶桑卡客車 26 日宣布，與鴻海合資的新巴士公司「FUSO BUS」11 月 1 日成立。",
+    "結合鴻海的電動車開發技術與三菱扶桑的生產能力，並瞄準海外需求。"
+   ],
+   "b": "三菱扶桑卡客車 26 日宣布，與鴻海合資的新巴士公司「FUSO BUS」11 月 1 日成立。結合鴻海的電動車開發技術與三菱扶桑的生產能力，並瞄準海外需求。",
+   "u": "https://www.sankei.com/article/20261026-LLKDYNK7SNMERLKCQ5B32XYQGU/",
+   "p": "2026-10-26T11:16:21+00:00",
+   "o": "三菱ふそう、鴻海とのバス合弁11月設立 EV化で海外展開 富山市で製造"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "在 Oracle 的訂單積壓與資產負債表之間取得平衡",
+   "pts": [
+    "Oracle 手握創紀錄的 AI 積壓訂單，分析師認為足以支撐股價近乎翻倍。",
+    "但該公司剛公布自由現金流為負，財務長也說不準何時轉正。"
+   ],
+   "b": "Oracle 手握創紀錄的 AI 積壓訂單，分析師認為足以支撐股價近乎翻倍。但該公司剛公布自由現金流為負，財務長也說不準何時轉正。",
+   "u": "https://247wallst.com/investing/2026/10/26/balancing-oracles-backlog-against-its-balance-sheet/?.tsrc=rss",
+   "p": "2026-10-26T11:15:06+00:00",
+   "o": "Balancing Oracle’s Backlog Against Its Balance Sheet"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "巴菲特說給這項簡單投資建議「沒人會拿到酬勞」，如今仍在幫你的投資組合",
+   "pts": [
+    "巴菲特給一般投資人的建議比想像中簡單，近來也帶來亮眼報酬。"
+   ],
+   "b": "巴菲特給一般投資人的建議比想像中簡單，近來也帶來亮眼報酬。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-said-nobody-gets-111500674.html?.tsrc=rss",
+   "p": "2026-10-26T11:15:00+00:00",
+   "o": "Warren Buffett said 'nobody gets paid' to give this easy investing advice — how it’s still helping your portfolio today"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "巴西相關企業股價在盧拉意外勝選後下挫",
+   "pts": [
+    "西班牙與葡萄牙股市受選舉結果衝擊尤其嚴重。",
+    "西班牙最大銀行桑坦德銀行股價下跌近 4%。"
+   ],
+   "b": "西班牙與葡萄牙股市受選舉結果衝擊尤其嚴重。西班牙最大銀行桑坦德銀行股價下跌近 4%。",
+   "u": "https://www.wsj.com/world/americas/santander-shares-drop-after-surprise-result-in-brazilian-election-96677e78?mod=rss_worldnews",
+   "p": "2026-10-26T11:13:00+00:00",
+   "o": "Brazil-Exposed Companies Slide After Surprise Lula Victory"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美股期貨走高，投資人等待財報、央行決議與中東局勢",
+   "pts": [
+    "週一美股期貨上揚，投資人準備迎接一週的企業財報、央行政策決議與影響國際市場的事件。",
+    "油價下滑。"
+   ],
+   "b": "週一美股期貨上揚，投資人準備迎接一週的企業財報、央行政策決議與影響國際市場的事件。油價下滑。",
+   "u": "https://investorshub.advfn.com/market-news/article/38545/us-stock-futures-rise-as-investors-await-earnings-central-bank-decisions-and-middle-east-developments-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+   "p": "2026-10-26T11:11:35+00:00",
+   "o": "US Stock Futures Rise as Investors Await Earnings, Central Bank Decisions and Middle East Developments: Dow Jones, S&P, Nasdaq, Wall Street"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "財報、央行與油價展望使華爾街盤前小幅走高；亞洲漲跌互見、歐洲走高",
+   "pts": [
+    "週一盤前華爾街期貨小幅上揚，交易員評估原油價格走緩。"
+   ],
+   "b": "週一盤前華爾街期貨小幅上揚，交易員評估原油價格走緩。",
+   "u": "https://finance.yahoo.com/markets/articles/earnings-central-bank-oil-views-110950351.html?.tsrc=rss",
+   "p": "2026-10-26T11:09:50+00:00",
+   "o": "Earnings, Central Bank, Oil Views Lift Wall Street Modestly Pre-Bell; Asia Mixed, Europe Up"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "晨間風險報告：盧拉在巴西大選爆冷贏得第四任期",
+   "pts": [
+    "內容另提到花旗取得監管機構同意，在中國設立全資證券合資公司。",
+    "另有一艘載運俄羅斯柴油的油輪，在川普與普丁達成協議後顯示將前往美國港口。"
+   ],
+   "b": "內容另提到花旗取得監管機構同意，在中國設立全資證券合資公司。另有一艘載運俄羅斯柴油的油輪，在川普與普丁達成協議後顯示將前往美國港口。",
+   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=rss_worldnews",
+   "p": "2026-10-26T11:06:00+00:00",
+   "o": "The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "中共「中央」處分已有 14 人喪失資格，可能創歷來最多，強化黨內治理",
+   "pts": [
+    "中共 26 日開幕的五中全會將討論「嚴格黨內治理」。",
+    "習近平領導層持續查處高官貪腐，黨中央委員已有 14 人喪失資格。",
+    "本次會議預料仍有多人受處分，香港媒體認為累計喪失資格者恐達前所未有的 30 人左右。"
+   ],
+   "b": "中共 26 日開幕的五中全會將討論「嚴格黨內治理」。習近平領導層持續查處高官貪腐，黨中央委員已有 14 人喪失資格。本次會議預料仍有多人受處分，香港媒體認為累計喪失資格者恐達前所未有的 30 人左右。",
+   "u": "https://www.sankei.com/article/20261026-TLTMTSWHINNDNPKXHW7CPMYP5Q/",
+   "p": "2026-10-26T11:00:34+00:00",
+   "o": "共産党「中央」の処分 すでに14人資格喪失 過去最多の可能性 党内統治強化へ"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "「布希的惡夢」重演？戰爭與物價高漲讓共和黨逆風，川普苦心巡迴紅州",
+   "pts": [
+    "期中選舉前一週，川普仍態度強硬，並稱「民調是假的」。",
+    "從其實際行動來看，他對情勢的認知相當嚴峻。"
+   ],
+   "b": "期中選舉前一週，川普仍態度強硬，並稱「民調是假的」。從其實際行動來看，他對情勢的認知相當嚴峻。",
+   "u": "https://www.sankei.com/article/20261026-IHUWDR4KMRLTBKDSW4VBXNFHZ4/",
+   "p": "2026-10-26T10:52:10+00:00",
+   "o": "「ブッシュの悪夢」再来か 戦争と物価高で共和に逆風、トランプ氏苦肉の「赤い州」行脚"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "來自卡通猿猴的財務智慧",
+   "pts": [
+    "另提及財報密集公布期正式展開。"
+   ],
+   "b": "另提及財報密集公布期正式展開。",
+   "u": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
+   "p": "2026-10-26T10:43:00+00:00",
+   "o": "Financial Wisdom From Cartoon Apes"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "長期公司債 ETF 哪檔較值得買：先鋒 VCLT 或道富 SPLB？",
+   "pts": [
+    "兩檔基金條件極為接近時，選擇取決於績效以外的因素。"
+   ],
+   "b": "兩檔基金條件極為接近時，選擇取決於績效以外的因素。",
+   "u": "https://www.fool.com/coverage/etfs/2026/10/26/which-long-term-corporate-bond-etf-is-the-better-buy-vanguard-s-vclt-or-state-street-s-splb/?.tsrc=rss",
+   "p": "2026-10-26T10:41:45+00:00",
+   "o": "Which Long-Term Corporate Bond ETF Is the Better Buy: Vanguard’s VCLT or State Street’s SPLB?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "盤前股市走高，交易員等待聯準會決議、通膨報告與大型科技股財報",
+   "pts": [
+    "週一開盤前，美國主要股市指標期貨上揚，交易員準備迎接聯準會決議、通膨報告與科技巨頭財報。"
+   ],
+   "b": "週一開盤前，美國主要股市指標期貨上揚，交易員準備迎接聯準會決議、通膨報告與科技巨頭財報。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-104144689.html?.tsrc=rss",
+   "p": "2026-10-26T10:41:44+00:00",
+   "o": "Stocks Rise Pre-Bell as Traders Await Fed Policy Decision, Inflation Report, Big Tech Earnings"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "高能源價格與聯準會升息前景，可能讓美元持續獲支撐",
+   "pts": [
+    "美元匯價在聯準會週三利率決議前變動不大。"
+   ],
+   "b": "美元匯價在聯準會週三利率決議前變動不大。",
+   "u": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
+   "p": "2026-10-26T10:38:00+00:00",
+   "o": "High Energy Prices, Fed Rate-Rise Prospects Could Keep Dollar Supported"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "AI 估值疑慮升溫，一宗 IPO 暫停",
+   "pts": [
+    "本篇為投資與財富管理業務相關的分析，簡述未提供更多細節。"
+   ],
+   "b": "本篇為投資與財富管理業務相關的分析，簡述未提供更多細節。",
+   "u": "https://www.wsj.com/finance/investing/an-ipo-paused-as-ai-valuation-fears-mount-fa1688c9?mod=rss_markets_main",
+   "p": "2026-10-26T10:25:00+00:00",
+   "o": "An IPO Paused as AI Valuation Fears Mount"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Incyte 股價能到 170 美元嗎？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/incy/articles/620494/can-incyte-stock-hit-170/2026-10-26?.tsrc=rss",
+   "p": "2026-10-26T10:13:49+00:00",
+   "o": "Can Incyte Stock Hit $170?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "CoreWeave 接下來可能出什麼問題？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/crwv/articles/620478/what-could-go-wrong-at-coreweave-from-here/2026-10-26?.tsrc=rss",
+   "p": "2026-10-26T10:13:40+00:00",
+   "o": "What Could Go Wrong At CoreWeave From Here?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "今日股市：財報密集與聯準會決議的一週前，道瓊、標普 500、那斯達克期貨上揚",
+   "pts": [
+    "投資人為滿檔的財報行程與聯準會下一次政策決議做好準備。"
+   ],
+   "b": "投資人為滿檔的財報行程與聯準會下一次政策決議做好準備。",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html?.tsrc=rss",
+   "p": "2026-10-26T10:11:53+00:00",
+   "o": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "IonQ 股價有 50% 崩跌風險是真的嗎？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/ionq/articles/620493/is-50-crash-risk-for-ionq-stock-real/2026-10-26?.tsrc=rss",
+   "p": "2026-10-26T10:03:46+00:00",
+   "o": "Is 50% Crash Risk For IonQ Stock Real?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Archer Aviation 股價最大的威脅是什麼？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/achr/articles/620480/what-is-the-biggest-threat-to-archer-aviation-stock/2026-10-26?.tsrc=rss",
+   "p": "2026-10-26T10:03:43+00:00",
+   "o": "What Is The Biggest Threat To Archer Aviation Stock?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "財報後，Tesla 股票仍值得持有嗎？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/tsla/articles/620483/is-tesla-stock-still-worth-owning-after-its-quarter/2026-10-26?.tsrc=rss",
+   "p": "2026-10-26T10:03:40+00:00",
+   "o": "Is Tesla Stock Still Worth Owning After Its Quarter?"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美國公債殖利率小幅走高，法國公債表現較佳",
+   "pts": [
+    "週一美債殖利率隨多數歐元區公債走高。",
+    "穆迪維持法國信用評等不變後，法國公債表現相對突出。"
+   ],
+   "b": "週一美債殖利率隨多數歐元區公債走高。穆迪維持法國信用評等不變後，法國公債表現相對突出。",
+   "u": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_markets_main",
+   "p": "2026-10-26T10:03:00+00:00",
+   "o": "Treasury Yields Turn Slightly Higher, French Bonds Outperform"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "大型科技財報、聯準會與選舉：未來兩週可能決定股市成敗",
+   "pts": [
+    "股市再度面臨危險的十字路口。",
+    "科技股在其中扮演要角並不令人意外。"
+   ],
+   "b": "股市再度面臨危險的十字路口。科技股在其中扮演要角並不令人意外。",
+   "u": "https://finance.yahoo.com/m/e76f89a3-5756-393f-9182-b01eb41d76c5/big-tech-earnings%2C-the-fed%2C.html?.tsrc=rss",
+   "p": "2026-10-26T10:00:00+00:00",
+   "o": "Big Tech Earnings, the Fed, and Elections. The Next 2 Weeks Could Make or Break the Stock Market."
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "核共享氣氛在歐洲擴散，為對抗俄羅斯威脅加緊行動，可作日本參考",
+   "pts": [
+    "隨著俄羅斯威脅升高，歐洲國家相繼對接納美國等國核戰力、有事時共同運用的「核共享」表示正面態度。",
+    "歐洲正朝強化「核武裝」的方向前進。"
+   ],
+   "b": "隨著俄羅斯威脅升高，歐洲國家相繼對接納美國等國核戰力、有事時共同運用的「核共享」表示正面態度。歐洲正朝強化「核武裝」的方向前進。",
+   "u": "https://www.sankei.com/article/20261026-GOVR3EWWZJNTHO32Y3FWQ7YB4M/",
+   "p": "2026-10-26T10:00:00+00:00",
+   "o": "欧州に広がる核共有の機運 ロシアの脅威増大に対抗急ぐ 日本の参考例にも"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "歐洲天然氣因冬季供應疑慮升至四年高點",
+   "pts": [
+    "歐洲天然氣價格升破每百萬瓦時 97 歐元，為 2022 年底以來首見。",
+    "天氣轉冷恐推升需求，供應疑慮同步加劇。"
+   ],
+   "b": "歐洲天然氣價格升破每百萬瓦時 97 歐元，為 2022 年底以來首見。天氣轉冷恐推升需求，供應疑慮同步加劇。",
+   "u": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
+   "p": "2026-10-26T09:47:00+00:00",
+   "o": "European Gas at Four-Year High on Winter Supply Fears"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "股票期貨與公債持穩，巴西資產重挫",
+   "pts": [
+    "左派現任總統盧拉意外勝選後，巴西資產遭大幅拋售。",
+    "美股期貨與美國公債大致持穩。"
+   ],
+   "b": "左派現任總統盧拉意外勝選後，巴西資產遭大幅拋售。美股期貨與美國公債大致持穩。",
+   "u": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+   "p": "2026-10-26T09:37:00+00:00",
+   "o": "Stock Futures, Treasurys Steady as Brazilian Assets Slide"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "區域緊張升溫，沙烏地原油油輪運費上揚",
+   "pts": [
+    "Rystad Energy 指出，葉門胡塞武裝對沙烏地的攻擊升級，推高了油輪運費。"
+   ],
+   "b": "Rystad Energy 指出，葉門胡塞武裝對沙烏地的攻擊升級，推高了油輪運費。",
+   "u": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
+   "p": "2026-10-26T09:32:00+00:00",
+   "o": "Tanker Rates for Saudi Crude Rise as Regional Tensions Escalate"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "這家德國能源巨頭是被忽略的 AI 便宜貨",
+   "pts": [
+    "西門子能源在燃氣渦輪機銷量上超越奇異 Vernova。"
+   ],
+   "b": "西門子能源在燃氣渦輪機銷量上超越奇異 Vernova。",
+   "u": "https://www.wsj.com/finance/this-german-energy-giant-is-an-overlooked-ai-bargain-c190ee76?mod=rss_markets_main",
+   "p": "2026-10-26T09:30:00+00:00",
+   "o": "This German Energy Giant Is an Overlooked AI Bargain"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "紐約精品牛仔褲竟是「紙」做的，南投老紙廠中日用蕉麻紙紗打進巴黎世家",
+   "t": "外資狂殺台股 3,000 億將補跌千點？法人歷史數據揭「大賣後必有大行情」",
    "pts": [
-    "南投中日特種紙廠以薄如蟬翼的蕉麻紙紗，供應紐約第五大道上動輒上萬元新台幣的高級牛仔褲布料。",
-    "蕉麻紙紗厚度僅一般紙漿的三分之一，可與有機棉混紡，也能做成運動鞋鞋面，客戶包括巴黎世家。",
-    "中日特種紙品項逾五千種，3M、蘋果是終端客戶，近年營收約 6 億元、平均淨利率約 5%。",
-    "董座陳禹仲鎖定毛利率高出約一成的永續材料，以多年累積的綠色配方資料庫搶單。"
+    "台股上週四收 46,041 點再創短線新低，外資單日賣超 3,025.55 億元創歷史紀錄。",
+    "週四台股大跌 846 點，單週下跌 1,069.83 點、跌幅 2.27%。",
+    "永豐金證券建議觀望，因美國期中選舉 11 月 3 日投票，油價與通膨等變數多。",
+    "野村投信統計，外資單日大賣超後 20、60、120 個交易日，加權指數平均總報酬為 2.19%、19.00%、26.70%。",
+    "野村認為 AI 基礎建設長期趨勢未變，預估 2027 年台股股票池 EPS 成長約 29%。"
    ],
-   "b": "南投中日特種紙廠以薄如蟬翼的蕉麻紙紗，供應紐約第五大道上動輒上萬元新台幣的高級牛仔褲布料。蕉麻紙紗厚度僅一般紙漿的三分之一，可與有機棉混紡，也能做成運動鞋鞋面，客戶包括巴黎世家。中日特種紙品項逾五千種，3M、蘋果是終端客戶，近年營收約 6 億元、平均淨利率約 5%。董座陳禹仲鎖定毛利率高出約一成的永續材料，以多年累積的綠色配方資料庫搶單。",
-   "u": "https://technews.tw/2026/10/26/story-of-crppaper/",
-   "p": "2026-10-26T00:00:40+00:00",
-   "o": "紐約精品牛仔褲竟是「紙」做的，南投老紙廠中日用蕉麻紙紗打進巴黎世家"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "道瓊期貨隨微軟、Google、亞馬遜財報將至而上漲；末日或榮景誰主導市場？",
-   "pts": [
-    "標普 500 與那斯達克位於關鍵價位下方，但許多非 AI 股閃現買進訊號。",
-    "微軟、Google 與亞馬遜即將公布財報。"
-   ],
-   "b": "標普 500 與那斯達克位於關鍵價位下方，但許多非 AI 股閃現買進訊號。微軟、Google 與亞馬遜即將公布財報。",
-   "u": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-rise-with.html?.tsrc=rss",
-   "p": "2026-10-25T23:54:50+00:00",
-   "o": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "先鋒標普 500 ETF 長期展望：歷史趨勢對耐心投資人的啟示",
-   "pts": [
-    "標普 500 的長期表現，關鍵在於長期獲利成長。"
-   ],
-   "b": "標普 500 的長期表現，關鍵在於長期獲利成長。",
-   "u": "https://www.fool.com/investing/2026/10/25/vanguard-sp-500-etf-long-term-outlook-history-says/?.tsrc=rss",
-   "p": "2026-10-25T23:50:00+00:00",
-   "o": "Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investors"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "GMO 內部事前即有人指出安全性課題，應對不足，社長於部落格致歉稱「被攻擊者鑽了漏洞」",
-   "pts": [
-    "GMO 網際網路集團社長熊谷正壽 25 日晚間在部落格表示，外匯保證金交易（FX）服務遭不正存取前，內部技術人員已指出「應改善的課題」。",
-    "他承認因應不足，「被攻擊者鑽了漏洞」，並表示深切反省、向外致歉。"
-   ],
-   "b": "GMO 網際網路集團社長熊谷正壽 25 日晚間在部落格表示，外匯保證金交易（FX）服務遭不正存取前，內部技術人員已指出「應改善的課題」。他承認因應不足，「被攻擊者鑽了漏洞」，並表示深切反省、向外致歉。",
-   "u": "https://www.sankei.com/article/20261026-PON7WZSXSFJQ7H6PQBIX5K5AZU/",
-   "p": "2026-10-25T23:46:51+00:00",
-   "o": "GMO内で安全性課題指摘 不正前、対応不十分に 社長がブログで謝罪「隙を突かれた」"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Cramer 在自家避險基金打敗標普，卻建議散戶買指數",
-   "pts": [
-    "Cramer 表示他過去的避險基金年報酬 24%，卻建議一位退休者把三分之二資金放進標普 500 指數基金。"
-   ],
-   "b": "Cramer 表示他過去的避險基金年報酬 24%，卻建議一位退休者把三分之二資金放進標普 500 指數基金。",
-   "u": "https://beincrypto.com/cramer-index-fund-advice-retail-investors/?.tsrc=rss",
-   "p": "2026-10-25T23:40:53+00:00",
-   "o": "Cramer Beat the S&P At His Hedge Fund But Advises Retail to Join The Index"
+   "b": "台股上週四收 46,041 點再創短線新低，外資單日賣超 3,025.55 億元創歷史紀錄。週四台股大跌 846 點，單週下跌 1,069.83 點、跌幅 2.27%。永豐金證券建議觀望，因美國期中選舉 11 月 3 日投票，油價與通膨等變數多。野村投信統計，外資單日大賣超後 20、60、120 個交易日，加權指數平均總報酬為 2.19%、19.00%、26.70%。野村認為 AI 基礎建設長期趨勢未變，預估 2027 年台股股票池 EPS 成長約 29%。",
+   "u": "https://finance.technews.tw/2026/10/26/a-catch-up-decline/",
+   "p": "2026-10-26T09:10:23+00:00",
+   "o": "外資狂殺台股 3,000 億將補跌千點？法人歷史數據揭「大賣後必有大行情」"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "領土與「安全保證」問題上俄烏分歧嚴重，和平協商重啟仍看不到突破口",
+   "t": "德國總理訪問亞洲將與高市會談，德國總統訪中，對習近平「體貼」外交鮮明",
    "pts": [
-    "美俄烏三方和平協商中斷半年多後，最快 11 月上旬重啟。",
-    "焦點是俄方要求全面割讓的烏東頓巴斯地區，以及烏方要求的防止俄羅斯再度入侵的「安全保證」。",
-    "兩國主張差距甚大，即使重啟協商，和平的突破口仍不明朗。"
+    "德國總理梅爾茨 26 至 30 日訪問印太國家，28 日訪日與首相高市早苗討論經濟安全。",
+    "德國總統施泰因邁爾 26 日開始訪問中國。",
+    "在歐盟面臨中國出口攻勢之際，德國的對中「體貼外交」格外鮮明。"
    ],
-   "b": "美俄烏三方和平協商中斷半年多後，最快 11 月上旬重啟。焦點是俄方要求全面割讓的烏東頓巴斯地區，以及烏方要求的防止俄羅斯再度入侵的「安全保證」。兩國主張差距甚大，即使重啟協商，和平的突破口仍不明朗。",
-   "u": "https://www.sankei.com/article/20261026-J3U4TYQPCNPPRL5ZZF7AHBWO4M/",
-   "p": "2026-10-25T22:58:34+00:00",
-   "o": "領土の扱いや「安全の保証」など露とウクライナに深刻な相違 和平協議再開も突破口見えず"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "諾貝爾和平獎得主馬查多返回委內瑞拉，川普稱「很棒的女性，希望她平安」",
-   "pts": [
-    "委內瑞拉反對派 25 日宣布，去年獲諾貝爾和平獎的領導人馬查多已返國。",
-    "她曾被馬杜洛政權禁止出境，卻在去年 12 月配合奧斯陸頒獎典禮秘密出國。"
-   ],
-   "b": "委內瑞拉反對派 25 日宣布，去年獲諾貝爾和平獎的領導人馬查多已返國。她曾被馬杜洛政權禁止出境，卻在去年 12 月配合奧斯陸頒獎典禮秘密出國。",
-   "u": "https://www.sankei.com/article/20261026-QFPENCVRRNPF3K6YUBJIJTVI5A/",
-   "p": "2026-10-25T22:47:03+00:00",
-   "o": "ノーベル平和賞のマチャド氏がベネズエラに帰国 トランプ氏「すてきな女性、無事を願う」"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "股市期貨在聯準會決議前上揚",
-   "pts": [
-    "交易員預期聯準會本週會議將維持利率不變。"
-   ],
-   "b": "交易員預期聯準會本週會議將維持利率不變。",
-   "u": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-are-rising.html?.tsrc=rss",
-   "p": "2026-10-25T22:12:00+00:00",
-   "o": "Stock Futures Are Rising Ahead of Fed Decision"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "保加利亞總統大選將進入決選，現任總統在首輪領先",
-   "pts": [
-    "25 日投開票，多項出口民調顯示現任總統約塔（62 歲）與在野黨支持的古洛夫（50 歲）將進入 11 月 1 日決選。",
-    "約塔居首，對第二名的古洛夫占優勢。"
-   ],
-   "b": "25 日投開票，多項出口民調顯示現任總統約塔（62 歲）與在野黨支持的古洛夫（50 歲）將進入 11 月 1 日決選。約塔居首，對第二名的古洛夫占優勢。",
-   "u": "https://www.sankei.com/article/20261026-CQ5KG4YE35NUXDTRHWGQ5573OE/",
-   "p": "2026-10-25T22:10:59+00:00",
-   "o": "ブルガリア大統領選は決選投票へ 第1回投票で現職優勢 儀礼的な立場も"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "塞爾維亞睽違 14 年政權輪替，在學生示威推動下中右派執政黨敗選",
-   "pts": [
-    "塞爾維亞 25 日舉行國會大選，自 2012 年起執政的進步黨領導人武契奇宣布敗選。",
-    "由持續抗議學生領導的新興勢力「學生名單」取得過半席次，預料將政權輪替。"
-   ],
-   "b": "塞爾維亞 25 日舉行國會大選，自 2012 年起執政的進步黨領導人武契奇宣布敗選。由持續抗議學生領導的新興勢力「學生名單」取得過半席次，預料將政權輪替。",
-   "u": "https://www.sankei.com/article/20261026-LCJQVEZFORPMLFFMECLSD4T5I4/",
-   "p": "2026-10-25T22:00:16+00:00",
-   "o": "14年ぶり政権交代へ セルビア、学生デモ機に 中道右派の与党敗北"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "馬斯克就星鏈批評烏克蘭「違反使用條款」，稱斷訊前線將立即崩潰",
-   "pts": [
-    "SpaceX 負責人馬斯克 24 日批評烏克蘭軍隊違反使用條款，以星鏈操作攻擊型無人機殺人。",
-    "他在 X 上警告，只要切斷通訊，烏克蘭前線將立即崩潰，並稱這不是威脅而是事實。"
-   ],
-   "b": "SpaceX 負責人馬斯克 24 日批評烏克蘭軍隊違反使用條款，以星鏈操作攻擊型無人機殺人。他在 X 上警告，只要切斷通訊，烏克蘭前線將立即崩潰，並稱這不是威脅而是事實。",
-   "u": "https://www.sankei.com/article/20261026-DL5ZH5K2MNPW7N7FS54TO4WQBE/",
-   "p": "2026-10-25T21:51:27+00:00",
-   "o": "マスク氏、スターリンク巡りウクライナ批判「利用規約に違反」 通信切れば即座に前線崩壊"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "觀點｜加州富人稅與法國經濟學家",
-   "pts": [
-    "經濟學家 Gabriel Zucman 試圖反駁胡佛研究所的一項研究。",
-    "雙方就稅制與行為反應展開了一場論戰。"
-   ],
-   "b": "經濟學家 Gabriel Zucman 試圖反駁胡佛研究所的一項研究。雙方就稅制與行為反應展開了一場論戰。",
-   "u": "https://www.wsj.com/opinion/californias-wealth-tax-and-the-french-economist-0e9e86cb?mod=rss_worldnews",
-   "p": "2026-10-25T21:01:00+00:00",
-   "o": "Opinion | California’s Wealth Tax and the French Economist"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "扣押俄羅斯船隻如何把烏克蘭戰爭帶到北極",
-   "pts": [
-    "歷經 12 年的法律行動，挪威在北極圈深處的斯瓦巴群島扣押了一艘俄羅斯研究船。"
-   ],
-   "b": "歷經 12 年的法律行動，挪威在北極圈深處的斯瓦巴群島扣押了一艘俄羅斯研究船。",
-   "u": "https://www.wsj.com/world/russia/how-the-seizure-of-a-russian-vessel-brought-the-ukraine-war-to-the-arctic-93beddaa?mod=rss_worldnews",
-   "p": "2026-10-25T21:00:00+00:00",
-   "o": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "觀點｜奧班當聯合國秘書長？",
-   "pts": [
-    "美國官員推動由美、俄、中共同提名的候選人構想。"
-   ],
-   "b": "美國官員推動由美、俄、中共同提名的候選人構想。",
-   "u": "https://www.wsj.com/opinion/viktor-orban-u-n-secretary-general-china-russia-us-d968fcaf?mod=rss_worldnews",
-   "p": "2026-10-25T20:58:00+00:00",
-   "o": "Opinion | Viktor Orbán, U.N. Secretary-General?"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "觀點｜馬查多需要川普的保護",
-   "pts": [
-    "這位反對派領袖返回委內瑞拉，顯示應儘早訂出新選舉的日期與程序。"
-   ],
-   "b": "這位反對派領袖返回委內瑞拉，顯示應儘早訂出新選舉的日期與程序。",
-   "u": "https://www.wsj.com/opinion/maria-corina-machado-needs-trumps-protection-venezuela-f884da1b?mod=rss_worldnews",
-   "p": "2026-10-25T20:57:00+00:00",
-   "o": "Opinion | María Corina Machado Needs Trump’s Protection"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "三檔規模逾 100 億美元的股息 ETF，殖利率最高 3.31%，過去一年勝過標普 500",
-   "pts": [
-    "三檔大型股息 ETF 都跨過多數高息基金難以企及的基準。",
-    "但它們的五年績效卻呈現截然不同的樣貌，顯示收益型投資的長期代價。"
-   ],
-   "b": "三檔大型股息 ETF 都跨過多數高息基金難以企及的基準。但它們的五年績效卻呈現截然不同的樣貌，顯示收益型投資的長期代價。",
-   "u": "https://247wallst.com/investing/etf/2026/10/25/3-dividend-etfs-with-over-10-billion-each-pay-up-to-3-31-and-beat-the-sp-500-over-the-past-year/?.tsrc=rss",
-   "p": "2026-10-25T20:33:43+00:00",
-   "o": "3 Dividend ETFs With Over $10 Billion Each Pay Up to 3.31% and Beat the S&P 500 Over the Past Year"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "勒龐在又一個週末抗議後，自我定位為法國的團結者",
-   "pts": [
-    "這位右翼候選人呼應川普的 MAGA 運動，啟動明年總統大選的競選活動。"
-   ],
-   "b": "這位右翼候選人呼應川普的 MAGA 運動，啟動明年總統大選的競選活動。",
-   "u": "https://www.wsj.com/world/europe/le-pen-pitches-herself-as-frances-unifier-after-another-weekend-of-protests-1ddb802c?mod=rss_worldnews",
-   "p": "2026-10-25T19:54:00+00:00",
-   "o": "Le Pen Pitches Herself as France’s Unifier After Another Weekend of Protests"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "先鋒示警價值型基金中暗藏的 AI 風險",
-   "pts": [
-    "先鋒指出，AI 的下一批贏家可能在大型科技股之外。",
-    "但投資人用來尋找它們的價值型基金，可能早已塞滿亞馬遜與微軟。"
-   ],
-   "b": "先鋒指出，AI 的下一批贏家可能在大型科技股之外。但投資人用來尋找它們的價值型基金，可能早已塞滿亞馬遜與微軟。",
-   "u": "https://www.thestreet.com/investing/vanguard-flags-a-hidden-ai-risk-in-your-value-fund?.tsrc=rss",
-   "p": "2026-10-25T19:13:00+00:00",
-   "o": "Vanguard flags a hidden AI risk in your value fund"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "本週關注：聯準會、通膨、威瑞森、波音、Alphabet、GE Vernova、亞馬遜等股票",
-   "pts": [
-    "本季財報最密集的一週，可口可樂、福特、百威英博、默克等公司都將公布財報。",
-    "同時將公布 GDP 與新屋銷售等經濟數據。"
-   ],
-   "b": "本季財報最密集的一週，可口可樂、福特、百威英博、默克等公司都將公布財報。同時將公布 GDP 與新屋銷售等經濟數據。",
-   "u": "https://finance.yahoo.com/m/0d4242d7-b2c9-3bd4-9e03-715369986b85/the-fed%2C-inflation%2C-verizon%2C.html?.tsrc=rss",
-   "p": "2026-10-25T19:12:00+00:00",
-   "o": "The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "2026 年已漲逾 100%，CrowdStrike 還值得買嗎？",
-   "pts": [
-    "這家資安業者股價表現亮眼，但業務成長相對落後。"
-   ],
-   "b": "這家資安業者股價表現亮眼，但業務成長相對落後。",
-   "u": "https://www.fool.com/investing/2026/10/25/up-over-100-in-2026-is-crowdstrike-still-a-buy/?.tsrc=rss",
-   "p": "2026-10-25T19:02:00+00:00",
-   "o": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "美國造船業復興向半個地球外取經",
-   "pts": [
-    "南韓韓華集團是川普重振美國造船業計畫的關鍵參與者。",
-    "美國這項產業長期被中國搶走版圖。"
-   ],
-   "b": "南韓韓華集團是川普重振美國造船業計畫的關鍵參與者。美國這項產業長期被中國搶走版圖。",
-   "u": "https://www.wsj.com/world/asia/the-u-s-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-d60f1816?mod=rss_worldnews",
-   "p": "2026-10-25T19:00:00+00:00",
-   "o": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "觀點｜「有效利他主義」是媒體偏見的另一種說法",
-   "pts": [
-    "該運動目前正資助訓練記者報導「AI 安全」的獎學金計畫。"
-   ],
-   "b": "該運動目前正資助訓練記者報導「AI 安全」的獎學金計畫。",
-   "u": "https://www.wsj.com/opinion/effective-altruism-is-another-term-for-media-bias-c0b77469?mod=rss_Technology",
-   "p": "2026-10-25T18:58:00+00:00",
-   "o": "Opinion | ‘Effective Altruism’ Is Another Term for Media Bias"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "委內瑞拉的馬查多返國，挑戰美國支持的政府",
-   "pts": [
-    "她的突然現身恐使川普的委內瑞拉計畫更為複雜。",
-    "她同時推動舉行總統大選。"
-   ],
-   "b": "她的突然現身恐使川普的委內瑞拉計畫更為複雜。她同時推動舉行總統大選。",
-   "u": "https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews",
-   "p": "2026-10-25T18:36:00+00:00",
-   "o": "Venezuela’s Machado Returns Home, Challenging U.S.-Backed Government"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Realty Income 殖利率逾標普 500 的五倍，1 萬美元投資一年能領多少股息",
-   "pts": [
-    "這檔月配息股擁有逾 30 年連年調升股息的紀錄。"
-   ],
-   "b": "這檔月配息股擁有逾 30 年連年調升股息的紀錄。",
-   "u": "https://www.fool.com/investing/2026/10/25/realty-income-yields-more-than-quintuple-the-sp-50/?.tsrc=rss",
-   "p": "2026-10-25T18:31:00+00:00",
-   "o": "Realty Income Yields More Than Quintuple the S&P 500. Here's What a $10,000 Investment Produces in Yearly Dividends."
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "推翻納坦雅胡的行動，吸引數千名以色列海外僑民返國投票",
-   "pts": [
-    "以色列規定選票必須親自到場投下。",
-    "預計有超過 6 萬名選民專程返國。"
-   ],
-   "b": "以色列規定選票必須親自到場投下。預計有超過 6 萬名選民專程返國。",
-   "u": "https://www.wsj.com/world/middle-east/the-push-to-oust-netanyahu-draws-thousands-of-israeli-expats-home-to-vote-26f71bca?mod=rss_worldnews",
-   "p": "2026-10-25T18:00:00+00:00",
-   "o": "The Push to Oust Netanyahu Draws Thousands of Israeli Expats Home to Vote"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "觀點｜姑息普丁無法為烏克蘭帶來和平",
-   "pts": [
-    "川普對克里姆林宮的屈從，也危及他在跛鴨國會中的立法議程。"
-   ],
-   "b": "川普對克里姆林宮的屈從，也危及他在跛鴨國會中的立法議程。",
-   "u": "https://www.wsj.com/opinion/coddling-putin-wont-bring-peace-to-ukraine-2464d660?mod=rss_worldnews",
-   "p": "2026-10-25T17:33:00+00:00",
-   "o": "Opinion | Coddling Putin Won’t Bring Peace to Ukraine"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "凱薩琳·伍德買進 2,450 萬美元下跌中的超大型股",
-   "pts": [
-    "文章整理了木頭姐最新的持股動向。"
-   ],
-   "b": "文章整理了木頭姐最新的持股動向。",
-   "u": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-24-5-million-meta-platforms-stock?.tsrc=rss",
-   "p": "2026-10-25T17:07:00+00:00",
-   "o": "Cathie Wood buys $24.5 million of tumbling megacap stock"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "三檔值得買進並持有十年的優質成長股",
-   "pts": [
-    "這些資安、數據分析與伺服器領域的領導者，受惠於 AI 支出成長。"
-   ],
-   "b": "這些資安、數據分析與伺服器領域的領導者，受惠於 AI 支出成長。",
-   "u": "https://www.fool.com/investing/2026/10/25/3-superior-growth-stocks-buy-hold-10-years/?.tsrc=rss",
-   "p": "2026-10-25T17:05:00+00:00",
-   "o": "3 Superior Growth Stocks to Buy Now and Hold for 10 Years"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Apollo 經濟學家：AI 對多數企業帶來「零財務報酬」",
-   "pts": [
-    "儘管投入龐大資金且炒作盛行，AI 對科技業以外的美國企業尚未帶來財務報酬。"
-   ],
-   "b": "儘管投入龐大資金且炒作盛行，AI 對科技業以外的美國企業尚未帶來財務報酬。",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-delivers-zero-financial-payoff-165732723.html?.tsrc=rss",
-   "p": "2026-10-25T16:57:32+00:00",
-   "o": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "美銀警告市場恐在 2027 年面臨少有人預期的風險",
-   "pts": [
-    "這輪歷史性的榮景，如今面臨最艱難的考驗。"
-   ],
-   "b": "這輪歷史性的榮景，如今面臨最艱難的考驗。",
-   "u": "https://www.thestreet.com/investing/stocks/bank-of-america-2027-ai-debt-risk?.tsrc=rss",
-   "p": "2026-10-25T16:47:00+00:00",
-   "o": "Bank of America warns of 2027 stock market risk few expect"
+   "b": "德國總理梅爾茨 26 至 30 日訪問印太國家，28 日訪日與首相高市早苗討論經濟安全。德國總統施泰因邁爾 26 日開始訪問中國。在歐盟面臨中國出口攻勢之際，德國的對中「體貼外交」格外鮮明。",
+   "u": "https://www.sankei.com/article/20261026-FYLSNGSIQZMN3EF7DVNE5OGMTI/",
+   "p": "2026-10-26T09:03:53+00:00",
+   "o": "ドイツ首相がアジア歴訪、高市氏と会談へ 独大統領は訪中…習氏への「気配り」外交鮮明に"
   }
  ]
 }
