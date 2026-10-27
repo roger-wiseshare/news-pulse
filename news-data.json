@@ -1,531 +1,520 @@
 {
- "updated": "2026-10-27T00:13:02+00:00",
+ "updated": "2026-10-27T12:14:32+00:00",
  "items": [
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "近 20 年最強太陽輻射風暴實測出爐，倫敦飛紐約航班輻射曝露量增加 43%",
-   "pts": [
-    "2025 年 11 月 11 日的 X5 級太陽閃焰引發近 20 年來最大的地面增強事件 GLE 77。",
-    "英荷團隊以氣象氣球與儀器，從地面量測到約 3.2 萬公尺高空，研究已發表於《Space Weather》。",
-    "倫敦飛紐約的航班之一，輻射曝露增加 42.6%。",
-    "氣球在高於民航客機巡航的高度量到「中度」警示門檻，超音速飛行高度則超過「嚴重」門檻。",
-    "國際民航組織（ICAO）在 GLE 77 期間並未發出警示。"
-   ],
-   "b": "2025 年 11 月 11 日的 X5 級太陽閃焰引發近 20 年來最大的地面增強事件 GLE 77。英荷團隊以氣象氣球與儀器，從地面量測到約 3.2 萬公尺高空，研究已發表於《Space Weather》。倫敦飛紐約的航班之一，輻射曝露增加 42.6%。氣球在高於民航客機巡航的高度量到「中度」警示門檻，超音速飛行高度則超過「嚴重」門檻。國際民航組織（ICAO）在 GLE 77 期間並未發出警示。",
-   "u": "https://technews.tw/2026/10/27/last-years-monster-solar-storm-gave-a-transatlantic-flight-a-43-radiation-boost/",
-   "p": "2026-10-27T00:10:50+00:00",
-   "o": "近 20 年最強太陽輻射風暴實測出爐，倫敦飛紐約航班輻射曝露量增加 43%"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "美國人刷卡更豪爽了，還是只是生活變貴了？",
-   "pts": [
-    "摩根大通第三季簽帳金融卡與信用卡交易金額年增 10%，但 9 月美國 CPI 年增 3.7%，兩者不能直接相減。",
-    "8 月個人消費支出月增 0.9%，實質支出仍增 0.6%，顯示消費確有實質成長。",
-    "9 月美國民間非農受僱者實質平均時薪年減 0.7%，收入追不上物價。",
-    "美國銀行研究所指出，9 月每戶刷卡支出年增 6.2%，中低所得家庭支出也持續回升。",
-    "作者認為企業評估消費回暖，應檢查銷售數量、對促銷的依賴程度與客戶回購能力。"
-   ],
-   "b": "摩根大通第三季簽帳金融卡與信用卡交易金額年增 10%，但 9 月美國 CPI 年增 3.7%，兩者不能直接相減。8 月個人消費支出月增 0.9%，實質支出仍增 0.6%，顯示消費確有實質成長。9 月美國民間非農受僱者實質平均時薪年減 0.7%，收入追不上物價。美國銀行研究所指出，9 月每戶刷卡支出年增 6.2%，中低所得家庭支出也持續回升。作者認為企業評估消費回暖，應檢查銷售數量、對促銷的依賴程度與客戶回購能力。",
-   "u": "https://finance.technews.tw/2026/10/27/are-americans-spending-more-freely-or-is-life-just-getting-more-expensive/",
-   "p": "2026-10-27T00:00:13+00:00",
-   "o": "美國人刷卡更豪爽了，還是只是生活變貴了？"
-  },
-  {
    "c": "pol",
    "s": "WSJ",
-   "t": "盧拉如何完成無人預料的逆轉勝",
+   "t": "英國警方起訴一名男子，指其協助伊朗策劃未遂的空軍基地攻擊",
    "pts": [
-    "三週前連盟友都預期他會落敗。",
-    "基層動員與選民擔心失去福利，促成這場驚人的逆轉。"
+    "Mohmed Ahmad Abdulkarim 被控協助外國情報機構。",
+    "警方認為該機構是伊朗。"
    ],
-   "b": "三週前連盟友都預期他會落敗。基層動員與選民擔心失去福利，促成這場驚人的逆轉。",
-   "u": "https://www.wsj.com/world/americas/how-brazils-lula-pulled-off-an-upset-no-one-saw-coming-c6b7885a?mod=rss_worldnews",
-   "p": "2026-10-27T00:00:00+00:00",
-   "o": "How Brazil’s Lula Pulled Off an Upset No One Saw Coming"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "淺談觸控螢幕：蘋果能你不能？",
-   "pts": [
-    "傳聞蘋果新款 MacBook Pro 將導入 OLED 觸控螢幕，並調整 macOS 介面。",
-    "Windows 筆電十多年前就已普及觸控，賈伯斯 2010 年卻批評垂直觸控會讓手臂疲勞。",
-    "Bloomberg 報導，手指操作時系統可能自動放大選單與控制項，並支援滑動、縮放手勢。",
-    "作者認為蘋果的優勢在軟硬體整合，但同樣功能「別人做叫噱頭、蘋果做叫革命」的評價標準值得反思。"
-   ],
-   "b": "傳聞蘋果新款 MacBook Pro 將導入 OLED 觸控螢幕，並調整 macOS 介面。Windows 筆電十多年前就已普及觸控，賈伯斯 2010 年卻批評垂直觸控會讓手臂疲勞。Bloomberg 報導，手指操作時系統可能自動放大選單與控制項，並支援滑動、縮放手勢。作者認為蘋果的優勢在軟硬體整合，但同樣功能「別人做叫噱頭、蘋果做叫革命」的評價標準值得反思。",
-   "u": "https://technews.tw/2026/10/27/touchscreen-apple-can-others-cant/",
-   "p": "2026-10-26T23:50:57+00:00",
-   "o": "淺談觸控螢幕：蘋果能你不能？"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美國政府協助諾貝爾和平獎得主馬查多返國，要求委內瑞拉接納",
-   "pts": [
-    "美國國務卿盧比歐 26 日表示，美國政府協助 2025 年諾貝爾和平獎得主、委內瑞拉反對派領袖馬查多返國。",
-    "美方事先要求委內瑞拉當局接納，並告知她不會受到阻撓。"
-   ],
-   "b": "美國國務卿盧比歐 26 日表示，美國政府協助 2025 年諾貝爾和平獎得主、委內瑞拉反對派領袖馬查多返國。美方事先要求委內瑞拉當局接納，並告知她不會受到阻撓。",
-   "u": "https://www.sankei.com/article/20261027-Z5NUCFWHTBIBZFA3JPAHYTYBFY/",
-   "p": "2026-10-26T23:46:22+00:00",
-   "o": "米政府、ノーベル平和賞・マチャド氏帰国を支援　ベネズエラに受け入れ要求"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "川普政府解雇「政敵之女」違法，紐約聯邦法院判令復職並補發薪資",
-   "pts": [
-    "紐約聯邦地方法院 26 日裁定，政府解雇前聯邦檢察官莫琳·柯米（前 FBI 局長柯米之女）違法。",
-    "法院命令補發薪資並恢復職務，據報司法部將上訴。"
-   ],
-   "b": "紐約聯邦地方法院 26 日裁定，政府解雇前聯邦檢察官莫琳·柯米（前 FBI 局長柯米之女）違法。法院命令補發薪資並恢復職務，據報司法部將上訴。",
-   "u": "https://www.sankei.com/article/20261027-5DR7R5YGK5LN3KF6WFO27G3PBU/",
-   "p": "2026-10-26T23:42:11+00:00",
-   "o": "トランプ氏「政敵の娘」解雇は違法　NY連邦地裁、未払い給与の支払いと復職命じる判決"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "研究揭露電動車電池「隱藏弱點」，少數老化電芯恐導致近三成電能浪費",
-   "pts": [
-    "《Nature Energy》研究追蹤實際上路逾三年的電動車電池，涵蓋 NMC 乘用車與 LFP 電動公車。",
-    "乘用車行駛超過約 17 萬公里後，部分電芯開始加速劣化，強弱電芯差距擴大。",
-    "不均勻老化使乘用車與巴士電池包可用健康狀態分別下降 6.2% 與 7.5%，整體壽命分別縮短 17.7% 與 22.8%。",
-    "乘用車與巴士電池包分別只利用了 80.7% 與 72.9% 的電能。",
-    "研究建議提升電芯一致性、優化分組，並強化平衡控制與熱管理。"
-   ],
-   "b": "《Nature Energy》研究追蹤實際上路逾三年的電動車電池，涵蓋 NMC 乘用車與 LFP 電動公車。乘用車行駛超過約 17 萬公里後，部分電芯開始加速劣化，強弱電芯差距擴大。不均勻老化使乘用車與巴士電池包可用健康狀態分別下降 6.2% 與 7.5%，整體壽命分別縮短 17.7% 與 22.8%。乘用車與巴士電池包分別只利用了 80.7% 與 72.9% 的電能。研究建議提升電芯一致性、優化分組，並強化平衡控制與熱管理。",
-   "u": "https://technews.tw/2026/10/27/main-causes-short-lifespan-ev-batteries/",
-   "p": "2026-10-26T23:40:23+00:00",
-   "o": "研究揭露電動車電池「隱藏弱點」，少數老化電芯恐導致近三成電能浪費"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "約旦軍空襲敘利亞南部，報復教堂槍擊案",
-   "pts": [
-    "約旦軍 26 日對敘利亞南部「恐怖組織據點」展開軍事行動，稱為 23 日卡拉克教堂槍擊事件的報復。",
-    "敘利亞國營通訊社指出，攻擊造成包括婦孺在內的 5 名平民死亡。"
-   ],
-   "b": "約旦軍 26 日對敘利亞南部「恐怖組織據點」展開軍事行動，稱為 23 日卡拉克教堂槍擊事件的報復。敘利亞國營通訊社指出，攻擊造成包括婦孺在內的 5 名平民死亡。",
-   "u": "https://www.sankei.com/article/20261027-JL346HWU2BIIVFPX47SW5RC3WU/",
-   "p": "2026-10-26T23:39:18+00:00",
-   "o": "ヨルダン軍、シリア南部「テロ組織拠点」で作戦　民間人5人死亡の教会銃撃事件の報復"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦",
-   "pts": [
-    "OCP 全球大會上，伺服器獨立電源櫃成為焦點，傳統 48V／54V 配電架構已逼近極限。",
-    "顧能推算 2027 年 AI 資料中心年用電量達 500 TWh，約為 2023 年的 2.6 倍，且四成可能因供電不足受限。",
-    "高盛預估 AI 伺服器電源市場規模將從 2023 年的 9.3 億美元增至 2026 年的 880.7 億美元。",
-    "光寶科預計明年第三季量產高壓直流電源櫃，台達電今年底少量出貨，明年才見放量。",
-    "專家指出技術卡關、紅鏈追趕與專利戰是明年量產的三大風險。"
-   ],
-   "b": "OCP 全球大會上，伺服器獨立電源櫃成為焦點，傳統 48V／54V 配電架構已逼近極限。顧能推算 2027 年 AI 資料中心年用電量達 500 TWh，約為 2023 年的 2.6 倍，且四成可能因供電不足受限。高盛預估 AI 伺服器電源市場規模將從 2023 年的 9.3 億美元增至 2026 年的 880.7 億美元。光寶科預計明年第三季量產高壓直流電源櫃，台達電今年底少量出貨，明年才見放量。專家指出技術卡關、紅鏈追趕與專利戰是明年量產的三大風險。",
-   "u": "https://technews.tw/2026/10/27/liteon-and-delta-lead-push-into-ai-server-power-racks/",
-   "p": "2026-10-26T23:30:28+00:00",
-   "o": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "拉美裔成最大浮動票，共和黨苦惱：候選人批移民取締過火",
-   "pts": [
-    "拉美裔是期中選舉人口成長最快、被稱為「最大浮動票」的族群。",
-    "共和黨傳統地盤佛羅里達州的候選人也面臨逆風，部分候選人甚至與川普立場對立，批評移民取締「過火」。"
-   ],
-   "b": "拉美裔是期中選舉人口成長最快、被稱為「最大浮動票」的族群。共和黨傳統地盤佛羅里達州的候選人也面臨逆風，部分候選人甚至與川普立場對立，批評移民取締「過火」。",
-   "u": "https://www.sankei.com/article/20261027-DWAFAQPZIVNFVKSEDBGGPH6RKI/",
-   "p": "2026-10-26T23:30:00+00:00",
-   "o": "「最大の浮動票」中南米系に共和苦慮　候補、トランプ氏と対立しても「移民摘発行き過ぎ」"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "共和黨連「安全州」也得防守，川普赴南部州造勢",
-   "pts": [
-    "川普 26 日前往深南部密西西比州舉行造勢集會，距 11 月 3 日期中選舉約一週。",
-    "受物價高漲不滿推動，民主黨新人在聯邦參議員選舉中猛追共和黨現任者，共和黨連「安全州」都得防守。"
-   ],
-   "b": "川普 26 日前往深南部密西西比州舉行造勢集會，距 11 月 3 日期中選舉約一週。受物價高漲不滿推動，民主黨新人在聯邦參議員選舉中猛追共和黨現任者，共和黨連「安全州」都得防守。",
-   "u": "https://www.sankei.com/article/20261027-JPCTGPGRDRIMVMHKRXHBV35VVQ/",
-   "p": "2026-10-26T23:29:58+00:00",
-   "o": "米共和党「安全圏」でも防戦　1週間後の中間選挙、トランプ氏は牙城の南部州で演説"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "標普 500 有八成成分股進入修正，這 3 檔仍值得買",
-   "pts": [
-    "超過八成標普 500 成分股較高點下跌至少 10%。",
-    "Bright Lake 創辦人 Ted Thatcher 看好輝達、微軟與 Alphabet。"
-   ],
-   "b": "超過八成標普 500 成分股較高點下跌至少 10%。Bright Lake 創辦人 Ted Thatcher 看好輝達、微軟與 Alphabet。",
-   "u": "https://www.thestreet.com/video/80-of-sp-500-stocks-are-in-correction-territory-these-3-are-still-buy?.tsrc=rss",
-   "p": "2026-10-26T23:29:26+00:00",
-   "o": "80% of S&P 500 stocks are in correction territory. These 3 are still buys"
+   "b": "Mohmed Ahmad Abdulkarim 被控協助外國情報機構。警方認為該機構是伊朗。",
+   "u": "https://www.wsj.com/world/middle-east/u-k-police-charge-british-man-with-assisting-iran-in-foiled-air-base-attack-aaf40c9d?mod=rss_worldnews",
+   "p": "2026-10-27T12:07:00+00:00",
+   "o": "U.K. Police Charge British Man With Assisting Iran in Foiled Air-Base Attack"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "Weil Gotshal 高層忙亂一個週末設法穩住律所",
+   "t": "美元可能在期中選舉前維持堅挺",
    "pts": [
-    "領導層週日整天開會。",
-    "其中一人近期已向重整顧問諮詢可行方案。"
+    "美元走高。",
+    "道明證券表示，即使聯準會週三維持利率不變，美元在 11 月期中選舉前仍應維持強勢。"
    ],
-   "b": "領導層週日整天開會。其中一人近期已向重整顧問諮詢可行方案。",
-   "u": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
-   "p": "2026-10-26T23:27:00+00:00",
-   "o": "Weil Gotshal Leaders Spent Frantic Weekend Trying to Stabilize Law Firm"
+   "b": "美元走高。道明證券表示，即使聯準會週三維持利率不變，美元在 11 月期中選舉前仍應維持強勢。",
+   "u": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-fed-decision-0d81a31b?mod=rss_markets_main",
+   "p": "2026-10-27T12:03:00+00:00",
+   "o": "Dollar Likely to Stay Supported Ahead of Midterms"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "Truist Financial（TFC）第三季財報後：買進、賣出或持有？",
+   "t": "為何該策略基金第三季出清 Tapestry（TPR）",
    "pts": [
-    "過去六個月股價降至 48.44 美元，下跌 5.5%，標普 500 同期上漲 6.8%。",
-    "部分原因是季度業績偏軟。"
+    "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。",
+    "信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。"
    ],
-   "b": "過去六個月股價降至 48.44 美元，下跌 5.5%，標普 500 同期上漲 6.8%。部分原因是季度業績偏軟。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-tfc-buy-sell-232647766.html?.tsrc=rss",
-   "p": "2026-10-26T23:26:47+00:00",
-   "o": "Truist Financial (TFC): buy, sell, or hold post Q3 earnings?"
+   "b": "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-exited-tapestry-tpr-120013705.html?.tsrc=rss",
+   "p": "2026-10-27T12:00:13+00:00",
+   "o": "Here’s Why the Strategy Exited Tapestry (TPR) in Q3"
   },
   {
    "c": "fin",
-   "s": "産経新聞",
-   "t": "紐約日圓貶至 157 日圓中段，受美股反彈拋售日圓",
+   "s": "WSJ",
+   "t": "Janus 推出首檔授權納斯達克 100 指數的代幣化基金",
    "pts": [
-    "26 日紐約外匯市場日圓下午 5 時報 1 美元兌 157.43 至 157.53 日圓，較前週末貶值 66 錢。",
-    "歐元兌美元報 1.1169 至 1.1179 美元。"
+    "納斯達克今年稍早已開放大型科技基準指數授權給其他資產管理公司。"
    ],
-   "b": "26 日紐約外匯市場日圓下午 5 時報 1 美元兌 157.43 至 157.53 日圓，較前週末貶值 66 錢。歐元兌美元報 1.1169 至 1.1179 美元。",
-   "u": "https://www.sankei.com/article/20261027-RD3FUUIUERLSPP4Z3NSZ2LCREA/",
-   "p": "2026-10-26T23:22:55+00:00",
-   "o": "NY円、157円台半ば　米株式市場の反発を背景に円を売る動き"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "甲骨文推出 AI 代辦會計、人資與採購業務，可從 ChatGPT 操作",
-   "pts": [
-    "甲骨文 26 日發表新功能，將會計、人資與採購等企業業務交由 AI 處理。",
-    "也可從 ChatGPT 等對話式 AI 操作業務軟體，目的是讓人專注於重要判斷。"
-   ],
-   "b": "甲骨文 26 日發表新功能，將會計、人資與採購等企業業務交由 AI 處理。也可從 ChatGPT 等對話式 AI 操作業務軟體，目的是讓人專注於重要判斷。",
-   "u": "https://www.sankei.com/article/20261027-DKRR7VM3YRKDPOEMWO4TVOV2KU/",
-   "p": "2026-10-26T23:21:03+00:00",
-   "o": "米オラクル、AIで「会計」「人事」「調達」業務代行　チャットGPTから操作も"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "機器人的「ChatGPT 時刻」還沒到，輝達前高層：實體 AI 正處於打基礎的「樂高時代」",
-   "pts": [
-    "輝達前機器人產品行銷主管 Vishwanath 表示，產業正專注打造致動器、機械手臂、軟體架構與安全標準等基礎積木。",
-    "通用型與專用型機器人同步發展，但整體仍處早期階段。",
-    "她認為人才是決勝關鍵，Techable Ventures 將聚焦實體 AI 早期新創。"
-   ],
-   "b": "輝達前機器人產品行銷主管 Vishwanath 表示，產業正專注打造致動器、機械手臂、軟體架構與安全標準等基礎積木。通用型與專用型機器人同步發展，但整體仍處早期階段。她認為人才是決勝關鍵，Techable Ventures 將聚焦實體 AI 早期新創。",
-   "u": "https://technews.tw/2026/10/27/embodied-ai-enters-lego-era/",
-   "p": "2026-10-26T23:20:52+00:00",
-   "o": "機器人的「ChatGPT 時刻」還沒到，輝達前高層：實體 AI 正處於打基礎的「樂高時代」"
+   "b": "納斯達克今年稍早已開放大型科技基準指數授權給其他資產管理公司。",
+   "u": "https://www.wsj.com/finance/investing/janus-launches-first-tokenized-fund-licensing-the-nasdaq-100-index-5af1cf65?mod=rss_markets_main",
+   "p": "2026-10-27T12:00:00+00:00",
+   "o": "Janus Launches First Tokenized Fund Licensing the Nasdaq-100 Index"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "United Natural Foods（UNFI）財報後：買進、賣出或持有？",
+   "t": "以為美國柴油價格很糟？看看歐洲天然氣，這些股票受惠",
    "pts": [
-    "過去六個月股價小跌 2.6%，報 46.87 美元。",
-    "表現落後標普 500 的 6.8% 漲幅。"
+    "歐洲天然氣價格升至近四年高點。",
+    "數檔液化天然氣（LNG）股票目前接近買點。"
    ],
-   "b": "過去六個月股價小跌 2.6%，報 46.87 美元。表現落後標普 500 的 6.8% 漲幅。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-unfi-buy-231047200.html?.tsrc=rss",
-   "p": "2026-10-26T23:10:47+00:00",
-   "o": "United Natural Foods (UNFI): buy, sell, or hold post Q2 earnings?"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "重押 AI 題材！全球資金撤離中國，主權基金半數投資流向北美",
-   "pts": [
-    "Global SWF 資料顯示，主權基金配置於美國的比重由 20%至30% 升至今年上半年的 58%。",
-    "2025 年政府基金在北美投資 1,540 億美元，對新興經濟體投資降至 7 年來最低的 500 億美元。",
-    "中國外資流入由 2021 年的 3,441 億美元降至 2024 年的 426 億美元，2025 年回升至 800 億美元。",
-    "全球國有投資基金管理資產截至 8 月達 16.57 兆美元。",
-    "經濟學家認為基金應擺脫「過度偏重 AI」，並關注能源相關投資。"
-   ],
-   "b": "Global SWF 資料顯示，主權基金配置於美國的比重由 20%至30% 升至今年上半年的 58%。2025 年政府基金在北美投資 1,540 億美元，對新興經濟體投資降至 7 年來最低的 500 億美元。中國外資流入由 2021 年的 3,441 億美元降至 2024 年的 426 億美元，2025 年回升至 800 億美元。全球國有投資基金管理資產截至 8 月達 16.57 兆美元。經濟學家認為基金應擺脫「過度偏重 AI」，並關注能源相關投資。",
-   "u": "https://technews.tw/2026/10/27/global-investors-flee-china-double-down-on-ai/",
-   "p": "2026-10-26T23:10:27+00:00",
-   "o": "重押 AI 題材！全球資金撤離中國，主權基金半數投資流向北美"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "紐約原油反落至 101 美元，因期待中東緊張緩和",
-   "pts": [
-    "26 日紐約商業交易所原油期貨三個交易日來首度回落，WTI 12 月期貨較前週末下跌 1.51 美元，收 101.76 美元。",
-    "市場因期待中東緊張緩和而賣單居優。"
-   ],
-   "b": "26 日紐約商業交易所原油期貨三個交易日來首度回落，WTI 12 月期貨較前週末下跌 1.51 美元，收 101.76 美元。市場因期待中東緊張緩和而賣單居優。",
-   "u": "https://www.sankei.com/article/20261027-AHBHE2Z2HFIWJL4PSB6YTP7R74/",
-   "p": "2026-10-26T23:06:12+00:00",
-   "o": "NY原油反落、101ドル台　「中東の緊張緩和」期待で売り注文が優勢"
+   "b": "歐洲天然氣價格升至近四年高點。數檔液化天然氣（LNG）股票目前接近買點。",
+   "u": "https://finance.yahoo.com/m/0d8fc55c-20c4-37c7-836f-bb1402043c08/think-u.s.-diesel-prices-are.html?.tsrc=rss",
+   "p": "2026-10-27T11:58:25+00:00",
+   "o": "Think U.S. Diesel Prices Are Bad? Check Out EU Natural Gas. These Stocks Benefit."
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "投資人喜愛 Paymentus（PAY）的兩大理由",
+   "t": "科林研發（LRCX）股價下跌，投資人重新評估 AI 支出",
    "pts": [
-    "過去六個月股價漲至 33.36 美元，上漲 20.3%，勝過標普 500 達 13.5 個百分點。",
-    "部分受惠於穩健的季度業績。"
+    "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。",
+    "信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。"
    ],
-   "b": "過去六個月股價漲至 33.36 美元，上漲 20.3%，勝過標普 500 達 13.5 個百分點。部分受惠於穩健的季度業績。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-investors-love-paymentus-224647823.html?.tsrc=rss",
-   "p": "2026-10-26T22:46:47+00:00",
-   "o": "2 Reasons investors love Paymentus (PAY)"
+   "b": "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corp-lrcx-shares-115245954.html?.tsrc=rss",
+   "p": "2026-10-27T11:52:45+00:00",
+   "o": "Lam Research Corp. (LRCX) Shares Decline as Investors Reassess AI Spending"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "iPad mini 終於升級 OLED！不過入門價直接漲 6,000  元",
+   "c": "fin",
+   "s": "WSJ",
+   "t": "通用汽車將上市地從紐約證交所移往納斯達克",
    "pts": [
-    "新一代 iPad mini 首度採用 8.5 吋 OLED 螢幕，峰值亮度最高 1,200 尼特，並新增 IP67 防水防塵。",
-    "搭載 2 奈米製程的 A20 Pro 晶片，AI 效能較上一代最高提升 4.5 倍。",
-    "首度導入蘋果自研 N1 無線晶片，支援 Wi-Fi 7、藍牙 6 與 Thread。",
-    "台灣 Wi-Fi 版 22,900 元起，10 月 28 日開放預購，11 月 6 日供貨。"
+    "通用成為又一家從紐約證交所轉投較年輕對手的指標企業。"
    ],
-   "b": "新一代 iPad mini 首度採用 8.5 吋 OLED 螢幕，峰值亮度最高 1,200 尼特，並新增 IP67 防水防塵。搭載 2 奈米製程的 A20 Pro 晶片，AI 效能較上一代最高提升 4.5 倍。首度導入蘋果自研 N1 無線晶片，支援 Wi-Fi 7、藍牙 6 與 Thread。台灣 Wi-Fi 版 22,900 元起，10 月 28 日開放預購，11 月 6 日供貨。",
-   "u": "https://technews.tw/2026/10/27/oled-ipad-mini-3/",
-   "p": "2026-10-26T22:41:51+00:00",
-   "o": "iPad mini 終於升級 OLED！不過入門價直接漲 6,000  元"
+   "b": "通用成為又一家從紐約證交所轉投較年輕對手的指標企業。",
+   "u": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
+   "p": "2026-10-27T11:52:00+00:00",
+   "o": "General Motors Moving Stock Listing to Nasdaq From NYSE"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "CF Industries 股票發生了什麼事？",
+   "t": "週二華爾街分析師最新評等：博通、康菲石油、HubSpot 等",
+   "pts": [
+    "分析師在晶片、加密貨幣與能源等領域調整押注，聯準會即將公布利率決議。",
+    "文章點出哪些股票獲意外升評、哪些漲幅三位數仍遭降評，以及一宗天然氣交易如何改寫阿帕拉契能源版圖。"
+   ],
+   "b": "分析師在晶片、加密貨幣與能源等領域調整押注，聯準會即將公布利率決議。文章點出哪些股票獲意外升評、哪些漲幅三位數仍遭降評，以及一宗天然氣交易如何改寫阿帕拉契能源版圖。",
+   "u": "https://247wallst.com/investing/2026/10/27/here-are-tuesdays-top-wall-street-analyst-research-calls-broadcom-conoco-phillips-hubspot-mercadolibre-moderna-occidental-petroleum-pnc-financial-trimble-and-more/?.tsrc=rss",
+   "p": "2026-10-27T11:51:32+00:00",
+   "o": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Broadcom, Conoco Phillips, HubSpot, MercadoLibre, Moderna, Occidental Petroleum, PNC Financial, Trimble, and More"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "盤前股市上揚，交易員等待更多財報",
+   "pts": [
+    "美股期貨週二走高，交易員等待新一批企業財報。"
+   ],
+   "b": "美股期貨週二走高，交易員等待新一批企業財報。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-114538861.html?.tsrc=rss",
+   "p": "2026-10-27T11:45:38+00:00",
+   "o": "Stocks Rise Pre-Bell as Traders Await More Earnings"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Kalshi 與標普道瓊指數簽約，推出標普 500 預測市場",
+   "pts": [
+    "Kalshi 與標普道瓊指數簽署優先供應商協議，將推出連結主要財經基準（含標普 500）的事件合約。"
+   ],
+   "b": "Kalshi 與標普道瓊指數簽署優先供應商協議，將推出連結主要財經基準（含標普 500）的事件合約。",
+   "u": "https://www.ccn.com/news/crypto/kalshi-sp-dow-jones-sp500-prediction-markets-deal/?.tsrc=rss",
+   "p": "2026-10-27T11:42:15+00:00",
+   "o": "Kalshi Strikes S&P Dow Jones Deal to Launch Prediction Markets Tied to S&P 500"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "T-Mobile 目前股價是強力支撐嗎？",
    "pts": [
     "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
    ],
    "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/cf/articles/620461/what-is-going-on-with-cf-industries-stock/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T22:38:41+00:00",
-   "o": "What Is Going On With CF Industries Stock?"
+   "u": "https://www.trefis.com/stock/tmus/articles/620751/is-current-price-of-t-mobile-stock-a-strong-support/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T11:38:06+00:00",
+   "o": "Is Current Price Of T-Mobile Stock A Strong Support?"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "Anthropic 申請 IPO 重燃 AI 熱情，三大指數本週開盤走高",
+   "t": "強勁權利金與新品上市加速 Halozyme（HALO）成長動能",
    "pts": [
-    "投資人接下來關注微軟、亞馬遜與 Alphabet 本週的季度財報。"
+    "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。",
+    "信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。"
    ],
-   "b": "投資人接下來關注微軟、亞馬遜與 Alphabet 本週的季度財報。",
-   "u": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-begin-week-higher-as-anthropic-ipo-filing-rekindles-ai-enthusiasm-msft-aapl-cart-vz-in-focus/cZU3LuaRBz7?.tsrc=rss",
-   "p": "2026-10-26T22:35:16+00:00",
-   "o": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus"
+   "b": "Renaissance Investment Management 發布「大型成長策略」第三季投資人信。信中提到第三季股市小幅上漲，標普 500 上漲 2.3%，能源、科技與醫療保健族群表現突出。",
+   "u": "https://finance.yahoo.com/healthcare/articles/strong-royalties-launches-accelerate-halozyme-113230598.html?.tsrc=rss",
+   "p": "2026-10-27T11:32:30+00:00",
+   "o": "Strong Royalties and New Launches Accelerate Halozyme Therapeutics’ (HALO) Growth Momentum"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "Rollins 股票即將反彈嗎？",
+   "t": "通膨受惠者：10 檔標普 500 股票收取溢價",
+   "pts": [
+    "通膨對買家通常是壞事，但對賣方與其投資人可能是利多。"
+   ],
+   "b": "通膨對買家通常是壞事，但對賣方與其投資人可能是利多。",
+   "u": "https://finance.yahoo.com/m/c6db56a7-2b2d-3277-9c1d-3a09e955316f/inflation-beaters%3A-10-s%26p-500.html?.tsrc=rss",
+   "p": "2026-10-27T11:32:00+00:00",
+   "o": "Inflation Beaters: 10 S&P 500 Stocks Charge A Premium"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "投資人現在該關注 Netflix 股票的什麼？",
    "pts": [
     "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
    ],
    "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/rol/articles/620467/is-rollins-stock-about-to-rebound/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T22:20:33+00:00",
-   "o": "Is Rollins Stock About To Rebound?"
+   "u": "https://www.trefis.com/stock/nflx/articles/620760/what-should-netflix-stock-investors-be-watching-now/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T11:31:39+00:00",
+   "o": "What Should Netflix Stock Investors Be Watching Now?"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "TransDigm 股價能否在目前支撐位反彈？",
+   "t": "市場是否正確解讀英特爾？",
    "pts": [
     "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
    ],
    "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/tdg/articles/620471/can-transdigm-stock-bounce-off-the-current-support/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T22:10:43+00:00",
-   "o": "Can TransDigm Stock Bounce Off The Current Support?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Nutrien 股票發生了什麼事？",
-   "pts": [
-    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
-   ],
-   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/ntr/articles/620473/what-is-going-on-with-nutrien-stock/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T22:04:52+00:00",
-   "o": "What Is Going On With Nutrien Stock?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "United Rentals 股票是否增加你的市場風險？",
-   "pts": [
-    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
-   ],
-   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/uri/articles/620489/is-united-rentals-stock-increasing-your-market-risk/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T21:53:19+00:00",
-   "o": "Is United Rentals Stock Increasing Your Market Risk?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "先鋒成長 ETF 落後一年後通常能勝過大盤，但別指望 2027 年反彈",
-   "pts": [
-    "2005 年以來五次落後的年度中，該基金在其中四次的隔年勝過指數。",
-    "文章探討這是否為今天買進的理由。"
-   ],
-   "b": "2005 年以來五次落後的年度中，該基金在其中四次的隔年勝過指數。文章探討這是否為今天買進的理由。",
-   "u": "https://www.fool.com/investing/2026/10/26/vanguard-s-growth-etf-usually-beats-the-market-after-a-lagging-year-i-d-own-it-but-not-for-a-2027-rebound/?.tsrc=rss",
-   "p": "2026-10-26T21:51:02+00:00",
-   "o": "Vanguard's Growth ETF Usually Beats the Market After a Lagging Year. I'd Own It, but Not for a 2027 Rebound."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "1 檔基本面穩健的消費股，與 2 檔我們不看好的",
-   "pts": [
-    "必需消費股因需求缺乏彈性，被視為動盪市場的避風港。",
-    "但在市場大漲時往往落後，近六個月該產業下跌 1%。"
-   ],
-   "b": "必需消費股因需求缺乏彈性，被視為動盪市場的避風港。但在市場大漲時往往落後，近六個月該產業下跌 1%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-consumer-stock-solid-fundamentals-215047696.html?.tsrc=rss",
-   "p": "2026-10-26T21:50:47+00:00",
-   "o": "1 consumer stock with solid fundamentals and 2 we brush off"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "10 月 26 日股市：AI 樂觀情緒推升那斯達克，科技股反彈",
-   "pts": [
-    "Anthropic 提交 IPO 文件，引發科技股反彈。",
-    "Meta 的 950 億美元 AI 基建計畫則壓抑市場情緒。"
-   ],
-   "b": "Anthropic 提交 IPO 文件，引發科技股反彈。Meta 的 950 億美元 AI 基建計畫則壓抑市場情緒。",
-   "u": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-today-oct-26-ai-optimism-lifts-nasdaq-as-tech-stocks-rebound/?.tsrc=rss",
-   "p": "2026-10-26T21:50:00+00:00",
-   "o": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "本週不容錯過的 5 張重要財報圖表",
-   "pts": [
-    "微軟、Alphabet、Vertiv、Sandisk 與禮來的圖表是必看重點。"
-   ],
-   "b": "微軟、Alphabet、Vertiv、Sandisk 與禮來的圖表是必看重點。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dont-miss-weeks-5-most-214800268.html?.tsrc=rss",
-   "p": "2026-10-26T21:48:00+00:00",
-   "o": "Don't Miss This Week's 5 Most Important Earnings Charts"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "評論：馬斯克、星鏈與普丁",
-   "pts": [
-    "本篇為評論文章，主張這位 SpaceX 執行長忽略了莫斯科真正「嗜血的好戰分子」。"
-   ],
-   "b": "本篇為評論文章，主張這位 SpaceX 執行長忽略了莫斯科真正「嗜血的好戰分子」。",
-   "u": "https://www.wsj.com/opinion/elon-musk-starlink-starshield-vladimir-putin-russia-ukraine-4c788b54?mod=rss_worldnews",
-   "p": "2026-10-26T21:41:00+00:00",
-   "o": "Opinion | Elon Musk, Starlink and Vladimir Putin"
+   "u": "https://www.trefis.com/stock/intc/articles/620755/did-the-market-read-intel-right/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T11:31:38+00:00",
+   "o": "Did The Market Read Intel Right?"
   },
   {
    "c": "tech",
    "s": "WSJ",
-   "t": "評論：Anthropic 的 IPO 大賭注",
+   "t": "晨間風險報告：Anthropic IPO 說明書的最大看點",
    "pts": [
-    "該公司稱自己能拯救或毀滅人類，投資人請下注。"
+    "同一則快訊提到佛羅里達州在對抗大型科技公司中的角色。",
+    "另提到中國警告美方不要設限投資。"
    ],
-   "b": "該公司稱自己能拯救或毀滅人類，投資人請下注。",
-   "u": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_Technology",
-   "p": "2026-10-26T21:41:00+00:00",
-   "o": "Opinion | Anthropic’s Big IPO Gamble"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "評論：巴西市場不投票給盧拉",
-   "pts": [
-    "社會主義者盧拉勝選後，巴西股市、債市與匯市同步重挫。"
-   ],
-   "b": "社會主義者盧拉勝選後，巴西股市、債市與匯市同步重挫。",
-   "u": "https://www.wsj.com/opinion/brazil-election-lula-da-silva-flavio-bolsonaro-markets-c8446089?mod=rss_worldnews",
-   "p": "2026-10-26T21:36:00+00:00",
-   "o": "Opinion | Markets Don’t Vote for Lula in Brazil"
+   "b": "同一則快訊提到佛羅里達州在對抗大型科技公司中的角色。另提到中國警告美方不要設限投資。",
+   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=rss_Technology",
+   "p": "2026-10-27T11:24:00+00:00",
+   "o": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "如果 5 年前投入 1,000 美元買比特幣、以太幣、XRP 與 Solana？",
-   "pts": [
-    "在大漲高點買進加密貨幣聽來像災難，但過去五年的結果遠比想像複雜。"
-   ],
-   "b": "在大漲高點買進加密貨幣聽來像災難，但過去五年的結果遠比想像複雜。",
-   "u": "https://247wallst.com/investing/cryptocurrency/2026/10/26/what-if-you-had-put-1000-into-bitcoin-ethereum-xrp-and-solana-5-years-ago/?.tsrc=rss",
-   "p": "2026-10-26T21:30:22+00:00",
-   "o": "What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "DoorDash 傳洽談收購 Instacart",
-   "pts": [
-    "同一則快訊也提到巴西市場在盧拉意外勝選後崩跌。",
-    "另提到佛羅里達州正領頭對抗大型科技公司。"
-   ],
-   "b": "同一則快訊也提到巴西市場在盧拉意外勝選後崩跌。另提到佛羅里達州正領頭對抗大型科技公司。",
-   "u": "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=rss_Technology",
-   "p": "2026-10-26T21:28:00+00:00",
-   "o": "DoorDash Circles Deal to Buy Instacart"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "ATI 股票的故事已經講完了嗎？",
+   "t": "IBM 最新一季最重要的是什麼？",
    "pts": [
     "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
    ],
    "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
-   "u": "https://www.trefis.com/stock/ati/articles/620497/has-the-story-under-ati-stock-run-out/2026-10-26?.tsrc=rss",
-   "p": "2026-10-26T21:27:40+00:00",
-   "o": "Has The Story Under ATI Stock Run Out?"
+   "u": "https://www.trefis.com/stock/ibm/articles/620769/what-mattered-most-in-ibms-latest-quarter/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T11:22:20+00:00",
+   "o": "What Mattered Most In IBM's Latest Quarter?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "科技樂觀情緒支撐華爾街盤前，亞股漲、歐股跌",
+   "pts": [
+    "華爾街期貨週二盤前小幅走高，科技類股走強。"
+   ],
+   "b": "華爾街期貨週二盤前小幅走高，科技類股走強。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tech-optimism-undergirds-wall-street-111417237.html?.tsrc=rss",
+   "p": "2026-10-27T11:14:17+00:00",
+   "o": "Tech Optimism Undergirds Wall Street Pre-Bell; Asia Up, Europe Off"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美國主導的「局部停火」在烏克蘭南部俄佔區生效，將向居民提供人道援助",
+   "pts": [
+    "赫爾松州奧列什基 27 日凌晨生效局部停火，用於向居民提供人道援助。",
+    "據主導停火的白宮說明，停火期間俄烏官員將訪問民宅提供食物、飲水與醫療用品，並為希望者安排撤離。"
+   ],
+   "b": "赫爾松州奧列什基 27 日凌晨生效局部停火，用於向居民提供人道援助。據主導停火的白宮說明，停火期間俄烏官員將訪問民宅提供食物、飲水與醫療用品，並為希望者安排撤離。",
+   "u": "https://www.sankei.com/article/20261027-BJSLC3YKPFJMBFO2A2IFYPM5WA/",
+   "p": "2026-10-27T11:13:00+00:00",
+   "o": "米主導の「局地的停戦」、ウクライナ南部のロシア占領地で発効 住民に人道支援提供へ"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "選擇權交易員正掌控標普 500",
+   "pts": [
+    "瑞銀團隊表示，這是指數自 6 月以來幾乎沒有波動的原因。"
+   ],
+   "b": "瑞銀團隊表示，這是指數自 6 月以來幾乎沒有波動的原因。",
+   "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?.tsrc=rss",
+   "p": "2026-10-27T11:11:00+00:00",
+   "o": "Options traders are seizing control of the S&P 500"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "微軟（MSFT）AI 策略帶來營收動能",
+   "pts": [
+    "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。",
+    "信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。"
+   ],
+   "b": "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。",
+   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-corp-msft-ai-strategy-105819898.html?.tsrc=rss",
+   "p": "2026-10-27T10:58:19+00:00",
+   "o": "Microsoft Corp.’s (MSFT) AI Strategy Gains Revenue Momentum"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "美光揭次世代 DRAM 藍圖：導入晶圓鍵合、High-NA EUV，推進 vHBM、vEIM 布局",
+   "pts": [
+    "美光計畫在 1ε DRAM 製程導入晶圓鍵合，後續世代採用 High-NA EUV。",
+    "1γ 製程已量產，1δ 預計 2027 年下半年量產，位元密度可提高約 20%。",
+    "美光技術長 DeBoer 表示 DRAM 正逼近原子尺度極限，並將 3D DRAM 導入 1-zeta 與 1-eta 節點之間。",
+    "新型產品 vHBM 將記憶體堆疊於處理器上方，vEIM 則著重能源效率，皆需混合鍵合等先進封裝。",
+    "美光尚未透露 vHBM、vEIM 或客製化 HBM 的量產時程。"
+   ],
+   "b": "美光計畫在 1ε DRAM 製程導入晶圓鍵合，後續世代採用 High-NA EUV。1γ 製程已量產，1δ 預計 2027 年下半年量產，位元密度可提高約 20%。美光技術長 DeBoer 表示 DRAM 正逼近原子尺度極限，並將 3D DRAM 導入 1-zeta 與 1-eta 節點之間。新型產品 vHBM 將記憶體堆疊於處理器上方，vEIM 則著重能源效率，皆需混合鍵合等先進封裝。美光尚未透露 vHBM、vEIM 或客製化 HBM 的量產時程。",
+   "u": "https://technews.tw/2026/10/27/micron-dram-roadmap/",
+   "p": "2026-10-27T10:57:58+00:00",
+   "o": "美光揭次世代 DRAM 藍圖：導入晶圓鍵合、High-NA EUV，推進 vHBM、vEIM 布局"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "評論：法國怎麼了？",
+   "t": "習近平想當和事佬，川普對歷史性峰會另有盤算",
    "pts": [
-    "評論認為法國自詡為現代化典範，卻正陷入原始的暴力。"
+    "本篇同時提到新疆從黑名單變身全球貿易樞紐。",
+    "另提到習近平整肅堪比史達林，以及金正恩意外訪中。"
    ],
-   "b": "評論認為法國自詡為現代化典範，卻正陷入原始的暴力。",
-   "u": "https://www.wsj.com/opinion/whats-the-matter-with-france-70128766?mod=rss_worldnews",
-   "p": "2026-10-26T21:22:00+00:00",
-   "o": "Opinion | What’s the Matter With France?"
+   "b": "本篇同時提到新疆從黑名單變身全球貿易樞紐。另提到習近平整肅堪比史達林，以及金正恩意外訪中。",
+   "u": "https://www.wsj.com/world/china/xi-wants-to-play-peacemaker-trump-has-other-ideas-for-a-historic-summit-2c3e0be9?mod=rss_worldnews",
+   "p": "2026-10-27T10:55:00+00:00",
+   "o": "Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Meta（META）AI 代理開啟新成長機會",
+   "pts": [
+    "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。",
+    "信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。"
+   ],
+   "b": "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。",
+   "u": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-ai-agent-105412607.html?.tsrc=rss",
+   "p": "2026-10-27T10:54:12+00:00",
+   "o": "Meta Platforms’ (META) AI Agent Opens a New Growth Opportunity"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "SpaceX（SPCX）打造更廣泛的深科技成長平台",
+   "pts": [
+    "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。",
+    "信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。"
+   ],
+   "b": "Fred Alger Management 發布「Alger Spectra Fund」2026 年第三季投資人信。信中提到第三季美國股市小幅上漲，標普 500 上漲 2%，企業財報強勁且消費具韌性。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-104833654.html?.tsrc=rss",
+   "p": "2026-10-27T10:48:33+00:00",
+   "o": "Space Exploration Technologies Corp. (SPCX) Builds a Broader Deep-Tech Growth Platform"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "AI 資安需求降溫對 CrowdStrike 股票有多糟？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/crwd/articles/620796/how-bad-would-cooling-ai-security-demand-be-for-crowdstrike-stock/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T10:39:06+00:00",
+   "o": "How Bad Would Cooling AI Security Demand Be For CrowdStrike Stock?"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "這些基金靠投資人的不耐煩賺錢",
+   "pts": [
+    "本篇為投資專欄，RSS 簡述只有一句附帶話題：Anthropic 是否有點厭世。"
+   ],
+   "b": "本篇為投資專欄，RSS 簡述只有一句附帶話題：Anthropic 是否有點厭世。",
+   "u": "https://www.wsj.com/finance/investing/these-funds-thrive-on-investors-impatience-48a6d3a4?mod=rss_markets_main",
+   "p": "2026-10-27T10:37:00+00:00",
+   "o": "These Funds Thrive on Investors’ Impatience"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "2027 年美國核潛艦將派駐澳洲，AUKUS 提升嚇阻力",
+   "pts": [
+    "美英澳三國國防部長 27 日宣布，美國海軍核潛艦「科羅拉多號」將自 2027 年後半年起派駐澳洲西部海軍基地。",
+    "這是澳洲依 AUKUS 採購美國核潛艦前的過渡部署，目的在提高太平洋地區嚇阻力。"
+   ],
+   "b": "美英澳三國國防部長 27 日宣布，美國海軍核潛艦「科羅拉多號」將自 2027 年後半年起派駐澳洲西部海軍基地。這是澳洲依 AUKUS 採購美國核潛艦前的過渡部署，目的在提高太平洋地區嚇阻力。",
+   "u": "https://www.sankei.com/article/20261027-ZBHW5CXGDBN2NAHZY3YLJZUXIM/",
+   "p": "2026-10-27T10:30:51+00:00",
+   "o": "27年に豪州に米原潜派遣へ AUKUSで抑止力向上、豪原潜調達までのつなぎ配備"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "特斯拉股價為何跳升？",
+   "pts": [
+    "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述只有聯絡信箱，沒有內文，因此本則僅依標題呈現。",
+   "u": "https://www.trefis.com/stock/tsla/articles/620840/why-did-tesla-stock-jump/2026-10-27?.tsrc=rss",
+   "p": "2026-10-27T10:26:46+00:00",
+   "o": "Why Did Tesla Stock Jump?"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "Ares 私募信貸基金將向阿波羅收購競爭對手",
+   "pts": [
+    "兩家企業發展公司（BDC）合併後，Ares Capital 規模將超過 310 億美元。"
+   ],
+   "b": "兩家企業發展公司（BDC）合併後，Ares Capital 規模將超過 310 億美元。",
+   "u": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
+   "p": "2026-10-27T10:26:00+00:00",
+   "o": "Ares Private-Credit Fund to Buy Competitor From Apollo"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "聯準會決策者陷入尷尬處境",
+   "pts": [
+    "RSS 簡述僅為投資與財富管理專欄的通用介紹，本則僅依標題呈現。"
+   ],
+   "b": "RSS 簡述僅為投資與財富管理專欄的通用介紹，本則僅依標題呈現。",
+   "u": "https://www.wsj.com/finance/investing/fed-policymakers-are-in-an-awkward-spot-cdc878fb?mod=rss_markets_main",
+   "p": "2026-10-27T10:25:00+00:00",
+   "o": "Fed Policymakers Are in an Awkward Spot"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "評論：盧拉與川普的共同點",
+   "t": "梅蘭妮亞·川普斡旋的停火在飢困的烏克蘭城市生效",
    "pts": [
-    "評論指兩人可在增產燃料與保護委內瑞拉免於動盪上取得共識。"
+    "停火旨在讓人道援助進入該市，並讓想離開的居民撤離。"
    ],
-   "b": "評論指兩人可在增產燃料與保護委內瑞拉免於動盪上取得共識。",
-   "u": "https://www.wsj.com/opinion/the-common-ground-for-lula-and-trump-a1cafdbd?mod=rss_worldnews",
-   "p": "2026-10-26T21:21:00+00:00",
-   "o": "Opinion | The Common Ground for Lula and Trump"
+   "b": "停火旨在讓人道援助進入該市，並讓想離開的居民撤離。",
+   "u": "https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews",
+   "p": "2026-10-27T10:20:00+00:00",
+   "o": "Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
+   "pts": [
+    "Anthropic 提交 IPO 申請，重燃市場對科技業的樂觀情緒。",
+    "文件顯示其上半年營收年增約 1,300%，但也示警安全風險。",
+    "首爾股市盤中一度漲逾 4%，東京股市上漲 1.73%，香港、上海、新加坡等股市下跌。",
+    "Anthropic 上市被視為檢驗 AI 熱潮能否轉化為獲利的指標。"
+   ],
+   "b": "Anthropic 提交 IPO 申請，重燃市場對科技業的樂觀情緒。文件顯示其上半年營收年增約 1,300%，但也示警安全風險。首爾股市盤中一度漲逾 4%，東京股市上漲 1.73%，香港、上海、新加坡等股市下跌。Anthropic 上市被視為檢驗 AI 熱潮能否轉化為獲利的指標。",
+   "u": "https://finance.technews.tw/2026/10/27/anthropic-ipo-boosts-market-confidence-japan-korea-stocks-lead-asia/",
+   "p": "2026-10-27T10:10:30+00:00",
+   "o": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "搶救 Anthropic 債務交易的最後關頭內幕",
+   "pts": [
+    "同一則快訊提到微軟與 Skydance 以自願離職縮編人力。",
+    "另提到川普關稅暴露美國對加拿大鋁的依賴。"
+   ],
+   "b": "同一則快訊提到微軟與 Skydance 以自願離職縮編人力。另提到川普關稅暴露美國對加拿大鋁的依賴。",
+   "u": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
+   "p": "2026-10-27T10:05:00+00:00",
+   "o": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "PChome 用 OMO 強化會員、物流基礎，雙 11 拚速配",
+   "pts": [
+    "PChome「1111 超省超速購」自 10 月 27 日至 11 月 16 日登場，最高 32% 回饋。",
+    "綁定 uniopen 會員的顧客，下單頻次是未綁定者的三倍。",
+    "超速配於凌晨 00:00 前下單，隔日 09:00 前送達指定 7-ELEVEN 門市，199 元免運優惠擴大至每週五六日。",
+    "隨行取服務每五人就有一人是新註冊顧客，執行長張瑜珊預告明年有新的 OMO 服務。"
+   ],
+   "b": "PChome「1111 超省超速購」自 10 月 27 日至 11 月 16 日登場，最高 32% 回饋。綁定 uniopen 會員的顧客，下單頻次是未綁定者的三倍。超速配於凌晨 00:00 前下單，隔日 09:00 前送達指定 7-ELEVEN 門市，199 元免運優惠擴大至每週五六日。隨行取服務每五人就有一人是新註冊顧客，執行長張瑜珊預告明年有新的 OMO 服務。",
+   "u": "https://technews.tw/2026/10/27/pchome-2026-11-11-online-shopping-festival/",
+   "p": "2026-10-27T10:04:54+00:00",
+   "o": "PChome 用 OMO 強化會員、物流基礎，雙 11 拚速配"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "巨額資金打水漂，中國人造古鎮人去樓空",
+   "pts": [
+    "百度熱搜顯示，過去八年中國人造古鎮累計投入超過 500 億人民幣。",
+    "各地古城、古鎮及仿古景區超過 2,800 座，活下來的不到 300 座，約 45%~50% 嚴重虧損甚至空城、破產重組。",
+    "業界人士指出，早期不少古鎮是為「文旅勾地」，真正收益來自周邊住宅與商業街。",
+    "張家界大庸古城花費 24 億人民幣，2021~2024 年累計虧損 10.8 億人民幣。"
+   ],
+   "b": "百度熱搜顯示，過去八年中國人造古鎮累計投入超過 500 億人民幣。各地古城、古鎮及仿古景區超過 2,800 座，活下來的不到 300 座，約 45%~50% 嚴重虧損甚至空城、破產重組。業界人士指出，早期不少古鎮是為「文旅勾地」，真正收益來自周邊住宅與商業街。張家界大庸古城花費 24 億人民幣，2021~2024 年累計虧損 10.8 億人民幣。",
+   "u": "https://finance.technews.tw/2026/10/27/china-artificial-ancient-towns-deserted-massive-funds-wasted/",
+   "p": "2026-10-27T10:00:52+00:00",
+   "o": "巨額資金打水漂，中國人造古鎮人去樓空"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "利率看起來有點低",
+   "pts": [
+    "同一則快訊提到 Anthropic 的 AI 願景、聊天機器人處理經濟數據，以及華許（Kevin Warsh）的全球聽眾。"
+   ],
+   "b": "同一則快訊提到 Anthropic 的 AI 願景、聊天機器人處理經濟數據，以及華許（Kevin Warsh）的全球聽眾。",
+   "u": "https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_markets_main",
+   "p": "2026-10-27T09:58:00+00:00",
+   "o": "Interest Rates Look Kinda Low"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "GMO 拒付駭客百萬美元，籲用戶關閉裝置電源",
+   "pts": [
+    "駭客集團要求 GMO 網路公司支付 100 萬美元，GMO 表示不會就範。",
+    "駭客揚言每天中午依序公開個資，GMO 呼籲用戶全面檢查裝置、隔離備份資料並關閉裝置電源。",
+    "日本財務大臣片山皋月表示，相關外匯保證金交易業者中已有 5 家通報受害。",
+    "經濟產業大臣赤澤亮正宣布將設窗口，供中小企業免費諮詢資安事務。"
+   ],
+   "b": "駭客集團要求 GMO 網路公司支付 100 萬美元，GMO 表示不會就範。駭客揚言每天中午依序公開個資，GMO 呼籲用戶全面檢查裝置、隔離備份資料並關閉裝置電源。日本財務大臣片山皋月表示，相關外匯保證金交易業者中已有 5 家通報受害。經濟產業大臣赤澤亮正宣布將設窗口，供中小企業免費諮詢資安事務。",
+   "u": "https://infosecu.technews.tw/2026/10/27/gmo-refuses-pay-hackers-millions-urges-users-power-off-devices/",
+   "p": "2026-10-27T09:50:51+00:00",
+   "o": "GMO 拒付駭客百萬美元，籲用戶關閉裝置電源"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "Anthropic 帶動的漲勢降溫，期貨持平，市場關注以色列大選",
+   "pts": [
+    "股市期貨持平，前一交易日由 Anthropic 帶動的科技股漲勢動能減弱。",
+    "油價因以色列關鍵大選而走高，政治仍是焦點。"
+   ],
+   "b": "股市期貨持平，前一交易日由 Anthropic 帶動的科技股漲勢動能減弱。油價因以色列關鍵大選而走高，政治仍是焦點。",
+   "u": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
+   "p": "2026-10-27T09:41:00+00:00",
+   "o": "Stock Futures Steady as Anthropic Rally Stalls, Israel Election in Focus"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "熔岩世界 TOI-561 b 披著矽酸鹽雲層，煉獄環境維持數十億年大氣",
+   "pts": [
+    "韋伯太空望遠鏡觀測熔岩行星 TOI-561 b 約 37 小時，涵蓋完整繞行母恆星 4 次。",
+    "該行星向陽面溫度比預期低，最合理解釋為反射約四分之三星光。",
+    "團隊認為向陽面存在矽酸鹽礦物雲層，能反射星光並幫助保留大氣層。",
+    "大氣確切成分仍未知，團隊計畫以更長波長繼續觀測，研究已發表於《天文期刊》。"
+   ],
+   "b": "韋伯太空望遠鏡觀測熔岩行星 TOI-561 b 約 37 小時，涵蓋完整繞行母恆星 4 次。該行星向陽面溫度比預期低，最合理解釋為反射約四分之三星光。團隊認為向陽面存在矽酸鹽礦物雲層，能反射星光並幫助保留大氣層。大氣確切成分仍未知，團隊計畫以更長波長繼續觀測，研究已發表於《天文期刊》。",
+   "u": "https://technews.tw/2026/10/27/toi-561-b-exoplanet-atmosphere/",
+   "p": "2026-10-27T09:37:46+00:00",
+   "o": "熔岩世界 TOI-561 b 披著矽酸鹽雲層，煉獄環境維持數十億年大氣"
   }
  ]
 }
