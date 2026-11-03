@@ -1,6 +1,235 @@
 {
- "updated": "2026-11-02T23:49:07+00:00",
+ "updated": "2026-11-03T00:12:53+00:00",
  "items": [
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 1｜AI 資本支出獲利疑慮與融資缺口（納指 9／費半 9　↓）",
+   "pts": [
+    "納斯達克影響 9 分、費城半導體影響 9 分，方向 ↓（偏空）。",
+    "11/02 Oracle 宣布 200 億美元募資（100 億美元新股加債券），股價盤中跌約 5～9%，CNBC 稱反映 AI 基建資金疑慮；Yahoo 提及 AI 股三週約蒸發 5 兆美元市值；納指 11/02 −1.07%，科技板塊 −2.95%。"
+   ],
+   "b": "納斯達克影響 9 分、費城半導體影響 9 分，方向 ↓（偏空）。11/02 Oracle 宣布 200 億美元募資（100 億美元新股加債券），股價盤中跌約 5～9%，CNBC 稱反映 AI 基建資金疑慮；Yahoo 提及 AI 股三週約蒸發 5 兆美元市值；納指 11/02 −1.07%，科技板塊 −2.95%。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:58+00:00",
+   "o": "因素 1｜AI 資本支出獲利疑慮與融資缺口（納指 9／費半 9　↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 2｜超大規模雲端財報與現金流（納指 8／費半 8　↓）",
+   "pts": [
+    "納斯達克影響 8 分、費城半導體影響 8 分，方向 ↓（偏空）。",
+    "10/29 Alphabet −12.6%（史上最差單日，自由現金流轉負）；Amazon 2026 資本支出維持 2,200 億美元、近 12 個月自由現金流流出 424 億美元；Apple 11/02 盤後財報優於預期，盤後約 +0.87%。"
+   ],
+   "b": "納斯達克影響 8 分、費城半導體影響 8 分，方向 ↓（偏空）。10/29 Alphabet −12.6%（史上最差單日，自由現金流轉負）；Amazon 2026 資本支出維持 2,200 億美元、近 12 個月自由現金流流出 424 億美元；Apple 11/02 盤後財報優於預期，盤後約 +0.87%。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:57+00:00",
+   "o": "因素 2｜超大規模雲端財報與現金流（納指 8／費半 8　↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 3｜AI 硬體個別事件（Marvell-Lumentum、Intel）（納指 6／費半 9　↓）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 9 分，方向 ↓（偏空）。",
+    "11/02 Marvell 以全股票收購 Lumentum，MRVL −12.7%～−12.9%（來源差異）、LITE −18.6%～−18.7%；Intel 10/30 前後財報後大跌近 29%，CFO 預期 PC 需求疲弱延續至 2027 上半年；10/30 SOX 單日 −7.3%（盤中，stockanalysis 新聞稿）。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 9 分，方向 ↓（偏空）。11/02 Marvell 以全股票收購 Lumentum，MRVL −12.7%～−12.9%（來源差異）、LITE −18.6%～−18.7%；Intel 10/30 前後財報後大跌近 29%，CFO 預期 PC 需求疲弱延續至 2027 上半年；10/30 SOX 單日 −7.3%（盤中，stockanalysis 新聞稿）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:56+00:00",
+   "o": "因素 3｜AI 硬體個別事件（Marvell-Lumentum、Intel）（納指 6／費半 9　↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 4｜長天期殖利率高檔（納指 7／費半 7　↓）",
+   "pts": [
+    "納斯達克影響 7 分、費城半導體影響 7 分，方向 ↓（偏空）。",
+    "10 年期殖利率 11/02 收 4.893%（單日約 −3.5bp），10/30 一度 4.95%～4.99%；高殖利率壓抑高估值科技股。"
+   ],
+   "b": "納斯達克影響 7 分、費城半導體影響 7 分，方向 ↓（偏空）。10 年期殖利率 11/02 收 4.893%（單日約 −3.5bp），10/30 一度 4.95%～4.99%；高殖利率壓抑高估值科技股。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:55+00:00",
+   "o": "因素 4｜長天期殖利率高檔（納指 7／費半 7　↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 5｜市場部位與波動（VIX）（納指 6／費半 7　↔）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↔（中性）。",
+    "VIX 11/02 收 21.15（+8.91%）；資金由科技輪動至消費循環、金融與防禦（道瓊 +0.41%、納指 −1.07%）。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↔（中性）。VIX 11/02 收 21.15（+8.91%）；資金由科技輪動至消費循環、金融與防禦（道瓊 +0.41%、納指 −1.07%）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:54+00:00",
+   "o": "因素 5｜市場部位與波動（VIX）（納指 6／費半 7　↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 6｜聯準會利率路徑（納指 6／費半 6　↔）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↔（中性）。",
+    "10/28 FOMC 維持利率 3.75%–4.00%（標題來源：CNBC、Raisin 等，票數與點陣圖未查到）；下次 FOMC 日期與市場機率未查到。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↔（中性）。10/28 FOMC 維持利率 3.75%–4.00%（標題來源：CNBC、Raisin 等，票數與點陣圖未查到）；下次 FOMC 日期與市場機率未查到。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:53+00:00",
+   "o": "因素 6｜聯準會利率路徑（納指 6／費半 6　↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 7｜油價與中東戰事（納指 6／費半 5　↑）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 5 分，方向 ↑（偏多）。",
+    "11/02 美伊傳出願以外交結束戰事，WTI 約 −7.4%（收 96.46；Yahoo 報價列 96.34 與盤中數字不一致）、布蘭特跌破 105 美元；油價回落有助通膨預期但仍在高檔。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 5 分，方向 ↑（偏多）。11/02 美伊傳出願以外交結束戰事，WTI 約 −7.4%（收 96.46；Yahoo 報價列 96.34 與盤中數字不一致）、布蘭特跌破 105 美元；油價回落有助通膨預期但仍在高檔。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:52+00:00",
+   "o": "因素 7｜油價與中東戰事（納指 6／費半 5　↑）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 8｜美國期中選舉（11/03）（納指 5／費半 5　↔）",
+   "pts": [
+    "納斯達克影響 5 分、費城半導體影響 5 分，方向 ↔（中性）。",
+    "11/03 為期中選舉日，市場關注國會權力平衡對財政、公債供給與殖利率的影響（Yahoo 11/02）；結果未出。"
+   ],
+   "b": "納斯達克影響 5 分、費城半導體影響 5 分，方向 ↔（中性）。11/03 為期中選舉日，市場關注國會權力平衡對財政、公債供給與殖利率的影響（Yahoo 11/02）；結果未出。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:51+00:00",
+   "o": "因素 8｜美國期中選舉（11/03）（納指 5／費半 5　↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 9｜記憶體與台積電需求（未查證）（納指 4／費半 6　↔）",
+   "pts": [
+    "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↔（中性）。",
+    "美光、台積電最新財報與 HBM／CoWoS 動態本次未查到；僅見 11/02 盤前 MU +2.39%（盤前，非收盤），故保守評分。"
+   ],
+   "b": "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↔（中性）。美光、台積電最新財報與 HBM／CoWoS 動態本次未查到；僅見 11/02 盤前 MU +2.39%（盤前，非收盤），故保守評分。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:50+00:00",
+   "o": "因素 9｜記憶體與台積電需求（未查證）（納指 4／費半 6　↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 10｜就業與製造業數據（納指 4／費半 4　↔）",
+   "pts": [
+    "納斯達克影響 4 分、費城半導體影響 4 分，方向 ↔（中性）。",
+    "10 月 ISM 製造業 PMI 55.5（9 月 54.5）；9 月營建支出年減 2.7%；10 月非農公布日與預期值未查到。"
+   ],
+   "b": "納斯達克影響 4 分、費城半導體影響 4 分，方向 ↔（中性）。10 月 ISM 製造業 PMI 55.5（9 月 54.5）；9 月營建支出年減 2.7%；10 月非農公布日與預期值未查到。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-03T00:30:49+00:00",
+   "o": "因素 10｜就業與製造業數據（納指 4／費半 4　↔）"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 泡沫疑慮升溫，Neocloud 業者債台高築、股價重挫",
+   "pts": [
+    "CoreWeave、Nebius 等新雲端業者以高價電腦打造資料中心，再出租給 Anthropic、OpenAI 與 Meta 等 AI 開發商。",
+    "Gartner 預測到 2030 年將有八成新雲端業者無法獨立營運，Forrester 預期至少三家將因財務吃緊被收購。",
+    "龍頭 CoreWeave 累積高達 351 億美元債務，近一個月股價重挫約四分之一，其他業者跌幅相當或更深。",
+    "上週微軟與 Google 公布的 AI 支出預測低於預期，加上利率走升推高借貸成本，進一步拖累股價。",
+    "分析師認為目前算力需求仍大於供給，新雲端業者正填補大型資料中心業者無法滿足的缺口。"
+   ],
+   "b": "CoreWeave、Nebius 等新雲端業者以高價電腦打造資料中心，再出租給 Anthropic、OpenAI 與 Meta 等 AI 開發商。Gartner 預測到 2030 年將有八成新雲端業者無法獨立營運，Forrester 預期至少三家將因財務吃緊被收購。龍頭 CoreWeave 累積高達 351 億美元債務，近一個月股價重挫約四分之一，其他業者跌幅相當或更深。上週微軟與 Google 公布的 AI 支出預測低於預期，加上利率走升推高借貸成本，進一步拖累股價。分析師認為目前算力需求仍大於供給，新雲端業者正填補大型資料中心業者無法滿足的缺口。",
+   "u": "https://finance.technews.tw/2026/11/03/these-firms-youve-never-heard-of-are-feeding-fears-the-ai-bubble-could-burst/",
+   "p": "2026-11-03T00:10:05+00:00",
+   "o": "AI 泡沫疑慮升溫，Neocloud 業者債台高築、股價重挫"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "澳洲銀行股受惠於資金輪出 AI 類股而表現亮眼",
+   "pts": [
+    "澳洲股市近幾週由銀行股領漲。",
+    "瑞銀（UBS）分析是什麼因素推動這波超額表現。"
+   ],
+   "b": "澳洲股市近幾週由銀行股領漲。瑞銀（UBS）分析是什麼因素推動這波超額表現。",
+   "u": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
+   "p": "2026-11-03T00:06:00+00:00",
+   "o": "Australian Banks Outperforming on Rotation Away From AI"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "油價走低，市場關注中東情勢發展",
+   "pts": [
+    "亞洲早盤油價走低。",
+    "市場持續追蹤中東的最新發展。"
+   ],
+   "b": "亞洲早盤油價走低。市場持續追蹤中東的最新發展。",
+   "u": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main",
+   "p": "2026-11-03T00:03:00+00:00",
+   "o": "Oil Falls as Market Tracks Mideast Developments"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 資料中心成為日本新商機，為什麼連發電廠都開始投資 AI？",
+   "pts": [
+    "日本最大發電企業 JERA 與美國戴爾合作，將資料中心直接緊鄰千葉火力發電廠興建。",
+    "雙方簽署長達 15 至 25 年、400 MW 的專屬供電合約，繞過公共電網的壅塞與耗時併網審查。",
+    "這項合作也試圖建立發電、機房與伺服器一體化的模組，之後複製到 JERA 在日本各地的其他發電廠預備用地。",
+    "文中指出，400 MW 級資料中心耗電量相當於數十萬戶家庭，將帶動重電裝備與冷卻耗材等周邊升級需求。"
+   ],
+   "b": "日本最大發電企業 JERA 與美國戴爾合作，將資料中心直接緊鄰千葉火力發電廠興建。雙方簽署長達 15 至 25 年、400 MW 的專屬供電合約，繞過公共電網的壅塞與耗時併網審查。這項合作也試圖建立發電、機房與伺服器一體化的模組，之後複製到 JERA 在日本各地的其他發電廠預備用地。文中指出，400 MW 級資料中心耗電量相當於數十萬戶家庭，將帶動重電裝備與冷卻耗材等周邊升級需求。",
+   "u": "https://technews.tw/2026/11/03/why-power-plants-are-investing-in-ai-too/",
+   "p": "2026-11-03T00:00:19+00:00",
+   "o": "AI 資料中心成為日本新商機，為什麼連發電廠都開始投資 AI？"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "避險基金 Elliott 警告「FOGO」：害怕在市場中被摧毀",
+   "pts": [
+    "這家管理約 800 億美元的避險基金第三季報酬持平。",
+    "截至 9 月底，今年累計漲幅不到 2%。"
+   ],
+   "b": "這家管理約 800 億美元的避險基金第三季報酬持平。截至 9 月底，今年累計漲幅不到 2%。",
+   "u": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
+   "p": "2026-11-02T23:54:00+00:00",
+   "o": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美國華盛頓州一人感染禽流感死亡，今年首例",
+   "pts": [
+    "美國西部華盛頓州一郡的衛生當局 1 日宣布，一名居民感染禽流感病毒死亡，該名患者有慢性病史。",
+    "據信是在酪農場與牛接觸而感染。",
+    "這是今年美國首度確認禽流感感染者死亡，據美聯社報導為高病原性 H5N1 型。"
+   ],
+   "b": "美國西部華盛頓州一郡的衛生當局 1 日宣布，一名居民感染禽流感病毒死亡，該名患者有慢性病史。據信是在酪農場與牛接觸而感染。這是今年美國首度確認禽流感感染者死亡，據美聯社報導為高病原性 H5N1 型。",
+   "u": "https://www.sankei.com/article/20261103-UBZSQPQI6BOI7MIBCRTAVH3VLQ/",
+   "p": "2026-11-02T23:51:49+00:00",
+   "o": "米で鳥インフル感染1人死亡 今年初、H5N1型 牛と接触、基礎疾患あり"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "淺談 iPhone Duo 災情：是必經的學習曲線還是低級錯誤？",
+   "pts": [
+    "售價 1,999 美元的 iPhone Duo 於 10 月 23 日上市，數日內即出現內螢幕破裂、白色亮線與鉸鏈卡住等災情。",
+    "彭博社已獨立核實六名以上消費者的故障案例，蘋果在 10 月 26 日承認少數內螢幕異常並承諾換機。",
+    "iFixit 拆解後發現多起損壞集中在鉸鏈附近，推測中央支撐結構未正常退讓而使柔性面板受壓，但原因尚未證實。",
+    "作者認為蘋果快速換機值得肯定，但售後服務不能取代上市前的品質控管。"
+   ],
+   "b": "售價 1,999 美元的 iPhone Duo 於 10 月 23 日上市，數日內即出現內螢幕破裂、白色亮線與鉸鏈卡住等災情。彭博社已獨立核實六名以上消費者的故障案例，蘋果在 10 月 26 日承認少數內螢幕異常並承諾換機。iFixit 拆解後發現多起損壞集中在鉸鏈附近，推測中央支撐結構未正常退讓而使柔性面板受壓，但原因尚未證實。作者認為蘋果快速換機值得肯定，但售後服務不能取代上市前的品質控管。",
+   "u": "https://technews.tw/2026/11/03/iphone-duo-issues-inevitable-learning-curve-or-fundamental-error/",
+   "p": "2026-11-02T23:50:58+00:00",
+   "o": "淺談 iPhone Duo 災情：是必經的學習曲線還是低級錯誤？"
+  },
   {
    "c": "tech",
    "s": "科技新報",
@@ -298,216 +527,6 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-advances-while-221502498.html?.tsrc=rss",
    "p": "2026-11-02T22:15:02+00:00",
    "o": "Dollar General (DG) Advances While Market Declines: Some Information for Investors"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Intrusion（INTZ）跌幅大於大盤",
-   "pts": [
-    "Intrusion 收在 0.56 美元，較前一日下跌 3.62%。"
-   ],
-   "b": "Intrusion 收在 0.56 美元，較前一日下跌 3.62%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-falls-more-221502874.html?.tsrc=rss",
-   "p": "2026-11-02T22:15:02+00:00",
-   "o": "Intrusion Inc. (INTZ) Falls More Steeply Than Broader Market: What Investors Need to Know"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Onto Innovation（ONTO）為何跌幅超過大盤",
-   "pts": [
-    "Onto Innovation 收在 191.4 美元，較前一交易日下跌 5.05%。"
-   ],
-   "b": "Onto Innovation 收在 191.4 美元，較前一交易日下跌 5.05%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-onto-innovation-onto-dipped-221502779.html?.tsrc=rss",
-   "p": "2026-11-02T22:15:02+00:00",
-   "o": "Why Onto Innovation (ONTO) Dipped More Than Broader Market Today"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "火箭實驗室（RKLB）跌幅大於大盤",
-   "pts": [
-    "火箭實驗室收在 52.07 美元，較前一日下跌 4.86%。"
-   ],
-   "b": "火箭實驗室收在 52.07 美元，較前一日下跌 4.86%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-declines-221502510.html?.tsrc=rss",
-   "p": "2026-11-02T22:15:02+00:00",
-   "o": "Rocket Lab Corporation (RKLB) Declines More Than Market: Some Information for Investors"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "2017 年高點買進的 1,000 美元比特幣，現在值多少？",
-   "pts": [
-    "在 2017 年歷史高點買進，投資一度縮水 84%，並套牢三年。",
-    "文章探討長期持有是否終究優於簡單替代方案。"
-   ],
-   "b": "在 2017 年歷史高點買進，投資一度縮水 84%，並套牢三年。文章探討長期持有是否終究優於簡單替代方案。",
-   "u": "https://247wallst.com/investing/cryptocurrency/2026/11/02/1000-in-bitcoin-at-the-2017-peak-what-is-it-worth-now/?.tsrc=rss",
-   "p": "2026-11-02T22:13:48+00:00",
-   "o": "$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Rivian 股價可望上漲逾 30%，R2 不只吸引「Tesla 轉換者」",
-   "pts": [
-    "瑞銀分析師 Joe Spak 將 Rivian 評等由持有升至買進。"
-   ],
-   "b": "瑞銀分析師 Joe Spak 將 Rivian 評等由持有升至買進。",
-   "u": "https://finance.yahoo.com/m/ac5f28e7-6645-3e98-bab4-436337f25e0d/rivian-stock-can-rise-more.html?.tsrc=rss",
-   "p": "2026-11-02T22:09:00+00:00",
-   "o": "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "今日股市（11/2）：邁威爾宣布以 1,150 億美元全股票收購 Lumentum",
-   "pts": [
-    "邁威爾股價因此下跌 13%。",
-    "市場擔心股權稀釋與融資風險。"
-   ],
-   "b": "邁威爾股價因此下跌 13%。市場擔心股權稀釋與融資風險。",
-   "u": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-marvell-announces-usd115-billion-all-stock-acquisition-of-lumentum/?.tsrc=rss",
-   "p": "2026-11-02T22:06:20+00:00",
-   "o": "Stock Market Today, Nov. 2: Marvell Announces $115 Billion All-Stock Acquisition of Lumentum"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "今日股市（11/2）：亞馬遜因 Phillip Securities 升評並給 330 美元目標價而上漲",
-   "pts": [
-    "升評理由是雲端需求能見度提高與 AI 定位，以及 AWS 營收成長加速。"
-   ],
-   "b": "升評理由是雲端需求能見度提高與 AI 定位，以及 AWS 營收成長加速。",
-   "u": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-today-nov-2-amazon-rallies-on-phillip-securities-buy-upgrade-and-330-target/?.tsrc=rss",
-   "p": "2026-11-02T22:05:58+00:00",
-   "o": "Stock Market Today, Nov. 2: Amazon Rallies on Phillip Securities Buy Upgrade and $330 Target"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "美股漲跌互見：AI 疑慮升溫抵銷油價回落利多",
-   "pts": [
-    "美伊談判的期待讓油價下滑，股市收盤漲跌互見。",
-    "對 AI 泡沫的擔憂拖累科技類股。"
-   ],
-   "b": "美伊談判的期待讓油價下滑，股市收盤漲跌互見。對 AI 泡沫的擔憂拖累科技類股。",
-   "u": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6?mod=rss_markets_main",
-   "p": "2026-11-02T22:02:00+00:00",
-   "o": "U.S. Stocks Mixed as Percolating AI Fears Offset Oil Relief"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Ross Stores（ROST）在大盤下跌時上漲",
-   "pts": [
-    "Ross Stores 收在 230.59 美元，上漲 1.01%。"
-   ],
-   "b": "Ross Stores 收在 230.59 美元，上漲 1.01%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-rost-gains-market-220003513.html?.tsrc=rss",
-   "p": "2026-11-02T22:00:03+00:00",
-   "o": "Ross Stores (ROST) Gains As Market Dips: What You Should Know"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Symbotic（SYM）為何跌幅超過大盤",
-   "pts": [
-    "Symbotic 收在 37.22 美元，較前一日下跌 1.87%。"
-   ],
-   "b": "Symbotic 收在 37.22 美元，較前一日下跌 1.87%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-why-symbotic-inc-sym-220003017.html?.tsrc=rss",
-   "p": "2026-11-02T22:00:03+00:00",
-   "o": "Here's Why Symbotic Inc. (SYM) Fell More Than Broader Market"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Core & Main（CNM）在大盤下跌時上漲",
-   "pts": [
-    "Core & Main 收在 45.15 美元，上漲 2.03%。"
-   ],
-   "b": "Core & Main 收在 45.15 美元，上漲 2.03%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/core-main-cnm-gains-market-220002259.html?.tsrc=rss",
-   "p": "2026-11-02T22:00:02+00:00",
-   "o": "Core & Main (CNM) Gains As Market Dips: What You Should Know"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "惠普（HPQ）跌幅大於大盤",
-   "pts": [
-    "惠普收在 28.43 美元，較前一日下跌 1.22%。"
-   ],
-   "b": "惠普收在 28.43 美元，較前一日下跌 1.22%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hp-hpq-sees-more-significant-220002870.html?.tsrc=rss",
-   "p": "2026-11-02T22:00:02+00:00",
-   "o": "HP (HPQ) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "油價暴跌，但股市未能起飛",
-   "pts": [
-    "簡述提到邁威爾宣布大型收購後遭到市場懲罰。"
-   ],
-   "b": "簡述提到邁威爾宣布大型收購後遭到市場懲罰。",
-   "u": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
-   "p": "2026-11-02T21:16:00+00:00",
-   "o": "Oil Tumbles, but Stocks Fail To Launch"
-  },
-  {
-   "c": "tech",
-   "s": "DIGITIMES",
-   "t": "DIGITIMES Today：三星首款 AI 眼鏡傳開賣｜鴻海電動車出海新解｜10 月機車掛牌月減逾 14%",
-   "pts": [
-    "內容涵蓋國科會主委吳誠文談台灣由 Team Taiwan 走向 Team Global。",
-    "另有三星 AI 眼鏡傳開賣、鴻海電動車出海，以及 10 月機車掛牌月減逾 14% 等議題。"
-   ],
-   "b": "內容涵蓋國科會主委吳誠文談台灣由 Team Taiwan 走向 Team Global。另有三星 AI 眼鏡傳開賣、鴻海電動車出海，以及 10 月機車掛牌月減逾 14% 等議題。",
-   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000773318_5GA2VL3P2V2EUH7CB1JJX",
-   "p": "2026-11-02T21:00:00+00:00",
-   "o": "DIGITIMES Today：三星首款AI眼鏡傳開賣 | 鴻海電動車出海新解 | 10月機車掛牌月減逾14%"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "美伊和平努力緩解供給疑慮，油價期貨下挫",
-   "pts": [
-    "美國與伊朗重啟外交努力，緩解市場對中東原油供應的擔憂。",
-    "市場同時降低了對美國期中選舉後局勢升級的疑慮。"
-   ],
-   "b": "美國與伊朗重啟外交努力，緩解市場對中東原油供應的擔憂。市場同時降低了對美國期中選舉後局勢升級的疑慮。",
-   "u": "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?mod=rss_worldnews",
-   "p": "2026-11-02T20:42:00+00:00",
-   "o": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "中東外交出現進展，油價期貨大幅賣壓",
-   "pts": [
-    "油價期貨創下 7 月以來單日最大跌幅。",
-    "美伊直接和談的外交努力削減了市場風險溢價。"
-   ],
-   "b": "油價期貨創下 7 月以來單日最大跌幅。美伊直接和談的外交努力削減了市場風險溢價。",
-   "u": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
-   "p": "2026-11-02T20:34:00+00:00",
-   "o": "Oil Futures Sell Off on Middle East Diplomatic Progress"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "油價下滑，道瓊在週五賣壓後反彈",
-   "pts": [
-    "科技股週一早盤的漲幅開始消退。"
-   ],
-   "b": "科技股週一早盤的漲幅開始消退。",
-   "u": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?mod=rss_markets_main",
-   "p": "2026-11-02T19:23:00+00:00",
-   "o": "Dow Rebounds After Friday’s Selloff as Oil Slides"
   }
  ]
 }
