@@ -1,20 +1,351 @@
 {
- "updated": "2026-11-08T02:03:18+00:00",
+ "updated": "2026-11-08T12:13:26+00:00",
  "items": [
   {
    "c": "tech",
-   "s": "科技新報",
-   "t": "維生素 D 該何時吃？研究指隨餐服用比早晚時段更關鍵",
+   "s": "WSJ",
+   "t": "我試用一週：蘋果的海灘友善款 iPad mini 與亞馬遜高檔 Alexa 平板",
    "pts": [
-    "藥劑師指出，維生素 D 可能參與褪黑激素與血清素的調節，與睡眠有關。",
-    "血中濃度低於 20ng/mL 者，與睡眠較短、夜間易醒及入睡困難有關。",
-    "目前研究較傾向白天補充（早晨或午餐時間），因為晚上服用可能干擾褪黑激素的產生。",
-    "但證據尚不足以證實白天一定優於晚上，持之以恆比選對時間更重要。"
+    "手機越做越大、筆電越做越輕，但平板對許多人仍然合理，尤其是愛窩在沙發上的人。"
    ],
-   "b": "藥劑師指出，維生素 D 可能參與褪黑激素與血清素的調節，與睡眠有關。血中濃度低於 20ng/mL 者，與睡眠較短、夜間易醒及入睡困難有關。目前研究較傾向白天補充（早晨或午餐時間），因為晚上服用可能干擾褪黑激素的產生。但證據尚不足以證實白天一定優於晚上，持之以恆比選對時間更重要。",
-   "u": "https://technews.tw/2026/11/08/the-best-time-to-take-vitamin-d-for-better-sleep/",
-   "p": "2026-11-08T02:00:29+00:00",
-   "o": "維生素 D 該何時吃？研究指隨餐服用比早晚時段更關鍵"
+   "b": "手機越做越大、筆電越做越輕，但平板對許多人仍然合理，尤其是愛窩在沙發上的人。",
+   "u": "https://www.wsj.com/tech/personal-tech/apple-ipad-mini-amazon-alexa-tablet-best-in-years-c5004bac?mod=rss_Technology",
+   "p": "2026-11-08T12:00:00+00:00",
+   "o": "My Week With Apple’s Beach-Friendly iPad Mini and Amazon’s Upscale Alexa Tablet"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "傑弗里斯必須在優先事項互相競爭的民主黨中周旋",
+   "pts": [
+    "另提到納坦雅胡的對手獲得組閣機會，以及人才爭奪戰如何讓傳統律師事務所走向末路。"
+   ],
+   "b": "另提到納坦雅胡的對手獲得組閣機會，以及人才爭奪戰如何讓傳統律師事務所走向末路。",
+   "u": "https://www.wsj.com/articles/hakeem-jeffries-must-navigate-a-democratic-party-with-competing-priorities-6c679608?mod=rss_markets_main",
+   "p": "2026-11-08T11:59:00+00:00",
+   "o": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "我為何仍持續投資標普 500，即使熊市可能來臨",
+   "pts": [
+    "在下跌前買進令人難受，但無限期等待也有其風險。"
+   ],
+   "b": "在下跌前買進令人難受，但無限期等待也有其風險。",
+   "u": "https://www.fool.com/investing/2026/11/08/heres-why-im-still-investing-in-the-sp-500-even-if/?.tsrc=rss",
+   "p": "2026-11-08T11:58:00+00:00",
+   "o": "Here's Why I'm Still Investing in the S&P 500, Even if a Bear Market Is Coming"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "逢低買進還是等待？美銀描繪晶片股三種情境與首選股",
+   "pts": [
+    "美國銀行認為，隨著美國政策趨於明朗、企業買回股票及估值相對有吸引力，半導體股可能在 2027 年初出現復甦。",
+    "這些因素有助緩解市場對 AI 支出的疑慮，但投資人可能仍需等到獲利預估下修後，板塊才會見到可持續的底部。"
+   ],
+   "b": "美國銀行認為，隨著美國政策趨於明朗、企業買回股票及估值相對有吸引力，半導體股可能在 2027 年初出現復甦。這些因素有助緩解市場對 AI 支出的疑慮，但投資人可能仍需等到獲利預估下修後，板塊才會見到可持續的底部。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-wait-bofa-maps-115701295.html?.tsrc=rss",
+   "p": "2026-11-08T11:57:01+00:00",
+   "o": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "烏克蘭批俄羅斯接管 JT 事業是侵略政策，對國際企業構成經濟風險",
+   "pts": [
+    "烏克蘭駐日大使館 8 日發表聲明，批評俄羅斯總統普丁下令將日本菸草產業（JT）的俄國事業置於暫時管理之下。",
+    "聲明稱此舉等同接收私有財產，是公然踐踏國際法原則的暴行。"
+   ],
+   "b": "烏克蘭駐日大使館 8 日發表聲明，批評俄羅斯總統普丁下令將日本菸草產業（JT）的俄國事業置於暫時管理之下。聲明稱此舉等同接收私有財產，是公然踐踏國際法原則的暴行。",
+   "u": "https://www.sankei.com/article/20261108-7NKI2UVH7JJBVGANJ2CMVARLME/",
+   "p": "2026-11-08T11:40:14+00:00",
+   "o": "ロシアのJT管理は「侵略的政策で国際企業に経済的リスク」 ウクライナ、Xで非難声明"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "俄媒稱莫斯科拘留 200 人，疑為要求赴徵兵辦公室或勸誘簽軍約",
+   "pts": [
+    "俄羅斯獨立媒體 Meduza 等 8 日報導，當局在莫斯科市中心鬧區拘留約 200 人。",
+    "據被拘留者證詞，有人在警局被交付徵兵辦公室的出頭通知書，或在押送車內被一再勸說與國防部簽軍約。",
+    "俄羅斯因烏克蘭戰事長期化，正加強招募志願兵。"
+   ],
+   "b": "俄羅斯獨立媒體 Meduza 等 8 日報導，當局在莫斯科市中心鬧區拘留約 200 人。據被拘留者證詞，有人在警局被交付徵兵辦公室的出頭通知書，或在押送車內被一再勸說與國防部簽軍約。俄羅斯因烏克蘭戰事長期化，正加強招募志願兵。",
+   "u": "https://www.sankei.com/article/20261108-FLAW5RLO2FK7VER7QIM5US23VM/",
+   "p": "2026-11-08T11:30:03+00:00",
+   "o": "モスクワで200人拘束と独立系メディア報道 徴兵事務所への出頭要請や軍契約の勧誘か"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "系微10月營收1.04 億元",
+   "pts": [
+    "系微 10 月營收為 1.04 億元，較 9 月衰退 57.6%。"
+   ],
+   "b": "系微 10 月營收為 1.04 億元，較 9 月衰退 57.6%。",
+   "u": "https://finance.technews.tw/2026/11/08/insyde-6231-202610-financial-report/",
+   "p": "2026-11-08T10:30:05+00:00",
+   "o": "系微10月營收1.04 億元"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "你認識英格蘭的開國之父嗎？別擔心，英格蘭人自己也不認識",
+   "pts": [
+    "明年是英格蘭首位國王受封 1,100 週年。",
+    "慶祝活動面臨一大障礙：幾乎沒人知道埃塞爾斯坦（Æthelstan）是誰。"
+   ],
+   "b": "明年是英格蘭首位國王受封 1,100 週年。慶祝活動面臨一大障礙：幾乎沒人知道埃塞爾斯坦（Æthelstan）是誰。",
+   "u": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
+   "p": "2026-11-08T10:30:00+00:00",
+   "o": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either."
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "別相信市場對期中選舉的反射性反應",
+   "pts": [
+    "政治驅動的交易通常有其理由。",
+    "但在選後熱度消退後，這類交易往往證明是災難性的。"
+   ],
+   "b": "政治驅動的交易通常有其理由。但在選後熱度消退後，這類交易往往證明是災難性的。",
+   "u": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
+   "p": "2026-11-08T10:30:00+00:00",
+   "o": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "DoorDash 股東不相信公司能對抗亞馬遜",
+   "pts": [
+    "在 Instacart 收購計畫，以及亞馬遜與對手 Uber Eats 的合作之後，DoorDash 股價正被低價拋售。"
+   ],
+   "b": "在 Instacart 收購計畫，以及亞馬遜與對手 Uber Eats 的合作之後，DoorDash 股價正被低價拋售。",
+   "u": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70?mod=rss_markets_main",
+   "p": "2026-11-08T10:30:00+00:00",
+   "o": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "俄軍占領的札波羅熱核電廠失去外部電源，稱輻射量正常",
+   "pts": [
+    "占領烏克蘭南部札波羅熱核電廠的俄方當局 8 日表示，向核電廠供電的輸電線受損，外部電源喪失。",
+    "俄方稱輻射量處於正常水準。"
+   ],
+   "b": "占領烏克蘭南部札波羅熱核電廠的俄方當局 8 日表示，向核電廠供電的輸電線受損，外部電源喪失。俄方稱輻射量處於正常水準。",
+   "u": "https://www.sankei.com/article/20261108-VUMRK6EGTBMBBJEDAIJQTKC2U4/",
+   "p": "2026-11-08T10:07:22+00:00",
+   "o": "ロシア占拠のザポリージャ原発、外部電源喪失 放射線量は正常水準と発表"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "沙烏地標誌性高塔遭擊中，葉門胡塞武裝襲擊利雅德",
+   "pts": [
+    "官員承認該建築受損。",
+    "這是伊朗支持的叛軍對首都發動的最新一次攻擊。"
+   ],
+   "b": "官員承認該建築受損。這是伊朗支持的叛軍對首都發動的最新一次攻擊。",
+   "u": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
+   "p": "2026-11-08T10:07:00+00:00",
+   "o": "Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "巴菲特與艾克曼發出相似的驚人警告，投資人現在該做的一件事",
+   "pts": [
+    "簡述指這兩位億萬富豪都觀察到某些投資人的一種特定行為。"
+   ],
+   "b": "簡述指這兩位億萬富豪都觀察到某些投資人的一種特定行為。",
+   "u": "https://www.fool.com/investing/2026/11/08/billionaires-warren-buffett-and-bill-ackman-deliver-a-similar-shocking-warning-to-wall-street-here-s-1-thing-investors-should-do-now/?.tsrc=rss",
+   "p": "2026-11-08T09:35:02+00:00",
+   "o": "Billionaires Warren Buffett and Bill Ackman Deliver a Similar, Shocking Warning to Wall Street. Here’s 1 Thing Investors Should Do Now."
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 讓 App 變得可有可無，消費性軟體入口正轉向訊息對話框",
+   "pts": [
+    "AI 助理 Pally 做成完整 App 時，第二個月留存率不到 20%；改整合進 iMessage 後升至 70% 以上。",
+    "手機平均安裝逾 80 個 App，約 62% 在一個月內不再使用，美國用戶約 80% 的使用時間集中在前三個 App。",
+    "文章提出三種繞過螢幕的路徑：新硬體、超級 App，以及把 AI 嵌入 iMessage、SMS、WhatsApp 等訊息工具。",
+    "Teamily AI 與 Cyclon 也提出以代理網路、AI 代理作業系統取代 App 入口的方向。",
+    "AI 的競爭焦點正從哪個 App 最好用，轉向誰能成為使用者啟動任務的習慣入口。"
+   ],
+   "b": "AI 助理 Pally 做成完整 App 時，第二個月留存率不到 20%；改整合進 iMessage 後升至 70% 以上。手機平均安裝逾 80 個 App，約 62% 在一個月內不再使用，美國用戶約 80% 的使用時間集中在前三個 App。文章提出三種繞過螢幕的路徑：新硬體、超級 App，以及把 AI 嵌入 iMessage、SMS、WhatsApp 等訊息工具。Teamily AI 與 Cyclon 也提出以代理網路、AI 代理作業系統取代 App 入口的方向。AI 的競爭焦點正從哪個 App 最好用，轉向誰能成為使用者啟動任務的習慣入口。",
+   "u": "https://technews.tw/2026/11/08/ai-is-making-the-app-optional/",
+   "p": "2026-11-08T09:00:45+00:00",
+   "o": "AI 讓 App 變得可有可無，消費性軟體入口正轉向訊息對話框"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "沙烏地聯軍稱攔截胡塞武裝飛彈，首都利雅德傳出爆炸聲",
+   "pts": [
+    "受葉門親伊朗武裝組織胡塞武裝攻擊的沙烏地阿拉伯領軍聯軍 8 日表示，已攔截胡塞朝利雅德發射的飛彈。",
+    "路透社報導，利雅德可聽到爆炸聲。"
+   ],
+   "b": "受葉門親伊朗武裝組織胡塞武裝攻擊的沙烏地阿拉伯領軍聯軍 8 日表示，已攔截胡塞朝利雅德發射的飛彈。路透社報導，利雅德可聽到爆炸聲。",
+   "u": "https://www.sankei.com/article/20261108-64MNMWHB4BLPZDU5UJRPSJLJFA/",
+   "p": "2026-11-08T08:38:08+00:00",
+   "o": "サウジ連合軍、フーシ派のミサイルを迎撃と発表 首都リヤドで爆発音"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」",
+   "pts": [
+    "華爾街日報報導，自羅浮宮竊案以來，歐洲至少有 14 家博物館或美術館遭竊。",
+    "退役荷蘭藝術大盜杜漢參觀羅浮宮後，認為館內仍到處是漏洞，例如破損的窗戶。",
+    "歐洲警政署指出，藝術品竊盜正從暗中潛入轉向使用鐵槌、斧頭等的強行闖入，部分案件還持槍威嚇。",
+    "竊賊目標轉向金幣、金塊與珠寶，因為更容易熔解或拆卸銷贓。",
+    "2024 年法國調查發現，僅四分之一文化機構制定緊急應變計畫，近半數沒有安裝監視器。"
+   ],
+   "b": "華爾街日報報導，自羅浮宮竊案以來，歐洲至少有 14 家博物館或美術館遭竊。退役荷蘭藝術大盜杜漢參觀羅浮宮後，認為館內仍到處是漏洞，例如破損的窗戶。歐洲警政署指出，藝術品竊盜正從暗中潛入轉向使用鐵槌、斧頭等的強行闖入，部分案件還持槍威嚇。竊賊目標轉向金幣、金塊與珠寶，因為更容易熔解或拆卸銷贓。2024 年法國調查發現，僅四分之一文化機構制定緊急應變計畫，近半數沒有安裝監視器。",
+   "u": "https://ccc.technews.tw/2026/11/08/louvre-heist-copycat-effect-european-museums-thefts-retired-thief-returns-claims-still-get-in/",
+   "p": "2026-11-08T08:30:55+00:00",
+   "o": "羅浮宮劫案掀骨牌效應，歐洲 14 家博物館連環淪陷，退役神偷嗆「我還是進得去」"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 自動化攻擊秒速得手！防守不能只拚快，專家點名企業必備的三大資安決策",
+   "pts": [
+    "近兩個月 91APP、美食-KY、葡萄王、王品與永豐銀行等資安事件接連發生，且多牽涉委外服務商或系統供應商。",
+    "專家認為 AI 並未根本改變攻擊手法，改變的只有攻擊的速度與成本。",
+    "以色列 Dream Security 研究指出，今年 7 月駭客結合 AI Agent 攻擊台灣政府機關，4 天內發動 12 波、至少 85 個帳號遭入侵。",
+    "AI 找到漏洞可能只要幾分鐘，廠商修補卻往往要兩、三個月。",
+    "專家建議三件事：縮小攻擊面、控管帳號與 AI 權限，以及提前授權資安團隊阻斷攻擊。"
+   ],
+   "b": "近兩個月 91APP、美食-KY、葡萄王、王品與永豐銀行等資安事件接連發生，且多牽涉委外服務商或系統供應商。專家認為 AI 並未根本改變攻擊手法，改變的只有攻擊的速度與成本。以色列 Dream Security 研究指出，今年 7 月駭客結合 AI Agent 攻擊台灣政府機關，4 天內發動 12 波、至少 85 個帳號遭入侵。AI 找到漏洞可能只要幾分鐘，廠商修補卻往往要兩、三個月。專家建議三件事：縮小攻擊面、控管帳號與 AI 權限，以及提前授權資安團隊阻斷攻擊。",
+   "u": "https://infosecu.technews.tw/2026/11/08/three-steps-companies-should-take-to-defend-against-ai-attacks/",
+   "p": "2026-11-08T08:30:20+00:00",
+   "o": "AI 自動化攻擊秒速得手！防守不能只拚快，專家點名企業必備的三大資安決策"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
+   "pts": [
+    "史丹佛團隊利用 AI 篩選候選分子，找出僅由 12 個胺基酸組成的天然胜肽 BRP。",
+    "BRP 主要作用於大腦下視丘，不像 GLP-1 類藥物同時影響腸胃、胰臟等器官。",
+    "在小鼠與迷你豬實驗中，注射後一小時內進食量最多減少 50%。",
+    "對肥胖小鼠連續治療 14 天，未見活動力下降、焦慮行為或排便異常。",
+    "目前仍限於動物實驗，作用機制、安全性、劑量與人體效果仍待釐清。"
+   ],
+   "b": "史丹佛團隊利用 AI 篩選候選分子，找出僅由 12 個胺基酸組成的天然胜肽 BRP。BRP 主要作用於大腦下視丘，不像 GLP-1 類藥物同時影響腸胃、胰臟等器官。在小鼠與迷你豬實驗中，注射後一小時內進食量最多減少 50%。對肥胖小鼠連續治療 14 天，未見活動力下降、焦慮行為或排便異常。目前仍限於動物實驗，作用機制、安全性、劑量與人體效果仍待釐清。",
+   "u": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
+   "p": "2026-11-08T08:00:12+00:00",
+   "o": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "TOPIX 改革逼企業持續提升企業價值，經營者需有覺悟",
+   "pts": [
+    "報導指出，一度被認定「不及格」的企業正抱著雪恥決心力拚。"
+   ],
+   "b": "報導指出，一度被認定「不及格」的企業正抱著雪恥決心力拚。",
+   "u": "https://www.sankei.com/article/20261108-GY2DU6QLOVICHPCNCRYAQHGNIY/",
+   "p": "2026-11-08T08:00:00+00:00",
+   "o": "TOPIX改革 継続的な企業価値向上迫る 経営者には覚悟が問われる"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "阿貢實驗室獲百倍 GPU 記憶體加持，結合全新 AI 算力開啟「自主實驗室」研究新紀元",
+   "pts": [
+    "阿貢國家實驗室擴充推論服務，新系統 Tara 配置 672 個節點與 2,688 顆 NVIDIA GH200 晶片，GPU 記憶體容量約為過往 100 倍。",
+    "另有 Minerva（64 顆 B200 GPU）與擴充至 96 顆 SN40L 處理器的 Metis 系統。",
+    "ALCF 推論服務現可提供逾 50 個模型，且皆在地端運行，可保障敏感研究資料。",
+    "研究人員可將模型與 Codex、Claude Code 等代理工具搭配，團隊也在發展代理式工作流程。",
+    "此次擴充將強化該服務在美國能源部 Genesis Mission 國家計畫中的角色。"
+   ],
+   "b": "阿貢國家實驗室擴充推論服務，新系統 Tara 配置 672 個節點與 2,688 顆 NVIDIA GH200 晶片，GPU 記憶體容量約為過往 100 倍。另有 Minerva（64 顆 B200 GPU）與擴充至 96 顆 SN40L 處理器的 Metis 系統。ALCF 推論服務現可提供逾 50 個模型，且皆在地端運行，可保障敏感研究資料。研究人員可將模型與 Codex、Claude Code 等代理工具搭配，團隊也在發展代理式工作流程。此次擴充將強化該服務在美國能源部 Genesis Mission 國家計畫中的角色。",
+   "u": "https://technews.tw/2026/11/08/argonne-national-laboratory-expands-ai-inference-computing/",
+   "p": "2026-11-08T07:00:08+00:00",
+   "o": "阿貢實驗室獲百倍 GPU 記憶體加持，結合全新 AI 算力開啟「自主實驗室」研究新紀元"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%",
+   "pts": [
+    "約翰霍普金斯大學分析近 1,000 名 65 歲以上、起初無認知障礙的長者，追蹤 10 年。",
+    "排除前 5 年內確診者後，頻繁午睡與失智風險的關聯依然存在。",
+    "科學家認為頻繁午睡是神經退化的早期標記，而非致病原因。",
+    "專家提醒應留意長者白天睡眠習慣的改變，必要時尋求神經學或睡眠評估。"
+   ],
+   "b": "約翰霍普金斯大學分析近 1,000 名 65 歲以上、起初無認知障礙的長者，追蹤 10 年。排除前 5 年內確診者後，頻繁午睡與失智風險的關聯依然存在。科學家認為頻繁午睡是神經退化的早期標記，而非致病原因。專家提醒應留意長者白天睡眠習慣的改變，必要時尋求神經學或睡眠評估。",
+   "u": "https://technews.tw/2026/11/08/frequent-napping-elderly-link-dementia/",
+   "p": "2026-11-08T06:30:45+00:00",
+   "o": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "奇鋐10月營收月增5.2%",
+   "pts": [
+    "奇鋐 10 月合併營收為 221.03 億元，較 9 月成長 5.2%。"
+   ],
+   "b": "奇鋐 10 月合併營收為 221.03 億元，較 9 月成長 5.2%。",
+   "u": "https://finance.technews.tw/2026/11/08/avc-3017-202610-financial-report/",
+   "p": "2026-11-08T06:10:03+00:00",
+   "o": "奇鋐10月營收月增5.2%"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "北韓舉國培育駭客，選拔 200 名中學生，攻擊成功可獲平壤公寓",
+   "pts": [
+    "北韓由國家主導培育年輕世代，組織負責網路攻擊與賺取外匯的駭客集團。",
+    "據脫北者與專家說法，北韓視駭客為「秘密武器」，優秀人員可獲得平壤公寓與外幣報酬等特權。"
+   ],
+   "b": "北韓由國家主導培育年輕世代，組織負責網路攻擊與賺取外匯的駭客集團。據脫北者與專家說法，北韓視駭客為「秘密武器」，優秀人員可獲得平壤公寓與外幣報酬等特權。",
+   "u": "https://www.sankei.com/article/20261108-RFH5NN3B2RJNNKQM4CQA6C3KRA/",
+   "p": "2026-11-08T04:35:34+00:00",
+   "o": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "歷史顯示能源股在上一輪熊市領漲，這次有何不同",
+   "pts": [
+    "能源股在 2026 年表現亮眼，但油市出現令人意外的轉變，可能改變前景。"
+   ],
+   "b": "能源股在 2026 年表現亮眼，但油市出現令人意外的轉變，可能改變前景。",
+   "u": "https://www.fool.com/investing/2026/11/07/history-says-energy-led-all-sectors-in-the-last-be/?.tsrc=rss",
+   "p": "2026-11-08T03:20:00+00:00",
+   "o": "History Says Energy Led All Sectors in the Last Bear Market. Here's What's Different Now."
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "保護非洲狩獵戰利品的呼聲升高",
+   "pts": [
+    "西方動物權利團體推動禁止進口狩獵戰利品。",
+    "以保護野生動物聞名的非洲國家則表示反對。"
+   ],
+   "b": "西方動物權利團體推動禁止進口狩獵戰利品。以保護野生動物聞名的非洲國家則表示反對。",
+   "u": "https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews",
+   "p": "2026-11-08T03:00:00+00:00",
+   "o": "The Growing Push to Protect Trophy Hunting in Africa"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "川普近期的警告在華爾街引發震撼，對你的退休儲蓄可能意味著什麼",
+   "pts": [
+    "簡述指美元的購買力持續下滑。"
+   ],
+   "b": "簡述指美元的購買力持續下滑。",
+   "u": "https://www.fool.com/investing/2026/11/07/trumps-recent-warning-is-sending-shockwaves-throug/?.tsrc=rss",
+   "p": "2026-11-08T02:20:00+00:00",
+   "o": "Trump's Recent Warning Is Sending Shockwaves Through Wall Street. Here's What It Could Mean for Your Retirement Savings."
   },
   {
    "c": "fin",
@@ -30,19 +361,17 @@
    "o": "Warren Buffett Told His Wife’s Trustee Exactly Where to Put Her Money. Stocks Just Fell 4.4%."
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "輝達力推 PTFE 無玻纖布方案，材料商搶卡位、PCB 大廠審慎評估",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "巴菲特的退休策略有個但書：2026 年光靠 VOO 可能不夠",
    "pts": [
-    "輝達推動下一代 AI 伺服器導入無玻纖布的 PTFE 材料，材料商搶先卡位，PCB 大廠則審慎評估。",
-    "台虹已提前訂購設備，規劃 2027 年初建置每月 10 萬張 CCL 產能，但各家產品仍處不同驗證階段，規劃產能不等於實際訂單。",
-    "華通表示研發資源有限、不會每個領域都投入；臻鼎－KY 則認為 PTFE 仍需時間驗證量產技術。",
-    "聯茂指出目前評估的方案是在部分高速訊號層導入 PTFE，其餘仍用含玻纖布材料；部分 PTFE 需 300 至 380 度高溫壓合，須與 PCB 廠共同調整製程。"
+    "巴菲特著名的 90/10 策略前提，是長期持股累積財富，並以短期公債在市場波動時作為緩衝。",
+    "簡述指出，退休者愈來愈依賴投資組合支應定期提領。"
    ],
-   "b": "輝達推動下一代 AI 伺服器導入無玻纖布的 PTFE 材料，材料商搶先卡位，PCB 大廠則審慎評估。台虹已提前訂購設備，規劃 2027 年初建置每月 10 萬張 CCL 產能，但各家產品仍處不同驗證階段，規劃產能不等於實際訂單。華通表示研發資源有限、不會每個領域都投入；臻鼎－KY 則認為 PTFE 仍需時間驗證量產技術。聯茂指出目前評估的方案是在部分高速訊號層導入 PTFE，其餘仍用含玻纖布材料；部分 PTFE 需 300 至 380 度高溫壓合，須與 PCB 廠共同調整製程。",
-   "u": "https://technews.tw/2026/11/08/materials-suppliers-rush-to-develop-glass-free-ptfe-laminates/",
-   "p": "2026-11-08T01:00:58+00:00",
-   "o": "輝達力推 PTFE 無玻纖布方案，材料商搶卡位、PCB 大廠審慎評估"
+   "b": "巴菲特著名的 90/10 策略前提，是長期持股累積財富，並以短期公債在市場波動時作為緩衝。簡述指出，退休者愈來愈依賴投資組合支應定期提領。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-retirement-strategy-catch-013032807.html?.tsrc=rss",
+   "p": "2026-11-08T01:30:32+00:00",
+   "o": "Warren Buffett's Retirement Strategy Has a Catch: VOO Alone May Not Be Enough in 2026"
   },
   {
    "c": "fin",
@@ -58,89 +387,6 @@
    "o": "How a Talent War Spelled Doom for the Traditional Law Firm"
   },
   {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "法國物價高漲引發 14 萬人示威，與警方衝突、360 人遭拘留",
-   "pts": [
-    "法國 7 日為訴求物價對策與改善教育環境舉行示威，內政部稱有 14 萬 6000 人參加。",
-    "巴黎、土魯斯、馬賽等地部分參與者與警方衝突，360 人遭拘留。",
-    "5 日剛有 57 萬人示威，且有人呼籲持續行動，抗議運動難以平息。"
-   ],
-   "b": "法國 7 日為訴求物價對策與改善教育環境舉行示威，內政部稱有 14 萬 6000 人參加。巴黎、土魯斯、馬賽等地部分參與者與警方衝突，360 人遭拘留。5 日剛有 57 萬人示威，且有人呼籲持續行動，抗議運動難以平息。",
-   "u": "https://www.sankei.com/article/20261108-CDXLO5JN4RLJ3KPU3Q2NIQCZWQ/",
-   "p": "2026-11-08T00:59:10+00:00",
-   "o": "フランス各地で物価高など巡り14万人デモ、警察と衝突 360人拘束、沈静化せず"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "AI 聊天機器人也能當學者？實測揭露學術出版防線的新危機",
-   "pts": [
-    "IEEE Access 期刊配合實驗，將 AI 生成內容帶進學術出版流程。",
-    "全自動研究系統 FARS 在 21 分鐘內產出研究提案，並在兩小時內寫出可投稿的論文版本。",
-    "IEEE 判定該論文過度依賴未經同儕審查的預印本，圖表中也出現亂碼字樣與雜訊 AI 圖像。",
-    "現有的研究誠信檢查工具只能抓到部分漏洞，面對更成熟的 AI，學術出版的防線恐更吃力。"
-   ],
-   "b": "IEEE Access 期刊配合實驗，將 AI 生成內容帶進學術出版流程。全自動研究系統 FARS 在 21 分鐘內產出研究提案，並在兩小時內寫出可投稿的論文版本。IEEE 判定該論文過度依賴未經同儕審查的預印本，圖表中也出現亂碼字樣與雜訊 AI 圖像。現有的研究誠信檢查工具只能抓到部分漏洞，面對更成熟的 AI，學術出版的防線恐更吃力。",
-   "u": "https://technews.tw/2026/11/08/ai-generated-fake-papers-challenge-academic-defenses/",
-   "p": "2026-11-08T00:30:44+00:00",
-   "o": "AI 聊天機器人也能當學者？實測揭露學術出版防線的新危機"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "加薩進入冬季雨季，帳篷淹水災情不斷，已有人凍死",
-   "pts": [
-    "加薩當局 7 日表示，強風大雨使過去 12 小時內有 7 萬座避難民帳篷淹水。",
-    "去年 10 月停火生效後人道情勢仍未改善，居民生活恐更加艱困。"
-   ],
-   "b": "加薩當局 7 日表示，強風大雨使過去 12 小時內有 7 萬座避難民帳篷淹水。去年 10 月停火生效後人道情勢仍未改善，居民生活恐更加艱困。",
-   "u": "https://www.sankei.com/article/20261108-XNHA4TQV6BKKTKPS2UJZRVVK5M/",
-   "p": "2026-11-08T00:27:51+00:00",
-   "o": "冬の雨期入りしたガザ、テント浸水で被害続出 凍死者も、生活一層厳しく"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美軍在阿曼灣攻擊商船阻止其突破港口封鎖，伊朗南部傳多起爆炸聲",
-   "pts": [
-    "美國中央司令部 7 日表示，以精準導引武器攻擊試圖突破伊朗港口封鎖的貨輪，使其無法航行。",
-    "美方稱民間船員屢次無視警告。"
-   ],
-   "b": "美國中央司令部 7 日表示，以精準導引武器攻擊試圖突破伊朗港口封鎖的貨輪，使其無法航行。美方稱民間船員屢次無視警告。",
-   "u": "https://www.sankei.com/article/20261108-LPMGWDWE5JLIPHDZUV4UKR6OKE/",
-   "p": "2026-11-08T00:26:06+00:00",
-   "o": "米、オマーン湾で商船攻撃 港湾封鎖突破を阻止 イラン南部では複数爆発音"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美國期中選舉參議院兩州持續膠著，結果恐需數週，川普稱有「舞弊」",
-   "pts": [
-    "3 日期中選舉的參議院選舉在阿拉斯加與密西西比兩州大幅膠著，結果可能需數週才能確定。",
-    "阿拉斯加傳出民主黨陣營疑似推出同名新人候選人，以分散共和黨現任者的選票。",
-    "川普 5 日在白宮對記者主張有「舞弊」。"
-   ],
-   "b": "3 日期中選舉的參議院選舉在阿拉斯加與密西西比兩州大幅膠著，結果可能需數週才能確定。阿拉斯加傳出民主黨陣營疑似推出同名新人候選人，以分散共和黨現任者的選票。川普 5 日在白宮對記者主張有「舞弊」。",
-   "u": "https://www.sankei.com/article/20261108-GL2HYWLKTJIXJITLTPMOEXL45Q/",
-   "p": "2026-11-08T00:09:52+00:00",
-   "o": "米中間選、上院2州で接戦続く 結果判明に数週間か トランプ氏「不正あった」と主張"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "波蘭槍擊致 6 人死亡，兇手疑受極右思想影響、穿著類似軍服的衣物",
-   "pts": [
-    "克拉科夫 7 日一名男子駕車駛入市中心市場廣場，從車內對路人無差別開槍。",
-    "事件造成包括 1 名英國人在內 6 人死亡，含 2 名警察、5 名外國人在內共 15 人重傷或輕傷。",
-    "嫌犯在與警方槍戰中受傷被捕並送醫。"
-   ],
-   "b": "克拉科夫 7 日一名男子駕車駛入市中心市場廣場，從車內對路人無差別開槍。事件造成包括 1 名英國人在內 6 人死亡，含 2 名警察、5 名外國人在內共 15 人重傷或輕傷。嫌犯在與警方槍戰中受傷被捕並送醫。",
-   "u": "https://www.sankei.com/article/20261108-PKZVYXG4GVPUZKGNEDJEHCEG2U/",
-   "p": "2026-11-08T00:04:15+00:00",
-   "o": "ポーランドで乱射 英国人ら6人死亡 実行犯は極右思想に触発か 軍服のような衣服着用"
-  },
-  {
    "c": "fin",
    "s": "財經新報",
    "t": "鎖定「超乎預期」獲利黑馬！台股年底突圍，聚焦 ABC 三大族群與半導體",
@@ -154,6 +400,18 @@
    "u": "https://finance.technews.tw/2026/11/08/unexpected-profit-dark-horses-taiwan-stocks-year-end-breakout-focus-abc-sectors-semiconductors/",
    "p": "2026-11-08T00:00:42+00:00",
    "o": "鎖定「超乎預期」獲利黑馬！台股年底突圍，聚焦 ABC 三大族群與半導體"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Realty Income 一個月漲 9%：獲利了結還是加碼",
+   "pts": [
+    "Realty Income 股價過去一個月上漲 9%，在公債殖利率下滑下自 52 週低點反彈。"
+   ],
+   "b": "Realty Income 股價過去一個月上漲 9%，在公債殖利率下滑下自 52 週低點反彈。",
+   "u": "https://www.tikr.com/blog/realty-income-just-gained-9-in-a-month-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261108-f49fw57w&.tsrc=rss",
+   "p": "2026-11-07T23:55:46+00:00",
+   "o": "Realty Income Just Gained 9% in a Month: Take Profits, or Buy More?"
   },
   {
    "c": "fin",
@@ -273,266 +531,6 @@
    "u": "https://www.marketbeat.com/instant-alerts/transcript-onity-group-q3-earnings-call-highlights-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
    "p": "2026-11-07T21:14:10+00:00",
    "o": "Onity Group Q3 Earnings Call Highlights"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "SpaceX 12 月解禁幾乎是 IPO 史上最大股票解鎖，歷史顯示接下來會…",
-   "pts": [
-    "SpaceX 上市時公開流通股比例出奇地低。"
-   ],
-   "b": "SpaceX 上市時公開流通股比例出奇地低。",
-   "u": "https://www.fool.com/investing/2026/11/07/spacexs-december-lockup-is-nearly-the-biggest-shar/?.tsrc=rss",
-   "p": "2026-11-07T21:05:00+00:00",
-   "o": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next."
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "對抗納坦雅胡的挑戰者受命嘗試組成以色列政府",
-   "pts": [
-    "前軍方參謀長艾森科特有四週時間組成聯合政府。",
-    "若成功，將可能終結納坦雅胡長期執政。"
-   ],
-   "b": "前軍方參謀長艾森科特有四週時間組成聯合政府。若成功，將可能終結納坦雅胡長期執政。",
-   "u": "https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews",
-   "p": "2026-11-07T21:01:00+00:00",
-   "o": "Netanyahu’s Challenger Tapped to Try to Form Israeli Government"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "較高殖利率或較低成本：HDV 與 VIG 的關鍵差異",
-   "pts": [
-    "VIG 著重股息成長股且成本較低，HDV 則鎖定集中的高殖利率股。",
-    "其中一檔過去一年報酬 34.6%，另一檔則提供更高的穩定性。"
-   ],
-   "b": "VIG 著重股息成長股且成本較低，HDV 則鎖定集中的高殖利率股。其中一檔過去一年報酬 34.6%，另一檔則提供更高的穩定性。",
-   "u": "https://www.fool.com/coverage/etfs/2026/11/07/higher-yield-vs-lower-cost-the-critical-differences-between-hdv-and-vig/?.tsrc=rss",
-   "p": "2026-11-07T20:35:02+00:00",
-   "o": "Higher Yield vs. Lower Cost: The Critical Differences Between HDV and VIG"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "摩根士丹利：SpaceX 股價現在比標普 500 更便宜",
-   "pts": [
-    "SpaceX 在轟動上市五個月後，投資人回到原點。",
-    "摩根士丹利認為出現切入機會。"
-   ],
-   "b": "SpaceX 在轟動上市五個月後，投資人回到原點。摩根士丹利認為出現切入機會。",
-   "u": "https://www.thestreet.com/investing/stocks/morgan-stanley-says-spacex-stock-is-now-cheaper-than-the-sp-500?.tsrc=rss",
-   "p": "2026-11-07T20:13:00+00:00",
-   "o": "Morgan Stanley says SpaceX stock is now cheaper than the S&P 500"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "巴菲特 1999 年就警告過這件事，過去一週看起來似曾相識",
-   "pts": [
-    "1999 年 7 月巴菲特說投資人對股市期待過高，標普 500 其後從 2000 年 3 月到 2002 年 10 月下跌 49.1%。",
-    "他在 2001 年點名的指標，如今讀數比當時更高。"
-   ],
-   "b": "1999 年 7 月巴菲特說投資人對股市期待過高，標普 500 其後從 2000 年 3 月到 2002 年 10 月下跌 49.1%。他在 2001 年點名的指標，如今讀數比當時更高。",
-   "u": "https://247wallst.com/investing/2026/11/07/warren-buffett-warned-investors-about-this-in-1999-the-past-week-looked-familiar/?.tsrc=rss",
-   "p": "2026-11-07T20:04:05+00:00",
-   "o": "Warren Buffett Warned Investors About This in 1999. The Past Week Looked Familiar"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "投資 1 萬美元於 Bloom Energy，3 年後可能值多少",
-   "pts": [
-    "這檔股票近年大漲，但波動劇烈。"
-   ],
-   "b": "這檔股票近年大漲，但波動劇烈。",
-   "u": "https://www.fool.com/investing/2026/11/07/heres-what-10000-invested-in-bloom-energy-be-stock/?.tsrc=rss",
-   "p": "2026-11-07T19:50:00+00:00",
-   "o": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Sunrun 股價本週為何飆漲 33.4%",
-   "pts": [
-    "投資人對這家太陽能公司公布的強勁財報轉趨看好。"
-   ],
-   "b": "投資人對這家太陽能公司公布的強勁財報轉趨看好。",
-   "u": "https://www.fool.com/coverage/market-movers/2026/11/07/why-sunrun-stock-surged-33-4-this-week/?.tsrc=rss",
-   "p": "2026-11-07T19:17:16+00:00",
-   "o": "Why Sunrun Stock Surged 33.4% This Week"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "選擇科技 ETF：低費用或聚焦曝險",
-   "pts": [
-    "FTEC 費用率較低（0.08%）、持股 294 檔，近 12 個月表現較強。",
-    "IYW 則更集中押注半導體、軟體與硬體。"
-   ],
-   "b": "FTEC 費用率較低（0.08%）、持股 294 檔，近 12 個月表現較強。IYW 則更集中押注半導體、軟體與硬體。",
-   "u": "https://www.fool.com/coverage/etfs/2026/11/07/choosing-a-tech-etf-low-fees-vs-targeted-exposure/?.tsrc=rss",
-   "p": "2026-11-07T18:35:02+00:00",
-   "o": "Choosing a Tech ETF: Low Fees vs. Targeted Exposure"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "11 月底前我會用 5,000 美元買進的 3 檔股息股",
-   "pts": [
-    "將 5,000 美元平分給這三檔股票，混合殖利率約 3.5%。"
-   ],
-   "b": "將 5,000 美元平分給這三檔股票，混合殖利率約 3.5%。",
-   "u": "https://www.fool.com/investing/2026/11/07/3-dividend-stocks-buy-5000-november/?.tsrc=rss",
-   "p": "2026-11-07T18:35:00+00:00",
-   "o": "3 Dividend Stocks I'd Buy With $5,000 Before the End of November"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "股市因民主黨大勝飆升，不到 24 小時後 AI 交易就出現裂痕",
-   "pts": [
-    "這場劇烈反轉是今年一連串大幅震盪中的最新一次。"
-   ],
-   "b": "這場劇烈反轉是今年一連串大幅震盪中的最新一次。",
-   "u": "https://finance.yahoo.com/markets/article/stocks-soared-on-the-democratic-sweep-less-than-24-hours-later-the-ai-trade-cracked-183312401.html?.tsrc=rss",
-   "p": "2026-11-07T18:33:12+00:00",
-   "o": "Stocks soared on the Democratic sweep. Less than 24 hours later, the AI trade cracked."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "這檔殖利率為標普 500 兩倍的股息王，11 月看起來值得買",
-   "pts": [
-    "簡述建議為殖利率買進，並等待這家居家修繕零售商可能的反彈。"
-   ],
-   "b": "簡述建議為殖利率買進，並等待這家居家修繕零售商可能的反彈。",
-   "u": "https://www.fool.com/investing/2026/11/07/this-dividend-king-yielding-2x-the-sp-500-looks/?.tsrc=rss",
-   "p": "2026-11-07T17:35:00+00:00",
-   "o": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "標普 500 迎來 2025 年 4 月關稅崩盤以來最糟的一週",
-   "pts": [
-    "標普連續第四週下跌，但其紀錄高點建立在技術性因素上，真正的傷害集中在市場的某一角。",
-    "簡述提醒 CPI 與輝達財報即將公布，指數基金可能承載的風險比想像中多。"
-   ],
-   "b": "標普連續第四週下跌，但其紀錄高點建立在技術性因素上，真正的傷害集中在市場的某一角。簡述提醒 CPI 與輝達財報即將公布，指數基金可能承載的風險比想像中多。",
-   "u": "https://247wallst.com/investing/2026/11/07/the-sp-500-just-had-its-worst-week-since-the-april-2025-tariff-crash/?.tsrc=rss",
-   "p": "2026-11-07T17:33:39+00:00",
-   "o": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "沃爾瑪飆漲，沃爾頓家族財富增加 1,000 億美元",
-   "pts": [
-    "沃爾頓家族是全球最富有者中唯一未創辦或經營公司的，其財富今年攀升，科技大亨卻下滑。"
-   ],
-   "b": "沃爾頓家族是全球最富有者中唯一未創辦或經營公司的，其財富今年攀升，科技大亨卻下滑。",
-   "u": "https://247wallst.com/investing/2026/11/07/walton-family-gets-100-billion-richer-as-walmart-surges/?.tsrc=rss",
-   "p": "2026-11-07T17:18:44+00:00",
-   "o": "Walton Family Gets $100 Billion Richer As Walmart Surges"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "協助幣安駭客洗錢數十億美元的神祕加密服務",
-   "pts": [
-    "部分加密開發者表示無法阻止北韓駭客透過其平台洗錢。",
-    "這讓執法機關深感挫折。"
-   ],
-   "b": "部分加密開發者表示無法阻止北韓駭客透過其平台洗錢。這讓執法機關深感挫折。",
-   "u": "https://www.wsj.com/finance/currencies/the-shadowy-crypto-services-helping-the-binance-hackers-launder-stolen-billions-28641737?mod=rss_markets_main",
-   "p": "2026-11-07T17:00:00+00:00",
-   "o": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "AI 正在搶走白領工作嗎？最新數據怎麼說",
-   "pts": [
-    "律師事務所與顧問公司的強勁聘僱，正緩解外界對工作末日的恐懼。"
-   ],
-   "b": "律師事務所與顧問公司的強勁聘僱，正緩解外界對工作末日的恐懼。",
-   "u": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_Technology",
-   "p": "2026-11-07T16:09:00+00:00",
-   "o": "Is AI Taking White-Collar Jobs? What the Latest Numbers Tell Us"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "睪固酮低下加上高果糖飲食超傷肝，研究揭腸道菌是惡化幫兇",
-   "pts": [
-    "日本大阪公立大學團隊以小鼠實驗發現，低睪固酮與高果糖飲食合併時，肝臟脂肪累積明顯上升。",
-    "單獨低睪固酮或高果糖對肝臟三酸甘油酯的影響相對有限。",
-    "腸道菌相改變使腸道丙酮酸增加，與果糖協同促進肝細胞堆積中性脂質；使用抗生素則使肝臟重量增幅減弱。",
-    "研究僅基於小鼠與鼠源肝細胞，但為針對丙酮酸代謝途徑的脂肪肝預防與治療提供線索。"
-   ],
-   "b": "日本大阪公立大學團隊以小鼠實驗發現，低睪固酮與高果糖飲食合併時，肝臟脂肪累積明顯上升。單獨低睪固酮或高果糖對肝臟三酸甘油酯的影響相對有限。腸道菌相改變使腸道丙酮酸增加，與果糖協同促進肝細胞堆積中性脂質；使用抗生素則使肝臟重量增幅減弱。研究僅基於小鼠與鼠源肝細胞，但為針對丙酮酸代謝途徑的脂肪肝預防與治療提供線索。",
-   "u": "https://technews.tw/2026/11/08/low-testosterone-exacerbates-sugar-induced-fatty-liver-disease/",
-   "p": "2026-11-07T16:00:56+00:00",
-   "o": "睪固酮低下加上高果糖飲食超傷肝，研究揭腸道菌是惡化幫兇"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "星系風吹走生命元素，GLOW 計畫證實超新星爆發加速矮星系氧氣流失",
-   "pts": [
-    "NASA 哈伯太空望遠鏡的 GLOW 計畫分析 37 個鄰近矮星系，發現其氧氣比電腦模擬預期更少。",
-    "研究顯示，超新星釋放的星系風清除低質量星系氧氣的效率，比現有模型預測更高。",
-    "矮星系僅能保留其恆星所製造氧氣的一小部分。",
-    "研究團隊未來計畫利用南希·格雷絲·羅曼太空望遠鏡與詹姆斯·韋伯太空望遠鏡進一步觀測。"
-   ],
-   "b": "NASA 哈伯太空望遠鏡的 GLOW 計畫分析 37 個鄰近矮星系，發現其氧氣比電腦模擬預期更少。研究顯示，超新星釋放的星系風清除低質量星系氧氣的效率，比現有模型預測更高。矮星系僅能保留其恆星所製造氧氣的一小部分。研究團隊未來計畫利用南希·格雷絲·羅曼太空望遠鏡與詹姆斯·韋伯太空望遠鏡進一步觀測。",
-   "u": "https://technews.tw/2026/11/08/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-   "p": "2026-11-07T16:00:01+00:00",
-   "o": "星系風吹走生命元素，GLOW 計畫證實超新星爆發加速矮星系氧氣流失"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "波克夏季度獲利下滑，投資收益縮水",
-   "pts": [
-    "集團季度淨利下降 28%。",
-    "投資收益下滑，保險業務獲利也較低。"
-   ],
-   "b": "集團季度淨利下降 28%。投資收益下滑，保險業務獲利也較低。",
-   "u": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=rss_markets_main",
-   "p": "2026-11-07T15:14:00+00:00",
-   "o": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink"
-  },
-  {
-   "c": "fin",
-   "s": "財經新報",
-   "t": "力晶投控祭出 1,088 元股東會禮品，廣邀股東購買股權支持",
-   "pts": [
-    "力晶投控 10 億元庫藏股完成初步審查，合格股東可以每股 42 元賣出，審查通知函 9 日寄出，11 月 20 日匯款。",
-    "山一投資宣布 10 億元公開收購股權案，力晶表示歡迎，並預期近期有多家上下游廠商推出類似計畫。",
-    "11 月 25 日臨時股東會將討論修改章程、改選董監等攸關登錄興櫃的議案。",
-    "公司為此規劃面額 1,088 元的漢堡王商品券作為股東會禮品。"
-   ],
-   "b": "力晶投控 10 億元庫藏股完成初步審查，合格股東可以每股 42 元賣出，審查通知函 9 日寄出，11 月 20 日匯款。山一投資宣布 10 億元公開收購股權案，力晶表示歡迎，並預期近期有多家上下游廠商推出類似計畫。11 月 25 日臨時股東會將討論修改章程、改選董監等攸關登錄興櫃的議案。公司為此規劃面額 1,088 元的漢堡王商品券作為股東會禮品。",
-   "u": "https://finance.technews.tw/2026/11/07/pihc-stock-7/",
-   "p": "2026-11-07T13:36:52+00:00",
-   "o": "力晶投控祭出 1,088 元股東會禮品，廣邀股東購買股權支持"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭",
-   "pts": [
-    "針對台積電為因應輝達需求而跨足先進記憶體與 3D DRAM 的市場傳聞，華邦電董事長焦佑鈞評估其投入可能性不高。",
-    "他認為台積電追求卓越、不會做半吊子，且 DRAM 技術需長時間累積，消息提早流出不符其作風。",
-    "台積電與三星、SK 海力士、美光都保持緊密合作，自行跨足會與重要夥伴直接競爭。",
-    "焦佑鈞強調這純屬個人觀察與推測，並未掌握內線消息。"
-   ],
-   "b": "針對台積電為因應輝達需求而跨足先進記憶體與 3D DRAM 的市場傳聞，華邦電董事長焦佑鈞評估其投入可能性不高。他認為台積電追求卓越、不會做半吊子，且 DRAM 技術需長時間累積，消息提早流出不符其作風。台積電與三星、SK 海力士、美光都保持緊密合作，自行跨足會與重要夥伴直接競爭。焦佑鈞強調這純屬個人觀察與推測，並未掌握內線消息。",
-   "u": "https://finance.technews.tw/2026/11/07/tsmc-collaborates-with-all-three-major-memory-manufacturers-and-will-not-join-the-competition/",
-   "p": "2026-11-07T12:00:12+00:00",
-   "o": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭"
   }
  ]
 }
