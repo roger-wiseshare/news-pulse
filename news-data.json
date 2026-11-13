@@ -1,510 +1,528 @@
 {
- "updated": "2026-11-12T12:12:20.500195+00:00",
+ "updated": "2026-11-13T01:30:03.831149+00:00",
  "items": [
   {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "對黃仁勳的讚譽可能也是問題的一部分",
+   "c": "tech",
+   "s": "科技新報",
+   "t": "黃樂關聯企業投資 DeepSeek，承諾供應輝達晶片",
    "pts": [
-    "RSS 簡述未提供內容，僅依標題呈現。"
+    "The Information 引述知情人士報導，與黃樂有關聯的企業投資了 DeepSeek。",
+    "投資目的是與 DeepSeek 建立更緊密關係，讓黃樂旗下企業穩定取得輝達 Blackwell 晶片。",
+    "相關企業包括世紀利通及其母公司江蘇利通電子，被指是輝達 AI 晶片黑市的重要供應商。"
    ],
-   "b": "RSS 簡述未提供內容，僅依標題呈現。",
-   "u": "https://www.wsj.com/articles/praise-was-heaped-on-jensen-huang-that-might-be-part-of-the-problem-4cfa876c?mod=rss_markets_main",
-   "p": "2026-11-12T12:03:00+00:00",
-   "o": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem."
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "歐元恐難以持續走出疲弱",
-   "pts": [
-    "歐元兌美元持平、兌英鎊小幅上漲。",
-    "Convera 認為歐元恐難持續回升。"
-   ],
-   "b": "歐元兌美元持平、兌英鎊小幅上漲。Convera 認為歐元恐難持續回升。",
-   "u": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?mod=rss_markets_main",
-   "p": "2026-11-12T12:03:00+00:00",
-   "o": "Euro Could Struggle to Sustainably Reverse Weakness"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "該不該繼續俄羅斯業務？JT 被接管凸顯企業風險，連能源採購也受影響",
-   "pts": [
-    "俄羅斯當局拘留北海道新聞記者至 13 日滿一個月，其後俄政府暫時接管日本菸草產業（JT）的當地法人，對日企的箝制加強。",
-    "在俄羅斯因烏克蘭侵略長期化而與西方國家拉開距離之際，俄國成為日本勉強維繫關係的管道，企業風險浮現。"
-   ],
-   "b": "俄羅斯當局拘留北海道新聞記者至 13 日滿一個月，其後俄政府暫時接管日本菸草產業（JT）的當地法人，對日企的箝制加強。在俄羅斯因烏克蘭侵略長期化而與西方國家拉開距離之際，俄國成為日本勉強維繫關係的管道，企業風險浮現。",
-   "u": "https://www.sankei.com/article/20261112-BCRFW6EG4BLVDDU343RWVXZIHU/",
-   "p": "2026-11-12T12:02:58+00:00",
-   "o": "ロシア事業継続すべきか否か…「JT接収」で企業のリスクあらわ エネルギー調達にも影"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "道瓊期貨：輝達董事會考慮撤換黃仁勳，科技股下跌",
-   "pts": [
-    "科技股走低，輝達因可能撤換執行長黃仁勳的消息下挫。",
-    "AMD 延續漲勢，能否讓新一波市場反彈不被輝達問題拖累仍待觀察。"
-   ],
-   "b": "科技股走低，輝達因可能撤換執行長黃仁勳的消息下挫。AMD 延續漲勢，能否讓新一波市場反彈不被輝達問題拖累仍待觀察。",
-   "u": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-   "p": "2026-11-12T12:02:08+00:00",
-   "o": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang"
+   "b": "The Information 引述知情人士報導，與黃樂有關聯的企業投資了 DeepSeek。投資目的是與 DeepSeek 建立更緊密關係，讓黃樂旗下企業穩定取得輝達 Blackwell 晶片。相關企業包括世紀利通及其母公司江蘇利通電子，被指是輝達 AI 晶片黑市的重要供應商。",
+   "u": "https://technews.tw/2026/11/13/alice-huangs-companies-invested-in-deepseek-promising-nvidia-chips/",
+   "p": "2026-11-13T01:25:08+00:00",
+   "o": "黃樂關聯企業投資 DeepSeek，承諾供應輝達晶片"
   },
   {
    "c": "tech",
-   "s": "WSJ",
-   "t": "輝達準備撤換執行長黃仁勳",
+   "s": "科技新報",
+   "t": "黃仁勳早就惹怒反中派，CNN：美國仍不確定黃樂是間諜",
    "pts": [
-    "此舉源於公司對黃仁勳與一名被指為間諜的中國女子之間緋聞所做的調查。"
+    "CNN 報導，FBI 至少調查黃樂與黃仁勳的關係一年，仍沒有確切證據證明她替北京從事間諜活動。",
+    "司法部長布蘭奇表示司法部與 FBI 尚未對黃樂的身分下結論，部分 CIA 官員也認為現有情報不足。",
+    "她任職的新加坡企業 Megaspeed 是輝達晶片重要買家，美國 2024 年就展開調查，卻未將其列入實體清單。",
+    "黃仁勳長期反對全面封鎖中國市場並批評對華鷹派，被認為激怒許多國安強硬派。"
    ],
-   "b": "此舉源於公司對黃仁勳與一名被指為間諜的中國女子之間緋聞所做的調查。",
-   "u": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=rss_Technology",
-   "p": "2026-11-12T11:53:00+00:00",
-   "o": "Nvidia Is Preparing to Oust CEO Jensen Huang"
+   "b": "CNN 報導，FBI 至少調查黃樂與黃仁勳的關係一年，仍沒有確切證據證明她替北京從事間諜活動。司法部長布蘭奇表示司法部與 FBI 尚未對黃樂的身分下結論，部分 CIA 官員也認為現有情報不足。她任職的新加坡企業 Megaspeed 是輝達晶片重要買家，美國 2024 年就展開調查，卻未將其列入實體清單。黃仁勳長期反對全面封鎖中國市場並批評對華鷹派，被認為激怒許多國安強硬派。",
+   "u": "https://technews.tw/2026/11/13/jensen-huang-had-long-since-angered-anti-china-factions-cnn-u-s-remains-uncertain-whether-he-is-a-spy/",
+   "p": "2026-11-13T01:22:32+00:00",
+   "o": "黃仁勳早就惹怒反中派，CNN：美國仍不確定黃樂是間諜"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "彭博：特斯拉與 SpaceX 最快 12 月宣布合併",
+   "pts": [
+    "彭博引述知情人士，馬斯克最快 12 月宣布特斯拉與 SpaceX 合併。",
+    "雙方也討論過延後到 2027 年的情境，董事會與顧問仍在辯論公司架構、人事與股權分配等。",
+    "最大難題之一是特斯拉的中國事業，可能讓 SpaceX 的美國政府合約面臨「受中國影響」疑慮。",
+    "民主黨掌控國會後計畫調查馬斯克，特斯拉將於 12 月 3 日召開股東會。"
+   ],
+   "b": "彭博引述知情人士，馬斯克最快 12 月宣布特斯拉與 SpaceX 合併。雙方也討論過延後到 2027 年的情境，董事會與顧問仍在辯論公司架構、人事與股權分配等。最大難題之一是特斯拉的中國事業，可能讓 SpaceX 的美國政府合約面臨「受中國影響」疑慮。民主黨掌控國會後計畫調查馬斯克，特斯拉將於 12 月 3 日召開股東會。",
+   "u": "https://finance.technews.tw/2026/11/13/tesla-spacex-merging-progress/",
+   "p": "2026-11-13T01:20:41+00:00",
+   "o": "彭博：特斯拉與 SpaceX 最快 12 月宣布合併"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "黃仁勳捲間諜風波，傳白宮討論撤換商務部長盧特尼克",
+   "pts": [
+    "路透報導，白宮高層官員正在討論是否撤換商務部長盧特尼克。",
+    "愈來愈多國會議員批評政府拒絕將數十家中國企業列入貿易黑名單，並質疑對輝達出口中國的監督。",
+    "黃仁勳 12 日辭職後，指責盧特尼克未盡力限制 AI 晶片輸往中國的聲浪升高，白宮未立即回應。"
+   ],
+   "b": "路透報導，白宮高層官員正在討論是否撤換商務部長盧特尼克。愈來愈多國會議員批評政府拒絕將數十家中國企業列入貿易黑名單，並質疑對輝達出口中國的監督。黃仁勳 12 日辭職後，指責盧特尼克未盡力限制 AI 晶片輸往中國的聲浪升高，白宮未立即回應。",
+   "u": "https://technews.tw/2026/11/13/white-house-weighs-commerce-secretary-lutnicks-ouster-amid-nvidia-export-concerns/",
+   "p": "2026-11-13T01:20:24+00:00",
+   "o": "黃仁勳捲間諜風波，傳白宮討論撤換商務部長盧特尼克"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "AI 時代的頂尖工程師特質？AWS 首席工程師點名：多疑與懶惰",
+   "pts": [
+    "AWS 首席工程師 David Yanacek 認為，AI 時代頂尖工程師要具備「多疑」與「懶惰」。",
+    "多疑是在把任務交給 AI 代理前先設想缺乏人工監督的後果；懶惰是不願重複手動處理繁瑣流程。",
+    "他設想人類保留高階設計與複雜審查，其餘交由 AI 代理在自動化迴圈中產生程式碼、測試與修正。",
+    "關鍵在於建立清晰的安全邊界與「自動信任」檔案，規定代理可獨立執行與必須人工簽核的操作。"
+   ],
+   "b": "AWS 首席工程師 David Yanacek 認為，AI 時代頂尖工程師要具備「多疑」與「懶惰」。多疑是在把任務交給 AI 代理前先設想缺乏人工監督的後果；懶惰是不願重複手動處理繁瑣流程。他設想人類保留高階設計與複雜審查，其餘交由 AI 代理在自動化迴圈中產生程式碼、測試與修正。關鍵在於建立清晰的安全邊界與「自動信任」檔案，規定代理可獨立執行與必須人工簽核的操作。",
+   "u": "https://technews.tw/2026/11/13/ai-era-engineers-winning-qualities/",
+   "p": "2026-11-13T01:15:18+00:00",
+   "o": "AI 時代的頂尖工程師特質？AWS 首席工程師點名：多疑與懶惰"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "黃仁勳去職輝達跌 4.34%，美超微受波及大跌 11.30%",
+   "pts": [
+    "輝達 12 日開盤重挫近 14%，收盤下跌 4.34% 至 166.19 美元，單日市值蒸發約 1,800 億美元。",
+    "一個月間輝達跌幅約 27%，市值降至約 4 兆美元。",
+    "受司法部調查多家業者可能與黃樂有關、晶片流向的報導影響，美超微收盤下跌 11.30% 至 26.99 美元。",
+    "輝達 2025 年 10 月市值首度突破 5 兆美元，今年 10 月最高曾逼近 5.8 兆美元。"
+   ],
+   "b": "輝達 12 日開盤重挫近 14%，收盤下跌 4.34% 至 166.19 美元，單日市值蒸發約 1,800 億美元。一個月間輝達跌幅約 27%，市值降至約 4 兆美元。受司法部調查多家業者可能與黃樂有關、晶片流向的報導影響，美超微收盤下跌 11.30% 至 26.99 美元。輝達 2025 年 10 月市值首度突破 5 兆美元，今年 10 月最高曾逼近 5.8 兆美元。",
+   "u": "https://finance.technews.tw/2026/11/13/nvidia-4-34-drop-jensen-huang-exit-smci-11-30-plunge/",
+   "p": "2026-11-13T01:15:17+00:00",
+   "o": "黃仁勳去職輝達跌 4.34%，美超微受波及大跌 11.30%"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "華爾街稱聯準會 10 月按兵不動是錯誤",
+   "t": "道瓊期貨上揚：市場撐過黃仁勳離任與殖利率飆升，SpaceX 與特斯拉合併案接近",
    "pts": [
-    "美銀稱聯準會 10 月維持利率不變是政策失誤，高盛預期 3 月升息，理事沃勒則主張升息半碼。"
+    "考量黃仁勳離任與殖利率飆升，股市表現相當穩健。",
+    "思科領銜盤後的重要財報。"
    ],
-   "b": "美銀稱聯準會 10 月維持利率不變是政策失誤，高盛預期 3 月升息，理事沃勒則主張升息半碼。",
-   "u": "https://247wallst.com/investing/2026/11/12/wall-street-just-called-the-feds-october-hold-a-mistake-heres-warren-buffetts-9-word-rule-from-the-last-time-the-fed-doubled-rates-and-what-it-does-for-1-million-in-an-index-fund/?.tsrc=rss",
-   "p": "2026-11-12T11:52:00+00:00",
-   "o": "Wall Street Just Called the Fed’s October Hold a Mistake. Here’s Warren Buffett’s 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 Million in an Index Fund"
+   "b": "考量黃仁勳離任與殖利率飆升，股市表現相當穩健。思科領銜盤後的重要財報。",
+   "u": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise-after.html?.tsrc=rss",
+   "p": "2026-11-13T01:13:26+00:00",
+   "o": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close"
   },
   {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "兩檔可長抱到 2030 年的記憶體股",
+   "c": "tech",
+   "s": "科技新報",
+   "t": "微軟 365、Outlook 等服務當機，數以千計美國用戶受影響",
    "pts": [
-    "記憶體晶片股在 2026 年表現火熱，文章認為到 2030 年仍是首選。"
+    "Downdetector 資料顯示，截至美東下午 2 時 07 分，Outlook 問題回報超過 9.7 萬件，微軟 365 超過 3.8 萬件，Teams 約 4,500 件。",
+    "微軟稱正積極降低影響，並已修復北美 Teams 中斷。",
+    "OpenAI 表示正調查微軟連接器問題，Anthropic 則稱上游供應商問題影響其微軟 365 連接器。"
    ],
-   "b": "記憶體晶片股在 2026 年表現火熱，文章認為到 2030 年仍是首選。",
-   "u": "https://www.fool.com/investing/2026/11/12/2-memory-stocks-to-buy-and-hold-through-2030/?.tsrc=rss",
-   "p": "2026-11-12T11:50:00+00:00",
-   "o": "2 Memory Stocks to Buy and Hold Through 2030"
+   "b": "Downdetector 資料顯示，截至美東下午 2 時 07 分，Outlook 問題回報超過 9.7 萬件，微軟 365 超過 3.8 萬件，Teams 約 4,500 件。微軟稱正積極降低影響，並已修復北美 Teams 中斷。OpenAI 表示正調查微軟連接器問題，Anthropic 則稱上游供應商問題影響其微軟 365 連接器。",
+   "u": "https://technews.tw/2026/11/13/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands/",
+   "p": "2026-11-13T01:10:46+00:00",
+   "o": "微軟 365、Outlook 等服務當機，數以千計美國用戶受影響"
   },
   {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "Kewpie 外洩電子郵件地址，東京瓦斯等因 Arara 事件相繼受害",
+   "c": "tech",
+   "s": "科技新報",
+   "t": "Anthropic IPO 搶翻 傳超額認購 6 倍、舊股東優先",
    "pts": [
-    "因電子郵件發送服務商 Arara 遭未授權存取而造成的個資外洩，12 日又有新受害者。",
-    "Kewpie 公布共 12 萬 5,788 筆顧客電子郵件地址外流；東京瓦斯也確認外流，日刊工業新聞社則有外洩疑慮。"
+    "彭博報導，Anthropic 的 IPO 有望成為史上最大，傳出超額認購約 6 倍。",
+    "計畫以每股 70 至 78 美元發行 8.25 億股，募資最高約 644 億美元，估值上看 1.4 兆美元，預計 11 月 19 日以「ANT」在納斯達克掛牌。",
+    "主辦銀行考慮把發行價調高至區間上限之上，估值可能達 1.5 兆美元，但實際認購與發行條件仍可能變動。"
    ],
-   "b": "因電子郵件發送服務商 Arara 遭未授權存取而造成的個資外洩，12 日又有新受害者。Kewpie 公布共 12 萬 5,788 筆顧客電子郵件地址外流；東京瓦斯也確認外流，日刊工業新聞社則有外洩疑慮。",
-   "u": "https://www.sankei.com/article/20261112-4SXJ2QNBBZMYRIB462JPV72SBQ/",
-   "p": "2026-11-12T11:44:16+00:00",
-   "o": "キユーピーでメアド漏えい 東ガス、アララ原因相次ぐ"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "烏克蘭軍使用的星鏈再度受限，影響攔截用無人機，澤倫斯基稱「有計畫」",
-   "pts": [
-    "烏克蘭總統澤倫斯基 12 日表示，烏軍在國內使用的星鏈軍用版「Starshield」已被限制使用數日。",
-    "攔截用無人機等時速超過約 160 公里時通訊就受限，使攔截俄軍高速無人機變得「極為困難」。"
-   ],
-   "b": "烏克蘭總統澤倫斯基 12 日表示，烏軍在國內使用的星鏈軍用版「Starshield」已被限制使用數日。攔截用無人機等時速超過約 160 公里時通訊就受限，使攔截俄軍高速無人機變得「極為困難」。",
-   "u": "https://www.sankei.com/article/20261112-SMKESSPV2NIJPGHO2GOCUWU74A/",
-   "p": "2026-11-12T11:44:02+00:00",
-   "o": "ウクライナ軍使用のスターリンクに再び制限 迎撃用無人機に影響、ゼレンスキー氏「計画的」"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "Sony 生命延長內部調查，詐取金錢案追加顧客確認",
-   "pts": [
-    "Sony Financial Group 12 日宣布，子公司 Sony 生命保險業務員詐取顧客金錢一案，內部調查完成時間將從原定 11 月底延後。",
-    "原因是除了電子郵件確認外，還追加以信件與電話向顧客再確認，耗時較久。"
-   ],
-   "b": "Sony Financial Group 12 日宣布，子公司 Sony 生命保險業務員詐取顧客金錢一案，內部調查完成時間將從原定 11 月底延後。原因是除了電子郵件確認外，還追加以信件與電話向顧客再確認，耗時較久。",
-   "u": "https://www.sankei.com/article/20261112-6WLY6QEHJFPOZDCW6Y3GAU6L6Y/",
-   "p": "2026-11-12T11:43:14+00:00",
-   "o": "ソニー生命、社内調査延長 金銭詐取、顧客確認を追加"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "SpaceX 股價疲弱讓馬斯克的合併算式更複雜",
-   "pts": [
-    "特斯拉與 SpaceX 若合併，各方股東持股比例並不容易計算。"
-   ],
-   "b": "特斯拉與 SpaceX 若合併，各方股東持股比例並不容易計算。",
-   "u": "https://finance.yahoo.com/m/2e5ea49d-6670-3a46-8f86-79fc91a0da49/weak-spacex-stock-is.html?.tsrc=rss",
-   "p": "2026-11-12T11:42:00+00:00",
-   "o": "Weak SpaceX Stock Is Complicating Elon Musk’s Merger Math"
+   "b": "彭博報導，Anthropic 的 IPO 有望成為史上最大，傳出超額認購約 6 倍。計畫以每股 70 至 78 美元發行 8.25 億股，募資最高約 644 億美元，估值上看 1.4 兆美元，預計 11 月 19 日以「ANT」在納斯達克掛牌。主辦銀行考慮把發行價調高至區間上限之上，估值可能達 1.5 兆美元，但實際認購與發行條件仍可能變動。",
+   "u": "https://finance.technews.tw/2026/11/13/anthropics-ipo-is-about-six-times-oversubscribed/",
+   "p": "2026-11-13T01:05:56+00:00",
+   "o": "Anthropic IPO 搶翻 傳超額認購 6 倍、舊股東優先"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "烏克蘭稱軍用星鏈再度受干擾，削弱防禦能力",
+   "t": "伊朗的網路攻擊新戰法：製造現實世界的混亂",
    "pts": [
-    "依賴 Starshield（SpaceX 星鏈的軍用版）的無人機，飛行時速超過約 100 英里時會失去連線。"
+    "德黑蘭加強在現實世界製造痛苦的攻擊，目標包括防護薄弱的油輪與冰箱。"
    ],
-   "b": "依賴 Starshield（SpaceX 星鏈的軍用版）的無人機，飛行時速超過約 100 英里時會失去連線。",
-   "u": "https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64?mod=rss_worldnews",
-   "p": "2026-11-12T11:40:00+00:00",
-   "o": "Ukraine Says Its Military Starlink Is Disrupted Again, Hurting Defenses"
+   "b": "德黑蘭加強在現實世界製造痛苦的攻擊，目標包括防護薄弱的油輪與冰箱。",
+   "u": "https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc?mod=rss_worldnews",
+   "p": "2026-11-13T01:00:00+00:00",
+   "o": "Iran’s New Cyber Playbook: Create Real-World Havoc"
   },
   {
    "c": "tech",
    "s": "WSJ",
-   "t": "鴻海季度表現強勁仍看好，但對 AI 資料中心展望保持謹慎",
+   "t": "AI 機器人開始使用信用卡，銀行急起直追",
    "pts": [
-    "全球最大電子代工廠對 AI 伺服器需求仍看好，但也提出謹慎看法。"
+    "Stripe 把自己定位為代理型商務的關鍵環節，摩根大通則持懷疑態度。"
    ],
-   "b": "全球最大電子代工廠對 AI 伺服器需求仍看好，但也提出謹慎看法。",
-   "u": "https://www.wsj.com/tech/foxconn-maintains-strong-earnings-growth-on-resilient-ai-tech-hardware-demand-3a05ddd5?mod=rss_Technology",
-   "p": "2026-11-12T11:40:00+00:00",
-   "o": "Foxconn Stays Bullish After Robust Quarter, Cautious About AI Data-Center Outlook"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "CoreWeave 在資金需求與擴大資料中心版圖間取得平衡",
-   "pts": [
-    "RSS 簡述為通用介紹，未提供具體內容，僅依標題呈現。"
-   ],
-   "b": "RSS 簡述為通用介紹，未提供具體內容，僅依標題呈現。",
-   "u": "https://www.wsj.com/finance/investing/coreweave-balances-capital-needs-against-expanding-data-center-footprint-1933f5b5?mod=rss_markets_main",
-   "p": "2026-11-12T11:38:00+00:00",
-   "o": "CoreWeave Balances Capital Needs Against Expanding Data Center Footprint"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "美光明年高頻寬記憶體多半已售罄，能撐起十年成長嗎？",
-   "pts": [
-    "美光在「未來十年最佳成長股」名單中排名第十。"
-   ],
-   "b": "美光在「未來十年最佳成長股」名單中排名第十。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-next-high-bandwidth-113313288.html?.tsrc=rss",
-   "p": "2026-11-12T11:33:13+00:00",
-   "o": "Micron (MU) Has Next Year’s High-Bandwidth Memory Mostly Sold. Can That Anchor a Decade-Long Case?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Baron 基金看好禮來的 Mounjaro、Zepbound 與 orforglipron 具轉型性",
-   "pts": [
-    "禮來在「未來十年最佳成長股」名單中排名第九。"
-   ],
-   "b": "禮來在「未來十年最佳成長股」名單中排名第九。",
-   "u": "https://finance.yahoo.com/healthcare/articles/baron-funds-sees-eli-lilly-113252634.html?.tsrc=rss",
-   "p": "2026-11-12T11:32:52+00:00",
-   "o": "Baron Funds Sees Eli Lilly’s (LLY) Mounjaro, Zepbound and Orforglipron as Transformational"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Ron Baron 認為特斯拉十年內可上漲，Ark 模型押注 Robotaxi",
-   "pts": [
-    "特斯拉在「未來十年最佳成長股」名單中排名第八。"
-   ],
-   "b": "特斯拉在「未來十年最佳成長股」名單中排名第八。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ron-baron-says-tesla-tsla-113238764.html?.tsrc=rss",
-   "p": "2026-11-12T11:32:38+00:00",
-   "o": "Ron Baron Says Tesla (TSLA) Could Climb Within a Decade. Ark’s Model Leans on Robotaxis"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Ark Invest 為何一再加碼博通？",
-   "pts": [
-    "博通在「未來十年最佳成長股」名單中排名第七，文章從 Ark 的 Big Ideas 報告找線索。"
-   ],
-   "b": "博通在「未來十年最佳成長股」名單中排名第七，文章從 Ark 的 Big Ideas 報告找線索。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ark-invest-repeatedly-added-113220607.html?.tsrc=rss",
-   "p": "2026-11-12T11:32:20+00:00",
-   "o": "Why Has Ark Invest Repeatedly Added to Broadcom (AVGO)? Its Big Ideas Report Offers a Clue"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Pershing Square 稱 Meta 的商業模式是 AI 最明確的受益者之一",
-   "pts": [
-    "Meta 在「未來十年最佳成長股」名單中排名第六。"
-   ],
-   "b": "Meta 在「未來十年最佳成長股」名單中排名第六。",
-   "u": "https://finance.yahoo.com/technology/ai/articles/pershing-square-calls-meta-meta-113158708.html?.tsrc=rss",
-   "p": "2026-11-12T11:31:58+00:00",
-   "o": "Pershing Square Calls Meta’s (META) Business Model “One of the Clearest Beneficiaries of AI Integration”"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "未來十年最值得買的 5 檔成長股",
-   "pts": [
-    "11 月 5 日標普 500 下跌 4.36%，為自 2025 年 4 月關稅崩盤以來單日最大跌幅，約 3 兆美元市值蒸發。"
-   ],
-   "b": "11 月 5 日標普 500 下跌 4.36%，為自 2025 年 4 月關稅崩盤以來單日最大跌幅，約 3 兆美元市值蒸發。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-buy-113128987.html?.tsrc=rss",
-   "p": "2026-11-12T11:31:28+00:00",
-   "o": "5 Best Growth Stocks to Buy for the Next Decade"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "股市震盪時保護退休收入的三招",
-   "pts": [
-    "簡述指出，除非風險承受度高，否則標普 500 不宜占股票部位一半以上。"
-   ],
-   "b": "簡述指出，除非風險承受度高，否則標普 500 不宜占股票部位一半以上。",
-   "u": "https://finance.yahoo.com/m/7f215449-d7e2-3278-8441-aeed81136f96/3-moves-to-protect-your.html?.tsrc=rss",
-   "p": "2026-11-12T11:30:00+00:00",
-   "o": "3 Moves to Protect Your Retirement Income as Stocks Wobble"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "聚恆擴大表後儲能版圖，攜燿華打造 5 MW 儲能案場",
-   "pts": [
-    "聚恆科技攜手 PCB 大廠燿華電子，於 12 日啟動宜蘭廠 5 MW 表後儲能案場。",
-    "專案整合儲能建置、智慧能源管理與資產管理服務，並導入自研的 H-ELink 聚能網系統。",
-    "系統依電價變化調整充放電時段，利用尖離峰電價差降低電費，未來也將參與需量反應與電力交易輔助服務。",
-    "聚恆累計太陽光電建置已逾 350 MW，將以此案作為北部大型表後儲能示範案場，拓展高用電產業客戶。"
-   ],
-   "b": "聚恆科技攜手 PCB 大廠燿華電子，於 12 日啟動宜蘭廠 5 MW 表後儲能案場。專案整合儲能建置、智慧能源管理與資產管理服務，並導入自研的 H-ELink 聚能網系統。系統依電價變化調整充放電時段，利用尖離峰電價差降低電費，未來也將參與需量反應與電力交易輔助服務。聚恆累計太陽光電建置已逾 350 MW，將以此案作為北部大型表後儲能示範案場，拓展高用電產業客戶。",
-   "u": "https://technews.tw/2026/11/12/juheng-yaohua-expand-post-meter-storage-5mw-project/",
-   "p": "2026-11-12T11:28:51+00:00",
-   "o": "聚恆擴大表後儲能版圖，攜燿華打造 5 MW 儲能案場"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "輝達疑慮衝擊 AI 漲勢，納斯達克期貨下跌",
-   "pts": [
-    "輝達董事會危機的報導籠罩昨日漲勢，市場預期又是一天劇烈波動。"
-   ],
-   "b": "輝達董事會危機的報導籠罩昨日漲勢，市場預期又是一天劇烈波動。",
-   "u": "https://finance.yahoo.com/m/e37def8c-5b1a-3922-bf15-302b55f8584b/nasdaq-futures-drop-as-nvidia.html?.tsrc=rss",
-   "p": "2026-11-12T11:11:29+00:00",
-   "o": "Nasdaq Futures Drop as Nvidia Concerns Hit AI Rally"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "想在春季賣房？前景不樂觀",
-   "pts": [
-    "簡述另提到黃仁勳地位動搖，以及 Megaspeed 之謎。"
-   ],
-   "b": "簡述另提到黃仁勳地位動搖，以及 Megaspeed 之謎。",
-   "u": "https://www.wsj.com/finance/stocks/hoping-to-sell-your-home-in-the-spring-its-not-looking-good-8dc94d1c?mod=rss_markets_main",
-   "p": "2026-11-12T11:09:00+00:00",
-   "o": "Hoping to Sell Your Home in the Spring? It’s Not Looking Good"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "輝達動盪壓抑華爾街盤前，亞股走低、歐股上揚",
-   "pts": [
-    "週四盤前華爾街期貨小幅走低，起因是輝達董事會相關消息。"
-   ],
-   "b": "週四盤前華爾街期貨小幅走低，起因是輝達董事會相關消息。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-turmoil-pressures-wall-street-110755138.html?.tsrc=rss",
-   "p": "2026-11-12T11:07:55+00:00",
-   "o": "Nvidia Turmoil Pressures Wall Street Pre-Bell; Asia Off, Europe Up"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "今日股市：輝達執行長風波動搖信心，標普與納斯達克期貨下滑",
-   "pts": [
-    "投資人評估黃仁勳第二段婚外情報導，以及他可能被撤換的後續影響。"
-   ],
-   "b": "投資人評估黃仁勳第二段婚外情報導，以及他可能被撤換的後續影響。",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html?.tsrc=rss",
-   "p": "2026-11-12T11:00:27+00:00",
-   "o": "Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "輝達董事會震撼彈衝擊脆弱的晶片反彈（每日圖表）",
-   "pts": [
-    "標普 500 已收復大部分跌幅，但科技股上方仍有舊的壓力區。"
-   ],
-   "b": "標普 500 已收復大部分跌幅，但科技股上方仍有舊的壓力區。",
-   "u": "https://finance.yahoo.com/markets/article/nvidias-boardroom-bombshell-hits-a-fragile-chip-rally-chart-of-the-day-110000355.html?.tsrc=rss",
-   "p": "2026-11-12T11:00:00+00:00",
-   "o": "Nvidia's boardroom bombshell hits a fragile chip rally: Chart of the Day"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "這些廣泛布局的 ETF 正在擊敗標普 500",
-   "pts": [
-    "科技交易開始劇烈波動之際，投資人可考慮獲利穩健、低負債、估值合理的公司。"
-   ],
-   "b": "科技交易開始劇烈波動之際，投資人可考慮獲利穩健、低負債、估值合理的公司。",
-   "u": "https://finance.yahoo.com/m/bf833ef9-05c1-3700-b8bf-6143a433c1d9/these-etfs-cast-a-wide.html?.tsrc=rss",
-   "p": "2026-11-12T11:00:00+00:00",
-   "o": "These ETFs Cast a Wide Net—and Are Beating the S&P 500"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "對抗通膨可能即將轉為痛苦",
-   "pts": [
-    "簡述另涵蓋退休人士投資、負擔能力議題，以及無聊的就業市場的缺點。"
-   ],
-   "b": "簡述另涵蓋退休人士投資、負擔能力議題，以及無聊的就業市場的缺點。",
-   "u": "https://www.wsj.com/finance/investing/the-inflation-fight-may-be-about-to-turn-painful-1d053d79?mod=rss_markets_main",
-   "p": "2026-11-12T10:57:00+00:00",
-   "o": "The Inflation Fight May Be About to Turn Painful"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "為何目前應繼續持有 CONMED 股票",
-   "pts": [
-    "CONMED 的 AirSeal、Buffalo Filter 與 BioBrace 平台帶來成長機會，機器人手術與門診手術中心的普及也提供支撐。"
-   ],
-   "b": "CONMED 的 AirSeal、Buffalo Filter 與 BioBrace 平台帶來成長機會，機器人手術與門診手術中心的普及也提供支撐。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-why-retain-conmed-stock-105400159.html?.tsrc=rss",
-   "p": "2026-11-12T10:54:00+00:00",
-   "o": "Here's Why You Should Retain CONMED Stock in Your Portfolio for Now"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "10 年期公債殖利率剛觸及 5%，這檔 450 億美元基金配息近 8%",
-   "pts": [
-    "摩根大通的 JEPI 於 11 月 4 日發放第 77 個連續月配息。"
-   ],
-   "b": "摩根大通的 JEPI 於 11 月 4 日發放第 77 個連續月配息。",
-   "u": "https://247wallst.com/investing/2026/11/12/the-10-year-treasury-just-touched-5-this-45-billion-fund-pays-nearly-8-and-hasnt-missed-a-monthly-check-since-2020-history-says-heres-what-100000-collects-and-what-it-gives-up/?.tsrc=rss",
-   "p": "2026-11-12T10:43:00+00:00",
-   "o": "The 10-Year Treasury Just Touched 5%. This $45 Billion Fund Pays Nearly 8% and Hasn’t Missed a Monthly Check Since 2020. History Says Here’s What $100,000 Collects, and What It Gives Up"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "蘋果是今年「七巨頭」中表現最好的 AI 股",
-   "pts": [
-    "蘋果上漲約 29%，Alphabet 則下跌約 8%。"
-   ],
-   "b": "蘋果上漲約 29%，Alphabet 則下跌約 8%。",
-   "u": "https://www.fool.com/investing/2026/11/12/apple-is-the-best-performing-ai-stock-in-the-magnificent-seven-this-year-and-alphabet-is-the-worst-here-s-the-better-buy-for-2027/?.tsrc=rss",
-   "p": "2026-11-12T10:30:01+00:00",
-   "o": "Apple is the Best-Performing AI Stock in the “Magnificent Seven” This Year, and Alphabet is the Worst. Here’s the Better Buy for 2027."
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "NVDA 動盪拖累納斯達克期貨——英特爾、阿里巴巴、NBIS、ONDS 受關注",
-   "pts": [
-    "投資人面對公司不確定性與新的財報催化因素，輝達領導層報導是焦點。"
-   ],
-   "b": "投資人面對公司不確定性與新的財報催化因素，輝達領導層報導是焦點。",
-   "u": "https://stocktwits.com/news-articles/markets/equity/nvda-turmoil-weighs-on-nasdaq-futures-intc-baba-nbis-onds-in-focus/cNGzryOR9aT?.tsrc=rss",
-   "p": "2026-11-12T10:27:55+00:00",
-   "o": "NVDA Turmoil Weighs On Nasdaq Futures — INTC, BABA, NBIS, ONDS In Focus"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "傳奇郵輪美國號沉佛州海底，化身全球最大人工魚礁",
-   "pts": [
-    "曾橫越大西洋 800 多次的郵輪「美國號」被注水沉入墨西哥灣，成為全球最大人工魚礁。",
-    "沉沒地點在佛州德斯坦─華爾頓堡海灘西南約 40 公里處，船長約 302 公尺。",
-    "奧卡魯沙郡 2024 年以 100 萬美元買下，看好帶動潛水與釣魚觀光；整個改造工程歷時約一年，總花費約 1,350 萬美元。",
-    "該船將成為當地海底沉船園區的核心，園區另有二戰軍艦、拖船與賭船等。"
-   ],
-   "b": "曾橫越大西洋 800 多次的郵輪「美國號」被注水沉入墨西哥灣，成為全球最大人工魚礁。沉沒地點在佛州德斯坦─華爾頓堡海灘西南約 40 公里處，船長約 302 公尺。奧卡魯沙郡 2024 年以 100 萬美元買下，看好帶動潛水與釣魚觀光；整個改造工程歷時約一年，總花費約 1,350 萬美元。該船將成為當地海底沉船園區的核心，園區另有二戰軍艦、拖船與賭船等。",
-   "u": "https://technews.tw/2026/11/12/ss-united-states-sink/",
-   "p": "2026-11-12T10:20:15+00:00",
-   "o": "傳奇郵輪美國號沉佛州海底，化身全球最大人工魚礁"
+   "b": "Stripe 把自己定位為代理型商務的關鍵環節，摩根大通則持懷疑態度。",
+   "u": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_Technology",
+   "p": "2026-11-13T01:00:00+00:00",
+   "o": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up."
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "習近平稱「不會給台獨留任何空間」，在孫文誕辰 160 週年大會演說中展現統一決心",
+   "t": "「最貼近前島民的人」 與遭俄羅斯拘留的今井記者親交的攝影師：「他不可能是間諜」",
    "pts": [
-    "紀念孫文誕辰 160 週年的大會 12 日在北京人民大會堂舉行，國家主席習近平發表演說。",
-    "習近平表示，對各種形式的「台獨」分裂活動，絕不留下任何空間。"
+    "北海道新聞記者今井裕紀（34）在俄羅斯以間諜名義遭拘留，13 日滿一個月，他長期採訪北方領土前島民及其後代。",
+    "長年受他採訪的島民第三代攝影師山田淳子（44）表示，他不可能從事間諜活動。"
    ],
-   "b": "紀念孫文誕辰 160 週年的大會 12 日在北京人民大會堂舉行，國家主席習近平發表演說。習近平表示，對各種形式的「台獨」分裂活動，絕不留下任何空間。",
-   "u": "https://www.sankei.com/article/20261112-7TJ53IETNFNYZN6FRMUYYYOJUM/",
-   "p": "2026-11-12T10:11:00+00:00",
-   "o": "習近平氏「台湾独立にいかなる空間も残さず」 孫文生誕160年大会演説で「統一」へ決意"
+   "b": "北海道新聞記者今井裕紀（34）在俄羅斯以間諜名義遭拘留，13 日滿一個月，他長期採訪北方領土前島民及其後代。長年受他採訪的島民第三代攝影師山田淳子（44）表示，他不可能從事間諜活動。",
+   "u": "https://www.sankei.com/article/20261113-HAF7PH3BNRPPPLSY5PLFTU7FQ4/",
+   "p": "2026-11-13T01:00:00+00:00",
+   "o": "「元島民に誰より寄り添った人」露拘束の今井記者と親交の写真家「スパイなわけがない」"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "示警點出黃仁勳「中國問題」，31 歲交易員半年後爆紅",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "挪威、芬蘭將禁止俄羅斯職業運動員入境，直到侵略結束",
    "pts": [
-    "31 歲的拉馬可任職的 Culper Research 今年 5 月 13 日發布 40 頁報告，做空輝達，指其有重大的中國問題。",
-    "報告也質疑黃仁勳與 Megaspeed 高層黃樂過從甚密。",
-    "報告發布當天黃仁勳隨川普訪陪北京，隔天輝達股價創新高，起初無人注意。",
-    "半年後，黃樂與黃仁勳婚外情爆料，相關疑問不再只是一份做空報告的內容。"
+    "挪威政府 12 日宣布，只要俄烏戰爭持續，就禁止俄羅斯與盟友白俄羅斯的職業選手與工作人員為參賽入境。",
+    "芬蘭政府也宣布，自 16 日起禁止俄羅斯職業選手入境。"
    ],
-   "b": "31 歲的拉馬可任職的 Culper Research 今年 5 月 13 日發布 40 頁報告，做空輝達，指其有重大的中國問題。報告也質疑黃仁勳與 Megaspeed 高層黃樂過從甚密。報告發布當天黃仁勳隨川普訪陪北京，隔天輝達股價創新高，起初無人注意。半年後，黃樂與黃仁勳婚外情爆料，相關疑問不再只是一份做空報告的內容。",
-   "u": "https://finance.technews.tw/2026/11/12/warning-jensen-huang-china-problem-31-year-old-trader-goes-viral-6-months/",
-   "p": "2026-11-12T10:10:44+00:00",
-   "o": "示警點出黃仁勳「中國問題」，31 歲交易員半年後爆紅"
+   "b": "挪威政府 12 日宣布，只要俄烏戰爭持續，就禁止俄羅斯與盟友白俄羅斯的職業選手與工作人員為參賽入境。芬蘭政府也宣布，自 16 日起禁止俄羅斯職業選手入境。",
+   "u": "https://www.sankei.com/article/20261113-HJFIEEK32VLARK4HM4KBW6WPGY/",
+   "p": "2026-11-13T00:56:06+00:00",
+   "o": "ロシアのプロスポーツ選手入国禁止へ 侵略続く限り ノルウェー、フィンランド"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "日本無印良品 109 萬筆信用卡資料恐外洩，16 位卡號全都露",
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "黃仁勳卸任後將於月內赴國會作證，商務部長盧特尼克去留也在討論",
    "pts": [
-    "良品計畫社長清水智道歉，指約 109 萬筆 MUJI Card 會員資料可能外洩，涉及 2021 年 7 月以前申辦的會員。",
-    "外洩資料含信用卡號、會員識別碼與出生日期，仍有效卡片約 34 萬 5 千張。",
-    "卡號本應在 2021 年刪除卻未執行，且以完整 16 位數儲存、未遮罩，公司承認這是最大問題。",
-    "公司將全額負擔重新發卡手續費，目前尚未確認實際損失，若有盜刷將逐案補償。"
+    "美國眾議院外交委員會共和黨籍主席 Mast 12 日表示，黃仁勳將於本月內赴國會作證，日期仍在協調。",
+    "因出現安全保障疑慮，路透社報導白宮高官正在討論商務部長盧特尼克的去留。"
    ],
-   "b": "良品計畫社長清水智道歉，指約 109 萬筆 MUJI Card 會員資料可能外洩，涉及 2021 年 7 月以前申辦的會員。外洩資料含信用卡號、會員識別碼與出生日期，仍有效卡片約 34 萬 5 千張。卡號本應在 2021 年刪除卻未執行，且以完整 16 位數儲存、未遮罩，公司承認這是最大問題。公司將全額負擔重新發卡手續費，目前尚未確認實際損失，若有盜刷將逐案補償。",
-   "u": "https://finance.technews.tw/2026/11/12/muji-japan-1-09-million-credit-card-data-leak-16-digit-card-numbers-exposed/",
-   "p": "2026-11-12T10:00:26+00:00",
-   "o": "日本無印良品 109 萬筆信用卡資料恐外洩，16 位卡號全都露"
+   "b": "美國眾議院外交委員會共和黨籍主席 Mast 12 日表示，黃仁勳將於本月內赴國會作證，日期仍在協調。因出現安全保障疑慮，路透社報導白宮高官正在討論商務部長盧特尼克的去留。",
+   "u": "https://www.sankei.com/article/20261113-4ZMTLMEJCRMMRNWAYU45O4GIDQ/",
+   "p": "2026-11-13T00:34:39+00:00",
+   "o": "フアン前CEO、月内に議会証言へ ラトニック米商務長官の去就協議も"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "元太下修全年營收成長率至 9%，AI 高速傳輸材料拚 2028 年放量",
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "打破金融界避談武器的舊習，小泉進次郎防衛大臣著手鬆綁防衛企業融資限制",
    "pts": [
-    "元太 12 日法說會下修 2026 全年營收成長至 9%，低於上次提出的 10% 至 15%。",
-    "受記憶體缺貨漲價影響，消費電子（CE）業務預估下滑 15%，但全年獲利可望優於去年。",
-    "新竹廠第 6 條產線（H6）本月裝機，預估 2028 年開始貢獻。",
-    "董事會通過與台虹簽訂合作意向書，共同開發 PTFE CCL 高速傳輸材料，商業模式仍在討論。"
+    "日本防衛企業長期因金融機構不願投融資武器製造而借款困難，政府系金融機構也一樣。",
+    "日本政策投資銀行直到今年 5 月才撤廢對武器相關事業的投融資限制。"
    ],
-   "b": "元太 12 日法說會下修 2026 全年營收成長至 9%，低於上次提出的 10% 至 15%。受記憶體缺貨漲價影響，消費電子（CE）業務預估下滑 15%，但全年獲利可望優於去年。新竹廠第 6 條產線（H6）本月裝機，預估 2028 年開始貢獻。董事會通過與台虹簽訂合作意向書，共同開發 PTFE CCL 高速傳輸材料，商業模式仍在討論。",
-   "u": "https://finance.technews.tw/2026/11/12/e-ink-holdings-2026-q3-earnings/",
-   "p": "2026-11-12T09:59:00+00:00",
-   "o": "元太下修全年營收成長率至 9%，AI 高速傳輸材料拚 2028 年放量"
+   "b": "日本防衛企業長期因金融機構不願投融資武器製造而借款困難，政府系金融機構也一樣。日本政策投資銀行直到今年 5 月才撤廢對武器相關事業的投融資限制。",
+   "u": "https://www.sankei.com/article/20261113-MYGD5TJQNVO5BKXAAB2EK5VJ54/",
+   "p": "2026-11-13T00:30:00+00:00",
+   "o": "武器関与を避ける金融界の旧弊打破、防衛制限に小泉進次郎防衛相のメスが入る"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "新加坡因疑虛報而調查黃樂，最終不予起訴",
+   "pts": [
+    "新加坡內政部 12 日就涉嫌走私輝達晶片至中國的資料中心業者 Megaspeed 發表聲明。",
+    "警方自去年 2 月起調查該公司前高層、被指為中國間諜的黃樂涉嫌在採購伺服器時虛報，今年 2 月以「證據不足」結案。"
+   ],
+   "b": "新加坡內政部 12 日就涉嫌走私輝達晶片至中國的資料中心業者 Megaspeed 發表聲明。警方自去年 2 月起調查該公司前高層、被指為中國間諜的黃樂涉嫌在採購伺服器時虛報，今年 2 月以「證據不足」結案。",
+   "u": "https://www.sankei.com/article/20261113-TJBTU2WEA5MBJM5O6GYWPPKE6E/",
+   "p": "2026-11-13T00:21:54+00:00",
+   "o": "虚偽申告疑いでアリス・フアン氏を捜査 シンガポール、摘発見送り"
   },
   {
    "c": "fin",
    "s": "WSJ",
-   "t": "輝達領導層危機拖累美股期貨，AI 交易受壓",
+   "t": "日經指數上漲 1.1%，晶片股領漲",
    "pts": [
-    "輝達拖累主要美股指數期貨走低，使 AI 股的漲勢踩煞車。"
+    "日股走高，由晶片相關股領漲，但美日貨幣政策仍存在不確定性。"
    ],
-   "b": "輝達拖累主要美股指數期貨走低，使 AI 股的漲勢踩煞車。",
-   "u": "https://www.wsj.com/finance/stocks/nvidia-leadership-scandal-drags-on-u-s-stock-futures-pressures-ai-trade-e7f6e5b8?mod=rss_markets_main",
-   "p": "2026-11-12T09:53:00+00:00",
-   "o": "Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade"
+   "b": "日股走高，由晶片相關股領漲，但美日貨幣政策仍存在不確定性。",
+   "u": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
+   "p": "2026-11-13T00:19:00+00:00",
+   "o": "Nikkei Rises 1.1%, Led by Chip Stocks"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "黃仁勳另爆出軌公司女主管，專家：若遭撤換重大打擊 AI 產業",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "標普 500、道瓊、納斯達克期貨回升：黃仁勳離任與油價壓力下股市收低",
    "pts": [
-    "《紐約時報》引述前員工報導，黃仁勳除疑與被認定為中國間諜的女子外遇，另傳與直屬的醫療業務副總裁鮑爾有染。",
-    "《華爾街日報》指董事會最快 11 日開會討論他的去留。",
-    "美國企業多限制主管與直屬下屬發展親密關係，輝達行為準則也要求避免利益衝突。",
-    "矽谷人士認為業界已有心理準備面對沒有黃仁勳的 AI 產業，目前尚無人能扮演他的角色。"
+    "輝達執行長黃仁勳遭撤換，財務長 Colette Kress 出任臨時執行長。"
    ],
-   "b": "《紐約時報》引述前員工報導，黃仁勳除疑與被認定為中國間諜的女子外遇，另傳與直屬的醫療業務副總裁鮑爾有染。《華爾街日報》指董事會最快 11 日開會討論他的去留。美國企業多限制主管與直屬下屬發展親密關係，輝達行為準則也要求避免利益衝突。矽谷人士認為業界已有心理準備面對沒有黃仁勳的 AI 產業，目前尚無人能扮演他的角色。",
-   "u": "https://finance.technews.tw/2026/11/12/jensen-huang-reportedly-affair-female-executive-experts-warn-removal-major-blow-ai-industry/",
-   "p": "2026-11-12T09:50:51+00:00",
-   "o": "黃仁勳另爆出軌公司女主管，專家：若遭撤換重大打擊 AI 產業"
+   "b": "輝達執行長黃仁勳遭撤換，財務長 Colette Kress 出任臨時執行長。",
+   "u": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss",
+   "p": "2026-11-13T00:19:00+00:00",
+   "o": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure — CRWV, CBRS, NVDA, TSLA In Focus"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 1｜輝達領導層動盪與 11/17 財報（納指 8／費半 9　方向 ↓）",
+   "pts": [
+    "納斯達克影響 8 分、費城半導體影響 9 分，方向 ↓。",
+    "黃仁勳 11/12 辭去總裁、執行長與董事職務、即時生效；財務長 Colette Kress 任臨時執行長、Harvey C. Jones 任董事長；NVDA 盤中一度跌約 14%，收 166.19 美元（−4.34%，前收 173.73）；Citigroup 目標價 285→225 美元；11/17 美東盤後公布財報（Motley Fool、Eurasia Business News、Yahoo Finance，11/12；財報日另見 simianx 行事曆）。"
+   ],
+   "b": "納斯達克影響 8 分、費城半導體影響 9 分，方向 ↓。黃仁勳 11/12 辭去總裁、執行長與董事職務、即時生效；財務長 Colette Kress 任臨時執行長、Harvey C. Jones 任董事長；NVDA 盤中一度跌約 14%，收 166.19 美元（−4.34%，前收 173.73）；Citigroup 目標價 285→225 美元；11/17 美東盤後公布財報（Motley Fool、Eurasia Business News、Yahoo Finance，11/12；財報日另見 simianx 行事曆）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:58+00:00",
+   "o": "因素 1｜輝達領導層動盪與 11/17 財報（納指 8／費半 9　方向 ↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 2｜聯準會 12 月升息預期（10 月 CPI 高於預期）（納指 9／費半 8　方向 ↓）",
+   "pts": [
+    "納斯達克影響 9 分、費城半導體影響 8 分，方向 ↓。",
+    "10 月 CPI（11/10 公布）整體月增 0.4%（預期 0.3%）、核心 0.3%（預期 0.2%）；Waller 表示核心約 0.3% 以上應考慮 12 月升息 50bp；公布前 CME FedWatch 顯示 12 月升息 25bp 機率逾 80%（StockAnalysis，11/10）；Kitco 指 11/12 升息預期壓低股市與黃金；FOMC 決議 12/9（simianx 行事曆）。"
+   ],
+   "b": "納斯達克影響 9 分、費城半導體影響 8 分，方向 ↓。10 月 CPI（11/10 公布）整體月增 0.4%（預期 0.3%）、核心 0.3%（預期 0.2%）；Waller 表示核心約 0.3% 以上應考慮 12 月升息 50bp；公布前 CME FedWatch 顯示 12 月升息 25bp 機率逾 80%（StockAnalysis，11/10）；Kitco 指 11/12 升息預期壓低股市與黃金；FOMC 決議 12/9（simianx 行事曆）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:57+00:00",
+   "o": "因素 2｜聯準會 12 月升息預期（10 月 CPI 高於預期）（納指 9／費半 8　方向 ↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 3｜AI 晶片資金輪動（AMD、博通受惠）（納指 6／費半 8　方向 ↔）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 8 分，方向 ↔。",
+    "AMD +5.86%、博通 +5.54%（11/12 收盤，Motley Fool）；NVDA −4.34%；費城半導體 −0.54% 收 10,506.67（TradingKey，11/12，單一來源）；AMD、博通收盤價本期未取得。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 8 分，方向 ↔。AMD +5.86%、博通 +5.54%（11/12 收盤，Motley Fool）；NVDA −4.34%；費城半導體 −0.54% 收 10,506.67（TradingKey，11/12，單一來源）；AMD、博通收盤價本期未取得。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:56+00:00",
+   "o": "因素 3｜AI 晶片資金輪動（AMD、博通受惠）（納指 6／費半 8　方向 ↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 4｜長天期殖利率逼近並突破 5%（納指 7／費半 6　方向 ↓）",
+   "pts": [
+    "納斯達克影響 7 分、費城半導體影響 6 分，方向 ↓。",
+    "十年期殖利率約 5.10%、盤中最高約 5.12%，30 年期盤中約 5.44%（Yahoo Finance，11/12；盤中值）；Motley Fool 寫 4.98%，疑為 11/10 舊值，採 Yahoo；債市 11/11 因退伍軍人節休市；10 月 CPI 後 2 年期殖利率 11/10 上午 4.69%，前收 4.55%（StockAnalysis）。"
+   ],
+   "b": "納斯達克影響 7 分、費城半導體影響 6 分，方向 ↓。十年期殖利率約 5.10%、盤中最高約 5.12%，30 年期盤中約 5.44%（Yahoo Finance，11/12；盤中值）；Motley Fool 寫 4.98%，疑為 11/10 舊值，採 Yahoo；債市 11/11 因退伍軍人節休市；10 月 CPI 後 2 年期殖利率 11/10 上午 4.69%，前收 4.55%（StockAnalysis）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:55+00:00",
+   "o": "因素 4｜長天期殖利率逼近並突破 5%（納指 7／費半 6　方向 ↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 5｜AI 監管與資料中心疑慮（期中選舉後）（納指 6／費半 7　方向 ↓）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↓。",
+    "民主黨於 11/3 期中選舉取得參眾兩院多數，德州州長當選人主張暫停新資料中心；SOX 11/5 單日 −9.2%、當週約 −12%（Stocktwits，11/5）；11/12 當日新證據未查到，分數保守。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 7 分，方向 ↓。民主黨於 11/3 期中選舉取得參眾兩院多數，德州州長當選人主張暫停新資料中心；SOX 11/5 單日 −9.2%、當週約 −12%（Stocktwits，11/5）；11/12 當日新證據未查到，分數保守。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:54+00:00",
+   "o": "因素 5｜AI 監管與資料中心疑慮（期中選舉後）（納指 6／費半 7　方向 ↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 6｜中東／荷莫茲與油價（納指 6／費半 6　方向 ↓）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↓。",
+    "WTI 結算 88.74 美元（+2.21、+2.6%）、布蘭特 95.82 美元（+3.06、+3.3%）；沙烏地能源設施遭攻擊、荷莫茲海峽航運受阻，川普稱不需要與伊朗達成協議；能源股收高（Eurasia Business News、Yahoo Finance，11/12）。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↓。WTI 結算 88.74 美元（+2.21、+2.6%）、布蘭特 95.82 美元（+3.06、+3.3%）；沙烏地能源設施遭攻擊、荷莫茲海峽航運受阻，川普稱不需要與伊朗達成協議；能源股收高（Eurasia Business News、Yahoo Finance，11/12）。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:53+00:00",
+   "o": "因素 6｜中東／荷莫茲與油價（納指 6／費半 6　方向 ↓）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 7｜AI 融資與信用（CoreWeave、Super Micro）（納指 6／費半 6　方向 ↔）",
+   "pts": [
+    "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↔。",
+    "CoreWeave 11/11 +24.71% 後，11/12 盤前約 −10%（盤前，非收盤）；Super Micro 11/12 −11.30%（Motley Fool）；Cerebras 盤後約 +15%（盤後，Yahoo Finance）；CRWV、SMCI 11/12 收盤價未取得。"
+   ],
+   "b": "納斯達克影響 6 分、費城半導體影響 6 分，方向 ↔。CoreWeave 11/11 +24.71% 後，11/12 盤前約 −10%（盤前，非收盤）；Super Micro 11/12 −11.30%（Motley Fool）；Cerebras 盤後約 +15%（盤後，Yahoo Finance）；CRWV、SMCI 11/12 收盤價未取得。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:52+00:00",
+   "o": "因素 7｜AI 融資與信用（CoreWeave、Super Micro）（納指 6／費半 6　方向 ↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 8｜超大規模雲端資本支出放緩疑慮（納指 5／費半 6　方向 ↔）",
+   "pts": [
+    "納斯達克影響 5 分、費城半導體影響 6 分，方向 ↔。",
+    "Baird 指輝達面臨超大規模業者 2027 年資本支出放緩的不確定性（Motley Fool，11/11）；各家最新指引本期未逐一查證，分數保守。"
+   ],
+   "b": "納斯達克影響 5 分、費城半導體影響 6 分，方向 ↔。Baird 指輝達面臨超大規模業者 2027 年資本支出放緩的不確定性（Motley Fool，11/11）；各家最新指引本期未逐一查證，分數保守。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:51+00:00",
+   "o": "因素 8｜超大規模雲端資本支出放緩疑慮（納指 5／費半 6　方向 ↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 9｜市場部位、波動與新股供給（納指 5／費半 5　方向 ↔）",
+   "pts": [
+    "納斯達克影響 5 分、費城半導體影響 5 分，方向 ↔。",
+    "VIX 18.70（+6.92%，前一日 17.49）、羅素 2000 −1.66%；MSCI 將 Strategy 自兩個美股指數剔除、比特幣約 71,277 美元（−3.59%）；Anthropic IPO 預計 11/18 定價、11/19 掛牌（Yahoo Finance，11/12；時程未再查證），新股供給對 AI 資金的排擠為我的判斷。"
+   ],
+   "b": "納斯達克影響 5 分、費城半導體影響 5 分，方向 ↔。VIX 18.70（+6.92%，前一日 17.49）、羅素 2000 −1.66%；MSCI 將 Strategy 自兩個美股指數剔除、比特幣約 71,277 美元（−3.59%）；Anthropic IPO 預計 11/18 定價、11/19 掛牌（Yahoo Finance，11/12；時程未再查證），新股供給對 AI 資金的排擠為我的判斷。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:50+00:00",
+   "o": "因素 9｜市場部位、波動與新股供給（納指 5／費半 5　方向 ↔）"
+  },
+  {
+   "c": "imp",
+   "s": "羅傑分析",
+   "t": "因素 10｜美中出口管制（納指 4／費半 6　方向 ↓）",
+   "pts": [
+    "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↓。",
+    "Baird 提到中國晶片出口限制風險（Motley Fool，11/11）；管制最新進展本期未查到，分數保守。"
+   ],
+   "b": "納斯達克影響 4 分、費城半導體影響 6 分，方向 ↓。Baird 提到中國晶片出口限制風險（Motley Fool，11/11）；管制最新進展本期未查到，分數保守。",
+   "u": "https://claude.ai/artifact/Rii2xFRNSL6ApFgcHndXF4",
+   "p": "2026-11-13T00:07:49+00:00",
+   "o": "因素 10｜美中出口管制（納指 4／費半 6　方向 ↓）"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "北韓駭客竊取逾 640 億日圓加密資產，濫用電腦視訊鏡頭拍下的臉部資訊",
+   "pts": [
+    "FBI 12 日表示，北韓政府旗下駭客集團過去 18 個月竊取逾 4 億美元（約 640 億日圓）加密資產。",
+    "駭客濫用從電腦網路攝影機偷錄的個人臉部資訊，在視訊通話中欺騙對方的熟人。"
+   ],
+   "b": "FBI 12 日表示，北韓政府旗下駭客集團過去 18 個月竊取逾 4 億美元（約 640 億日圓）加密資產。駭客濫用從電腦網路攝影機偷錄的個人臉部資訊，在視訊通話中欺騙對方的熟人。",
+   "u": "https://www.sankei.com/article/20261113-HTJVOWPRFZODNKFSNIUXQNJR6U/",
+   "p": "2026-11-13T00:03:06+00:00",
+   "o": "北朝鮮ハッカー、640億円超の暗号資産を窃取 PCウェブカメラの顔情報を悪用"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "美國切斷古巴的全球石油供應後，古巴如今靠美國燃油運轉",
+   "pts": [
+    "美國燃油出貨量增加，讓川普石油禁運後瀕臨人道危機的古巴得以維持運作。"
+   ],
+   "b": "美國燃油出貨量增加，讓川普石油禁運後瀕臨人道危機的古巴得以維持運作。",
+   "u": "https://www.wsj.com/world/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-d8f26a9a?mod=rss_worldnews",
+   "p": "2026-11-13T00:00:00+00:00",
+   "o": "The U.S. Cut Cuba Off From the World’s Oil. Now It Runs on American Fuel."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "如果五年前投資 1 萬美元買比特幣會怎樣？",
+   "pts": [
+    "一名投資人在 2021 年高點附近買進比特幣，FTX 崩盤後大部分資金蒸發。",
+    "文章比較五年後這項長期押注與黃金、標普 500 的表現。"
+   ],
+   "b": "一名投資人在 2021 年高點附近買進比特幣，FTX 崩盤後大部分資金蒸發。文章比較五年後這項長期押注與黃金、標普 500 的表現。",
+   "u": "https://247wallst.com/investing/cryptocurrency/2026/11/12/what-if-you-had-invested-10000-in-bitcoin-5-years-ago/?.tsrc=rss",
+   "p": "2026-11-12T23:29:56+00:00",
+   "o": "What If You Had Invested $10,000 in Bitcoin 5 Years Ago?"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "評論｜黃仁勳垮台的後續效應",
+   "pts": [
+    "出口管制可以收緊，但不應傷害美國的 AI。"
+   ],
+   "b": "出口管制可以收緊，但不應傷害美國的 AI。",
+   "u": "https://www.wsj.com/opinion/jensen-huang-resigns-nvidia-alice-huang-china-megaspeed-c0106752?mod=rss_worldnews",
+   "p": "2026-11-12T23:29:00+00:00",
+   "o": "Opinion | The Fallout From the Fall of Jensen Huang"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美銀看好 Block（XYZ）2027 年初表現，仍有一個疑問",
+   "pts": [
+    "Block 名列「未來 5 年十大成長股」第十名。",
+    "本月科技股在兩個交易日內由慶祝轉為重挫。"
+   ],
+   "b": "Block 名列「未來 5 年十大成長股」第十名。本月科技股在兩個交易日內由慶祝轉為重挫。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-matthew-o-neill-231307777.html?.tsrc=rss",
+   "p": "2026-11-12T23:13:07+00:00",
+   "o": "Bank of America’s Matthew O’Neill Is Positive on Block (XYZ) for Early 2027. One Question Remains"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "RBC 的 Paul Treiber 在 Shopify 小幅不如預期後立場不變，AI 是賣點",
+   "pts": [
+    "Shopify 名列「未來 5 年十大成長股」第九名。",
+    "本月科技股在兩個交易日內由慶祝轉為重挫。"
+   ],
+   "b": "Shopify 名列「未來 5 年十大成長股」第九名。本月科技股在兩個交易日內由慶祝轉為重挫。",
+   "u": "https://finance.yahoo.com/technology/ai/articles/rbc-paul-treiber-held-firm-231241818.html?.tsrc=rss",
+   "p": "2026-11-12T23:12:41+00:00",
+   "o": "RBC’s Paul Treiber Held Firm on Shopify (SHOP) After a Slight Miss. Here’s the AI Pitch"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Rosenblatt 的 Kevin Cassidy 上調 Monolithic Power Systems 評等，是哪一季讓他改觀",
+   "pts": [
+    "Monolithic Power Systems 名列「未來 5 年十大成長股」第八名。",
+    "本月科技股在兩個交易日內由慶祝轉為重挫。"
+   ],
+   "b": "Monolithic Power Systems 名列「未來 5 年十大成長股」第八名。本月科技股在兩個交易日內由慶祝轉為重挫。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-kevin-cassidy-upgraded-monolithic-231218374.html?.tsrc=rss",
+   "p": "2026-11-12T23:12:18+00:00",
+   "o": "Rosenblatt’s Kevin Cassidy Upgraded Monolithic Power Systems (MPWR). Here’s the Quarter That Won Him Over"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Piper Sandler 的 James Fish 稱 Arista Networks 為首選股，他看到什麼",
+   "pts": [
+    "Arista Networks 名列「未來 5 年十大成長股」第七名。",
+    "本月科技股在兩個交易日內由慶祝轉為重挫。"
+   ],
+   "b": "Arista Networks 名列「未來 5 年十大成長股」第七名。本月科技股在兩個交易日內由慶祝轉為重挫。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-james-fish-calls-231155445.html?.tsrc=rss",
+   "p": "2026-11-12T23:11:55+00:00",
+   "o": "Piper Sandler’s James Fish Calls Arista Networks (ANET) a Top Pick. Here’s What He Sees Ahead"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Bernstein 的 Mark Li 將台積電目標價上調至 600 美元，什麼改變了",
+   "pts": [
+    "台積電名列「未來 5 年十大成長股」第六名。",
+    "本月科技股在兩個交易日內由慶祝轉為重挫。"
+   ],
+   "b": "台積電名列「未來 5 年十大成長股」第六名。本月科技股在兩個交易日內由慶祝轉為重挫。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bernstein-mark-li-raised-taiwan-231139059.html?.tsrc=rss",
+   "p": "2026-11-12T23:11:39+00:00",
+   "o": "Bernstein’s Mark Li Raised His Taiwan Semiconductor Manufacturing (TSM) Target to $600. Here’s What Changed"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "未來 5 年最值得買的 5 檔成長股",
+   "pts": [
+    "11 月 4 日股市因民主黨在期中選舉橫掃國會而上漲，隔天標普 500 卻下跌 4.36%、道瓊下跌 3.44%。"
+   ],
+   "b": "11 月 4 日股市因民主黨在期中選舉橫掃國會而上漲，隔天標普 500 卻下跌 4.36%、道瓊下跌 3.44%。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html?.tsrc=rss",
+   "p": "2026-11-12T23:11:19+00:00",
+   "o": "5 Best Growth Stocks for the Next 5 Years"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "小型股也能帶來大報酬",
+   "pts": [
+    "微型股相較大型股顯得便宜。"
+   ],
+   "b": "微型股相較大型股顯得便宜。",
+   "u": "https://finance.yahoo.com/m/5d717aea-a1b1-34ff-b88f-e4d2cda080a2/tiny-stocks-can-produce-big.html?.tsrc=rss",
+   "p": "2026-11-12T23:10:00+00:00",
+   "o": "Tiny Stocks Can Produce Big Returns"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美銀看好兩檔股票最高有 95% 上漲空間",
+   "pts": [
+    "兩個截然不同的成長故事吸引機構樂觀看待。"
+   ],
+   "b": "兩個截然不同的成長故事吸引機構樂觀看待。",
+   "u": "https://finance.yahoo.com/healthcare/articles/bank-america-sees-95-upside-230641865.html?.tsrc=rss",
+   "p": "2026-11-12T23:06:41+00:00",
+   "o": "Bank of America Sees Up to 95% Upside in 2 Stocks"
   }
  ]
 }
