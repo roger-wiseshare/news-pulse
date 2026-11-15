@@ -1,91 +1,342 @@
 {
- "updated": "2026-11-15T04:48:28.351383+00:00",
+ "updated": "2026-11-15T14:10:41.919719+00:00",
  "items": [
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "材料透明度永遠無法達到 100%，物理學家：量子過程設下極限",
-   "pts": [
-    "新理論研究指出，任何會折射光線的材料都無法做到完全透明。",
-    "原因是光子穿越介質時，必然把部分能量轉成聲波（聲子）。",
-    "以超流體氦為例，光束須傳播約地球直徑的距離，能量損耗才明顯可見。",
-    "材料科學能追求的，只是逼近自然法則設下的透明極限。"
-   ],
-   "b": "新理論研究指出，任何會折射光線的材料都無法做到完全透明。原因是光子穿越介質時，必然把部分能量轉成聲波（聲子）。以超流體氦為例，光束須傳播約地球直徑的距離，能量損耗才明顯可見。材料科學能追求的，只是逼近自然法則設下的透明極限。",
-   "u": "https://technews.tw/2026/11/15/light-transparent-material/",
-   "p": "2026-11-15T04:25:20+00:00",
-   "o": "材料透明度永遠無法達到 100%，物理學家：量子過程設下極限"
-  },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "道瓊期貨待開，比特幣在不穩的反彈中下挫；輝達財報與 Anthropic IPO 在即",
+   "t": "道瓊期貨待開，比特幣下挫、市場反彈不穩；輝達財報與 Anthropic IPO 在即",
    "pts": [
     "那斯達克儘管迎來兩個月來最佳單週表現，仍收在關鍵水準之下。",
     "輝達財報與 Anthropic IPO 即將登場。"
    ],
    "b": "那斯達克儘管迎來兩個月來最佳單週表現，仍收在關鍵水準之下。輝達財報與 Anthropic IPO 即將登場。",
-   "u": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom%2C.html?.tsrc=rss",
-   "p": "2026-11-15T04:05:44+00:00",
-   "o": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead"
+   "u": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-loom-for.html?.tsrc=rss",
+   "p": "2026-11-15T13:42:34+00:00",
+   "o": "Dow Jones Futures Loom For Shaky Market Rally As Bitcoin Dives; Nvidia Earnings, Anthropic IPO Ahead"
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "研究成果回饋、收益再投資：大學衍生創投成經營支柱，擴及食品與醫療",
+   "pts": [
+    "在少子化與補助削減下，大學衍生創投被各校視為重要策略。",
+    "各校藉由研究成果事業化與解決社會問題，把獲利回饋研究與教育。"
+   ],
+   "b": "在少子化與補助削減下，大學衍生創投被各校視為重要策略。各校藉由研究成果事業化與解決社會問題，把獲利回饋研究與教育。",
+   "u": "https://www.sankei.com/article/20261115-TJPQSYJKWBI5XFAVFRLEZ2AGGY/",
+   "p": "2026-11-15T12:32:36+00:00",
+   "o": "研究成果を還元、収益の再投資も 大学発ベンチャーが経営の柱に、食や医療にも広がる"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "輝達醜聞如何讓你的 401(k) 縮水數千美元",
+   "pts": [
+    "輝達股價近一個月暴跌近 30%，拖累數百萬美國人的退休儲蓄。",
+    "許多人可能沒意識到自己的投資組合持有多少輝達。"
+   ],
+   "b": "輝達股價近一個月暴跌近 30%，拖累數百萬美國人的退休儲蓄。許多人可能沒意識到自己的投資組合持有多少輝達。",
+   "u": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+   "p": "2026-11-15T12:30:10+00:00",
+   "o": "How Nvidia's scandal knocked thousands off your 401(k)"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "聯準會 12 月若升息，市場會如何反應？歷史給的啟示",
+   "pts": [
+    "聯準會 12 月的決議可能牽動股市。",
+    "歷史顯示，投資人應超越短期反應來看待。"
+   ],
+   "b": "聯準會 12 月的決議可能牽動股市。歷史顯示，投資人應超越短期反應來看待。",
+   "u": "https://www.fool.com/investing/2026/11/15/how-will-the-market-react-to-a-potential-fed-rate/?.tsrc=rss",
+   "p": "2026-11-15T12:22:00+00:00",
+   "o": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests."
+  },
+  {
+   "c": "fin",
+   "s": "産経新聞",
+   "t": "大學衍生創投急增至 6,220 家，十年成長 3.5 倍",
+   "pts": [
+    "據經濟產業省，令和 7 年度日本大學衍生創投達 6,220 家，約為 10 年前的 3.5 倍。",
+    "少子化使學生爭奪加劇，大學著力於創業支援，以確保新收益來源並提升魅力。"
+   ],
+   "b": "據經濟產業省，令和 7 年度日本大學衍生創投達 6,220 家，約為 10 年前的 3.5 倍。少子化使學生爭奪加劇，大學著力於創業支援，以確保新收益來源並提升魅力。",
+   "u": "https://www.sankei.com/article/20261115-LYZVXI67OVPRVOVKYJNMYX7XIY/",
+   "p": "2026-11-15T12:21:35+00:00",
+   "o": "大学発ベンチャー急増6220社、過去10年で3.5倍 少子化背景、生き残りへ新収益源"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "歷史顯示每次 S&P 500 熊市都以相同方式結束，這是其中的模式",
+   "pts": [
+    "文章指出，投資人須了解如何在熊市中讓投資組合受益。"
+   ],
+   "b": "文章指出，投資人須了解如何在熊市中讓投資組合受益。",
+   "u": "https://www.fool.com/investing/2026/11/15/history-says-every-sp-500-bear-market-has-ended-th/?.tsrc=rss",
+   "p": "2026-11-15T11:25:00+00:00",
+   "o": "History Says Every S&P 500 Bear Market Has Ended the Same Way. Here's the Pattern."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "AI 股下挫後，科技股仍是美股的主要驅動力",
+   "pts": [
+    "儘管 AI 相關公司近期下跌，美股仍深受科技股影響。"
+   ],
+   "b": "儘管 AI 相關公司近期下跌，美股仍深受科技股影響。",
+   "u": "https://investorshub.advfn.com/market-news/article/39989/ai-stock-declines-leave-technology-sector-as-key-driver-of-us-equity-market?.tsrc=rss",
+   "p": "2026-11-15T11:15:00+00:00",
+   "o": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "你的 Apple Watch 能偷聽對話，這有用還是令人毛骨悚然？",
+   "pts": [
+    "作者佩戴 Apple Watch 或 Amazon Bee 手環，體驗能記錄所有對話的裝置。",
+    "文章探討這類功能究竟實用，還是令人不安。"
+   ],
+   "b": "作者佩戴 Apple Watch 或 Amazon Bee 手環，體驗能記錄所有對話的裝置。文章探討這類功能究竟實用，還是令人不安。",
+   "u": "https://www.wsj.com/tech/personal-tech/apple-watch-amazon-bee-listening-wearables-9c26f1f5?mod=rss_Technology",
+   "p": "2026-11-15T11:00:00+00:00",
+   "o": "Your Apple Watch Can Listen In on Conversations. Is That Useful or Creepy?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "輝達首場「後黃仁勳時代」財報與 Anthropic IPO：本週觀察重點",
+   "pts": [
+    "Anthropic 的 IPO 與輝達的後續風波，將主導本週華爾街的新聞。"
+   ],
+   "b": "Anthropic 的 IPO 與輝達的後續風波，將主導本週華爾街的新聞。",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html?.tsrc=rss",
+   "p": "2026-11-15T11:00:00+00:00",
+   "o": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "歐洲股市面臨 10% 落後風險，漲勢動能減弱",
+   "pts": [
+    "Investing.com 指出，明年歐洲股市可能落後全球市場。",
+    "原因包括估值偏高、獲利成長放緩與政治不確定性。"
+   ],
+   "b": "Investing.com 指出，明年歐洲股市可能落後全球市場。原因包括估值偏高、獲利成長放緩與政治不確定性。",
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-face-10-underperformance-104622060.html?.tsrc=rss",
+   "p": "2026-11-15T10:46:22+00:00",
+   "o": "European stocks face 10% underperformance risk as rally loses momentum"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "高市首相擬在東協會議倡議先端技術「亞洲共同市場」，推進 FOIP",
+   "pts": [
+    "高市早苗首相將於 17 日在菲律賓馬尼拉的東協相關峰會上，倡議 AI、量子等先端技術領域的「亞洲共同市場」。",
+    "日方將主導國際共同研發與重要基礎設施、生產現場的實證，並把成果用於規則制定與標準化。"
+   ],
+   "b": "高市早苗首相將於 17 日在菲律賓馬尼拉的東協相關峰會上，倡議 AI、量子等先端技術領域的「亞洲共同市場」。日方將主導國際共同研發與重要基礎設施、生產現場的實證，並把成果用於規則制定與標準化。",
+   "u": "https://www.sankei.com/article/20261115-7PQF3EAYJVOT7BRSCYZXEADN2Q/",
+   "p": "2026-11-15T10:38:35+00:00",
+   "o": "＜独自＞高市首相、先端技術で「アジア共通市場」創出 AZECで提唱へ、FOIPを進化"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "Gucci 正在降價，路易威登不願跟進",
+   "pts": [
+    "奢侈品需求疲弱，業界高層正辯論降價這項產業大忌。",
+    "Gucci 正在降價，路易威登則不願跟進。"
+   ],
+   "b": "奢侈品需求疲弱，業界高層正辯論降價這項產業大忌。Gucci 正在降價，路易威登則不願跟進。",
+   "u": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+   "p": "2026-11-15T10:30:00+00:00",
+   "o": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend."
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "散戶熱衷 Anthropic 的 IPO，對 AI 本身卻態度冷淡",
+   "pts": [
+    "AI 的未來讓部分個人投資人難以對兆美元規模的 Anthropic IPO 袖手旁觀，但心態相當複雜。",
+    "報導聚焦個人投資人對 IPO 熱衷、對 AI 本身卻保持距離的矛盾。"
+   ],
+   "b": "AI 的未來讓部分個人投資人難以對兆美元規模的 Anthropic IPO 袖手旁觀，但心態相當複雜。報導聚焦個人投資人對 IPO 熱衷、對 AI 本身卻保持距離的矛盾。",
+   "u": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+   "p": "2026-11-15T10:30:00+00:00",
+   "o": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "新國會 1 月上任，對你的投資策略意味著什麼",
+   "pts": [
+    "歷史顯示，投資人對 2027 年有理由保持樂觀。"
+   ],
+   "b": "歷史顯示，投資人對 2027 年有理由保持樂觀。",
+   "u": "https://www.fool.com/investing/2026/11/15/a-new-congress-takes-office-in-january-heres-what/?.tsrc=rss",
+   "p": "2026-11-15T10:04:00+00:00",
+   "o": "A New Congress Takes Office in January. Here's What It Means for Your Investing Strategy."
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "歐盟領袖將舉行首次 AI 會談，輝達案未列正式議程",
+   "t": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證",
    "pts": [
-    "歐盟領袖 13 日在都柏林首度齊聚討論 AI，須在釋放潛力與防範風險間取得平衡。",
-    "與會者將聽取 Mistral 執行長蒙施與諾貝爾獎得主辛頓的意見。",
-    "輝達未列入正式議程，但官員稱與會者仍可能提及此事。"
+    "研究團隊以細胞實驗，測試多花蜂蜜能否保護人類皮膚細胞抵抗紫外線。",
+    "經 1% 多花蜂蜜預處理 48 小時後，幹細胞幹性標記上升、老化相關基因受抑制，抗氧化能力提升。",
+    "研究尚未進行人體實驗，只提供細胞層級的初步證據。",
+    "研究人員強調蜂蜜不能取代防曬霜，且成分受花源與加工影響，標準化仍是挑戰。"
    ],
-   "b": "歐盟領袖 13 日在都柏林首度齊聚討論 AI，須在釋放潛力與防範風險間取得平衡。與會者將聽取 Mistral 執行長蒙施與諾貝爾獎得主辛頓的意見。輝達未列入正式議程，但官員稱與會者仍可能提及此事。",
-   "u": "https://technews.tw/2026/11/15/eu-leaders-first-ai-talks-nvidia-case-not-official-agenda/",
-   "p": "2026-11-15T03:48:24+00:00",
-   "o": "歐盟領袖將舉行首次 AI 會談，輝達案未列正式議程"
+   "b": "研究團隊以細胞實驗，測試多花蜂蜜能否保護人類皮膚細胞抵抗紫外線。經 1% 多花蜂蜜預處理 48 小時後，幹細胞幹性標記上升、老化相關基因受抑制，抗氧化能力提升。研究尚未進行人體實驗，只提供細胞層級的初步證據。研究人員強調蜂蜜不能取代防曬霜，且成分受花源與加工影響，標準化仍是挑戰。",
+   "u": "https://technews.tw/2026/11/15/honey-skin-stem-cell-skin/",
+   "p": "2026-11-15T09:45:51+00:00",
+   "o": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "台灣首顆 GPGPU 獲飛行履歷，捷揚太空代工轉攻研發拓商機",
+   "t": "訓練資料爭奪戰升溫，Memories.ai 推打工平台付錢請大家拍影片給機器人看",
    "pts": [
-    "國家太空中心與捷揚航電合作三年開發的 GPGPU 完成在軌驗證，成為台灣首顆取得飛行履歷者。",
-    "衛星搭載後可在拍攝後數秒內判讀影像，只回傳辨識結果，大幅減少傳輸量。",
-    "可用於災害監測與國土安全，也已應用於船艦偵測等合作案。",
-    "捷揚過去以工業電腦與太空代工起家，正朝自主研發與平台整合邁進。"
+    "Memories.ai 於 10 月 28 日推出 Memories Upload，付費請人拍攝第一人稱影片來訓練機器人。",
+    "每項任務報酬 6 至 18 美元，使用不到 45 公克的 LUCI Pin 攝影機。",
+    "公司稱測試版首月累積逾百萬小時影片，目標 2027 年 3 月前達千萬小時，數字皆為自家統計。",
+    "影片離開拍攝國或交付客戶前會自動模糊他人並遮蔽識別資訊，並抽樣人工檢查。"
    ],
-   "b": "國家太空中心與捷揚航電合作三年開發的 GPGPU 完成在軌驗證，成為台灣首顆取得飛行履歷者。衛星搭載後可在拍攝後數秒內判讀影像，只回傳辨識結果，大幅減少傳輸量。可用於災害監測與國土安全，也已應用於船艦偵測等合作案。捷揚過去以工業電腦與太空代工起家，正朝自主研發與平台整合邁進。",
-   "u": "https://technews.tw/2026/11/15/taiwan-first-gpgpu-flight-heritage-jasc-aerospace-shifts-oem-rd-business-expansion/",
-   "p": "2026-11-15T03:22:29+00:00",
-   "o": "台灣首顆 GPGPU 獲飛行履歷 捷揚太空代工轉攻研發拓商機"
+   "b": "Memories.ai 於 10 月 28 日推出 Memories Upload，付費請人拍攝第一人稱影片來訓練機器人。每項任務報酬 6 至 18 美元，使用不到 45 公克的 LUCI Pin 攝影機。公司稱測試版首月累積逾百萬小時影片，目標 2027 年 3 月前達千萬小時，數字皆為自家統計。影片離開拍攝國或交付客戶前會自動模糊他人並遮蔽識別資訊，並抽樣人工檢查。",
+   "u": "https://technews.tw/2026/11/15/memories-ai-launches-memories-upload-a-gig-work-platform-for-robot-training-data/",
+   "p": "2026-11-15T09:00:43+00:00",
+   "o": "訓練資料爭奪戰升溫，Memories.ai 推打工平台付錢請大家拍影片給機器人看"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "齊柏林衛星清晰度大躍進 影像開賣 2 個月即斬獲海外訂單",
+   "t": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化",
    "pts": [
-    "福衛八號首顆齊柏林衛星去年底升空，原始解析度 1 公尺，後處理可達 0.7 公尺。",
-    "影像開賣兩個月即取得海外訂單。",
-    "計畫主持人劉小菁給衛星 98 分，第 2 顆衛星預計明年初發射。",
-    "影像已用於堰塞湖監測，並將與屏東縣政府合作計算香蕉種植面積。"
+    "研究論文 2026 年 9 月 9 日發表於《Translational Neurodegeneration》，主角是羊膜細胞胞外囊泡製成的鼻噴劑。",
+    "動物模型中，囊泡經鼻腔給藥可抵達海馬迴，抑制神經發炎、保護突觸並改善認知。",
+    "人類神經元細胞模型也顯示保護作用。",
+    "研究者強調這仍是臨床前結果，尚需人體試驗，不構成可用療法。"
    ],
-   "b": "福衛八號首顆齊柏林衛星去年底升空，原始解析度 1 公尺，後處理可達 0.7 公尺。影像開賣兩個月即取得海外訂單。計畫主持人劉小菁給衛星 98 分，第 2 顆衛星預計明年初發射。影像已用於堰塞湖監測，並將與屏東縣政府合作計算香蕉種植面積。",
-   "u": "https://technews.tw/2026/11/15/zeppelin-satellite-clarity-breakthrough-overseas-orders-2-months-image-sales/",
-   "p": "2026-11-15T03:11:43+00:00",
-   "o": "齊柏林衛星清晰度大躍進 影像開賣 2 個月即斬獲海外訂單"
+   "b": "研究論文 2026 年 9 月 9 日發表於《Translational Neurodegeneration》，主角是羊膜細胞胞外囊泡製成的鼻噴劑。動物模型中，囊泡經鼻腔給藥可抵達海馬迴，抑制神經發炎、保護突觸並改善認知。人類神經元細胞模型也顯示保護作用。研究者強調這仍是臨床前結果，尚需人體試驗，不構成可用療法。",
+   "u": "https://technews.tw/2026/11/15/nasal-spray-alzheimers-treatment-promise/",
+   "p": "2026-11-15T09:00:16+00:00",
+   "o": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "紅杉資本收掉 Scouts 計畫，曾挖到 Uber、Stripe 的創投模式為何喊停",
+   "t": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
    "pts": [
-    "紅杉資本 11 月 4 日宣布結束 Scouts 計畫與 Arc 加速器，聚焦高信念、高度精選的投資。",
-    "Scouts 約自 2009 年首創，讓創辦人以最多 10 萬美元代表紅杉投資，曾投中 Uber、Stripe。",
-    "紅杉未說明具體原因，只表示要簡化層級、精簡團隊。"
+    "報導聚焦曾任 Megaspeed 高階主管的黃樂（Alice Huang），美方懷疑她涉及中國情報活動，中國外交部否認，實情仍待釐清。",
+    "文章回顧 2011 至 2015 年的方芳案，她被懷疑透過社交與政治募款接近多名美國政治人物。",
+    "美國情報機構指出，中國可能透過留學、投資、募款與社群媒體等管道接觸關鍵技術與情報。",
+    "方芳接觸的人物中，前眾議員史瓦維爾最受關注，他向 FBI 說明認識經過，並稱她介紹的志工與實習生未接觸敏感資訊。"
    ],
-   "b": "紅杉資本 11 月 4 日宣布結束 Scouts 計畫與 Arc 加速器，聚焦高信念、高度精選的投資。Scouts 約自 2009 年首創，讓創辦人以最多 10 萬美元代表紅杉投資，曾投中 Uber、Stripe。紅杉未說明具體原因，只表示要簡化層級、精簡團隊。",
-   "u": "https://finance.technews.tw/2026/11/15/sequoia-capital-shuts-down-scouts-program/",
-   "p": "2026-11-15T03:00:57+00:00",
-   "o": "紅杉資本收掉 Scouts 計畫，曾挖到 Uber、Stripe 的創投模式為何喊停"
+   "b": "報導聚焦曾任 Megaspeed 高階主管的黃樂（Alice Huang），美方懷疑她涉及中國情報活動，中國外交部否認，實情仍待釐清。文章回顧 2011 至 2015 年的方芳案，她被懷疑透過社交與政治募款接近多名美國政治人物。美國情報機構指出，中國可能透過留學、投資、募款與社群媒體等管道接觸關鍵技術與情報。方芳接觸的人物中，前眾議員史瓦維爾最受關注，他向 FBI 說明認識經過，並稱她介紹的志工與實習生未接觸敏感資訊。",
+   "u": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+   "p": "2026-11-15T08:30:27+00:00",
+   "o": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "科學家捕捉到早期 Ia 型超新星，助解開白矮星引爆機制之謎",
+   "pts": [
+    "SN 2026ahvu 於 11 月 2 日被 ATLAS 發現，確認為年輕的 Ia 型超新星，位於約 5,000 萬光年外的 NGC 1433 星系。",
+    "預計 11 月 18 日至 23 日達最大亮度，約 10.5 至 12.1 等。",
+    "它在峰值前就被發現，是 2011 年 SN 2011fe 以來最有價值的 Ia 型觀測對象。",
+    "早期資料有助區分白矮星是吸積引爆（單簡併）或雙白矮星合併（雙簡併）。"
+   ],
+   "b": "SN 2026ahvu 於 11 月 2 日被 ATLAS 發現，確認為年輕的 Ia 型超新星，位於約 5,000 萬光年外的 NGC 1433 星系。預計 11 月 18 日至 23 日達最大亮度，約 10.5 至 12.1 等。它在峰值前就被發現，是 2011 年 SN 2011fe 以來最有價值的 Ia 型觀測對象。早期資料有助區分白矮星是吸積引爆（單簡併）或雙白矮星合併（雙簡併）。",
+   "u": "https://technews.tw/2026/11/15/type-ia-supernova-ngc-1433-galaxy-sn-2026ahvu/",
+   "p": "2026-11-15T08:16:14+00:00",
+   "o": "科學家捕捉到早期 Ia 型超新星，助解開白矮星引爆機制之謎"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "伊朗在恢復攻擊後再度鎖定美國盟友巴林",
+   "pts": [
+    "WSJ 指出，伊朗恢復對美國盟友的攻擊，再度鎖定巴林。",
+    "巴林自戰爭開始以來屢遭德黑蘭攻擊，稱已擊落來襲的無人機。"
+   ],
+   "b": "WSJ 指出，伊朗恢復對美國盟友的攻擊，再度鎖定巴林。巴林自戰爭開始以來屢遭德黑蘭攻擊，稱已擊落來襲的無人機。",
+   "u": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews",
+   "p": "2026-11-15T08:03:00+00:00",
+   "o": "Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "伊朗革命衛隊宣稱攻擊巴林美軍防空設施，疑為報復南部遭攻",
+   "pts": [
+    "伊朗革命衛隊 15 日宣布攻擊巴林的美軍防空設施，確切時間不明。",
+    "因荷莫茲海峽管理問題，美軍持續攻擊伊朗南部，此次被認為是報復。"
+   ],
+   "b": "伊朗革命衛隊 15 日宣布攻擊巴林的美軍防空設施，確切時間不明。因荷莫茲海峽管理問題，美軍持續攻擊伊朗南部，此次被認為是報復。",
+   "u": "https://www.sankei.com/article/20261115-KSXAPRB7UBPOVD2GCQAQXD435I/",
+   "p": "2026-11-15T08:02:38+00:00",
+   "o": "イラン革命防衛隊、バーレーンの米軍防空施設攻撃 南部攻撃への報復か"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "四成主管認 AI 無法取代專業、「AI 回歸」比例達 19%，逾五成勞工喊漲薪資",
+   "pts": [
+    "SHL 調查顯示，約 19.1% 的美國受訪者經歷過被 AI 取代後又被重新聘回，英美合計為 16%。",
+    "羅致恆富調查指，因 AI 裁員的美國招募主管中，32% 後來恢復相同或類似職務。",
+    "Klarna 重新招募人類客服；福特於 6 月重聘並晉升 350 名資深工程師。",
+    "18 至 24 歲勞工中有 24% 經歷過回聘，回聘者並提出新的薪資與勞動條件。"
+   ],
+   "b": "SHL 調查顯示，約 19.1% 的美國受訪者經歷過被 AI 取代後又被重新聘回，英美合計為 16%。羅致恆富調查指，因 AI 裁員的美國招募主管中，32% 後來恢復相同或類似職務。Klarna 重新招募人類客服；福特於 6 月重聘並晉升 350 名資深工程師。18 至 24 歲勞工中有 24% 經歷過回聘，回聘者並提出新的薪資與勞動條件。",
+   "u": "https://technews.tw/2026/11/15/ai-re-hiring-trend-companies-acknowledge-ai-limits/",
+   "p": "2026-11-15T08:00:33+00:00",
+   "o": "四成主管認 AI 無法取代專業、「AI 回歸」比例達 19%，逾五成勞工喊漲薪資"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "馬達加斯加「狐蝠」的體型愈來愈小，可能與人類捕獵有關",
+   "pts": [
+    "研究比較 9 間博物館 121 件馬達加斯加狐蝠標本，1980 年前採集者頭骨平均大 3.6 毫米（約 6%）。",
+    "研究推測與捕獵商業化、偏好獵捕大型個體有關，但目前只能顯示時間相近，無法確認因果。",
+    "狐蝠族群 2000 年代初期約 30 萬隻，如今可能已減少約三分之二。",
+    "雌蝠每年通常只生一隻幼蝠，族群恢復不易。"
+   ],
+   "b": "研究比較 9 間博物館 121 件馬達加斯加狐蝠標本，1980 年前採集者頭骨平均大 3.6 毫米（約 6%）。研究推測與捕獵商業化、偏好獵捕大型個體有關，但目前只能顯示時間相近，無法確認因果。狐蝠族群 2000 年代初期約 30 萬隻，如今可能已減少約三分之二。雌蝠每年通常只生一隻幼蝠，族群恢復不易。",
+   "u": "https://technews.tw/2026/11/15/pteropus-rufus-skull-shrinkage-may-be-linked-to-human-hunting/",
+   "p": "2026-11-15T07:30:13+00:00",
+   "o": "馬達加斯加「狐蝠」的體型愈來愈小，可能與人類捕獵有關"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦",
+   "pts": [
+    "瑞典隆德大學研究發現，遠古病毒 PTERV1 插入黑猩猩基因組，關閉了 LINC00662 基因。",
+    "該基因在人類腦類器官大量表現，黑猩猩則否；移除病毒序列後，黑猩猩細胞的該基因恢復活性。",
+    "在人類類器官中使該基因沉默，神經發育與細胞連結相關基因活躍度下降。",
+    "結果僅來自類器官與細胞層級，未在活體驗證。"
+   ],
+   "b": "瑞典隆德大學研究發現，遠古病毒 PTERV1 插入黑猩猩基因組，關閉了 LINC00662 基因。該基因在人類腦類器官大量表現，黑猩猩則否；移除病毒序列後，黑猩猩細胞的該基因恢復活性。在人類類器官中使該基因沉默，神經發育與細胞連結相關基因活躍度下降。結果僅來自類器官與細胞層級，未在活體驗證。",
+   "u": "https://technews.tw/2026/11/15/ancient-viruses-evolution-human-brain/",
+   "p": "2026-11-15T07:00:46+00:00",
+   "o": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "美軍 F15EX 開始部署沖繩嘉手納基地，為空軍海外基地首例",
+   "pts": [
+    "美軍 15 日宣布，F15 後繼機種 F15EX 抵達嘉手納基地並開始部署。",
+    "這是美國空軍海外基地首度部署 F15EX，具備先進航電、電戰系統與高武器搭載能力。"
+   ],
+   "b": "美軍 15 日宣布，F15 後繼機種 F15EX 抵達嘉手納基地並開始部署。這是美國空軍海外基地首度部署 F15EX，具備先進航電、電戰系統與高武器搭載能力。",
+   "u": "https://www.sankei.com/article/20261115-DDEHORSPIFIKZHNB6WGYLLBTBM/",
+   "p": "2026-11-15T05:50:25+00:00",
+   "o": "沖縄・嘉手納基地「F15EX」配備開始 米空軍海外拠点で初、高度な航空電子機器備える"
   },
   {
    "c": "pol",
@@ -113,33 +364,31 @@
    "o": "米政権が弁護士15人増員 議会対策で法律顧問室強化、上下両院多数の民主党追及に備え"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "為向妻子證明自己沒打呼，英國創業家自學寫程式打造熱門睡眠 App",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Moderna 一週重挫 12%，班瑟爾希望年底前提出 FDA 申請",
    "pts": [
-    "英國創業者 Jules Goldberg 自學 Objective-C，約十個月做出打呼監測 App SnoreLab。",
-    "App 錄下鼾聲並追蹤強度，定位為健康管理工具，不能取代醫療診斷。",
-    "他後續開發以手機喇叭與麥克風偵測動作的 Sleepwave，公司未引進外部投資。"
+    "Moderna 到 11 月 13 日當週下跌 12%。",
+    "公司預告 2030 年前每年現金成本約 40 億美元以上，主要用於癌症藥物。",
+    "執行長班瑟爾（Bancel）希望在年底前提出 FDA 申請。"
    ],
-   "b": "英國創業者 Jules Goldberg 自學 Objective-C，約十個月做出打呼監測 App SnoreLab。App 錄下鼾聲並追蹤強度，定位為健康管理工具，不能取代醫療診斷。他後續開發以手機喇叭與麥克風偵測動作的 Sleepwave，公司未引進外部投資。",
-   "u": "https://technews.tw/2026/11/15/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
-   "p": "2026-11-15T02:30:36+00:00",
-   "o": "為向妻子證明自己沒打呼，英國創業家自學寫程式打造熱門睡眠 App"
+   "b": "Moderna 到 11 月 13 日當週下跌 12%。公司預告 2030 年前每年現金成本約 40 億美元以上，主要用於癌症藥物。執行長班瑟爾（Bancel）希望在年底前提出 FDA 申請。",
+   "u": "https://www.tikr.com/blog/moderna-sinks-12-in-a-week-bancel-wants-an-fda-filing-before-the-end-of-the-year?ref=yahoofinance&tlnk=yf-261115-xgf4v7x2&.tsrc=rss",
+   "p": "2026-11-15T02:29:29+00:00",
+   "o": "Moderna Sinks 12% in a Week. Bancel Wants an FDA Filing “Before the End of the Year”"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "蔚來一週重挫 14% 創 52 週新低，賣壓是否過度？",
    "pts": [
-    "擷發科董事長楊健盟認為，記憶體短缺是長期結構性問題，AI 只是觸發點。",
-    "記憶體長期價格競爭、獲利有限，廠商難以持續擴產。",
-    "資料中心仍是主要需求動能，邊緣 AI 將是下一階段來源。",
-    "包括美光在內的大廠已開始擴大資本支出。"
+    "蔚來股價一週下跌 14%，創 52 週新低，且無重大公司消息。",
+    "小鵬與理想同步走弱，同期大盤上漲。"
    ],
-   "b": "擷發科董事長楊健盟認為，記憶體短缺是長期結構性問題，AI 只是觸發點。記憶體長期價格競爭、獲利有限，廠商難以持續擴產。資料中心仍是主要需求動能，邊緣 AI 將是下一階段來源。包括美光在內的大廠已開始擴大資本支出。",
-   "u": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
-   "p": "2026-11-15T02:25:49+00:00",
-   "o": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點"
+   "b": "蔚來股價一週下跌 14%，創 52 週新低，且無重大公司消息。小鵬與理想同步走弱，同期大盤上漲。",
+   "u": "https://www.tikr.com/blog/nio-sinks-14-in-a-week-to-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261115-8459pf4r&.tsrc=rss",
+   "p": "2026-11-15T02:28:08+00:00",
+   "o": "NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?"
   },
   {
    "c": "fin",
@@ -166,34 +415,6 @@
    "u": "https://www.sankei.com/article/20261115-COTSAY7TLVK5JKDGWBX7H6Y3IM/",
    "p": "2026-11-15T02:16:54+00:00",
    "o": "フランスで5週連続デモ 10万人超が参加「物価高対策」「教育改善」要求、警察と衝突"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "中國海警局配備機砲船隻連續 22 天現身尖閣（釣魚臺）周邊，海保巡視船警告",
-   "pts": [
-    "15 日兩艘中國海警局船隻在沖繩尖閣諸島（釣魚臺）周邊接續水域航行，日本海上保安廳巡視船予以警告。",
-    "中國公務船隻在該海域現身已連續 22 天。"
-   ],
-   "b": "15 日兩艘中國海警局船隻在沖繩尖閣諸島（釣魚臺）周邊接續水域航行，日本海上保安廳巡視船予以警告。中國公務船隻在該海域現身已連續 22 天。",
-   "u": "https://www.sankei.com/article/20261115-5G7N5AG45ZOJBIVRHECGZCALZ4/",
-   "p": "2026-11-15T02:14:03+00:00",
-   "o": "沖縄・尖閣諸島周辺に機関砲搭載の中国海警局船 22日連続、海保巡視船が警告"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "那斯達克改了，白天也能買美股！全球股市為何搶拚 24 小時不打烊？",
-   "pts": [
-    "那斯達克將於 12 月 6 日推出新制，把週間每日交易時數拉長到 23 小時。",
-    "紐約證交所、芝商所、倫敦證交所與韓國交易所也在推動類似計畫。",
-    "目前僅約 2% 的美股交易發生在正常時段之外。",
-    "金管會主委彭金隆表示，台灣延長交易時間「暫不實施」且「沒有時間表」。"
-   ],
-   "b": "那斯達克將於 12 月 6 日推出新制，把週間每日交易時數拉長到 23 小時。紐約證交所、芝商所、倫敦證交所與韓國交易所也在推動類似計畫。目前僅約 2% 的美股交易發生在正常時段之外。金管會主委彭金隆表示，台灣延長交易時間「暫不實施」且「沒有時間表」。",
-   "u": "https://finance.technews.tw/2026/11/15/why-global-markets-are-racing-toward-24-hour-trading/",
-   "p": "2026-11-15T02:00:45+00:00",
-   "o": "那斯達克改了，白天也能買美股！全球股市為何搶拚 24 小時不打烊？"
   },
   {
    "c": "pol",
@@ -247,19 +468,6 @@
   },
   {
    "c": "fin",
-   "s": "産経新聞",
-   "t": "微軟障礙衝擊德國泳池，15 人身體不適、水中氯濃度上升",
-   "pts": [
-    "德國公共電視 WDR 14 日報導，西部布呂爾一座主題樂園泳池有 15 人身體不適。",
-    "原因是微軟主力業務軟體大規模障礙，影響安全管理系統，使水中氯濃度上升。"
-   ],
-   "b": "德國公共電視 WDR 14 日報導，西部布呂爾一座主題樂園泳池有 15 人身體不適。原因是微軟主力業務軟體大規模障礙，影響安全管理系統，使水中氯濃度上升。",
-   "u": "https://www.sankei.com/article/20261115-IHTHCRUMVFJ65KQPFI4Y4A3U2M/",
-   "p": "2026-11-15T00:37:20+00:00",
-   "o": "ドイツのプールで15人体調不良 マイクロソフト障害影響、水中塩素濃度が上昇"
-  },
-  {
-   "c": "fin",
    "s": "Yahoo Finance",
    "t": "歷史告訴你，若熊市將至，最佳投資動作是什麼",
    "pts": [
@@ -284,20 +492,6 @@
    "o": "How Executives Keep Their Private Lives Out of the Public Eye"
   },
   {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美軍擬於 2030 年代前期部署核巡弋飛彈，若盟國拒絕艦艇靠港恐影響同盟",
-   "pts": [
-    "美軍計畫在 2030 年代前期部署搭載小型核彈頭的海射巡弋飛彈（SLCM-N）。",
-    "目的之一是強化對盟邦的擴大核嚇阻（核傘），日本政府也要求部署。",
-    "報導指若盟國拒絕搭載該飛彈的艦艇靠港，可能影響同盟。"
-   ],
-   "b": "美軍計畫在 2030 年代前期部署搭載小型核彈頭的海射巡弋飛彈（SLCM-N）。目的之一是強化對盟邦的擴大核嚇阻（核傘），日本政府也要求部署。報導指若盟國拒絕搭載該飛彈的艦艇靠港，可能影響同盟。",
-   "u": "https://www.sankei.com/article/20261115-CB4FO6SJLZKSFLIU42TSYHLSWI/",
-   "p": "2026-11-14T23:30:26+00:00",
-   "o": "「米核ミサイル搭載艦」寄港拒否なら同盟に影響も「核の傘」強化の日本の要求が開発後押し"
-  },
-  {
    "c": "fin",
    "s": "Yahoo Finance",
    "t": "他以為 20 萬美元的 S&P 500 退休帳戶分散了 AI 風險，兩種 Alphabet 股份卻把 1 萬 380 美元壓在同一家公司",
@@ -310,31 +504,6 @@
    "u": "https://247wallst.com/personal-finance/2026/11/14/he-thinks-his-200000-sp-500-401k-spreads-his-ai-risk-two-alphabet-share-classes-put-10380-in-one-company-a-20-drop-could-cost-him-2076/?.tsrc=rss",
    "p": "2026-11-14T23:03:46+00:00",
    "o": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "押注共和黨的馬斯克遇逆風，民主黨勝選後恐強化管制大型科技",
-   "pts": [
-    "馬斯克在期中選舉投入鉅資支持共和黨候選人，但在德州等地的支持對象落敗。",
-    "主張瞄準大型 IT 企業加強管制的民主黨掌握國會多數，恐帶來更嚴格的監管。"
-   ],
-   "b": "馬斯克在期中選舉投入鉅資支持共和黨候選人，但在德州等地的支持對象落敗。主張瞄準大型 IT 企業加強管制的民主黨掌握國會多數，恐帶來更嚴格的監管。",
-   "u": "https://www.sankei.com/article/20261115-Y2STKONIOBMNPOCK47LLZJ4AGQ/",
-   "p": "2026-11-14T22:54:05+00:00",
-   "o": "共和党支援のマスク氏逆風 中間選挙で民主党勝利「巨大IT企業を標的」規制強化か"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美國詢問烏克蘭：若能加入北約，可否放棄頓巴斯？澤倫斯基公布",
-   "pts": [
-    "澤倫斯基公布，居中調停和談的美國詢問烏克蘭，若能加入北約，是否可放棄俄方要求割讓的頓巴斯地區（頓內茨克、盧甘斯克兩州）。"
-   ],
-   "b": "澤倫斯基公布，居中調停和談的美國詢問烏克蘭，若能加入北約，是否可放棄俄方要求割讓的頓巴斯地區（頓內茨克、盧甘斯克兩州）。",
-   "u": "https://www.sankei.com/article/20261115-POPKPQW7WBPKLP3DKCULS5YMEU/",
-   "p": "2026-11-14T22:33:56+00:00",
-   "o": "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表"
   },
   {
    "c": "fin",
@@ -361,171 +530,6 @@
    "u": "https://www.fool.com/coverage/etfs/2026/11/14/reet-vs-rwr-global-versus-us-reit-etf-which-is-better/?.tsrc=rss",
    "p": "2026-11-14T19:50:02+00:00",
    "o": "REET vs RWR: Global Versus U.S. REIT ETF Which Is Better"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "花旗對阿里巴巴 11 月 19 日前的預期",
-   "pts": [
-    "阿里巴巴在「Reddit 最具上漲空間 10 檔股票」名單中排第 8。",
-    "簡述提到美股週四收低，S&P 500 跌 0.35% 至 7,592.40 點。"
-   ],
-   "b": "阿里巴巴在「Reddit 最具上漲空間 10 檔股票」名單中排第 8。簡述提到美股週四收低，S&P 500 跌 0.35% 至 7,592.40 點。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/citi-expects-alibaba-baba-november-191647796.html?.tsrc=rss",
-   "p": "2026-11-14T19:16:47+00:00",
-   "o": "What Citi Expects From Alibaba (BABA) Before November 19"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "面對陸地上的反彈，資料中心轉向海上",
-   "pts": [
-    "海上浮動資料中心的計畫公告增加。",
-    "更多新創嘗試證明這個概念可行。"
-   ],
-   "b": "海上浮動資料中心的計畫公告增加。更多新創嘗試證明這個概念可行。",
-   "u": "https://www.wsj.com/tech/ai/data-centers-ocean-f676429a?mod=rss_Technology",
-   "p": "2026-11-14T18:00:00+00:00",
-   "o": "Facing Backlash on Land, Data Centers Look to the Sea"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "波克夏六十年複合年報酬逾 19%，近乎 S&P 500 的兩倍，投資人還能複製嗎？",
-   "pts": [
-    "波克夏六十年來年化報酬逾 19%，S&P 500 約為 10%。",
-    "文章探討這套做法在今日是否仍適用。"
-   ],
-   "b": "波克夏六十年來年化報酬逾 19%，S&P 500 約為 10%。文章探討這套做法在今日是否仍適用。",
-   "u": "https://www.fool.com/investing/2026/11/14/warren-buffetts-berkshire-compounded-at-more-than-19-a-year-over-six-decades-nearly-double-the-sp-500s-10-return-can-investors-still-apply-that-playbook-today/?.tsrc=rss",
-   "p": "2026-11-14T17:54:02+00:00",
-   "o": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "2000 年 1 月退休與 2003 年 1 月退休，到 2025 年底餘額相差懸殊",
-   "pts": [
-    "兩位退休者各以 100 萬美元投入 S&P 500 指數基金並遵循 4% 法則，起始時間相差三年。",
-    "2000 年開始者到 2025 年底剩約 9.6 萬美元，2003 年開始者有 610 萬美元。",
-    "文章逐年說明報酬順序風險，以及兩項本可挽救第一位退休者的調整。"
-   ],
-   "b": "兩位退休者各以 100 萬美元投入 S&P 500 指數基金並遵循 4% 法則，起始時間相差三年。2000 年開始者到 2025 年底剩約 9.6 萬美元，2003 年開始者有 610 萬美元。文章逐年說明報酬順序風險，以及兩項本可挽救第一位退休者的調整。",
-   "u": "https://247wallst.com/investing/2026/11/14/she-retired-at-64-in-january-2000-with-1-million-and-followed-the-4-rule-her-neighbor-did-the-same-thing-in-january-2003-by-the-end-of-2025-one-had-about-96000-left-and-the-other-had-6-1-millio/?.tsrc=rss",
-   "p": "2026-11-14T17:23:00+00:00",
-   "o": "She Retired at 64 in January 2000 With $1 Million and Followed the 4% Rule. Her Neighbor Did the Same Thing in January 2003. By the End of 2025, One Had About $96,000 Left and the Other Had $6.1 Million. Here’s What Every Retiree Needs To Know About Sequence Of Returns Risk"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "S&P 500 已 18 個月未出現 10% 回檔，類似長期連漲後的下一年如何",
-   "pts": [
-    "1950 年以來只有七段類似長度的期間。",
-    "文章檢視這之後是否通常出現艱難的一年。"
-   ],
-   "b": "1950 年以來只有七段類似長度的期間。文章檢視這之後是否通常出現艱難的一年。",
-   "u": "https://www.fool.com/investing/2026/11/14/the-s-and-p-500-has-gone-18-months-without-a-10-drop-here-s-how-the-next-year-has-gone-after-streaks-this-long/?.tsrc=rss",
-   "p": "2026-11-14T16:58:02+00:00",
-   "o": "The S&P 500 Has Gone 18 Months Without a 10% Drop. Here's How the Next Year Has Gone After Streaks This Long."
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "我如何用 AI 為孫子做一本不到 200 美元的童書",
-   "pts": [
-    "作者自編故事，由 AI 依孫子生活照片繪製插圖。",
-    "成品是一本 32 頁的書。"
-   ],
-   "b": "作者自編故事，由 AI 依孫子生活照片繪製插圖。成品是一本 32 頁的書。",
-   "u": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255?mod=rss_Technology",
-   "p": "2026-11-14T16:00:00+00:00",
-   "o": "How I Used AI to Make My Grandson a Children’s Book for Less Than $200"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "預測：這檔小型價值股 ETF 未來 10 年將勝過 S&P 500",
-   "pts": [
-    "市場最大成長股近期失足，顯示風向可能轉變。"
-   ],
-   "b": "市場最大成長股近期失足，顯示風向可能轉變。",
-   "u": "https://www.fool.com/investing/2026/11/14/prediction-this-small-cap-value-etf-will-beat-the/?.tsrc=rss",
-   "p": "2026-11-14T15:50:00+00:00",
-   "o": "Prediction: This Small-Cap Value ETF Will Beat the S&P 500 Over the Next 10 Years"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "特斯拉為何是低於 200 日均線的高本益比股之一",
-   "pts": [
-    "特斯拉在「低於 200 日均線的 10 檔高本益比股」名單中排第 6。",
-    "高本益比通常反映市場對未來獲利的高度預期。"
-   ],
-   "b": "特斯拉在「低於 200 日均線的 10 檔高本益比股」名單中排第 6。高本益比通常反映市場對未來獲利的高度預期。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-top-152951928.html?.tsrc=rss",
-   "p": "2026-11-14T15:29:51+00:00",
-   "o": "Here’s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "52 家避險基金看好這檔半導體股，有何隱憂？",
-   "pts": [
-    "Arm 在同一份名單中排第 10。",
-    "高本益比反映對未來獲利的高度預期。"
-   ],
-   "b": "Arm 在同一份名單中排第 10。高本益比反映對未來獲利的高度預期。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/52-hedge-funds-back-semiconductor-152858112.html?.tsrc=rss",
-   "p": "2026-11-14T15:28:58+00:00",
-   "o": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Marvell：低於 200 日均線的十大高本益比股之一",
-   "pts": [
-    "Marvell 在名單中排第 7。"
-   ],
-   "b": "Marvell 在名單中排第 7。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-top-10-high-152831646.html?.tsrc=rss",
-   "p": "2026-11-14T15:28:31+00:00",
-   "o": "Marvell (MRVL): A Top 10 High P/E Stock Under the 200-Day SMA"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "伊頓訂單創紀錄，但仍有一個問題",
-   "pts": [
-    "伊頓在「低於 200 日均線的 10 檔高本益比股」名單中排第 9。"
-   ],
-   "b": "伊頓在「低於 200 日均線的 10 檔高本益比股」名單中排第 9。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/eaton-etn-record-orders-one-152721414.html?.tsrc=rss",
-   "p": "2026-11-14T15:27:21+00:00",
-   "o": "Eaton (ETN) Has Record Orders, but One Problem Remains"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "科磊創造 13.4 億美元現金，下一步是什麼？",
-   "pts": [
-    "科磊在「低於 200 日均線的 10 檔高本益比股」名單中排第 8。"
-   ],
-   "b": "科磊在「低於 200 日均線的 10 檔高本益比股」名單中排第 8。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kla-klac-generates-1-34-152716688.html?.tsrc=rss",
-   "p": "2026-11-14T15:27:16+00:00",
-   "o": "KLA (KLAC) Generates $1.34 Billion in Cash, What’s Next?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "巴菲特發出多年來最嚴厲的股市警告，歷史怎麼說",
-   "pts": [
-    "可能有更多波動，但歷史對投資人仍有正面訊息。"
-   ],
-   "b": "可能有更多波動，但歷史對投資人仍有正面訊息。",
-   "u": "https://www.fool.com/investing/2026/11/14/warren-buffett-issued-starkest-warning-stock-market-what-history-says-comes-next/?.tsrc=rss",
-   "p": "2026-11-14T15:20:02+00:00",
-   "o": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next."
   }
  ]
 }
