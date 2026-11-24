@@ -1,535 +1,505 @@
 {
- "updated": "2026-11-24T00:53:10.000+00:00",
+ "updated": "2026-11-24T13:38:19.000+00:00",
  "items": [
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "CrowdStrike 砸 440 億美元併 Zscaler 創資安史紀錄",
-   "pts": [
-    "CrowdStrike 23 日宣布以全股票交易收購 Zscaler，交易價值約 439 億美元，為資安史上最大併購案。",
-    "Zscaler 股東每股可換 1.135 股 CrowdStrike 普通股，溢價約 34%。",
-    "交易預計在 2027 年 8 月至 2028 年 1 月間完成，需股東與監管機關批准。",
-    "CrowdStrike 計畫把 Zscaler 功能整合進 Falcon 平台，合併後年度經常性收入預估超過 100 億美元。"
-   ],
-   "b": "CrowdStrike 23 日宣布以全股票交易收購 Zscaler，交易價值約 439 億美元，為資安史上最大併購案。Zscaler 股東每股可換 1.135 股 CrowdStrike 普通股，溢價約 34%。交易預計在 2027 年 8 月至 2028 年 1 月間完成，需股東與監管機關批准。CrowdStrike 計畫把 Zscaler 功能整合進 Falcon 平台，合併後年度經常性收入預估超過 100 億美元。",
-   "u": "https://infosecu.technews.tw/2026/11/24/crowdstrike-to-acquire-zscaler/",
-   "p": "2026-11-24T00:50:01+00:00",
-   "o": "CrowdStrike 砸 440 億美元併 Zscaler  創資安史紀錄"
-  },
-  {
    "c": "fin",
    "s": "WSJ",
-   "t": "日經指數上漲 2.7%，晶片與金屬類股領漲",
+   "t": "納斯達克期貨下跌，AI 交易疑慮未消",
    "pts": [
-    "日股早盤走高，因黃仁勳重返輝達執行長職位，重新點燃 AI 交易。"
+    "週一大漲後，美股期貨走低。",
+    "投資人擔憂黃仁勳重返輝達掌舵與 AI 建設。"
    ],
-   "b": "日股早盤走高，因黃仁勳重返輝達執行長職位，重新點燃 AI 交易。",
-   "u": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
-   "p": "2026-11-24T00:48:00+00:00",
-   "o": "Nikkei Rises 2.7%, Led by Chip, Metals Stocks"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」",
-   "pts": [
-    "輝達宣布恢復黃仁勳的總裁、執行長及董事職務，他 12 日因婚外情風波辭職，經過 11 天回任。",
-    "黃仁勳返回加州聖克拉拉總部，受到員工熱烈歡迎。",
-    "他向員工表示感謝第二次機會，並說會做得更好，也為讓大家經歷這一切致歉。"
-   ],
-   "b": "輝達宣布恢復黃仁勳的總裁、執行長及董事職務，他 12 日因婚外情風波辭職，經過 11 天回任。黃仁勳返回加州聖克拉拉總部，受到員工熱烈歡迎。他向員工表示感謝第二次機會，並說會做得更好，也為讓大家經歷這一切致歉。",
-   "u": "https://technews.tw/2026/11/24/jensen-huang-reinstated-as-nvidia-ceo/",
-   "p": "2026-11-24T00:40:12+00:00",
-   "o": "黃仁勳返輝達總部員工熱烈歡迎，承諾「第二次會做更好」"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "〈模擬市民〉之父沉寂逾 15 年再出手，新作〈MyMems〉結合 AI 將回憶化為主題樂園",
-   "pts": [
-    "威爾‧萊特推出新作〈MyMems〉，核心理念是把玩家的自傳變成可遊玩的玩具世界。",
-    "玩家以口述或文字輸入短故事，系統會提取元素轉為地圖上的物件，並生成代表親友的 AI 角色。",
-    "角色行為由個人行為模型與本機端學習的行為引擎支撐，降低開發成本。",
-    "官方強調玩家可自行決定世界保持私密或與他人分享，並避免粗製濫造的 AI 內容。"
-   ],
-   "b": "威爾‧萊特推出新作〈MyMems〉，核心理念是把玩家的自傳變成可遊玩的玩具世界。玩家以口述或文字輸入短故事，系統會提取元素轉為地圖上的物件，並生成代表親友的 AI 角色。角色行為由個人行為模型與本機端學習的行為引擎支撐，降低開發成本。官方強調玩家可自行決定世界保持私密或與他人分享，並避免粗製濫造的 AI 內容。",
-   "u": "https://technews.tw/2026/11/24/will-wright-sims-creator-reveals-new-project-mymems/",
-   "p": "2026-11-24T00:30:39+00:00",
-   "o": "〈模擬市民〉之父沉寂逾 15 年再出手，新作〈MyMems〉結合 AI 將回憶化為主題樂園"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "考古發現，2,800 年前人類使用大麻的證據",
-   "pts": [
-    "瑞士伯恩大學團隊在俄羅斯圖瓦共和國的斯基泰貴族墓葬發現約 1,000 顆大麻種子，定年約為西元前 8 世紀。",
-    "毛髮樣本的質譜分析檢出明顯的 CBN 訊號及較微弱的 THC 訊號。",
-    "研究推測大麻可能是葬禮宗教儀式的一環，但無法確定活性成分是否經由吸入煙霧進入人體。"
-   ],
-   "b": "瑞士伯恩大學團隊在俄羅斯圖瓦共和國的斯基泰貴族墓葬發現約 1,000 顆大麻種子，定年約為西元前 8 世紀。毛髮樣本的質譜分析檢出明顯的 CBN 訊號及較微弱的 THC 訊號。研究推測大麻可能是葬禮宗教儀式的一環，但無法確定活性成分是否經由吸入煙霧進入人體。",
-   "u": "https://technews.tw/2026/11/24/archaeological-discovery-reveals-evidence-of-cannabis-use-2800-years-ago/",
-   "p": "2026-11-24T00:20:58+00:00",
-   "o": "考古發現，2,800 年前人類使用大麻的證據"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "對 OpenAI 大失所望，數學家自己從零開始打造 AI 模型",
-   "pts": [
-    "加州理工學院的古科夫與少數學生從零設計開源 AI 模型，專門解數學題。",
-    "數學界不滿 OpenAI 等公司未經頂尖學者把關就大量發表解答，並被視為替 IPO 炒作。",
-    "陶哲軒呼籲數學家自建 AI，並在 13 日展示由其非營利組織開發的「Open Math OS」平台。",
-    "古科夫坦言自家模型多半只能解特定問題，更通用的模型仍在開發中。"
-   ],
-   "b": "加州理工學院的古科夫與少數學生從零設計開源 AI 模型，專門解數學題。數學界不滿 OpenAI 等公司未經頂尖學者把關就大量發表解答，並被視為替 IPO 炒作。陶哲軒呼籲數學家自建 AI，並在 13 日展示由其非營利組織開發的「Open Math OS」平台。古科夫坦言自家模型多半只能解特定問題，更通用的模型仍在開發中。",
-   "u": "https://technews.tw/2026/11/24/burned-by-openai-mathematicians-are-now-making-their-own-ai-models/",
-   "p": "2026-11-24T00:10:35+00:00",
-   "o": "對 OpenAI 大失所望，數學家自己從零開始打造 AI 模型"
+   "b": "週一大漲後，美股期貨走低。投資人擔憂黃仁勳重返輝達掌舵與 AI 建設。",
+   "u": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+   "p": "2026-11-24T13:28:00+00:00",
+   "o": "Nasdaq Futures Fall as Questions Linger Over AI Trade"
   },
   {
    "c": "fin",
    "s": "Yahoo Finance",
-   "t": "SharkNinja 將納入標普 500 指數",
+   "t": "納斯達克期貨下跌，AI 交易疑慮未消",
    "pts": [
-    "SharkNinja 將在 12 月 2 日開盤前加入標普 500。",
-    "Paycom Software 將在標普中型股 400 指數取代 SharkNinja。"
+    "週一大漲後，美股期貨走低。",
+    "投資人擔憂黃仁勳重返輝達掌舵與 AI 建設。"
    ],
-   "b": "SharkNinja 將在 12 月 2 日開盤前加入標普 500。Paycom Software 將在標普中型股 400 指數取代 SharkNinja。",
-   "u": "https://finance.yahoo.com/m/cc396177-40de-3092-88f3-436b29060cbe/sharkninja-to-join-s%26p-500.html?.tsrc=rss",
-   "p": "2026-11-24T00:09:34+00:00",
-   "o": "SharkNinja To Join S&P 500 Index"
+   "b": "週一大漲後，美股期貨走低。投資人擔憂黃仁勳重返輝達掌舵與 AI 建設。",
+   "u": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
+   "p": "2026-11-24T13:28:00+00:00",
+   "o": "Nasdaq Futures Fall as Questions Linger Over AI Trade"
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅布局",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "我持有 SCHD，也持有這檔殖利率 7% 的收益型 ETF",
    "pts": [
-    "輝達自黃仁勳請辭以來股價下跌 28%，但他與妻子仍控制逾 8.7 億股。",
-    "SEC 文件顯示夫妻直接與間接持有與掌控輝達約 3.6% 股份，其中生前信託持有近 4.68 億股。",
-    "另有約 1.33 億股由多家有限責任公司持有，並已在股價飆漲前把部分持股贈與不可撤銷信託。",
-    "這類布局常用於保有財富、節稅並傳承後代。"
+    "作者說明這兩類收益型 ETF 在投資組合中扮演互補角色。"
    ],
-   "b": "輝達自黃仁勳請辭以來股價下跌 28%，但他與妻子仍控制逾 8.7 億股。SEC 文件顯示夫妻直接與間接持有與掌控輝達約 3.6% 股份，其中生前信託持有近 4.68 億股。另有約 1.33 億股由多家有限責任公司持有，並已在股價飆漲前把部分持股贈與不可撤銷信託。這類布局常用於保有財富、節稅並傳承後代。",
-   "u": "https://finance.technews.tw/2026/11/24/jensen-and-lori-huang-have-amassed-a-vast-fortune/",
-   "p": "2026-11-24T00:05:00+00:00",
-   "o": "黃仁勳夫婦握逾 8.7 億股輝達，華爾街日報揭節稅布局"
+   "b": "作者說明這兩類收益型 ETF 在投資組合中扮演互補角色。",
+   "u": "https://www.fool.com/investing/2026/11/24/i-own-schd-here-s-why-i-also-own-this-7-yielding-income-etf/?.tsrc=rss",
+   "p": "2026-11-24T13:22:01+00:00",
+   "o": "I Own SCHD. Here’s Why I Also Own This 7%-Yielding Income ETF."
   },
   {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "AI 拿別人的歌詞練功，版權費誰來付？音樂巨頭向 Anthropic 開戰",
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "特斯拉週一股價為何大漲？",
    "pts": [
-    "環球音樂集團、Concord、ABKCO 等出版商於 2023 年起訴，指控 Anthropic 未經許可用受版權保護的歌詞訓練 Claude。",
-    "Anthropic 主張 AI 訓練屬高度「轉化性」使用，受合理使用原則保障。",
-    "出版商則認為輸出的合成歌詞與原作高度重疊，並衝擊歌詞授權市場。",
-    "加州聖荷西聯邦地方法院近日就此舉行聽證會。"
+    "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。"
    ],
-   "b": "環球音樂集團、Concord、ABKCO 等出版商於 2023 年起訴，指控 Anthropic 未經許可用受版權保護的歌詞訓練 Claude。Anthropic 主張 AI 訓練屬高度「轉化性」使用，受合理使用原則保障。出版商則認為輸出的合成歌詞與原作高度重疊，並衝擊歌詞授權市場。加州聖荷西聯邦地方法院近日就此舉行聽證會。",
-   "u": "https://finance.technews.tw/2026/11/24/anthropic-music-publishers-square-off-on-fair-use-defense-in-ai-copyright-case/",
-   "p": "2026-11-24T00:00:11+00:00",
-   "o": "AI 拿別人的歌詞練功，版權費誰來付？音樂巨頭向 Anthropic 開戰"
+   "b": "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。",
+   "u": "https://www.trefis.com/stock/tsla/articles/628598/what-made-tesla-stock-jump-on-monday/2026-11-24?.tsrc=rss",
+   "p": "2026-11-24T13:12:42+00:00",
+   "o": "What Made Tesla Stock Jump On Monday?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "今日股市：週一大漲後科技期貨走低，AMD、Anthropic、輝達下挫",
+   "pts": [
+    "週二科技期貨在週一大漲後走低。",
+    "AMD、Anthropic 與輝達股價下挫。"
+   ],
+   "b": "週二科技期貨在週一大漲後走低。AMD、Anthropic 與輝達股價下挫。",
+   "u": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-tech.html?.tsrc=rss",
+   "p": "2026-11-24T13:07:59+00:00",
+   "o": "Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美股期貨盤前下滑，交易員評估輝達領軍的漲勢",
+   "pts": [
+    "週二盤前美股期貨走低，交易員評估由輝達帶動的反彈。"
+   ],
+   "b": "週二盤前美股期貨走低，交易員評估由輝達帶動的反彈。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-130353339.html?.tsrc=rss",
+   "p": "2026-11-24T13:03:53+00:00",
+   "o": "US Equity Futures Slide Pre-Bell as Traders Assess Nvidia-Led Market Rally"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "股市期貨走低，交易員消化黃仁勳重返輝達的影響",
+   "pts": [
+    "美股期貨週二走弱，交易員持續評估黃仁勳復任執行長的意義。"
+   ],
+   "b": "美股期貨週二走弱，交易員持續評估黃仁勳復任執行長的意義。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-down-traders-digest-125827657.html?.tsrc=rss",
+   "p": "2026-11-24T12:58:27+00:00",
+   "o": "Stock Futures Down as Traders Digest Jensen Huang's Return to Nvidia as CEO"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "黃仁勳回歸喚醒華爾街老交易：押注東山再起的 CEO",
+   "pts": [
+    "投資人過去常為黃仁勳這類知名 CEO 回歸而歡呼。"
+   ],
+   "b": "投資人過去常為黃仁勳這類知名 CEO 回歸而歡呼。",
+   "u": "https://finance.yahoo.com/markets/article/jensen-huangs-return-revives-an-old-wall-street-trade-bet-on-the-comeback-ceo-124308005.html?.tsrc=rss",
+   "p": "2026-11-24T12:43:08+00:00",
+   "o": "Jensen Huang's return revives an old Wall Street trade: Bet on the comeback CEO"
   },
   {
    "c": "pol",
    "s": "WSJ",
-   "t": "美國懷疑伊朗涉入針對船舶的數十起新網路攻擊",
+   "t": "每日風險報告：美國晶片限制加劇 AI 生態圈的空殼公司難題",
    "pts": [
-    "美國官員表示，約有多達 50 艘載運石油與其他爆炸性物質的船舶，據信遭到攻擊。",
-    "美方正研判伊朗可能是這波攻擊的幕後黑手。"
+    "內容另提到輝達恢復黃仁勳的執行長職務。",
+    "報導也提到一項新研究再度指出拜耳產品與癌症的關聯。"
    ],
-   "b": "美國官員表示，約有多達 50 艘載運石油與其他爆炸性物質的船舶，據信遭到攻擊。美方正研判伊朗可能是這波攻擊的幕後黑手。",
-   "u": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews",
-   "p": "2026-11-24T00:00:00+00:00",
-   "o": "U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships"
+   "b": "內容另提到輝達恢復黃仁勳的執行長職務。報導也提到一項新研究再度指出拜耳產品與癌症的關聯。",
+   "u": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews",
+   "p": "2026-11-24T12:36:00+00:00",
+   "o": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "油價在航運風險持續下反彈",
+   "pts": [
+    "週二油價收復初期跌幅。",
+    "交易員權衡中東能源運輸持續受威脅，以及全球供給過剩的預期。"
+   ],
+   "b": "週二油價收復初期跌幅。交易員權衡中東能源運輸持續受威脅，以及全球供給過剩的預期。",
+   "u": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews",
+   "p": "2026-11-24T12:33:00+00:00",
+   "o": "Oil Prices Rebound as Shipping Risks Persist"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "瑞士制裁北韓團體，涉及從烏克蘭帶走兒童；金與正反彈並採對抗措施",
+   "t": "上海市委書記陳吉寧遭調查，疑已失勢",
    "pts": [
-    "瑞士政府 11 月上旬把營運北韓江原道松濤園營地的團體列入制裁，因其涉入俄羅斯從烏克蘭帶走兒童一事。",
-    "英國與歐盟已先行制裁該團體。",
-    "金與正對此表示反彈。"
+    "新華社 24 日報導，上海市委書記陳吉寧涉嫌嚴重違紀違法，正接受中央紀委與國家監委調查。",
+    "上海市一把手向來被視為有望進入黨最高領導層的職位，陳氏被認為已失勢。"
    ],
-   "b": "瑞士政府 11 月上旬把營運北韓江原道松濤園營地的團體列入制裁，因其涉入俄羅斯從烏克蘭帶走兒童一事。英國與歐盟已先行制裁該團體。金與正對此表示反彈。",
-   "u": "null/article/20261124-HC6IBQ2V45NUXKGUXSV4JCPYNM/",
-   "p": "2026-11-23T23:59:29+00:00",
-   "o": "スイスが北朝鮮団体に制裁　ウクライナから子供連れ去り、金与正氏が反発・対抗措置"
+   "b": "新華社 24 日報導，上海市委書記陳吉寧涉嫌嚴重違紀違法，正接受中央紀委與國家監委調查。上海市一把手向來被視為有望進入黨最高領導層的職位，陳氏被認為已失勢。",
+   "u": "https://www.sankei.com/article/20261124-SZ5SN4WY35OXTHA2USIMBRNALE/",
+   "p": "2026-11-24T12:28:45+00:00",
+   "o": "中国で上海市トップを規律・法律違反で調査、失脚か 党最高指導部入り有望視されるポスト"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "盤前動態：輝達走低，HPE、Semtech 下跌",
+   "pts": [
+    "輝達恢復創辦人黃仁勳的執行長職務、華爾街大漲後，週二美股期貨轉跌。"
+   ],
+   "b": "輝達恢復創辦人黃仁勳的執行長職務、華爾街大漲後，週二美股期貨轉跌。",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slips-hpe-122424595.html?.tsrc=rss",
+   "p": "2026-11-24T12:24:24+00:00",
+   "o": "Premarket movers: Nvidia slips; HPE, Semtech fall"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "俄羅斯戰機讓美國亞洲夥伴警覺",
+   "pts": [
+    "軍機近日數度擦過或進入美國亞洲盟邦的領空。",
+    "日本與南韓因此緊急出動戰機升空攔截。"
+   ],
+   "b": "軍機近日數度擦過或進入美國亞洲盟邦的領空。日本與南韓因此緊急出動戰機升空攔截。",
+   "u": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
+   "p": "2026-11-24T12:23:00+00:00",
+   "o": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "汽車與運輸市場評論",
+   "pts": [
+    "本期涵蓋現代汽車、亞洲航空等公司。"
+   ],
+   "b": "本期涵蓋現代汽車、亞洲航空等公司。",
+   "u": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+   "p": "2026-11-24T12:07:00+00:00",
+   "o": "Auto & Transport Roundup: Market Talk"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Zoom 顯示為何「規則破壞者」只求 60% 的準確率",
+   "pts": [
+    "沒有投資人每次都對，追求完美可能讓人過度謹慎，反而不敢持有大贏家。"
+   ],
+   "b": "沒有投資人每次都對，追求完美可能讓人過度謹慎，反而不敢持有大贏家。",
+   "u": "https://www.fool.com/investing/2026/11/24/zoom-shows-why-rule-breakers-aim-for-60-accuracy/?.tsrc=rss",
+   "p": "2026-11-24T12:02:33+00:00",
+   "o": "Zoom Shows Why Rule Breakers Aim for 60% Accuracy"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "標普 500 剛創史上第二大單日點數漲幅",
+   "pts": [
+    "一項 CEO 決定在連跌七天後推動市場飆升。",
+    "文章指出創紀錄的點數背後有個但書，且歷史顯示大漲日往往出現在更多痛苦之前。"
+   ],
+   "b": "一項 CEO 決定在連跌七天後推動市場飆升。文章指出創紀錄的點數背後有個但書，且歷史顯示大漲日往往出現在更多痛苦之前。",
+   "u": "https://247wallst.com/investing/2026/11/24/the-sp-500-just-had-the-second-biggest-point-gain-in-its-history/?.tsrc=rss",
+   "p": "2026-11-24T12:02:15+00:00",
+   "o": "The S&P 500 Just Had the Second-Biggest Point Gain in Its History"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "基礎材料市場評論",
+   "pts": [
+    "本期涵蓋必和必拓、安托法加斯塔等公司。"
+   ],
+   "b": "本期涵蓋必和必拓、安托法加斯塔等公司。",
+   "u": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+   "p": "2026-11-24T12:02:00+00:00",
+   "o": "Basic Materials Roundup: Market Talk"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Costco 的現金堆減少會怎麼樣？",
+   "pts": [
+    "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。"
+   ],
+   "b": "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。",
+   "u": "https://www.trefis.com/stock/cost/articles/628318/what-happens-to-costco-stock-if-its-cash-pile-runs-down/2026-11-24?.tsrc=rss",
+   "p": "2026-11-24T12:00:25+00:00",
+   "o": "What Happens To Costco Stock If Its Cash Pile Runs Down?"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "醫療保健市場評論",
+   "pts": [
+    "本期涵蓋賽諾菲、拜耳、小野藥品等公司。"
+   ],
+   "b": "本期涵蓋賽諾菲、拜耳、小野藥品等公司。",
+   "u": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
+   "p": "2026-11-24T11:57:00+00:00",
+   "o": "Health Care Roundup: Market Talk"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "中國軍事展示與戰場現實之間的落差",
+   "pts": [
+    "內容另提到美國晶片限制讓中國的 AI 運算吃緊。",
+    "並提到輝達對中國晶片走私醜聞背後的影子網絡再度浮上檯面。"
+   ],
+   "b": "內容另提到美國晶片限制讓中國的 AI 運算吃緊。並提到輝達對中國晶片走私醜聞背後的影子網絡再度浮上檯面。",
+   "u": "https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews",
+   "p": "2026-11-24T11:55:00+00:00",
+   "o": "The Gap Between China’s Military Spectacle and Battlefield Reality"
   },
   {
    "c": "pol",
    "s": "産経新聞",
-   "t": "美政府把新加坡 Megaspeed 列入出口管制，涉輝達晶片流向中國",
+   "t": "黃仁勳異例復出，輝達公司治理疑慮加深，成為世界經濟風險因素",
    "pts": [
-    "美國政府 23 日表示，將新加坡資料中心業者 Megaspeed 列入出口管制對象，文件預定 25 日刊登於聯邦公報。",
-    "司法部正調查該公司涉嫌違反出口管理規則，與輝達晶片流入中國的疑慮有關。"
+    "黃仁勳 23 日在政商界強力支持下電擊回任輝達 CEO，市場一度安心。",
+    "輝達晶片流向中國的疑慮仍未釐清，公司治理的疑慮日益濃厚。"
    ],
-   "b": "美國政府 23 日表示，將新加坡資料中心業者 Megaspeed 列入出口管制對象，文件預定 25 日刊登於聯邦公報。司法部正調查該公司涉嫌違反出口管理規則，與輝達晶片流入中國的疑慮有關。",
-   "u": "null/article/20261124-XE6C2TPI3FPLPHV3CJDIDBCTRA/",
-   "p": "2026-11-23T23:56:12+00:00",
-   "o": "「不正流用に関与疑い」米政府、メガスピードを規制対象に　半導体の中国流出疑惑"
+   "b": "黃仁勳 23 日在政商界強力支持下電擊回任輝達 CEO，市場一度安心。輝達晶片流向中國的疑慮仍未釐清，公司治理的疑慮日益濃厚。",
+   "u": "https://www.sankei.com/article/20261124-AEJJ4D26Y5P45N3ABZYLET5T7I/",
+   "p": "2026-11-24T11:54:30+00:00",
+   "o": "フアン氏が異例の返り咲きも…エヌビディアの企業統治に懸念深まる 世界経済のリスク要因"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "能源與公用事業市場評論",
+   "pts": [
+    "本期涵蓋 Tullow Oil、Suncor Energy、Adnoc Gas 等公司。"
+   ],
+   "b": "本期涵蓋 Tullow Oil、Suncor Energy、Adnoc Gas 等公司。",
+   "u": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+   "p": "2026-11-24T11:52:00+00:00",
+   "o": "Energy & Utilities Roundup: Market Talk"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "DraftKings 一週跌 14% 創 52 週新低，該賣還是加碼？",
+   "pts": [
+    "股價因 Zacks 看空、Coinbase 報告與一項降評而下跌。",
+    "公司預期的 2027 年反彈有一半以上取決於削減預測市場支出，而對手讓這件事更難。"
+   ],
+   "b": "股價因 Zacks 看空、Coinbase 報告與一項降評而下跌。公司預期的 2027 年反彈有一半以上取決於削減預測市場支出，而對手讓這件事更難。",
+   "u": "https://www.tikr.com/blog/draftkings-just-dropped-14-in-a-week-to-a-new-52-week-low-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261124-jh79f886&.tsrc=rss",
+   "p": "2026-11-24T11:51:15+00:00",
+   "o": "DraftKings Just Dropped 14% in a Week to a New 52-Week Low. Is It Time to Sell, or Load Up?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "市場直播：輝達領軍科技股賣壓，美股期貨下跌",
+   "pts": [
+    "富時 100 指數守在 10,480 點上方，Balfour Beatty 領漲 4.25%。",
+    "美股指數期貨在開盤前下跌，投資人在科技漲勢後獲利了結。"
+   ],
+   "b": "富時 100 指數守在 10,480 點上方，Balfour Beatty 領漲 4.25%。美股指數期貨在開盤前下跌，投資人在科技漲勢後獲利了結。",
+   "u": "https://www.proactiveinvestors.com/companies/news/1102307/markets-live-nvidia-leads-technology-sell-off-as-us-stock-futures-fall-1102307.html?.tsrc=rss",
+   "p": "2026-11-24T11:50:00+00:00",
+   "o": "MARKETS LIVE: Nvidia leads technology sell-off as US stock futures fall"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "金融服務市場評論",
+   "pts": [
+    "本期涵蓋中國銀行、GQG Partners 等公司。"
+   ],
+   "b": "本期涵蓋中國銀行、GQG Partners 等公司。",
+   "u": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
+   "p": "2026-11-24T11:46:00+00:00",
+   "o": "Financial Services Roundup: Market Talk"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "我該在這個價位買 KLA 股票嗎？",
+   "pts": [
+    "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。"
+   ],
+   "b": "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。",
+   "u": "https://www.trefis.com/stock/klac/articles/628324/should-i-buy-kla-stock-at-this-price/2026-11-24?.tsrc=rss",
+   "p": "2026-11-24T11:41:34+00:00",
+   "o": "Should I Buy KLA Stock At This Price?"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "科技、媒體與電信市場評論",
+   "pts": [
+    "本期涵蓋輝達、快手、微博等公司。"
+   ],
+   "b": "本期涵蓋輝達、快手、微博等公司。",
+   "u": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+   "p": "2026-11-24T11:40:00+00:00",
+   "o": "Tech, Media & Telecom Roundup: Market Talk"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Robinhood 股票變成不同的賭注了嗎？",
+   "pts": [
+    "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。"
+   ],
+   "b": "摘要僅提到當日頭條：輝達一天增加 9,540 億美元市值，以及黃仁勳是否大到不能被開除。",
+   "u": "https://www.trefis.com/stock/hood/articles/628429/has-robinhood-stock-become-a-different-bet/2026-11-24?.tsrc=rss",
+   "p": "2026-11-24T11:39:29+00:00",
+   "o": "Has Robinhood Stock Become A Different Bet?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "SpaceX 獲得新的買進評等，股價為何可能漲 90%",
+   "pts": [
+    "週一 Mizuho 分析師 Greg Konrad 以買進評等與 205 美元目標價展開對 SpaceX 的研究追蹤。"
+   ],
+   "b": "週一 Mizuho 分析師 Greg Konrad 以買進評等與 205 美元目標價展開對 SpaceX 的研究追蹤。",
+   "u": "https://finance.yahoo.com/m/6962cb9f-deeb-3d0c-a590-458a639cb58e/spacex-stock-got-a-new-buy.html?.tsrc=rss",
+   "p": "2026-11-24T11:37:00+00:00",
+   "o": "SpaceX Stock Got a New Buy Rating—Sort Of. Why Shares Can Soar 90%."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "股市賣壓下，我想在合適價格買進的 5 檔強勢股",
+   "pts": [
+    "市場近期下跌，但部分優質企業仍不算便宜。",
+    "作者列出五檔想在合適價格持有的股票。"
+   ],
+   "b": "市場近期下跌，但部分優質企業仍不算便宜。作者列出五檔想在合適價格持有的股票。",
+   "u": "https://www.fool.com/investing/2026/11/24/stock-market-sell-off-5-magnificent-stocks-i-d-love-to-buy-at-the-right-price/?.tsrc=rss",
+   "p": "2026-11-24T11:35:02+00:00",
+   "o": "Stock Market Sell-Off: 5 Magnificent Stocks I'd Love to Buy at the Right Price"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "AI 建設對美國經濟影響深遠",
+   "pts": [
+    "RSS 簡述僅說明內容為投資、財富管理產業等方面的分析與見解。"
+   ],
+   "b": "RSS 簡述僅說明內容為投資、財富管理產業等方面的分析與見解。",
+   "u": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
+   "p": "2026-11-24T11:25:00+00:00",
+   "o": "AI Build-Out Is Far-Reaching for U.S. Economy"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "黃仁勳帶動的漲勢消退，市場面臨現實檢驗",
+   "pts": [
+    "週一史詩級反彈後，黃仁勳重返輝達帶來的亢奮消退，市場回檔。"
+   ],
+   "b": "週一史詩級反彈後，黃仁勳重返輝達帶來的亢奮消退，市場回檔。",
+   "u": "https://finance.yahoo.com/m/7cfabfd6-0ef1-368f-b7c6-fa8c1b9cd019/the-market-faces-reality.html?.tsrc=rss",
+   "p": "2026-11-24T11:20:31+00:00",
+   "o": "The Market Faces Reality Checks as Huang Rally Fades"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "中國將部分關鍵原料對美出口管制的暫停期延至 1 月",
+   "pts": [
+    "中國延長對美國部分關鍵原料出口限制的暫停期。",
+    "此舉發生在川普與習近平上週深圳峰會後數日。"
+   ],
+   "b": "中國延長對美國部分關鍵原料出口限制的暫停期。此舉發生在川普與習近平上週深圳峰會後數日。",
+   "u": "https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews",
+   "p": "2026-11-24T11:13:00+00:00",
+   "o": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "這些技術指標早已預警股市劇烈震盪",
+   "pts": [
+    "另有以「兆元人」為題的內容。"
+   ],
+   "b": "另有以「兆元人」為題的內容。",
+   "u": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+   "p": "2026-11-24T11:10:00+00:00",
+   "o": "These Technical Measures Warned of Stock Market Whiplash"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "高市首相下機舷梯有落差，中方事前未通知",
+   "pts": [
+    "首相高市早苗 18 日出席深圳 APEC 領袖會議，下專機時機艙門與中方準備的舷梯之間有落差。",
+    "24 日得知中方事前並未通知日本政府；駐中國大使金杉憲治發現落差，並在下機前向首相報告。"
+   ],
+   "b": "首相高市早苗 18 日出席深圳 APEC 領袖會議，下專機時機艙門與中方準備的舷梯之間有落差。24 日得知中方事前並未通知日本政府；駐中國大使金杉憲治發現落差，並在下機前向首相報告。",
+   "u": "https://www.sankei.com/article/20261124-XRHLSDTUJZAPDLH4LP4NNTSWN4/",
+   "p": "2026-11-24T11:09:32+00:00",
+   "o": "高市首相のタラップ段差、中国側から事前通告なし 金杉駐中国大使が降機直前に首相に報告"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "黃仁勳回歸後，公司治理何去何從？",
+   "pts": [
+    "RSS 簡述為空，本則僅依標題呈現，探討黃仁勳回歸後的公司治理議題。"
+   ],
+   "b": "RSS 簡述為空，本則僅依標題呈現，探討黃仁勳回歸後的公司治理議題。",
+   "u": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=rss_Technology",
+   "p": "2026-11-24T10:55:00+00:00",
+   "o": "After Jensen Huang’s Return, Where Does Corporate Governance Go?"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "白宮力推黃仁勳復職",
+   "pts": [
+    "內容另提到五角大廈正與通用與福特洽談生產無人機。",
+    "並提到數學界最著名的難題被 AI 與一名人類解開。"
+   ],
+   "b": "內容另提到五角大廈正與通用與福特洽談生產無人機。並提到數學界最著名的難題被 AI 與一名人類解開。",
+   "u": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=rss_Technology",
+   "p": "2026-11-24T10:51:00+00:00",
+   "o": "The White House Push to Reinstate Jensen Huang"
+  },
+  {
+   "c": "pol",
+   "s": "産経新聞",
+   "t": "中國駐日大使吳江浩：希望四大「全球倡議」成為大家的共識",
+   "pts": [
+    "中國駐日大使館 24 日在東京舉辦習近平政權所提四大「全球倡議」的研討會。",
+    "吳江浩表示希望成為大家的共識，並願在過程中與各國對話合作。"
+   ],
+   "b": "中國駐日大使館 24 日在東京舉辦習近平政權所提四大「全球倡議」的研討會。吳江浩表示希望成為大家的共識，並願在過程中與各國對話合作。",
+   "u": "https://www.sankei.com/article/20261124-2Z7ATPTF25IXZFVOD44Y73JYTQ/",
+   "p": "2026-11-24T10:34:49+00:00",
+   "o": "中国の呉駐日大使、「グローバル・イニシアチブ」を「皆の共通認識に」 シンポで呼び掛け"
+  },
+  {
+   "c": "tech",
+   "s": "WSJ",
+   "t": "AI 熱潮的命運，不論好壞都掌握在輝達手中",
+   "pts": [
+    "一位更有底氣的黃仁勳，可能為下一次危機累積風險。"
+   ],
+   "b": "一位更有底氣的黃仁勳，可能為下一次危機累積風險。",
+   "u": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_Technology",
+   "p": "2026-11-24T10:30:00+00:00",
+   "o": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands"
   },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "美國管制與非紅供應鏈成趨勢，未來 AI 產業走向的幾點觀察",
+   "t": "川普受訪讚魏哲家是傑出人才，稱台積電將在德州建廠",
    "pts": [
-    "輝達管理層異動的重要原因之一，是與新加坡商 Megaspeed 的晶片交易是否規避美國管制。",
-    "輝達 19 日宣布不再出貨 Hopper 系列晶片至中國，並成立專責國安與出口管制的委員會。",
-    "美國商務部 16 日公布臨時規定，要求新加坡、馬來西亞等五國公司轉移先進 AI 晶片須先取得許可。",
-    "文章認為管制趨嚴可能降低輝達對台灣半導體業的衍生需求，但若市場仍供不應求，影響有限。"
+    "輝達董事會一致通過恢復黃仁勳職務，認為他的回歸不構成國安風險。",
+    "川普接受 CNBC 訪問，把促成黃仁勳回鍋歸功於自己，並稱他是「國寶」。",
+    "川普指輝達晶片由魏哲家製造，稱他是「傑出人才」。",
+    "他表示因關稅問題，台積電正在亞利桑那州投入數千億美元，並將在德州設立大型廠房。"
    ],
-   "b": "輝達管理層異動的重要原因之一，是與新加坡商 Megaspeed 的晶片交易是否規避美國管制。輝達 19 日宣布不再出貨 Hopper 系列晶片至中國，並成立專責國安與出口管制的委員會。美國商務部 16 日公布臨時規定，要求新加坡、馬來西亞等五國公司轉移先進 AI 晶片須先取得許可。文章認為管制趨嚴可能降低輝達對台灣半導體業的衍生需求，但若市場仍供不應求，影響有限。",
-   "u": "https://technews.tw/2026/11/24/key-observations-factors-influencing-future-ai-industry-demand/",
-   "p": "2026-11-23T23:50:00+00:00",
-   "o": "美國管制與非紅供應鏈成趨勢，未來 AI 產業走向的幾點觀察"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美中俄領袖會談後，塔吉克也宣布退出 ICC，歐盟表達關切",
-   "pts": [
-    "國際刑事法院 23 日表示，塔吉克已啟動退出程序，並對此「關切」。",
-    "外界認為，美中俄三國領袖 19 日在深圳會談後的聲明打出「反 ICC」立場，是背景之一。"
-   ],
-   "b": "國際刑事法院 23 日表示，塔吉克已啟動退出程序，並對此「關切」。外界認為，美中俄三國領袖 19 日在深圳會談後的聲明打出「反 ICC」立場，是背景之一。",
-   "u": "null/article/20261124-LUTI5EJ3KZPTXEZD4WSF5MJDVI/",
-   "p": "2026-11-23T23:42:12+00:00",
-   "o": "米中露首脳会談の影響か、タジキスタンもICC離脱表明　EUが広がる動きに懸念表明"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "油價期貨小幅走高，可能是技術性反彈",
-   "pts": [
-    "油價期貨在亞洲早盤小幅上揚，前一日已收在 8 月以來最低水準。"
-   ],
-   "b": "油價期貨在亞洲早盤小幅上揚，前一日已收在 8 月以來最低水準。",
-   "u": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-   "p": "2026-11-23T23:38:00+00:00",
-   "o": "Oil Futures Edge Higher on Likely Technical Recovery"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "在 Kalshi 的紐約之戰中，DraftKings 才是真正贏家",
-   "pts": [
-    "紐約法官 11 月 23 日拒絕暫時封鎖 Kalshi。",
-    "Kalshi 曾警告，該州提議的命令可能讓其 220 億美元交易所在全美停擺。"
-   ],
-   "b": "紐約法官 11 月 23 日拒絕暫時封鎖 Kalshi。Kalshi 曾警告，該州提議的命令可能讓其 220 億美元交易所在全美停擺。",
-   "u": "https://www.tikr.com/blog/draftkings-is-the-real-winner-in-kalshis-new-york-fight?ref=yahoofinance&tlnk=yf-261123-3wxhfxgq&.tsrc=rss",
-   "p": "2026-11-23T23:37:39+00:00",
-   "o": "DraftKings Is the Real Winner in Kalshi’s New York Fight"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "黃仁勳復職帶動標普 500、那斯達克創去年 4 月以來最佳單日表現",
-   "pts": [
-    "輝達董事會在川普總統施壓後恢復黃仁勳的執行長職務。",
-    "市場因此樂觀走高。"
-   ],
-   "b": "輝達董事會在川普總統施壓後恢復黃仁勳的執行長職務。市場因此樂觀走高。",
-   "u": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-session-since-april-on-optimism-led-by-jensen-huang-s-reinstatement-nvda-nasa-ttwo-amzn-in-focus/cNbpKSnR9jY?.tsrc=rss",
-   "p": "2026-11-23T23:33:25+00:00",
-   "o": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "美國民主黨要求候選人拒絕超級政治行動委員會支持",
-   "pts": [
-    "民主黨全國委員會 23 日宣布下屆總統初選將舉辦共 12 場辯論。",
-    "參與者須承諾拒絕不限額募款的超級 PAC 支持，據美聯社報導這是首次把此類承諾列為參賽條件。"
-   ],
-   "b": "民主黨全國委員會 23 日宣布下屆總統初選將舉辦共 12 場辯論。參與者須承諾拒絕不限額募款的超級 PAC 支持，據美聯社報導這是首次把此類承諾列為參賽條件。",
-   "u": "null/article/20261124-V2HHYKJMOBM6JKAA5VKFWNJLUM/",
-   "p": "2026-11-23T23:18:29+00:00",
-   "o": "米民主党「スーパーPAC」支援拒否を要求　次期大統領選予備選、討論会の参加希望者に"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "俄羅斯北部穆爾曼斯克州長遭拘留，涉嫌侵占建設預算",
-   "pts": [
-    "俄羅斯內務部 23 日宣布拘留穆爾曼斯克州長奇維斯。",
-    "他涉嫌侵占州建設部門逾 3,900 萬盧布預算，並挪用道路整修工程逾 10 億盧布。"
-   ],
-   "b": "俄羅斯內務部 23 日宣布拘留穆爾曼斯克州長奇維斯。他涉嫌侵占州建設部門逾 3,900 萬盧布預算，並挪用道路整修工程逾 10 億盧布。",
-   "u": "null/article/20261124-KMMQG2LTNBM6PDM7WFNKCTYKHU/",
-   "p": "2026-11-23T23:16:30+00:00",
-   "o": "ロシア北部の州知事拘束　建設予算7500万円横領容疑など、元州建設住宅省次官"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "黃仁勳復職輝達執行長後，那斯達克大漲 6.5%",
-   "pts": [
-    "那斯達克綜合指數收漲 6.5%，抹去週五的全部跌幅。",
-    "週五是該指數 2026 年第二糟的單日。"
-   ],
-   "b": "那斯達克綜合指數收漲 6.5%，抹去週五的全部跌幅。週五是該指數 2026 年第二糟的單日。",
-   "u": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/?.tsrc=rss",
-   "p": "2026-11-23T23:15:33+00:00",
-   "o": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "CrowdStrike 今天為何下跌",
-   "pts": [
-    "CrowdStrike 財報優於華爾街預期。",
-    "但其 439 億美元收購 Zscaler 的交易讓股價走低。"
-   ],
-   "b": "CrowdStrike 財報優於華爾街預期。但其 439 億美元收購 Zscaler 的交易讓股價走低。",
-   "u": "https://www.fool.com/investing/2026/11/23/why-crowdstrike-stock-was-down-today/?.tsrc=rss",
-   "p": "2026-11-23T23:00:03+00:00",
-   "o": "Why CrowdStrike Stock Was Down Today"
-  },
-  {
-   "c": "pol",
-   "s": "産経新聞",
-   "t": "紐約股市反彈，道瓊大漲 1,447 點，黃仁勳復職帶動 AI 股走高",
-   "pts": [
-    "23 日道瓊工業指數六個交易日來首度大幅反彈，上漲 1,447.98 點，收 49,595.31 點。",
-    "市場看好輝達執行長黃仁勳復職，買盤集中在前週被大幅賣出的 AI 相關股。"
-   ],
-   "b": "23 日道瓊工業指數六個交易日來首度大幅反彈，上漲 1,447.98 點，收 49,595.31 點。市場看好輝達執行長黃仁勳復職，買盤集中在前週被大幅賣出的 AI 相關股。",
-   "u": "null/article/20261124-JA76CRIFS5L4FJQELFUZAST7SQ/",
-   "p": "2026-11-23T22:42:32+00:00",
-   "o": "NY株反発、1447ドル高　エヌビディアCEOフアン氏復帰でAI銘柄上昇"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "員工指稱遭羞辱威脅，黃仁勳重返輝達",
-   "pts": [
-    "黃仁勳的復職獲得華爾街認可。",
-    "但職場霸凌的指控讓外界質疑他這次回任的代價。"
-   ],
-   "b": "黃仁勳的復職獲得華爾街認可。但職場霸凌的指控讓外界質疑他這次回任的代價。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-back-nvidia-staff-223000688.html?.tsrc=rss",
-   "p": "2026-11-23T22:30:00+00:00",
-   "o": "Jensen Huang back at Nvidia after staff reported humiliating threats, insults — 'thinks he can get away with anything'"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "週一的股市漲勢有多強？看它在歷史上的排名",
-   "pts": [
-    "輝達重新聘回黃仁勳後，股市創下 2025 年 4 月以來最佳單日表現。",
-    "文章比較了週一在市場歷史中的排名。"
-   ],
-   "b": "輝達重新聘回黃仁勳後，股市創下 2025 年 4 月以來最佳單日表現。文章比較了週一在市場歷史中的排名。",
-   "u": "https://www.investopedia.com/how-good-was-monday-stock-rally-here-where-it-ranks-in-history-nvda-nasdaq-s-and-p-500-dow-jones-12275212?.tsrc=rss",
-   "p": "2026-11-23T22:26:30+00:00",
-   "o": "How Good Was Monday’s Stock Rally? Here’s Where It Ranks in History"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "紐約原油創 3 個半月新低，中東出口增加、供應疑慮降溫一度跌破 80 美元",
-   "pts": [
-    "23 日 WTI 2027 年 1 月合約收在每桶 80.17 美元，下跌 3.24 美元。",
-    "為 8 月上旬以來收盤新低，盤中一度跌破 80 美元。"
-   ],
-   "b": "23 日 WTI 2027 年 1 月合約收在每桶 80.17 美元，下跌 3.24 美元。為 8 月上旬以來收盤新低，盤中一度跌破 80 美元。",
-   "u": "null/article/20261124-ZXKLZ4JCKROYDHHUOIX2MXAWCM/",
-   "p": "2026-11-23T22:25:44+00:00",
-   "o": "NY原油3カ月半ぶり安値　中東産原油の輸出増加、供給不安後退で一時80ドル割れ"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "川普促成黃仁勳回任輝達執行長",
-   "pts": [
-    "輝達市值增加近 1 兆美元。",
-    "另提到川普下令美國陸軍暫緩在愛荷華州引爆大量有毒爆炸物。"
-   ],
-   "b": "輝達市值增加近 1 兆美元。另提到川普下令美國陸軍暫緩在愛荷華州引爆大量有毒爆炸物。",
-   "u": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-   "p": "2026-11-23T22:25:00+00:00",
-   "o": "Trump Engineered Huang’s Reinstatement as Nvidia CEO"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "11 月 23 日股市：輝達換帥緩解 AI 支出疑慮，美光飆 19%",
-   "pts": [
-    "記憶體晶片商美光的漲勢伴隨遠高於三個月均量的成交量。"
-   ],
-   "b": "記憶體晶片商美光的漲勢伴隨遠高於三個月均量的成交量。",
-   "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/?.tsrc=rss",
-   "p": "2026-11-23T22:20:02+00:00",
-   "o": "Stock Market Today, Nov. 23: Micron Surges 19% as Nvidia CEO Change Calms AI Spending Fears"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "11 月 23 日股市：AI 解憂反彈，市場自修正區回升",
-   "pts": [
-    "假期週前買盤回流，AI 情緒回溫。",
-    "標普 500 走出修正區間。"
-   ],
-   "b": "假期週前買盤回流，AI 情緒回溫。標普 500 走出修正區間。",
-   "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/?.tsrc=rss",
-   "p": "2026-11-23T22:16:13+00:00",
-   "o": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "黃仁勳重返輝達，多項重大調查仍圍繞著他",
-   "pts": [
-    "數項調查正在檢視這家晶片商、其執行長，以及與他最初遭罷免相關的問題。"
-   ],
-   "b": "數項調查正在檢視這家晶片商、其執行長，以及與他最初遭罷免相關的問題。",
-   "u": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_Technology",
-   "p": "2026-11-23T22:15:00+00:00",
-   "o": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him."
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "思科與 OpenAI 啟動保護代理式 AI 的專案",
-   "pts": [
-    "專案名為 Shirudo。",
-    "可在團隊推出修補程式期間，保護運行中的 Linux 系統而無須重新開機。"
-   ],
-   "b": "專案名為 Shirudo。可在團隊推出修補程式期間，保護運行中的 Linux 系統而無須重新開機。",
-   "u": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?mod=rss_Technology",
-   "p": "2026-11-23T22:12:00+00:00",
-   "o": "Cisco, OpenAI Launch Project to Safeguard Agentic AI"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "黃仁勳回歸引發 AI 反彈，美股大漲",
-   "pts": [
-    "美股廣泛大漲，因輝達恢復黃仁勳的執行長職務，帶動 AI 押注復甦。"
-   ],
-   "b": "美股廣泛大漲，因輝達恢復黃仁勳的執行長職務，帶動 AI 押注復甦。",
-   "u": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main",
-   "p": "2026-11-23T22:01:00+00:00",
-   "o": "U.S. Stocks Jump as Huang Return Triggers AI Rally"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "古柯鹼幫派以一波攻擊重創哥倫比亞安全部隊",
-   "pts": [
-    "叛亂分子使用自製火箭與無人機攻擊警察與軍事設施。",
-    "此舉是在挑戰總統德拉埃斯皮諾薩（de la Espriella）圍剿犯罪網絡的承諾。"
-   ],
-   "b": "叛亂分子使用自製火箭與無人機攻擊警察與軍事設施。此舉是在挑戰總統德拉埃斯皮諾薩（de la Espriella）圍剿犯罪網絡的承諾。",
-   "u": "https://www.wsj.com/world/americas/cocaine-gangs-batter-colombian-security-forces-in-wave-of-attacks-3f14fa2e?mod=rss_worldnews",
-   "p": "2026-11-23T21:54:00+00:00",
-   "o": "Cocaine Gangs Batter Colombian Security Forces in Wave of Attacks"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "揭祕烏克蘭擊沉停泊利比亞的俄羅斯軍艦之行動",
-   "pts": [
-    "基輔特種部隊花了數月研究莫斯科軍艦的動向。",
-    "這次大膽攻擊發生在遠離戰區的地方。"
-   ],
-   "b": "基輔特種部隊花了數月研究莫斯科軍艦的動向。這次大膽攻擊發生在遠離戰區的地方。",
-   "u": "https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b?mod=rss_worldnews",
-   "p": "2026-11-23T21:45:00+00:00",
-   "o": "Inside the Ukrainian Attack That Sank Russian Warship Docked in Libya"
-  },
-  {
-   "c": "fin",
-   "s": "産経新聞",
-   "t": "輝達黃仁勳 12 月 3 日將赴美國國會作證",
-   "pts": [
-    "美國參議院銀行委員會 23 日表示，復職的黃仁勳將出席 12 月 3 日的聽證會。",
-    "該委員會主管出口管制相關法律。"
-   ],
-   "b": "美國參議院銀行委員會 23 日表示，復職的黃仁勳將出席 12 月 3 日的聽證會。該委員會主管出口管制相關法律。",
-   "u": "null/article/20261124-Y4JCQ7NHLBNNLDWFZJMUR5H4T4/",
-   "p": "2026-11-23T21:40:29+00:00",
-   "o": "エヌビディア・フアンCEOが米議会証言　来月3日、上院の輸出管理関連法を所管委員会"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "輝達董事會恢復黃仁勳的執行長職務",
-   "pts": [
-    "川普承認曾參與促成這位晶片商長年領導人回任的行動。",
-    "黃仁勳先前因婚外情曝光而辭職。"
-   ],
-   "b": "川普承認曾參與促成這位晶片商長年領導人回任的行動。黃仁勳先前因婚外情曝光而辭職。",
-   "u": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=rss_Technology",
-   "p": "2026-11-23T21:21:00+00:00",
-   "o": "Nvidia Board Reinstates Jensen Huang as CEO"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "黃仁勳重返輝達遭國會議員猛烈批評",
-   "pts": [
-    "共和黨與民主黨議員都認為此事涉及國安風險。",
-    "他們誓言繼續推進調查。"
-   ],
-   "b": "共和黨與民主黨議員都認為此事涉及國安風險。他們誓言繼續推進調查。",
-   "u": "https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88?mod=rss_Technology",
-   "p": "2026-11-23T21:10:00+00:00",
-   "o": "Jensen Huang’s Return to Nvidia Draws Heavy Fire From Lawmakers"
-  },
-  {
-   "c": "tech",
-   "s": "DIGITIMES",
-   "t": "DIGITIMES Today：手機 4Q 年衰退幅度估達 25%",
-   "pts": [
-    "三星電子傳將擴大中國西安先進 NAND Flash 產能，把西安二廠 286 層 V9 月產能由約 1 萬片提升至 5 萬片。",
-    "另提及川普為黃仁勳說情，以及台灣國產車出海等議題。"
-   ],
-   "b": "三星電子傳將擴大中國西安先進 NAND Flash 產能，把西安二廠 286 層 V9 月產能由約 1 萬片提升至 5 萬片。另提及川普為黃仁勳說情，以及台灣國產車出海等議題。",
-   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775820_8NC7XPP03OII5SLTVGZ3R",
-   "p": "2026-11-23T21:00:00+00:00",
-   "o": "DIGITIMES Today：手機4Q年衰退幅度估達25% | 川普為老黃說情賣什麼藥？ | 台灣國產車出海記"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "川普請副總統范斯協助說服輝達讓黃仁勳回任",
-   "pts": [
-    "副總統週末期間努力協助勸說輝達董事會恢復這位前執行長的職務。"
-   ],
-   "b": "副總統週末期間努力協助勸說輝達董事會恢復這位前執行長的職務。",
-   "u": "https://www.wsj.com/politics/policy/nvidia-ceo-trump-vance-jensen-huang-bdec91c3?mod=rss_Technology",
-   "p": "2026-11-23T19:46:00+00:00",
-   "o": "Trump Asked Vance to Help Persuade Nvidia to Bring Back Jensen Huang"
-  },
-  {
-   "c": "tech",
-   "s": "DIGITIMES",
-   "t": "黃仁勳重新執掌 NVIDIA　度過「15 天風暴」下一挑戰為何？",
-   "pts": [
-    "黃仁勳 11 月 8 日公開道歉、12 日辭職，23 日董事會一致通過復職，整起風暴歷時 15 天。",
-    "NVIDIA 董事會原本公開表示無意讓他回任，還啟動全球獵才。",
-    "市場重挫與股東、員工壓力之下，董事會最終改變決定。"
-   ],
-   "b": "黃仁勳 11 月 8 日公開道歉、12 日辭職，23 日董事會一致通過復職，整起風暴歷時 15 天。NVIDIA 董事會原本公開表示無意讓他回任，還啟動全球獵才。市場重挫與股東、員工壓力之下，董事會最終改變決定。",
-   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775843_7MT99IXI3O36384S3F4QN",
-   "p": "2026-11-23T19:00:00+00:00",
-   "o": "黃仁勳重新執掌NVIDIA　度過「15天風暴」下一挑戰為何？"
-  },
-  {
-   "c": "tech",
-   "s": "DIGITIMES",
-   "t": "AI 晶片散熱需求導入「鑽石銅」　加工是最大瓶頸",
-   "pts": [
-    "AI 伺服器晶片功耗與面積持續上升，散熱結構從 2 層熱介面材料朝 1 層邁進。",
-    "散熱材質也從傳統銅轉向鑽石銅，加工是最大瓶頸。"
-   ],
-   "b": "AI 伺服器晶片功耗與面積持續上升，散熱結構從 2 層熱介面材料朝 1 層邁進。散熱材質也從傳統銅轉向鑽石銅，加工是最大瓶頸。",
-   "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000775776_S938SC6Z6J0KVY7U2G6FV",
-   "p": "2026-11-23T19:00:00+00:00",
-   "o": "AI晶片散熱需求導入「鑽石銅」　加工是最大瓶頸"
+   "b": "輝達董事會一致通過恢復黃仁勳職務，認為他的回歸不構成國安風險。川普接受 CNBC 訪問，把促成黃仁勳回鍋歸功於自己，並稱他是「國寶」。川普指輝達晶片由魏哲家製造，稱他是「傑出人才」。他表示因關稅問題，台積電正在亞利桑那州投入數千億美元，並將在德州設立大型廠房。",
+   "u": "https://technews.tw/2026/11/24/trump-praises-cc-wei-exceptional-talent-tsmc-texas-factory-build/",
+   "p": "2026-11-24T10:20:26+00:00",
+   "o": "川普受訪讚魏哲家是傑出人才，稱台積電將在德州建廠"
   }
  ]
 }
