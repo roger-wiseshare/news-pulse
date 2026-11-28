@@ -1,21 +1,357 @@
 {
- "updated": "2026-11-28T00:11:51.064+00:00",
+ "updated": "2026-11-28T12:12:43.086+00:00",
  "items": [
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "市場備戰聯準會可能升息之際，美股正挑戰一項罕見買進訊號",
+   "pts": [
+    "紐約證交所上漲個股比率的 10 日均值，若在 10 個交易日內由低於 40% 躍升至高於 61.5%，即觸發 Zweig 廣度推力訊號。"
+   ],
+   "b": "紐約證交所上漲個股比率的 10 日均值，若在 10 個交易日內由低於 40% 躍升至高於 61.5%，即觸發 Zweig 廣度推力訊號。",
+   "u": "https://finance.yahoo.com/markets/article/stocks-are-chasing-a-rare-buy-signal-as-markets-brace-for-a-potential-fed-hike-chart-of-the-day-120524657.html?.tsrc=rss",
+   "p": "2026-11-28T12:05:24+00:00",
+   "o": "Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美國人身家與股市的連動程度前所未見",
+   "pts": [
+    "這則彙整節目另提及一場牽動休士頓 NFL 球隊的德州家族紛爭，以及中國 40 億美元的二手精品熱潮。"
+   ],
+   "b": "這則彙整節目另提及一場牽動休士頓 NFL 球隊的德州家族紛爭，以及中國 40 億美元的二手精品熱潮。",
+   "u": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
+   "p": "2026-11-28T12:02:00+00:00",
+   "o": "Americans Have More Riding on the Stock Market Than Ever"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "美股剛進入修正區間，歷史清楚顯示接下來會如何",
+   "pts": [
+    "標普 500 指數近期進入修正區間。",
+    "作者指出，歷史上這對有耐心的投資人是絕佳買點。"
+   ],
+   "b": "標普 500 指數近期進入修正區間。作者指出，歷史上這對有耐心的投資人是絕佳買點。",
+   "u": "https://www.fool.com/investing/2026/11/28/stock-market-correction-history-what-happens-next/?.tsrc=rss",
+   "p": "2026-11-28T11:32:02+00:00",
+   "o": "The Stock Market Just Dropped Into a Correction. History Is Crystal Clear About What Happens Next."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "10 年前投資波克夏 1,000 美元如今約值 3,650 美元，2036 年會到哪裡？",
+   "pts": [
+    "作者認為巴菲特打造的這家公司可望持續成長，但股價並不算便宜。"
+   ],
+   "b": "作者認為巴菲特打造的這家公司可望持續成長，但股價並不算便宜。",
+   "u": "https://www.fool.com/investing/2026/11/28/1000-invested-in-berkshire-hathaway-brkb-stock-10/?.tsrc=rss",
+   "p": "2026-11-28T10:50:00+00:00",
+   "o": "$1,000 Invested in Berkshire Hathaway Stock 10 Years Ago Is Worth About $3,650. Where Will It Be in 2036?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "福特因太空船公司持股與五角大廈洽談消息，單週大漲 10%，現在該買嗎？",
+   "pts": [
+    "截至 11 月 27 日當週，福特股價上漲 10%。",
+    "消息面包括取得太空船製造商 Revolution Space 少數股權，以及傳出與通用汽車一同和五角大廈洽談。"
+   ],
+   "b": "截至 11 月 27 日當週，福特股價上漲 10%。消息面包括取得太空船製造商 Revolution Space 少數股權，以及傳出與通用汽車一同和五角大廈洽談。",
+   "u": "https://www.tikr.com/blog/ford-soars-10-in-a-week-on-a-spacecraft-stake-and-pentagon-talks-is-it-time-to-buy?ref=yahoofinance&tlnk=yf-261128-fch9wmwg&.tsrc=rss",
+   "p": "2026-11-28T10:37:26+00:00",
+   "o": "Ford Soars 10% in a Week on a Spacecraft Stake and Pentagon Talks. Is It Time to Buy?"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "標普 500 進入修正：現在可買的 3 檔「安全」股",
+   "pts": [
+    "簡述指出，這些公司能提供穩定的營收成長。"
+   ],
+   "b": "簡述指出，這些公司能提供穩定的營收成長。",
+   "u": "https://www.fool.com/investing/2026/11/28/s-and-p-500-market-correction-3-safe-stocks-to-buy-now/?.tsrc=rss",
+   "p": "2026-11-28T10:22:02+00:00",
+   "o": "S&P 500 Market Correction: 3 “Safe” Stocks to Buy Now"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "標普將法國信用評等展望由穩定下調至負向",
+   "pts": [
+    "標普的決定為日後調降法國評等鋪路，公共債務攀升與政治不確定性威脅該國財政。"
+   ],
+   "b": "標普的決定為日後調降法國評等鋪路，公共債務攀升與政治不確定性威脅該國財政。",
+   "u": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
+   "p": "2026-11-28T10:19:00+00:00",
+   "o": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "長照保險承諾讓人安心，最後卻成了一場噩夢",
+   "pts": [
+    "這類保單當初以紓解高齡美國人對照護費用的憂慮為訴求推銷。",
+    "但許多保險公司在精算上出了差錯。"
+   ],
+   "b": "這類保單當初以紓解高齡美國人對照護費用的憂慮為訴求推銷。但許多保險公司在精算上出了差錯。",
+   "u": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+   "p": "2026-11-28T10:00:00+00:00",
+   "o": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare."
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "若股市崩盤將至，巴菲特認為這是你能做的最聰明之舉",
+   "pts": [
+    "簡述指出，這位「奧馬哈先知」發言時，值得投資人傾聽。"
+   ],
+   "b": "簡述指出，這位「奧馬哈先知」發言時，值得投資人傾聽。",
+   "u": "https://www.fool.com/investing/2026/11/28/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss",
+   "p": "2026-11-28T08:20:00+00:00",
+   "o": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make"
+  },
   {
    "c": "tech",
    "s": "科技新報",
-   "t": "黃仁勳回來了，AI 狂飆時代卻回不去了！2027 年三大隱憂浮現：投資、融資、成長全面降檔",
+   "t": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
    "pts": [
-    "黃仁勳去職 11 天後回歸，輝達首設董事長，並規畫成立國安與出口管制委員會及新設首席法遵長。",
-    "美國商務部 11 月 19 日公布晶片出口管制新規，海外雲端算力租用也納管，涵蓋印尼、泰國等第三國。",
-    "統一投顧認為新規對台灣供應鏈的直接衝擊，主要是查核成本增加，並可能延後拉貨與收款。",
-    "高盛早已預期 2027 年 AI 投資成長放緩，匯豐等金融機構出售資料中心債權的消息也陸續傳出。",
-    "文章認為 AI 長期成長趨勢未變、輝達仍是產業核心，但高速擴張模式恐難原封不動延續。"
+    "市場消息指出，Google 正推動為次世代 TPU 開發客製化 HBM5，聯發科極有望負責基礎晶片設計。",
+    "聯發科被視為同時具備 HBM5 基礎晶片與英特爾 EMIB-T 先進封裝經驗的 ASIC 設計業者。",
+    "Google 據傳計畫自第 9 代 TPU 起導入 EMIB-T，業界預測聯發科參與的次世代 TPU 將搭載 512GB HBM5。",
+    "韓國業者坦言，科技巨頭擴大參與 HBM 設計，三星與 SK 海力士的主導權恐逐漸弱化。"
    ],
-   "b": "黃仁勳去職 11 天後回歸，輝達首設董事長，並規畫成立國安與出口管制委員會及新設首席法遵長。美國商務部 11 月 19 日公布晶片出口管制新規，海外雲端算力租用也納管，涵蓋印尼、泰國等第三國。統一投顧認為新規對台灣供應鏈的直接衝擊，主要是查核成本增加，並可能延後拉貨與收款。高盛早已預期 2027 年 AI 投資成長放緩，匯豐等金融機構出售資料中心債權的消息也陸續傳出。文章認為 AI 長期成長趨勢未變、輝達仍是產業核心，但高速擴張模式恐難原封不動延續。",
-   "u": "https://finance.technews.tw/2026/11/28/jensen-huang-11-day-return-what-changed-one-person-rule-ends-2027-ai-slowdown-experts-3-concerns/",
-   "p": "2026-11-28T00:00:14+00:00",
-   "o": "黃仁勳回來了，AI 狂飆時代卻回不去了！2027 年三大隱憂浮現：投資、融資、成長全面降檔"
+   "b": "市場消息指出，Google 正推動為次世代 TPU 開發客製化 HBM5，聯發科極有望負責基礎晶片設計。聯發科被視為同時具備 HBM5 基礎晶片與英特爾 EMIB-T 先進封裝經驗的 ASIC 設計業者。Google 據傳計畫自第 9 代 TPU 起導入 EMIB-T，業界預測聯發科參與的次世代 TPU 將搭載 512GB HBM5。韓國業者坦言，科技巨頭擴大參與 HBM 設計，三星與 SK 海力士的主導權恐逐漸弱化。",
+   "u": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/",
+   "p": "2026-11-28T08:00:29+00:00",
+   "o": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+   "pts": [
+    "普渡大學學生創立的 Remora 推出編輯器 Syntax，記錄打字速度、游標軌跡與複製貼上，異常處交教師審查。",
+    "團隊稱已在美國 40 所大專院校課堂使用，下學期再增 4 所。",
+    "公司 9 月開始收費、10 月即損益兩平，學生方案 3 個月 9.99 美元起。",
+    "批評者質疑隱私問題，且認為手動照打 AI 內容就可能騙過系統。"
+   ],
+   "b": "普渡大學學生創立的 Remora 推出編輯器 Syntax，記錄打字速度、游標軌跡與複製貼上，異常處交教師審查。團隊稱已在美國 40 所大專院校課堂使用，下學期再增 4 所。公司 9 月開始收費、10 月即損益兩平，學生方案 3 個月 9.99 美元起。批評者質疑隱私問題，且認為手動照打 AI 內容就可能騙過系統。",
+   "u": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+   "p": "2026-11-28T08:00:09+00:00",
+   "o": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "標普 500 修正過後，資金可能在 4 年內翻倍，股市歷史帶來希望",
+   "pts": [
+    "對標普 500 歷史報酬的分析顯示，股市在重挫後往往繳出高於平均的報酬。"
+   ],
+   "b": "對標普 500 歷史報酬的分析顯示，股市在重挫後往往繳出高於平均的報酬。",
+   "u": "https://www.fool.com/investing/2026/11/28/after-an-s-and-p-500-correction-your-money-could-double-in-4-years-stock-market-history-shows-reasons-for-hope/?.tsrc=rss",
+   "p": "2026-11-28T07:48:02+00:00",
+   "o": "After an S&P 500 Correction, Your Money Could Double in 4 Years. Stock Market History Shows Reasons for Hope."
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
+   "pts": [
+    "日本兵庫縣尼崎市議員補選中，四名候選人的競選海報因明顯 AI 合成感引發質疑。",
+    "自稱四人代理人的小西彥治坦承海報用 AI 製作，稱照片長相僅為示意圖。",
+    "日本《公職選舉法》未明文要求海報須刊登候選人本人照片，四人雖落選，仍可拿回保證金並具公費補助資格。",
+    "據報修正案預計 2027 年 3 月上路，要求標示 AI 圖像，但未訂罰則。"
+   ],
+   "b": "日本兵庫縣尼崎市議員補選中，四名候選人的競選海報因明顯 AI 合成感引發質疑。自稱四人代理人的小西彥治坦承海報用 AI 製作，稱照片長相僅為示意圖。日本《公職選舉法》未明文要求海報須刊登候選人本人照片，四人雖落選，仍可拿回保證金並具公費補助資格。據報修正案預計 2027 年 3 月上路，要求標示 AI 圖像，但未訂罰則。",
+   "u": "https://technews.tw/2026/11/28/japanese-election-candidate-uses-ai-to-generate-campaign-posters/",
+   "p": "2026-11-28T07:30:52+00:00",
+   "o": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "神經元不到百萬卻會觀察學習，大黃蜂驚人認知能力揭開智慧演化新線索",
+   "pts": [
+    "兩位學者回顧大黃蜂認知研究指出，這些能力可能來自古老神經迴路的演化調整，未必需要全新演算法。",
+    "大黃蜂負責學習與記憶的蕈形體，專門神經細胞約為果蠅的 50 倍。",
+    "研究者認為高階認知功能可能在演化史上多次出現，不只存在於脊椎動物。"
+   ],
+   "b": "兩位學者回顧大黃蜂認知研究指出，這些能力可能來自古老神經迴路的演化調整，未必需要全新演算法。大黃蜂負責學習與記憶的蕈形體，專門神經細胞約為果蠅的 50 倍。研究者認為高階認知功能可能在演化史上多次出現，不只存在於脊椎動物。",
+   "u": "https://technews.tw/2026/11/28/bumblebees-may-hold-the-secret-to-how-intelligence-evolved/",
+   "p": "2026-11-28T07:00:23+00:00",
+   "o": "神經元不到百萬卻會觀察學習，大黃蜂驚人認知能力揭開智慧演化新線索"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "三星侵犯 Maxell 相機專利，Galaxy S25 系列面臨美國進口禁令危機",
+   "pts": [
+    "美國國際貿易委員會裁定三星侵犯 Maxell 相機專利，對 Galaxy S25 系列及部分平板發出進口禁令。",
+    "裁決自 11 月 25 日起進入 60 天總統審查期，期間三星仍可進口與銷售。",
+    "已售裝置、保固替換品及重新設計相機系統的機型獲豁免，三星已推出新版設計迴避專利。",
+    "Maxell 另於 2026 年 5 月再提申訴，指控三星侵犯另外六項專利。"
+   ],
+   "b": "美國國際貿易委員會裁定三星侵犯 Maxell 相機專利，對 Galaxy S25 系列及部分平板發出進口禁令。裁決自 11 月 25 日起進入 60 天總統審查期，期間三星仍可進口與銷售。已售裝置、保固替換品及重新設計相機系統的機型獲豁免，三星已推出新版設計迴避專利。Maxell 另於 2026 年 5 月再提申訴，指控三星侵犯另外六項專利。",
+   "u": "https://technews.tw/2026/11/28/samsung-infringes-on-maxell-camera-patents/",
+   "p": "2026-11-28T07:00:15+00:00",
+   "o": "三星侵犯 Maxell 相機專利，Galaxy S25 系列面臨美國進口禁令危機"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "黃仁勳回鍋輝達談話全紀錄：坦承不忠、檢討高壓管理、撇清白宮干預，五大重點直擊",
+   "pts": [
+    "黃仁勳復職後召開全體員工大會，為個人錯誤道歉，坦承違反公司部分行為準則。",
+    "他檢討高壓管理風格，並將接受可能每月一次、僅針對本人的 360 度績效評估。",
+    "黃仁勳否認董事會因川普施壓而讓他復職，並表明不相信傳統接班規劃。",
+    "輝達股價 11 月 24 日下跌 5.9%；黃仁勳仍面臨多項調查及 12 月 3 日參院公聽會。"
+   ],
+   "b": "黃仁勳復職後召開全體員工大會，為個人錯誤道歉，坦承違反公司部分行為準則。他檢討高壓管理風格，並將接受可能每月一次、僅針對本人的 360 度績效評估。黃仁勳否認董事會因川普施壓而讓他復職，並表明不相信傳統接班規劃。輝達股價 11 月 24 日下跌 5.9%；黃仁勳仍面臨多項調查及 12 月 3 日參院公聽會。",
+   "u": "https://finance.technews.tw/2026/11/28/jensen-huang-first-town-hall-return-stabilize-morale-boost-spirit-5-key-points/",
+   "p": "2026-11-28T06:30:48+00:00",
+   "o": "黃仁勳回鍋輝達談話全紀錄：坦承不忠、檢討高壓管理、撇清白宮干預，五大重點直擊"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "奈米塑膠累積腸道成致癌推手，研究：破壞內壁結構並削弱局部免疫力",
+   "pts": [
+    "小鼠研究發現，攝入的塑膠微粒多數排出，但仍有部分殘留，在腸道累積量高於其他組織。",
+    "塑膠暴露似破壞腸道內壁細胞結構、減少一種益菌，並削弱局部免疫抑制腫瘤的能力。",
+    "團隊指塑膠微粒未直接刺激癌細胞生長，而是可能透過重塑腸道菌相提高罹癌風險。",
+    "實驗限於小鼠且劑量遠高於人類日常暴露，對人體的推論仍有限。"
+   ],
+   "b": "小鼠研究發現，攝入的塑膠微粒多數排出，但仍有部分殘留，在腸道累積量高於其他組織。塑膠暴露似破壞腸道內壁細胞結構、減少一種益菌，並削弱局部免疫抑制腫瘤的能力。團隊指塑膠微粒未直接刺激癌細胞生長，而是可能透過重塑腸道菌相提高罹癌風險。實驗限於小鼠且劑量遠高於人類日常暴露，對人體的推論仍有限。",
+   "u": "https://technews.tw/2026/11/28/association-between-microplastics-and-colorectal-cancer/",
+   "p": "2026-11-28T06:00:19+00:00",
+   "o": "奈米塑膠累積腸道成致癌推手，研究：破壞內壁結構並削弱局部免疫力"
+  },
+  {
+   "c": "tech",
+   "s": "科技新報",
+   "t": "ABB 推出全球首款整合 AI 功能智慧馬達，助力製造業人工智慧規模化應用",
+   "pts": [
+    "ABB 發表首款整合 AI 功能的智慧馬達 Intelleqt，出廠即內建感測、邊緣運算與通訊功能。",
+    "ABB 稱可發掘超過 30% 節能潛力，早期故障偵測最多可減少 50% 非計畫停機。",
+    "產品目前進入客戶共同開發階段，預計 2027 年擴大推廣，初期鎖定歐洲、日本、中國與印度。"
+   ],
+   "b": "ABB 發表首款整合 AI 功能的智慧馬達 Intelleqt，出廠即內建感測、邊緣運算與通訊功能。ABB 稱可發掘超過 30% 節能潛力，早期故障偵測最多可減少 50% 非計畫停機。產品目前進入客戶共同開發階段，預計 2027 年擴大推廣，初期鎖定歐洲、日本、中國與印度。",
+   "u": "https://technews.tw/2026/11/28/abb-intelleqt-smart-motor/",
+   "p": "2026-11-28T06:00:16+00:00",
+   "o": "ABB 推出全球首款整合 AI 功能智慧馬達，助力製造業人工智慧規模化應用"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "輝達股價 11 月有 5 天單日震盪達 5% 以上，作者談合理持股比重",
+   "pts": [
+    "這家晶片巨擘上季獲利增加逾一倍。",
+    "但其股價在 11 月跌掉超過四分之一。"
+   ],
+   "b": "這家晶片巨擘上季獲利增加逾一倍。但其股價在 11 月跌掉超過四分之一。",
+   "u": "https://www.fool.com/investing/2026/11/27/nvidia-stock-has-swung-5-or-more-in-a-single-day-5-times-in-november-here-s-how-big-a-position-i-think-makes-sense/?.tsrc=rss",
+   "p": "2026-11-28T03:13:02+00:00",
+   "o": "Nvidia Stock Has Swung 5% or More in a Single Day 5 Times in November. Here's How Big a Position I Think Makes Sense."
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "腰間配槍上陣，哥倫比亞新總統把反毒戰爭變成政治劇場",
+   "pts": [
+    "德拉埃斯普里耶拉正向靠古柯鹼支撐的游擊隊開戰。",
+    "財政困境與重武裝民兵是他面臨的阻礙。"
+   ],
+   "b": "德拉埃斯普里耶拉正向靠古柯鹼支撐的游擊隊開戰。財政困境與重武裝民兵是他面臨的阻礙。",
+   "u": "https://www.wsj.com/world/americas/colombia-president-espriella-military-drug-traffickers-17a62644?mod=rss_worldnews",
+   "p": "2026-11-28T03:00:00+00:00",
+   "o": "A Handgun on His Hip, Colombia’s New President Turns Drug War Into Theater"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "馬克思思想為何在歐洲捲土重來",
+   "pts": [
+    "從國有化到價格管制，社會主義政策正在歐洲各地復興。"
+   ],
+   "b": "從國有化到價格管制，社會主義政策正在歐洲各地復興。",
+   "u": "https://www.wsj.com/world/europe/why-karl-marxs-ideas-are-making-a-comeback-in-europe-79c4330b?mod=rss_worldnews",
+   "p": "2026-11-28T03:00:00+00:00",
+   "o": "Why Karl Marx’s Ideas Are Making a Comeback in Europe"
+  },
+  {
+   "c": "pol",
+   "s": "WSJ",
+   "t": "星鏈限制讓烏克蘭被迫「踩著煞車作戰」",
+   "pts": [
+    "無人機飛得太快，連線可能中斷。",
+    "飛得太慢，又更容易遭到攔截。"
+   ],
+   "b": "無人機飛得太快，連線可能中斷。飛得太慢，又更容易遭到攔截。",
+   "u": "https://www.wsj.com/world/how-starlink-limits-force-ukraine-to-fight-with-the-brakes-on-3fd1d605?mod=rss_worldnews",
+   "p": "2026-11-28T03:00:00+00:00",
+   "o": "How Starlink Limits Force Ukraine to Fight With the Brakes On"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "聯準會向標普 500 投資人發出令人不安的訊號",
+   "pts": [
+    "簡述指出，聯準會正對股市投資人釋出訊息，華爾街開始注意。"
+   ],
+   "b": "簡述指出，聯準會正對股市投資人釋出訊息，華爾街開始注意。",
+   "u": "https://www.thestreet.com/investing/stocks/the-federal-reserve-sends-a-troubling-signal-to-sp-500-investors?.tsrc=rss",
+   "p": "2026-11-28T02:37:00+00:00",
+   "o": "The Federal Reserve sends a troubling signal to S&P 500 investors"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "感恩節縮短交易週，華爾街上演大反攻",
+   "pts": [
+    "投資人重返重挫的 AI 股，標普 500 指數寫下逾一年來最大單週漲幅。"
+   ],
+   "b": "投資人重返重挫的 AI 股，標普 500 指數寫下逾一年來最大單週漲幅。",
+   "u": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week?.tsrc=rss",
+   "p": "2026-11-28T02:00:10+00:00",
+   "o": "Wall Street stages major comeback during Thanksgiving-shortened trading week"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "美國人持股曝險程度創歷史新高",
+   "pts": [
+    "即使市場經歷令人暈眩的下跌，投資美國股票基金的資金潮仍持續湧入。"
+   ],
+   "b": "即使市場經歷令人暈眩的下跌，投資美國股票基金的資金潮仍持續湧入。",
+   "u": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+   "p": "2026-11-28T02:00:00+00:00",
+   "o": "Americans Are More Exposed to the Stock Market Than Ever Before"
+  },
+  {
+   "c": "fin",
+   "s": "WSJ",
+   "t": "花旗 350 億美元記帳烏龍引發高層改組",
+   "pts": [
+    "數名駐倫敦主管將離開花旗，一名風控高層正督導該交易中心的善後工作。"
+   ],
+   "b": "數名駐倫敦主管將離開花旗，一名風控高層正督導該交易中心的善後工作。",
+   "u": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
+   "p": "2026-11-28T01:44:00+00:00",
+   "o": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
+   "t": "Vanguard 成長型 ETF 三檔持股占逾三分之一，科技股拋售中僅一檔撐住",
+   "pts": [
+    "表現最能撐住的那一檔，是三家公司中成長最慢者。"
+   ],
+   "b": "表現最能撐住的那一檔，是三家公司中成長最慢者。",
+   "u": "https://www.fool.com/investing/2026/11/27/vanguard-s-growth-etf-has-3-stocks-making-up-more-than-a-third-of-it-only-1-has-held-up-in-the-tech-sell-off/?.tsrc=rss",
+   "p": "2026-11-28T01:09:02+00:00",
+   "o": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off."
   },
   {
    "c": "fin",
@@ -28,30 +364,6 @@
    "u": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
    "p": "2026-11-28T00:00:00+00:00",
    "o": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "花旗 350 億美元記帳烏龍引發高層改組",
-   "pts": [
-    "數名駐倫敦主管將離開花旗，一名風控高層正督導該交易中心的善後工作。"
-   ],
-   "b": "數名駐倫敦主管將離開花旗，一名風控高層正督導該交易中心的善後工作。",
-   "u": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
-   "p": "2026-11-28T00:00:00+00:00",
-   "o": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "標普將法國信用評等展望由穩定下調至負向",
-   "pts": [
-    "標普的決定為日後調降法國評等鋪路，公共債務攀升與政治不確定性威脅該國財政。"
-   ],
-   "b": "標普的決定為日後調降法國評等鋪路，公共債務攀升與政治不確定性威脅該國財政。",
-   "u": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
-   "p": "2026-11-27T22:08:00+00:00",
-   "o": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable"
   },
   {
    "c": "pol",
@@ -130,6 +442,19 @@
   {
    "c": "fin",
    "s": "Yahoo Finance",
+   "t": "快速測驗：若股市回歸「常態」，你可能虧多少？",
+   "pts": [
+    "標普 500 指數過去十年表現亮眼。",
+    "文章探討若 AI 帶動的超大型股動能耗盡，將會發生什麼事。"
+   ],
+   "b": "標普 500 指數過去十年表現亮眼。文章探討若 AI 帶動的超大型股動能耗盡，將會發生什麼事。",
+   "u": "https://www.barchart.com/story/news/9037341/take-this-quick-test-to-see-how-much-you-could-lose-if-the-stock-market-returns-to-normal?.tsrc=rss",
+   "p": "2026-11-27T21:09:47+00:00",
+   "o": "Take This Quick Test to See How Much You Could Lose if the Stock Market Returns to 'Normal'"
+  },
+  {
+   "c": "fin",
+   "s": "Yahoo Finance",
    "t": "回顧與展望：感恩節行情",
    "pts": [
     "美股週五反彈，簡述稱各指數寫下 2008 年以來最佳單週表現。"
@@ -189,318 +514,6 @@
    "u": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
    "p": "2026-11-27T19:54:29+00:00",
    "o": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "長天期公債殖利率達 5.29%，那斯達克仍領漲大盤反彈",
-   "pts": [
-    "即使債券殖利率上升，股市依舊走高。",
-    "道瓊與標普 500 指數上漲 0.5%。"
-   ],
-   "b": "即使債券殖利率上升，股市依舊走高。道瓊與標普 500 指數上漲 0.5%。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-market-rebound-treasury-195242969.html?.tsrc=rss",
-   "p": "2026-11-27T19:52:42+00:00",
-   "o": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "加拿大最高法院支持魁北克宗教服飾禁令",
-   "pts": [
-    "這項北美首見的法律，禁止多數公部門員工上班時配戴頭巾、猶太小帽等宗教象徵物。"
-   ],
-   "b": "這項北美首見的法律，禁止多數公部門員工上班時配戴頭巾、猶太小帽等宗教象徵物。",
-   "u": "https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews",
-   "p": "2026-11-27T19:51:00+00:00",
-   "o": "Canada’s Supreme Court Upholds Quebec’s Religious-Symbols Ban"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Visa 股票目前面臨的最大風險是什麼？",
-   "pts": [
-    "RSS 簡述僅附上當日焦點標題「Anthropic 跌破 83 美元 IPO 價，臉書當年之後怎麼走？」，未提供本文內容。"
-   ],
-   "b": "RSS 簡述僅附上當日焦點標題「Anthropic 跌破 83 美元 IPO 價，臉書當年之後怎麼走？」，未提供本文內容。",
-   "u": "https://www.trefis.com/stock/v/articles/629359/what-is-the-one-risk-facing-visa-stock-now/2026-11-27?.tsrc=rss",
-   "p": "2026-11-27T19:41:46+00:00",
-   "o": "What Is The One Risk Facing Visa Stock Now?"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "更新：道瓊寫下 2022 年 10 月以來最大單週漲幅，美股走高",
-   "pts": [
-    "此為收盤更新版報導，美股當日上漲。"
-   ],
-   "b": "此為收盤更新版報導，美股當日上漲。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/equities-climb-dow-posts-biggest-192733253.html?.tsrc=rss",
-   "p": "2026-11-27T19:27:33+00:00",
-   "o": "Update: Equities Climb as Dow Posts Biggest Weekly Jump Since October 2022"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "沒空逛黑色星期五？AI 幫你代勞",
-   "pts": [
-    "AI 已進入假期購物季，Meta 的 Muse 預計為許多消費者代為進行黑色星期五購物。",
-    "節目 Market Hang 邀請多位華爾街與 ETF 專業人士討論這股趨勢。"
-   ],
-   "b": "AI 已進入假期購物季，Meta 的 Muse 預計為許多消費者代為進行黑色星期五購物。節目 Market Hang 邀請多位華爾街與 ETF 專業人士討論這股趨勢。",
-   "u": "https://finance.yahoo.com/video/dont-have-time-to-shop-black-friday-ai-will-do-it-for-you-191803633.html?.tsrc=rss",
-   "p": "2026-11-27T19:18:03+00:00",
-   "o": "Don't have time to shop Black Friday? AI will do it for you"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "美股即時：各指數寫下 18 年來最佳感恩節週",
-   "pts": [
-    "感恩節後的週五交易日，道瓊與那斯達克綜合指數上漲。",
-    "Anthropic、SpaceX 與特斯拉走高。"
-   ],
-   "b": "感恩節後的週五交易日，道瓊與那斯達克綜合指數上漲。Anthropic、SpaceX 與特斯拉走高。",
-   "u": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
-   "p": "2026-11-27T19:10:43+00:00",
-   "o": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "美軍攻擊一艘企圖在伊朗附近突破封鎖的船隻",
-   "pts": [
-    "在外交談判陷入僵局之際，川普總統正對德黑蘭的經濟施壓。"
-   ],
-   "b": "在外交談判陷入僵局之際，川普總統正對德黑蘭的經濟施壓。",
-   "u": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews",
-   "p": "2026-11-27T19:07:00+00:00",
-   "o": "U.S. Strikes Vessel Attempting Blockade Run Near Iran"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "11 月 27 日週五美股主要指數表現一覽",
-   "pts": [
-    "歷經數日具影響力科技股劇烈震盪後，美股大漲，華爾街寫下逾一年來最佳單週表現。"
-   ],
-   "b": "歷經數日具影響力科技股劇烈震盪後，美股大漲，華爾街寫下逾一年來最佳單週表現。",
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html?.tsrc=rss",
-   "p": "2026-11-27T18:45:51+00:00",
-   "o": "How major US stock indexes fared Friday 11/27/2026"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "川普的 AI 豪賭掀起華爾街瘋狂感恩節週",
-   "pts": [
-    "華府本週傳達明確訊息：美國必須不惜代價贏得對中國的 AI 競賽，政府也準備出手干預以達成目標。"
-   ],
-   "b": "華府本週傳達明確訊息：美國必須不惜代價贏得對中國的 AI 競賽，政府也準備出手干預以達成目標。",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trump-ai-gambit-fuels-wild-184336528.html?.tsrc=rss",
-   "p": "2026-11-27T18:43:36+00:00",
-   "o": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "原物料與科技股領軍，標普 500 寫下今年最大週漲幅",
-   "pts": [
-    "標普 500 指數本週上漲 5.6%，原物料與科技類股領漲。"
-   ],
-   "b": "標普 500 指數本週上漲 5.6%，原物料與科技類股領漲。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-apos-largest-183955223.html?.tsrc=rss",
-   "p": "2026-11-27T18:39:55+00:00",
-   "o": "S&P 500 Posts Year's Largest Weekly Gain Led by Materials, Technology"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "黃仁勳回任輝達穩住 AI 交易，美股指數走揚",
-   "pts": [
-    "黃仁勳復任輝達執行長之際，美股指數上漲。",
-    "標題指出，投資人本週同時削減成長股曝險。"
-   ],
-   "b": "黃仁勳復任輝達執行長之際，美股指數上漲。標題指出，投資人本週同時削減成長股曝險。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-jensen-183902792.html?.tsrc=rss",
-   "p": "2026-11-27T18:39:02+00:00",
-   "o": "US Equity Indexes Rise as Jensen Huang's Return to Nvidia Guardrails AI Trade While Investors Slice Growth Exposure This Week"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "AbbVie 股價 5 年後會到哪裡？兩大免疫學重磅藥仍成長逾 20%",
-   "pts": [
-    "Skyrizi 與 Rinvoq 合計年銷售額已超越 Humira 的高峰。",
-    "作者認為 AbbVie 的研發產品線才剛起步。"
-   ],
-   "b": "Skyrizi 與 Rinvoq 合計年銷售額已超越 Humira 的高峰。作者認為 AbbVie 的研發產品線才剛起步。",
-   "u": "https://www.fool.com/investing/2026/11/27/where-will-abbvie-stock-be-in-5-years-its-2-immunology-blockbusters-are-still-growing-20-plus-per-year/?.tsrc=rss",
-   "p": "2026-11-27T18:37:01+00:00",
-   "o": "Where Will AbbVie Stock Be in 5 Years? Its 2 Immunology Blockbusters Are Still Growing 20%-Plus per Year"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "Investing.com 本週焦點股",
-   "pts": [
-    "輝達事件大逆轉與一樁重量級資安併購案，帶動假期縮短的一週震盪。",
-    "報導指出標普 500 指數週線可望強勁收高。"
-   ],
-   "b": "輝達事件大逆轉與一樁重量級資安併購案，帶動假期縮短的一週震盪。報導指出標普 500 指數週線可望強勁收高。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182910314.html?.tsrc=rss",
-   "p": "2026-11-27T18:29:10+00:00",
-   "o": "Investing.com’s stocks of the week"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "更新：美股指數與公債殖利率齊升，非必需消費與科技類股領漲",
-   "pts": [
-    "此為更新版報導，增補指數與價格走勢及公司消息，美股指數當日上漲。"
-   ],
-   "b": "此為更新版報導，增補指數與價格走勢及公司消息，美股指數當日上漲。",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-treasury-182226162.html?.tsrc=rss",
-   "p": "2026-11-27T18:22:26+00:00",
-   "o": "Update: US Equity Indexes Jump With Treasury Yields as Consumer Discretionary, Technology Top Sector Charts"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "汽車與運輸產業市場觀點彙整",
-   "pts": [
-    "本則彙整波灣航空公司、加拿大汽車工人等汽車與運輸類股的市場觀點。"
-   ],
-   "b": "本則彙整波灣航空公司、加拿大汽車工人等汽車與運輸類股的市場觀點。",
-   "u": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
-   "p": "2026-11-27T18:22:00+00:00",
-   "o": "Auto & Transport Roundup: Market Talk"
-  },
-  {
-   "c": "fin",
-   "s": "Yahoo Finance",
-   "t": "美股寫下近 20 年來最佳感恩節週",
-   "pts": [
-    "黑色星期五是撿便宜的日子，投資人也全力進場。"
-   ],
-   "b": "黑色星期五是撿便宜的日子，投資人也全力進場。",
-   "u": "https://finance.yahoo.com/m/9d2f272a-50a9-3cc9-a48e-5e5329282ac3/stocks-wrap-up-best.html?.tsrc=rss",
-   "p": "2026-11-27T18:18:53+00:00",
-   "o": "Stocks Wrap Up Best Thanksgiving Week in Nearly 20 Years"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "能源與公用事業市場觀點彙整",
-   "pts": [
-    "本則彙整 BP、Tullow Oil、北控水務等能源與公用事業的市場觀點。"
-   ],
-   "b": "本則彙整 BP、Tullow Oil、北控水務等能源與公用事業的市場觀點。",
-   "u": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
-   "p": "2026-11-27T18:15:00+00:00",
-   "o": "Energy & Utilities Roundup: Market Talk"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "以色列軍人拿巴勒斯坦人當人肉盾牌的報導引發全國強烈反彈",
-   "pts": [
-    "這項電視調查引發輿論譁然，凸顯以色列仍難以面對有關其加薩戰爭作戰方式的指控。"
-   ],
-   "b": "這項電視調查引發輿論譁然，凸顯以色列仍難以面對有關其加薩戰爭作戰方式的指控。",
-   "u": "https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews",
-   "p": "2026-11-27T18:00:00+00:00",
-   "o": "Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "評論：如何縮小美國的種族財富差距",
-   "pts": [
-    "評論主張，將 3,700 億美元投入黑人兒童的投資帳戶，可善用複利效益。"
-   ],
-   "b": "評論主張，將 3,700 億美元投入黑人兒童的投資帳戶，可善用複利效益。",
-   "u": "https://www.wsj.com/opinion/how-to-narrow-americas-racial-wealth-gap-b42134c8?mod=rss_markets_main",
-   "p": "2026-11-27T17:38:00+00:00",
-   "o": "Opinion | How to Narrow America’s Racial Wealth Gap"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "評論：一位來自英國的「言論自由難民」",
-   "pts": [
-    "文章稱，這位愛爾蘭喜劇編劇因英國無法容忍其在跨性別議題上的異議，而移居亞利桑那州。"
-   ],
-   "b": "文章稱，這位愛爾蘭喜劇編劇因英國無法容忍其在跨性別議題上的異議，而移居亞利桑那州。",
-   "u": "https://www.wsj.com/opinion/a-free-speech-refugee-from-britain-cc210e32?mod=rss_worldnews",
-   "p": "2026-11-27T17:37:00+00:00",
-   "o": "Opinion | A ‘Free-Speech Refugee’ From Britain"
-  },
-  {
-   "c": "pol",
-   "s": "WSJ",
-   "t": "直擊中國 40 億美元的二手精品熱潮",
-   "pts": [
-    "WSJ 記者走訪中國最大的二手轉售賣場之一，探討該國消費習慣轉變的原因。"
-   ],
-   "b": "WSJ 記者走訪中國最大的二手轉售賣場之一，探討該國消費習慣轉變的原因。",
-   "u": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_worldnews",
-   "p": "2026-11-27T17:12:00+00:00",
-   "o": "Inside China’s $4 Billion Secondhand Luxury Boom"
-  },
-  {
-   "c": "tech",
-   "s": "WSJ",
-   "t": "評論：AI 能讓美國人更安全",
-   "pts": [
-    "評論主張，不應只聚焦於 AI 帶來的危險。"
-   ],
-   "b": "評論主張，不應只聚焦於 AI 帶來的危險。",
-   "u": "https://www.wsj.com/opinion/ai-can-keep-americans-safer-67f03bcc?mod=rss_Technology",
-   "p": "2026-11-27T16:36:00+00:00",
-   "o": "Opinion | AI Can Keep Americans Safer"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "改寫免疫療法認知，研究：穿孔素能單獨引發癌細胞「鐵死症」",
-   "pts": [
-    "研究透過細胞、小鼠與病患資料發現，即使缺少主要顆粒酶，穿孔素仍能殺死腫瘤細胞。",
-    "團隊首次證實穿孔素可獨立誘發腫瘤細胞鐵死亡，使鐵在粒線體異常累積並引發脂質氧化。",
-    "臨床資料顯示穿孔素表現量高的患者存活率較佳，對免疫檢查點阻斷治療反應也較好。",
-    "研究人員強調人體數據僅屬關聯性觀察，距臨床應用仍有距離。"
-   ],
-   "b": "研究透過細胞、小鼠與病患資料發現，即使缺少主要顆粒酶，穿孔素仍能殺死腫瘤細胞。團隊首次證實穿孔素可獨立誘發腫瘤細胞鐵死亡，使鐵在粒線體異常累積並引發脂質氧化。臨床資料顯示穿孔素表現量高的患者存活率較佳，對免疫檢查點阻斷治療反應也較好。研究人員強調人體數據僅屬關聯性觀察，距臨床應用仍有距離。",
-   "u": "https://technews.tw/2026/11/28/new-discovery-perforin-anti-cancer-mechanism/",
-   "p": "2026-11-27T16:00:56+00:00",
-   "o": "改寫免疫療法認知，研究：穿孔素能單獨引發癌細胞「鐵死症」"
-  },
-  {
-   "c": "tech",
-   "s": "科技新報",
-   "t": "小行星如何化身「迷你月亮」？解密 2026 QQ8 與地球短暫交會的引力之舞",
-   "pts": [
-    "與地球軌道相近的小行星若以低相對速度接近，可能受地球與月球引力影響而暫時停留附近。",
-    "2026 QQ8 之前，上一個有明確紀錄且繞地球至少一圈的案例是 2020 年發現的 2020 CD3。",
-    "後續研究顯示 2020 CD3 的捕獲期間至少持續 2.7 年。",
-    "模型估算地球附近長期平均約有一顆公尺級「迷你月亮」，但因體積小、移動快而難以發現。"
-   ],
-   "b": "與地球軌道相近的小行星若以低相對速度接近，可能受地球與月球引力影響而暫時停留附近。2026 QQ8 之前，上一個有明確紀錄且繞地球至少一圈的案例是 2020 年發現的 2020 CD3。後續研究顯示 2020 CD3 的捕獲期間至少持續 2.7 年。模型估算地球附近長期平均約有一顆公尺級「迷你月亮」，但因體積小、移動快而難以發現。",
-   "u": "https://technews.tw/2026/11/28/earth-temporarily-captures-a-mini-moon-2026-qq8/",
-   "p": "2026-11-27T16:00:32+00:00",
-   "o": "小行星如何化身「迷你月亮」？解密 2026 QQ8 與地球短暫交會的引力之舞"
-  },
-  {
-   "c": "fin",
-   "s": "WSJ",
-   "t": "私募股權業者找到意外的舉債新來源：北歐債券市場",
-   "pts": [
-    "成交快速、文件精簡，使北歐融資成為出乎意料有吸引力的美國以外替代選擇。"
-   ],
-   "b": "成交快速、文件精簡，使北歐融資成為出乎意料有吸引力的美國以外替代選擇。",
-   "u": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
-   "p": "2026-11-27T15:30:00+00:00",
-   "o": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market"
   }
  ]
 }
